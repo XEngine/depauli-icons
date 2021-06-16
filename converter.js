@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const svgToVue = require('./svgtojs');
-const { pascalCase } = require("pascal-case");
+const {pascalCase} = require("pascal-case");
 
 function readFiles(dir, processFile) {
     // read directory
@@ -17,7 +17,7 @@ function readFiles(dir, processFile) {
             const filepath = path.resolve(dir, filename);
 
             // get information about the file
-            fs.stat(filepath, function(error, stat) {
+            fs.stat(filepath, function (error, stat) {
                 if (error) throw error;
 
                 // check if the current path is a file or a folder
@@ -33,7 +33,7 @@ function readFiles(dir, processFile) {
     });
 }
 
-function camelize(str){
+function camelize(str) {
     let arr = str.split('-');
     let capital = arr.map((item, index) => index ? item.charAt(0).toUpperCase() + item.slice(1).toLowerCase() : item.toLowerCase());
     return capital.join("")
@@ -42,5 +42,13 @@ function camelize(str){
 readFiles('src/svg/', (filepath, name, ext, stat) => {
     const file = fs.readFileSync(filepath, 'utf-8');
     let component = svgToVue(name, file)
+
+    if (!fs.existsSync('icons')) {
+        fs.mkdirSync('icons');
+    }
     fs.writeFileSync('icons/' + pascalCase(name) + '.js', component)
+
+    if (process.env.NODE_ENV === 'development') {
+        process.exit()
+    }
 });

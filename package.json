@@ -15,8 +15,8 @@
   "sideEffects": false,
 
   "scripts": {
-    "serve": "vue-cli-service serve dev/serve.js",
-    "publish": "node converter.js && npm run build",
+    "serve": "cross-env NODE_ENV=development node converter.js && vue-cli-service serve dev/serve.js",
+    "publish": "cross-env NODE_ENV=production node converter.js && npm run build",
     "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js",
     "build:ssr": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format cjs",
     "build:es": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format es",
