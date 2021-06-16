@@ -1,6 +1,6 @@
 {
   "name": "@depauli/dp-icons",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
 
   "main": "dist/dpicons.ssr.js",
@@ -8,10 +8,6 @@
   "module": "dist/dpicons.esm.js",
   "unpkg": "dist/dpicons.min.js",
 
-  "files": [
-    "dist/*",
-    "src/**/*.vue"
-  ],
   "sideEffects": false,
 
   "scripts": {
