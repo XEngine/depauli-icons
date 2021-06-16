@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const svgToVue = require('./svgtojs');
-
+const { pascalCase } = require("pascal-case");
 
 function readFiles(dir, processFile) {
     // read directory
@@ -41,14 +41,6 @@ function camelize(str){
 
 readFiles('src/svg/', (filepath, name, ext, stat) => {
     const file = fs.readFileSync(filepath, 'utf-8');
-    svgToVue(file)
-        .then((component) => {
-            // `component` contains Vue component definition
-            fs.writeFileSync('src/js/' + camelize(name) + '.js', component)
-        });
-
-    /*let fileTemplate = template
-    fileTemplate = fileTemplate.replace("{{svgData}}", file).replace(/{{svgName}}/g, camelize(name))
-
-    fs.writeFileSync('src/js/' + name + '.js', fileTemplate)*/
+    let component = svgToVue(name, file)
+    fs.writeFileSync('icons/' + pascalCase(name) + '.js', component)
 });
