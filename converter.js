@@ -48,7 +48,7 @@ readFiles('src/svg/', (filepath, name, ext, stat) => {
     }
     fs.writeFileSync('icons/' + pascalCase(name) + '.js', component)
 
-    if (process.env.NODE_ENV === 'development') {
+    //if (process.env.NODE_ENV === 'development') {
         process.exit()
-    }
+    //}
 });
