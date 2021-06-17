@@ -1,21 +1,24 @@
 {
   "name": "@depauli/dp-icons",
-  "version": "1.0.6",
-  "description": "",
-  "main": "dist/dpicons.ssr.js",
-  "browser": "dist/dpicons.esm.js",
-  "module": "dist/dpicons.esm.js",
-  "unpkg": "dist/dpicons.min.js",
+  "Author": "T. Cem Yilmaz",
+  "version": "1.1.0",
+  "description": "Icon pack for DePauli AG",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.es.js",
+  "jsnext:main": "dist/index.es.js",
   "sideEffects": false,
   "scripts": {
     "serve": "cross-env NODE_ENV=development node converter.js && vue-cli-service serve dev/serve.js",
     "prepublishOnly": "cross-env NODE_ENV=production node converter.js && npm run build",
-    "build": "cross-env NODE_ENV=development node converter.js && rollup -c"
+    "build": "rollup -c"
   },
   "dependencies": {
     "@vue/babel-helper-vue-jsx-merge-props": "^1.2.1",
     "cross-env": "^7.0.3",
-    "rollup-plugin-vue": "^6.0.0"
+    "rollup-plugin-vue": "^5.1.9"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.14"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",

@@ -1,13 +1,15 @@
 import Library from './library'
-import DPIcon from './dp-icon.vue'
+import Component from './dp-icon.vue'
 
 export * from './icons.js'
 
-const install = function installDpicons(Vue) {
-    Vue.component('dp-icon', DPIcon);
+const DPIcon = {
+    install(Vue) {
+        Vue.component('dp-icon', Component)
+    }
 };
 
+export default DPIcon
 export {
-    install,
     Library
 }
