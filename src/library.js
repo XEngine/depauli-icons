@@ -7,6 +7,12 @@ class Library {
         this.store[icon.name] = icon
     }
 
+    addRange(icons){
+        icons.forEach(icon => {
+            this.store[icon.name] = icon
+        })
+    }
+
     has(name){
         return !!this.store[name]
     }

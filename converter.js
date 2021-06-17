@@ -1,54 +1,49 @@
-const fs = require('fs')
+const fs = require('fs-extra')
 const path = require('path')
 const svgToVue = require('./svgtojs');
 const {pascalCase} = require("pascal-case");
 
-function readFiles(dir, processFile) {
-    // read directory
-    fs.readdir(dir, (error, fileNames) => {
-        if (error) throw error;
+async function main() {
+    await fs.emptyDir('./icons/')
+    await fs.remove('./src/icons.js')
 
-        fileNames.forEach(filename => {
-            // get current file name
-            const name = path.parse(filename).name;
-            // get current file extension
-            const ext = path.parse(filename).ext;
-            // get current file path
-            const filepath = path.resolve(dir, filename);
+    const iconDirsPath = path.join(__dirname, "svg");
 
-            // get information about the file
-            fs.stat(filepath, function (error, stat) {
-                if (error) throw error;
-
-                // check if the current path is a file or a folder
-                const isFile = stat.isFile();
-
-                // exclude folders
-                if (isFile) {
-                    // callback, do something with the file
-                    processFile(filepath, name, ext, stat);
-                }
-            });
-        });
+    const filenames = await fs.readdir(iconDirsPath);
+    const icons = filenames.map((filename) => {
+        const name = filename.split(".")[0];
+        return {
+            path: path.join(iconDirsPath, filename),
+            name,
+            componentName: pascalCase(`${name}`).replace("_", ""),
+        };
     });
+
+    const iconsJSPath = path.join(__dirname, "./src/icons.js");
+
+    for (const icon of icons) {
+        // Create Vue component files
+        const svg = await fs.readFile(icon.path, "utf8");
+        const component = svgToVue(icon.name, svg);
+        const filepath = `./icons/${icon.componentName}.js`;
+        await fs.ensureDir(path.dirname(filepath));
+        await fs.writeFile(filepath, component, "utf8");
+
+        // Create packages directories
+        const packagePath = `./src/`;
+
+        const iconsJsContent = `export { default as ${icon.componentName} } from '../icons/${icon.componentName}'`.concat(
+            "\n"
+        );
+
+        if (await fs.exists(iconsJSPath)) {
+            await fs.appendFile(iconsJSPath, iconsJsContent, "utf8");
+        } else {
+            await fs.writeFile(iconsJSPath, iconsJsContent, "utf8");
+        }
+    }
 }
 
-function camelize(str) {
-    let arr = str.split('-');
-    let capital = arr.map((item, index) => index ? item.charAt(0).toUpperCase() + item.slice(1).toLowerCase() : item.toLowerCase());
-    return capital.join("")
-}
-
-readFiles('src/svg/', (filepath, name, ext, stat) => {
-    const file = fs.readFileSync(filepath, 'utf-8');
-    let component = svgToVue(name, file)
-
-    if (!fs.existsSync('icons')) {
-        fs.mkdirSync('icons');
-    }
-    fs.writeFileSync('icons/' + pascalCase(name) + '.js', component)
-
-    if (process.env.NODE_ENV === 'development') {
-        process.exit()
-    }
+main().catch((err) => {
+    console.error(err);
 });

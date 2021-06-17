@@ -5,7 +5,6 @@ module.exports = (name, content) => {
     return  `
 export default {
   name: '${name}',
-  
   props: {
     size: {
       type: String,
