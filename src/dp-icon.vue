@@ -1,5 +1,5 @@
 <template>
-    <component :is="getIcon"></component>
+    <component :is="getIcon" :size="size"></component>
 </template>
 
 <script>
@@ -12,6 +12,11 @@
                 type: String,
                 required: true,
 
+            },
+            size: {
+                type: String,
+                default: "24",
+                required: false
             }
         },
         computed: {
