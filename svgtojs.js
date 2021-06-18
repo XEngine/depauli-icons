@@ -1,7 +1,16 @@
 const { optimize } = require('svgo');
 
 module.exports = (name, content) => {
-    const svg = optimize(content).data;
+    const svg = optimize(content, {
+        multipass: false,
+        plugins: [
+            {
+                name: 'removeViewBox',
+                active: false
+            }
+        ]
+    }).data;
+    console.log(svg)
     return  `
 export default {
   name: '${name}',
