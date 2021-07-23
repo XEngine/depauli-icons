@@ -2242,6 +2242,51 @@ var LikeAdd = {
   }
 };
 
+var NavigationMenuVertical = {
+  name: 'navigation-menu-vertical',
+  props: {
+    size: {
+      type: String,
+      default: '24',
+      validator: function validator(s) {
+        return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+      }
+    }
+  },
+  functional: true,
+  render: function render(h, ctx) {
+    var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+    var attrs = ctx.data.attrs || {};
+    attrs.width = attrs.width || size;
+    attrs.height = attrs.height || size;
+    ctx.data.attrs = attrs;
+    return h("svg", _mergeJSXProps__default['default']([{
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "width": "24",
+        "height": "24",
+        "viewBox": "0 0 24 24",
+        "fill": "none"
+      }
+    }, ctx.data]), [h("g", [h("path", {
+      "attrs": {
+        "fill": "currentColor",
+        "d": "M12,6c-1.654,0-3-1.346-3-3s1.346-3,3-3c1.654,0,3,1.346,3,3S13.654,6,12,6z M12,1c-1.103,0-2,0.897-2,2s0.897,2,2,2s2-0.897,2-2S13.103,1,12,1z"
+      }
+    }), h("path", {
+      "attrs": {
+        "fill": "currentColor",
+        "d": "M12,15c-1.654,0-3-1.346-3-3c0-1.654,1.346-3,3-3c1.654,0,3,1.346,3,3C15,13.654,13.654,15,12,15z M12,10c-1.103,0-2,0.897-2,2s0.897,2,2,2s2-0.897,2-2S13.103,10,12,10z"
+      }
+    }), h("path", {
+      "attrs": {
+        "fill": "currentColor",
+        "d": "M12,24c-1.654,0-3-1.346-3-3s1.346-3,3-3c1.654,0,3,1.346,3,3S13.654,24,12,24z M12,19c-1.103,0-2,0.897-2,2s0.897,2,2,2s2-0.897,2-2S13.103,19,12,19z"
+      }
+    })])]);
+  }
+};
+
 var OrderManagement = {
   name: 'order-management',
   props: {
@@ -3046,6 +3091,7 @@ exports.Invoice = Invoice;
 exports.Key = Key;
 exports.Library = Library$1;
 exports.LikeAdd = LikeAdd;
+exports.NavigationMenuVertical = NavigationMenuVertical;
 exports.OrderManagement = OrderManagement;
 exports.Paypal = Paypal;
 exports.Search = Search;
