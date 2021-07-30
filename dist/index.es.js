@@ -1949,6 +1949,92 @@ var ExternalLink = {
   }
 };
 
+var EyeClose = {
+  name: 'eye-close',
+  props: {
+    size: {
+      type: String,
+      default: '24',
+      validator: function validator(s) {
+        return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+      }
+    }
+  },
+  functional: true,
+  render: function render(h, ctx) {
+    var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+    var attrs = ctx.data.attrs || {};
+    attrs.width = attrs.width || size;
+    attrs.height = attrs.height || size;
+    ctx.data.attrs = attrs;
+    return h("svg", _mergeJSXProps([{
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "width": "24px",
+        "height": "24px",
+        "viewBox": "0 0 24 24"
+      }
+    }, ctx.data]), [h("g", {
+      "attrs": {
+        "fill": "currentColor"
+      }
+    }, [h("path", {
+      "attrs": {
+        "d": "M12.001 16c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.795 4-4 4zm0-7c-1.654 0-3 1.346-3 3s1.346 3 3 3 3-1.346 3-3-1.346-3-3-3z"
+      }
+    }), h("path", {
+      "attrs": {
+        "d": "M12.001 19C6.281 19 1.56 14.146.25 12.658a1.006 1.006 0 01-.002-1.315C1.559 9.855 6.281 5 12.001 5c5.714 0 10.432 4.845 11.747 6.337l.006.007c.325.374.325.938 0 1.312C22.442 14.145 17.72 19 12.001 19zm0-13C6.701 6 2.24 10.594 1 12.003 2.241 13.406 6.7 18 12.001 18c5.3 0 9.76-4.594 11.001-6.003C21.76 10.594 17.3 6 12.001 6z"
+      }
+    })])]);
+  }
+};
+
+var Eye = {
+  name: 'eye',
+  props: {
+    size: {
+      type: String,
+      default: '24',
+      validator: function validator(s) {
+        return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+      }
+    }
+  },
+  functional: true,
+  render: function render(h, ctx) {
+    var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+    var attrs = ctx.data.attrs || {};
+    attrs.width = attrs.width || size;
+    attrs.height = attrs.height || size;
+    ctx.data.attrs = attrs;
+    return h("svg", _mergeJSXProps([{
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "width": "24px",
+        "height": "24px",
+        "viewBox": "0 0 24 24"
+      }
+    }, ctx.data]), [h("g", {
+      "attrs": {
+        "fill": "currentColor"
+      }
+    }, [h("path", {
+      "attrs": {
+        "d": "M12 19C5.481 19 .324 12.584.108 12.311a.498.498 0 010-.621C.325 11.416 5.483 5 12 5c6.514 0 11.676 6.416 11.892 6.689a.498.498 0 010 .621C23.676 12.584 18.516 19 12 19zM1.155 12C2.304 13.315 6.763 18 12 18c5.239 0 9.697-4.684 10.845-6C21.697 10.684 17.236 6 12 6c-5.24 0-9.697 4.684-10.845 6z"
+      }
+    }), h("path", {
+      "attrs": {
+        "d": "M12 16.5A4.505 4.505 0 017.5 12c0-2.481 2.019-4.5 4.5-4.5s4.5 2.019 4.5 4.5-2.019 4.5-4.5 4.5zm0-8c-1.93 0-3.5 1.57-3.5 3.5s1.57 3.5 3.5 3.5 3.5-1.57 3.5-3.5-1.57-3.5-3.5-3.5z"
+      }
+    }), h("path", {
+      "attrs": {
+        "d": "M12 14.5A2.503 2.503 0 019.5 12a.5.5 0 011 0c0 .827.673 1.5 1.5 1.5s1.5-.673 1.5-1.5-.673-1.5-1.5-1.5a.5.5 0 010-1c1.378 0 2.5 1.121 2.5 2.5 0 1.378-1.122 2.5-2.5 2.5z"
+      }
+    })])]);
+  }
+};
+
 var Feedback = {
   name: 'feedback',
   props: {
@@ -2008,6 +2094,53 @@ var Feedback = {
         "stroke-linejoin": "round"
       }
     })]);
+  }
+};
+
+var GiftBox = {
+  name: 'gift-box',
+  props: {
+    size: {
+      type: String,
+      default: '24',
+      validator: function validator(s) {
+        return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+      }
+    }
+  },
+  functional: true,
+  render: function render(h, ctx) {
+    var _attrs;
+
+    var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+    var attrs = ctx.data.attrs || {};
+    attrs.width = attrs.width || size;
+    attrs.height = attrs.height || size;
+    ctx.data.attrs = attrs;
+    return h("svg", _mergeJSXProps([{
+      "attrs": (_attrs = {
+        "xmlns": "http://www.w3.org/2000/svg"
+      }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24pt"), _defineProperty(_attrs, "height", "24pt"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
+    }, ctx.data]), [h("g", {
+      "attrs": {
+        "id": "surface1"
+      }
+    }, [h("path", {
+      "style": "stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1",
+      "attrs": {
+        "d": "M 3.5 24.003906 C 2.671875 24.003906 2 23.328125 2 22.503906 L 2 12.003906 L 1.5 12.003906 C 0.671875 12.003906 0 11.328125 0 10.503906 L 0 8.503906 C 0 7.675781 0.671875 7.003906 1.5 7.003906 L 22.5 7.003906 C 23.328125 7.003906 24 7.675781 24 8.503906 L 24 10.503906 C 24 11.328125 23.328125 12.003906 22.5 12.003906 L 22 12.003906 L 22 22.503906 C 22 23.328125 21.328125 24.003906 20.5 24.003906 Z M 20.5 23.003906 C 20.777344 23.003906 21 22.777344 21 22.503906 L 21 12.003906 L 16 12.003906 L 16 23.003906 Z M 15 23.003906 L 15 12.003906 L 9 12.003906 L 9 23.003906 Z M 3 22.503906 C 3 22.777344 3.222656 23.003906 3.5 23.003906 L 8 23.003906 L 8 12.003906 L 3 12.003906 Z M 22.5 11 C 22.777344 11 23 10.777344 23 10.5 L 23 8.5 C 23 8.226562 22.777344 8 22.5 8 L 16 8 L 16 11 Z M 15 11 L 15 8 L 9 8 L 9 11 Z M 1.5 8 C 1.222656 8 1 8.226562 1 8.5 L 1 10.5 C 1 10.777344 1.222656 11 1.5 11 L 8 11 L 8 8 Z M 1.5 8 "
+      }
+    }), h("path", {
+      "style": "stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1",
+      "attrs": {
+        "d": "M 13 6 C 12.867188 6 12.742188 5.949219 12.644531 5.855469 C 12.523438 5.730469 12.472656 5.550781 12.515625 5.382812 C 12.671875 4.746094 13.488281 1.542969 14.304688 0.722656 C 14.765625 0.238281 15.394531 -0.0273438 16.070312 -0.0273438 C 16.710938 -0.0273438 17.3125 0.214844 17.773438 0.65625 C 18.246094 1.109375 18.515625 1.71875 18.527344 2.378906 C 18.542969 3.03125 18.300781 3.65625 17.847656 4.128906 C 17.824219 4.152344 17.800781 4.175781 17.777344 4.199219 C 16.953125 5.019531 13.753906 5.832031 13.117188 5.988281 C 13.082031 5.996094 13.039062 6 13 6 Z M 16.074219 0.972656 C 15.671875 0.972656 15.296875 1.132812 15.019531 1.421875 C 14.652344 1.789062 14.113281 3.320312 13.703125 4.800781 C 15.183594 4.390625 16.707031 3.855469 17.074219 3.488281 L 17.125 3.4375 C 17.394531 3.15625 17.535156 2.789062 17.527344 2.398438 C 17.519531 2.011719 17.363281 1.648438 17.082031 1.378906 C 16.808594 1.117188 16.449219 0.972656 16.074219 0.972656 Z M 16.074219 0.972656 "
+      }
+    }), h("path", {
+      "style": "stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1",
+      "attrs": {
+        "d": "M 11 6 C 10.960938 6 10.917969 5.996094 10.878906 5.984375 C 10.246094 5.832031 7.039062 5.015625 6.21875 4.195312 C 5.296875 3.234375 5.296875 1.738281 6.210938 0.785156 C 6.664062 0.3125 7.277344 0.046875 7.933594 0.03125 L 7.972656 0.03125 C 8.617188 0.03125 9.226562 0.273438 9.6875 0.714844 C 10.511719 1.542969 11.328125 4.746094 11.484375 5.382812 C 11.527344 5.550781 11.476562 5.730469 11.355469 5.855469 C 11.257812 5.949219 11.132812 6 11 6 Z M 7.957031 1.03125 C 7.566406 1.039062 7.203125 1.199219 6.933594 1.476562 C 6.394531 2.042969 6.390625 2.929688 6.933594 3.492188 C 7.296875 3.855469 8.820312 4.390625 10.296875 4.800781 C 9.886719 3.320312 9.347656 1.792969 8.984375 1.425781 C 8.71875 1.171875 8.363281 1.03125 7.992188 1.03125 Z M 7.957031 1.03125 "
+      }
+    })])]);
   }
 };
 
@@ -3245,5 +3378,5 @@ var DPIcon = {
 };
 
 export default DPIcon;
-export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, ExternalLink, Feedback, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, OrderManagement, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, StoreSettings, Subtract, Summer, Ticket, WarehouseCartPackage, Winter };
+export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, ExternalLink, Eye, EyeClose, Feedback, GiftBox, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, OrderManagement, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, StoreSettings, Subtract, Summer, Ticket, WarehouseCartPackage, Winter };
 //# sourceMappingURL=index.es.js.map
