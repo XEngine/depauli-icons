@@ -2595,6 +2595,57 @@
     }
   };
 
+  var PasswordDesktopLockApproved = {
+    name: 'password-desktop-lock-approved',
+    props: {
+      size: {
+        type: String,
+        default: '24',
+        validator: function validator(s) {
+          return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+        }
+      }
+    },
+    functional: true,
+    render: function render(h, ctx) {
+      var _attrs;
+
+      var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+      var attrs = ctx.data.attrs || {};
+      attrs.width = attrs.width || size;
+      attrs.height = attrs.height || size;
+      ctx.data.attrs = attrs;
+      return h("svg", _mergeJSXProps__default['default']([{
+        "attrs": (_attrs = {
+          "version": "1.1",
+          "id": "Layer_1",
+          "xmlns": "http://www.w3.org/2000/svg"
+        }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "x", "0px"), _defineProperty(_attrs, "y", "0px"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "xml", "preserve"), _attrs),
+        "style": "enable-background:new 0 0 24 24"
+      }, ctx.data]), [h("path", {
+        "attrs": {
+          "d": "M7.5 24a.5.5 0 010-1h1.369a6.98 6.98 0 001.085-3H1.5C.673 20 0 19.327 0 18.5v-17C0 .673.673 0 1.5 0h13a.5.5 0 010 1h-13a.5.5 0 00-.5.5V16h22v-2.5a.5.5 0 011 0v5c0 .827-.673 1.5-1.5 1.5h-8.454a6.988 6.988 0 001.085 3H16.5a.5.5 0 010 1h-9zm6.467-1a8.017 8.017 0 01-.927-3h-2.08a8.017 8.017 0 01-.927 3h3.934zM1 18.5a.5.5 0 00.5.5h21a.5.5 0 00.5-.5V17H1v1.5z"
+        }
+      }), h("path", {
+        "attrs": {
+          "d": "M7.539 10.051a.5.5 0 01-.354-.146L5.501 8.22a.497.497 0 010-.707.5.5 0 01.708 0l1.33 1.331 3.858-3.857a.5.5 0 11.707.708l-4.211 4.21a.501.501 0 01-.354.146z"
+        }
+      }), h("path", {
+        "attrs": {
+          "d": "M7.535 12.568a4.261 4.261 0 01-3.03-1.261 4.26 4.26 0 01-1.25-3.034 4.293 4.293 0 014.287-4.279 4.323 4.323 0 011.904.446.5.5 0 01-.445.896 3.297 3.297 0 00-1.453-.342 3.293 3.293 0 00-3.293 3.281 3.266 3.266 0 00.958 2.326c.62.622 1.444.966 2.323.967.882 0 1.706-.34 2.326-.958.622-.62.966-1.444.967-2.323a.5.5 0 011 .002 4.259 4.259 0 01-1.261 3.029 4.258 4.258 0 01-3.025 1.25h-.008z"
+        }
+      }), h("path", {
+        "attrs": {
+          "d": "M15.5 12c-.827 0-1.5-.673-1.5-1.5v-5c0-.827.673-1.5 1.5-1.5h.5V3c0-1.654 1.346-3 3-3s3 1.346 3 3v1h.5c.827 0 1.5.673 1.5 1.5v5c0 .827-.673 1.5-1.5 1.5h-7zm0-7a.5.5 0 00-.5.5v5a.5.5 0 00.5.5h7a.5.5 0 00.5-.5v-5a.5.5 0 00-.5-.5h-7zM21 4V3c0-1.103-.897-2-2-2s-2 .897-2 2v1h4z"
+        }
+      }), h("path", {
+        "attrs": {
+          "d": "M19 9.5c-.827 0-1.5-.673-1.5-1.5s.673-1.5 1.5-1.5 1.5.673 1.5 1.5-.673 1.5-1.5 1.5zm0-2a.5.5 0 100 1 .5.5 0 000-1z"
+        }
+      })]);
+    }
+  };
+
   var Paypal = {
     name: 'paypal',
     props: {
@@ -3408,6 +3459,7 @@
   exports.NavigationMenu4 = NavigationMenu4;
   exports.NavigationMenuVertical = NavigationMenuVertical;
   exports.OrderManagement = OrderManagement;
+  exports.PasswordDesktopLockApproved = PasswordDesktopLockApproved;
   exports.Paypal = Paypal;
   exports.Search = Search;
   exports.Shipping = Shipping;
