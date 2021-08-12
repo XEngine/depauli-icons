@@ -2040,6 +2040,92 @@
     }
   };
 
+  var EyeClose = {
+    name: 'eye-close',
+    props: {
+      size: {
+        type: String,
+        default: '24',
+        validator: function validator(s) {
+          return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+        }
+      }
+    },
+    functional: true,
+    render: function render(h, ctx) {
+      var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+      var attrs = ctx.data.attrs || {};
+      attrs.width = attrs.width || size;
+      attrs.height = attrs.height || size;
+      ctx.data.attrs = attrs;
+      return h("svg", _mergeJSXProps__default['default']([{
+        "attrs": {
+          "xmlns": "http://www.w3.org/2000/svg",
+          "width": "24px",
+          "height": "24px",
+          "viewBox": "0 0 24 24"
+        }
+      }, ctx.data]), [h("g", {
+        "attrs": {
+          "fill": "currentColor"
+        }
+      }, [h("path", {
+        "attrs": {
+          "d": "M12.001 16c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.795 4-4 4zm0-7c-1.654 0-3 1.346-3 3s1.346 3 3 3 3-1.346 3-3-1.346-3-3-3z"
+        }
+      }), h("path", {
+        "attrs": {
+          "d": "M12.001 19C6.281 19 1.56 14.146.25 12.658a1.006 1.006 0 01-.002-1.315C1.559 9.855 6.281 5 12.001 5c5.714 0 10.432 4.845 11.747 6.337l.006.007c.325.374.325.938 0 1.312C22.442 14.145 17.72 19 12.001 19zm0-13C6.701 6 2.24 10.594 1 12.003 2.241 13.406 6.7 18 12.001 18c5.3 0 9.76-4.594 11.001-6.003C21.76 10.594 17.3 6 12.001 6z"
+        }
+      })])]);
+    }
+  };
+
+  var Eye = {
+    name: 'eye',
+    props: {
+      size: {
+        type: String,
+        default: '24',
+        validator: function validator(s) {
+          return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+        }
+      }
+    },
+    functional: true,
+    render: function render(h, ctx) {
+      var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+      var attrs = ctx.data.attrs || {};
+      attrs.width = attrs.width || size;
+      attrs.height = attrs.height || size;
+      ctx.data.attrs = attrs;
+      return h("svg", _mergeJSXProps__default['default']([{
+        "attrs": {
+          "xmlns": "http://www.w3.org/2000/svg",
+          "width": "24px",
+          "height": "24px",
+          "viewBox": "0 0 24 24"
+        }
+      }, ctx.data]), [h("g", {
+        "attrs": {
+          "fill": "currentColor"
+        }
+      }, [h("path", {
+        "attrs": {
+          "d": "M12 19C5.481 19 .324 12.584.108 12.311a.498.498 0 010-.621C.325 11.416 5.483 5 12 5c6.514 0 11.676 6.416 11.892 6.689a.498.498 0 010 .621C23.676 12.584 18.516 19 12 19zM1.155 12C2.304 13.315 6.763 18 12 18c5.239 0 9.697-4.684 10.845-6C21.697 10.684 17.236 6 12 6c-5.24 0-9.697 4.684-10.845 6z"
+        }
+      }), h("path", {
+        "attrs": {
+          "d": "M12 16.5A4.505 4.505 0 017.5 12c0-2.481 2.019-4.5 4.5-4.5s4.5 2.019 4.5 4.5-2.019 4.5-4.5 4.5zm0-8c-1.93 0-3.5 1.57-3.5 3.5s1.57 3.5 3.5 3.5 3.5-1.57 3.5-3.5-1.57-3.5-3.5-3.5z"
+        }
+      }), h("path", {
+        "attrs": {
+          "d": "M12 14.5A2.503 2.503 0 019.5 12a.5.5 0 011 0c0 .827.673 1.5 1.5 1.5s1.5-.673 1.5-1.5-.673-1.5-1.5-1.5a.5.5 0 010-1c1.378 0 2.5 1.121 2.5 2.5 0 1.378-1.122 2.5-2.5 2.5z"
+        }
+      })])]);
+    }
+  };
+
   var Feedback = {
     name: 'feedback',
     props: {
