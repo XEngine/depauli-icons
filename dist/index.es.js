@@ -19,6 +19,9 @@ function _defineProperties(target, props) {
 function _createClass(Constructor, protoProps, staticProps) {
   if (protoProps) _defineProperties(Constructor.prototype, protoProps);
   if (staticProps) _defineProperties(Constructor, staticProps);
+  Object.defineProperty(Constructor, "prototype", {
+    writable: false
+  });
   return Constructor;
 }
 
@@ -189,7 +192,7 @@ function normalizeComponent(template, style, script, scopeId, isFunctionalTempla
 const __vue_script__ = script;
 
 /* template */
-var __vue_render__ = function() {
+var __vue_render__ = function () {
   var _vm = this;
   var _h = _vm.$createElement;
   var _c = _vm._self._c || _h;
@@ -3513,6 +3516,5 @@ var DPIcon = {
   }
 };
 
-export default DPIcon;
-export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupon, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, Employes, ExternalLink, Eye, EyeClose, Feedback, GiftBox, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, Order, OrderManagement, PasswordDesktopLockApproved, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, Star, Store, StoreSettings, Subtract, Summer, Ticket, WarehouseCartPackage, Winter };
+export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupon, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, Employes, ExternalLink, Eye, EyeClose, Feedback, GiftBox, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, Order, OrderManagement, PasswordDesktopLockApproved, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, Star, Store, StoreSettings, Subtract, Summer, Ticket, WarehouseCartPackage, Winter, DPIcon as default };
 //# sourceMappingURL=index.es.js.map

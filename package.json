@@ -13,9 +13,6 @@
     "prepublishOnly": "cross-env NODE_ENV=production node converter.js && npm run build",
     "build": "rollup -c"
   },
-  "dependencies": {
-
-  },
   "peerDependencies": {
     "vue": "^2.6.14"
   },

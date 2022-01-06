@@ -27,6 +27,9 @@ function _defineProperties(target, props) {
 function _createClass(Constructor, protoProps, staticProps) {
   if (protoProps) _defineProperties(Constructor.prototype, protoProps);
   if (staticProps) _defineProperties(Constructor, staticProps);
+  Object.defineProperty(Constructor, "prototype", {
+    writable: false
+  });
   return Constructor;
 }
 
@@ -197,7 +200,7 @@ function normalizeComponent(template, style, script, scopeId, isFunctionalTempla
 const __vue_script__ = script;
 
 /* template */
-var __vue_render__ = function() {
+var __vue_render__ = function () {
   var _vm = this;
   var _h = _vm.$createElement;
   var _c = _vm._self._c || _h;
@@ -253,7 +256,7 @@ var Add = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -299,7 +302,7 @@ var Advence = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -369,7 +372,7 @@ var ArrowDown = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -418,7 +421,7 @@ var ArrowLeft = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -467,7 +470,7 @@ var ArrowRight = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -516,7 +519,7 @@ var ArrowUp = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -565,7 +568,7 @@ var Autumn = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -641,7 +644,7 @@ var Basket = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -713,7 +716,7 @@ var BookAddress1 = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "xmlns": "http://www.w3.org/2000/svg"
       }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24px"), _defineProperty(_attrs, "height", "24px"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
@@ -755,7 +758,7 @@ var Cargo = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -881,7 +884,7 @@ var Cash = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -967,7 +970,7 @@ var Check = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1016,7 +1019,7 @@ var CircleCheckmark = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1076,7 +1079,7 @@ var Close = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1122,7 +1125,7 @@ var Coupon = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1157,7 +1160,7 @@ var Coupons = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1219,7 +1222,7 @@ var Credit = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1297,7 +1300,7 @@ var Creditcard = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1359,7 +1362,7 @@ var Customers = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24px",
         "height": "24px",
@@ -1400,7 +1403,7 @@ var Dashboard = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24px",
         "height": "24px",
@@ -1435,7 +1438,7 @@ var Delete = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1507,7 +1510,7 @@ var DeliveryTruckClock = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "xmlns": "http://www.w3.org/2000/svg"
       }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24pt"), _defineProperty(_attrs, "height", "24pt"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
@@ -1567,7 +1570,7 @@ var Delivery = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1645,7 +1648,7 @@ var Discount = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1707,7 +1710,7 @@ var DoubleCheckmark = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1761,7 +1764,7 @@ var Edit = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1815,7 +1818,7 @@ var Employees = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -1885,7 +1888,7 @@ var Employes = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24px",
         "height": "24px",
@@ -1932,7 +1935,7 @@ var ExternalLink = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "xmlns": "http://www.w3.org/2000/svg"
       }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24px"), _defineProperty(_attrs, "height", "24px"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
@@ -1972,7 +1975,7 @@ var EyeClose = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "xmlns": "http://www.w3.org/2000/svg",
         "width": "24px",
@@ -2013,7 +2016,7 @@ var Eye = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "xmlns": "http://www.w3.org/2000/svg",
         "width": "24px",
@@ -2058,7 +2061,7 @@ var Feedback = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2122,7 +2125,7 @@ var GiftBox = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "xmlns": "http://www.w3.org/2000/svg"
       }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24px"), _defineProperty(_attrs, "height", "24px"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
@@ -2164,7 +2167,7 @@ var Insight = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2206,7 +2209,7 @@ var Invoice = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2292,7 +2295,7 @@ var Key = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2346,7 +2349,7 @@ var LikeAdd = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2424,7 +2427,7 @@ var NavigationMenu4 = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "xmlns": "http://www.w3.org/2000/svg"
       }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24px"), _defineProperty(_attrs, "height", "24px"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
@@ -2470,7 +2473,7 @@ var NavigationMenuVertical = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "xmlns": "http://www.w3.org/2000/svg",
         "width": "24",
@@ -2515,7 +2518,7 @@ var OrderManagement = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2601,7 +2604,7 @@ var Order = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2644,7 +2647,7 @@ var PasswordDesktopLockApproved = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "version": "1.1",
         "id": "Layer_1",
@@ -2693,7 +2696,7 @@ var Paypal = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2747,7 +2750,7 @@ var Search = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2807,7 +2810,7 @@ var Shipping = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -2919,7 +2922,7 @@ var SingleNeutralActionsSetting = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "xmlns": "http://www.w3.org/2000/svg"
       }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24px"), _defineProperty(_attrs, "height", "24px"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
@@ -2965,7 +2968,7 @@ var Spring = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -3049,7 +3052,7 @@ var Star = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "xmlns": "http://www.w3.org/2000/svg",
         "width": "24",
@@ -3083,7 +3086,7 @@ var StoreSettings = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -3145,7 +3148,7 @@ var Store = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -3183,7 +3186,7 @@ var Subtract = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -3221,7 +3224,7 @@ var Summer = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -3315,7 +3318,7 @@ var Ticket = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "26",
         "height": "24",
@@ -3377,7 +3380,7 @@ var WarehouseCartPackage = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": (_attrs = {
         "xmlns": "http://www.w3.org/2000/svg"
       }, _defineProperty(_attrs, "xmlns", "http://www.w3.org/1999/xlink"), _defineProperty(_attrs, "width", "24px"), _defineProperty(_attrs, "height", "24px"), _defineProperty(_attrs, "viewBox", "0 0 24 24"), _defineProperty(_attrs, "version", "1.1"), _attrs)
@@ -3415,7 +3418,7 @@ var Winter = {
     attrs.width = attrs.width || size;
     attrs.height = attrs.height || size;
     ctx.data.attrs = attrs;
-    return h("svg", _mergeJSXProps__default['default']([{
+    return h("svg", _mergeJSXProps__default["default"]([{
       "attrs": {
         "width": "24",
         "height": "24",
@@ -3577,5 +3580,5 @@ exports.Summer = Summer;
 exports.Ticket = Ticket;
 exports.WarehouseCartPackage = WarehouseCartPackage;
 exports.Winter = Winter;
-exports.default = DPIcon;
+exports["default"] = DPIcon;
 //# sourceMappingURL=index.cjs.js.map
