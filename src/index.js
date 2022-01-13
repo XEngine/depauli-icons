@@ -9,7 +9,7 @@ const DPIcon = {
     }
 };
 
-export default DPIcon
 export {
+    DPIcon as default,
     Library
 }
