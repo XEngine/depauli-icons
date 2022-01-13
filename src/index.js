@@ -4,8 +4,8 @@ import Component from './dp-icon.vue'
 export * from './icons.js'
 
 const DPIcon = {
-    install(Vue) {
-        Vue.component('dp-icon', Component)
+    install(app) {
+        app.component('dp-icon', Component)
     }
 };
 

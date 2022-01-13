@@ -11,7 +11,6 @@
             icon: {
                 type: String,
                 required: true,
-
             },
             size: {
                 type: String,

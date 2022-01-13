@@ -18,6 +18,7 @@ class Library {
     }
 
     get(name){
+        console.log(this.store)
         if(this.has(name)){
             return this.store[name]
         }

@@ -24,8 +24,8 @@ async function main() {
     for (const icon of icons) {
         // Create Vue component files
         const svg = await fs.readFile(icon.path, "utf8");
-        const component = svgToVue(icon.name, svg);
-        const filepath = `./icons/${icon.componentName}.js`;
+        const component = svgToVue(icon.name, icon.componentName, svg);
+        const filepath = `./icons/${icon.componentName}.jsx`;
         await fs.ensureDir(path.dirname(filepath));
         await fs.writeFile(filepath, component, "utf8");
 
