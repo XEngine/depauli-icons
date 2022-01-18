@@ -1525,6 +1525,39 @@ const GiftBox = defineComponent({
     }
   }
 });
+const Information = defineComponent({
+  name: "information",
+  setup(props, {
+    attrs
+  }) {
+    const size = props.size.slice(-1) === "x" ? props.size.slice(0, props.size.length - 1) + "em" : parseInt(props.size) + "px";
+    const properties = {};
+    properties.width = attrs.width || size;
+    properties.height = attrs.height || size;
+    return () => createVNode("svg", mergeProps({
+      "xmlns": "http://www.w3.org/2000/svg",
+      "viewBox": "0 0 24 24"
+    }, properties), [createVNode("g", {
+      "fill": "none",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "currentColor"
+    }, [createVNode("path", {
+      "d": "M23.145 12c0 6.152-4.993 11.145-11.145 11.145C5.848 23.145.855 18.152.855 12 .855 5.848 5.848.855 12 .855 18.152.855 23.145 5.848 23.145 12ZM12 12v6",
+      "stroke-width": "1.71429"
+    }, null), createVNode("path", {
+      "d": "M12.855 7.715a.855.855 0 1 1-1.71 0c0-.473.382-.86.855-.86s.855.387.855.86Zm0 0",
+      "stroke-width": "1.71429"
+    }, null)])]);
+  },
+  props: {
+    size: {
+      type: String,
+      default: "24",
+      validator: (s) => !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === "x"
+    }
+  }
+});
 const Insight = defineComponent({
   name: "insight",
   setup(props, {
@@ -2581,4 +2614,4 @@ const DPIcon = {
     app.component("dp-icon", Component);
   }
 };
-export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupon, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, Employes, ExternalLink, Eye, EyeClose, Feedback, GiftBox, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, Order, OrderManagement, PasswordDesktopLockApproved, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, Star, Store, StoreSettings, Subtract, Summer, Ticket, WarehouseCartPackage, Winter, DPIcon as default };
+export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupon, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, Employes, ExternalLink, Eye, EyeClose, Feedback, GiftBox, Information, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, Order, OrderManagement, PasswordDesktopLockApproved, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, Star, Store, StoreSettings, Subtract, Summer, Ticket, WarehouseCartPackage, Winter, DPIcon as default };
