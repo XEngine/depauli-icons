@@ -2149,6 +2149,50 @@ var GiftBox = {
   }
 };
 
+var Information = {
+  name: 'information',
+  props: {
+    size: {
+      type: String,
+      default: '24',
+      validator: function validator(s) {
+        return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+      }
+    }
+  },
+  functional: true,
+  render: function render(h, ctx) {
+    var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+    var attrs = ctx.data.attrs || {};
+    attrs.width = attrs.width || size;
+    attrs.height = attrs.height || size;
+    ctx.data.attrs = attrs;
+    return h("svg", _mergeJSXProps__default["default"]([{
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 24 24"
+      }
+    }, ctx.data]), [h("g", {
+      "attrs": {
+        "fill": "none",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke": "currentColor"
+      }
+    }, [h("path", {
+      "attrs": {
+        "d": "M23.145 12c0 6.152-4.993 11.145-11.145 11.145C5.848 23.145.855 18.152.855 12 .855 5.848 5.848.855 12 .855 18.152.855 23.145 5.848 23.145 12ZM12 12v6",
+        "stroke-width": "1.71429"
+      }
+    }), h("path", {
+      "attrs": {
+        "d": "M12.855 7.715a.855.855 0 1 1-1.71 0c0-.473.382-.86.855-.86s.855.387.855.86Zm0 0",
+        "stroke-width": "1.71429"
+      }
+    })])]);
+  }
+};
+
 var Insight = {
   name: 'insight',
   props: {
@@ -3557,6 +3601,7 @@ exports.Eye = Eye;
 exports.EyeClose = EyeClose;
 exports.Feedback = Feedback;
 exports.GiftBox = GiftBox;
+exports.Information = Information;
 exports.Insight = Insight;
 exports.Invoice = Invoice;
 exports.Key = Key;
