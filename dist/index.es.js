@@ -3336,6 +3336,47 @@ var Summer = {
   }
 };
 
+var ThumbsUp = {
+  name: 'thumbs-up',
+  props: {
+    size: {
+      type: String,
+      default: '24',
+      validator: function validator(s) {
+        return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+      }
+    }
+  },
+  functional: true,
+  render: function render(h, ctx) {
+    var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+    var attrs = ctx.data.attrs || {};
+    attrs.width = attrs.width || size;
+    attrs.height = attrs.height || size;
+    ctx.data.attrs = attrs;
+    return h("svg", _mergeJSXProps([{
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "width": "24",
+        "height": "24",
+        "viewBox": "0 0 24 24"
+      }
+    }, ctx.data]), [h("g", {
+      "attrs": {
+        "fill": "none",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke": "currentColor"
+      }
+    }, [h("path", {
+      "attrs": {
+        "d": "m5.777 10.027 4.356-6.957a1.868 1.868 0 0 1 1.61-.894 1.908 1.908 0 0 1 1.972 1.887V9.05h7.523a1.968 1.968 0 0 1 1.887 2.262l-1.371 8.847a1.954 1.954 0 0 1-1.938 1.715H8.57a3.468 3.468 0 0 1-1.543-.36l-1.234-.617M5.777 10.027v10.82M1.715 10.027h4.062v10.82H1.715a.862.862 0 0 1-.86-.859v-9.101c0-.473.387-.86.86-.86Zm0 0",
+        "stroke-width": "1.71429"
+      }
+    })])]);
+  }
+};
+
 var Ticket = {
   name: 'ticket',
   props: {
@@ -3560,5 +3601,5 @@ var DPIcon = {
   }
 };
 
-export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupon, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, Employes, ExternalLink, Eye, EyeClose, Feedback, GiftBox, Information, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, Order, OrderManagement, PasswordDesktopLockApproved, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, Star, Store, StoreSettings, Subtract, Summer, Ticket, WarehouseCartPackage, Winter, DPIcon as default };
+export { Add, Advence, ArrowDown, ArrowLeft, ArrowRight, ArrowUp, Autumn, Basket, BookAddress1, Cargo, Cash, Check, CircleCheckmark, Close, Coupon, Coupons, Credit, Creditcard, Customers, Dashboard, Delete, Delivery, DeliveryTruckClock, Discount, DoubleCheckmark, Edit, Employees, Employes, ExternalLink, Eye, EyeClose, Feedback, GiftBox, Information, Insight, Invoice, Key, Library$1 as Library, LikeAdd, NavigationMenu4, NavigationMenuVertical, Order, OrderManagement, PasswordDesktopLockApproved, Paypal, Search, Shipping, SingleNeutralActionsSetting, Spring, Star, Store, StoreSettings, Subtract, Summer, ThumbsUp, Ticket, WarehouseCartPackage, Winter, DPIcon as default };
 //# sourceMappingURL=index.es.js.map
