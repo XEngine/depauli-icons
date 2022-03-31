@@ -2,45 +2,55 @@ const fs = require('fs-extra')
 const path = require('path')
 const svgToVue = require('./svgtojs');
 const {pascalCase} = require("pascal-case");
+const fastGlob = require('fast-glob');
 
 async function main() {
     await fs.emptyDir('./icons/')
     await fs.remove('./src/icons.js')
 
-    const iconDirsPath = path.join(__dirname, "svg");
+    const componentify = (name) => pascalCase(`${name}`).replace("_", "")
+    const startsWithNumber = (str) => /^\d/.test(str)
 
-    const filenames = await fs.readdir(iconDirsPath);
-    const icons = filenames.map((filename) => {
-        const name = filename.split(".")[0];
-        return {
-            path: path.join(iconDirsPath, filename),
-            name,
-            componentName: pascalCase(`${name}`).replace("_", ""),
-        };
-    });
-
+    const icons = [
+        {
+            name: 'light',
+            package: 'dp-icons-light',
+            path: './svg/light/',
+        },
+        /*{
+            name: 'bold',
+            package: 'dp-icons-bold',
+            path: './svg/bold/',
+        },
+        {
+            name: 'regular',
+            package: 'dp-icons-regular',
+            path: './svg/regular/',
+        },*/
+    ]
     const iconsJSPath = path.join(__dirname, "./src/icons.js");
 
-    for (const icon of icons) {
-        // Create Vue component files
-        const svg = await fs.readFile(icon.path, "utf8");
-        const component = svgToVue(icon.name, icon.componentName, svg);
-        const filepath = `./icons/${icon.componentName}.jsx`;
-        await fs.ensureDir(path.dirname(filepath));
-        await fs.writeFile(filepath, component, "utf8");
+    for (const iconPackage of icons) {
+        const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
+        const indexContent = []
 
-        // Create packages directories
-        const packagePath = `./src/`;
+        for(const icon of iconFiles){
+            const iconName = componentify(icon.split('/').pop().split('.')[0]);
 
-        const iconsJsContent = `export { default as ${icon.componentName} } from '../icons/${icon.componentName}'`.concat(
-            "\n"
-        );
+            if(startsWithNumber(iconName)){
+                continue;
+            }
 
-        if (await fs.exists(iconsJSPath)) {
-            await fs.appendFile(iconsJSPath, iconsJsContent, "utf8");
-        } else {
-            await fs.writeFile(iconsJSPath, iconsJsContent, "utf8");
+            const svg = await fs.readFile(icon, "utf8");
+            const component = svgToVue(iconName, iconName, svg);
+
+            await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.jsx`, component, "utf8");
+
+            indexContent.push(`export { default as ${iconName} } from '../icons/${iconName}'`)
+
+            return
         }
+        console.log(indexContent)
     }
 }
 

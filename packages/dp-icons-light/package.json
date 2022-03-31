@@ -1,0 +1,11 @@
+{
+  "name": "@depaulisystems/dp-icons-light",
+  "Author": "T. Cem Yilmaz",
+  "version": "2.0.0-beta.6",
+  "description": "Light Icon pack for DePauli AG",
+  "main": "./dist/dp-icons-light.umd.js",
+  "module": "./dist/dp-icons-light.es.js",
+  "peerDependencies": {
+    "@depaulisystems/dp-icons": "^2.0.0-beta.6"
+  }
+}

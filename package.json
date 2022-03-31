@@ -1,7 +1,7 @@
 {
   "name": "@depaulisystems/dp-icons",
   "Author": "T. Cem Yilmaz",
-  "version": "2.0.0-beta.5",
+  "version": "2.0.0-beta.6",
   "description": "Icon pack for DePauli AG",
   "main": "./dist/dp-icons.umd.js",
   "module": "./dist/dp-icons.es.js",
@@ -19,21 +19,30 @@
     "prepublishOnly": "cross-env NODE_ENV=production node converter.js && vite build",
     "build": "vite build"
   },
+  "engines": {
+    "node": ">=14"
+  },
   "peerDependencies": {
-    "vue": "^3.2.26"
+    "@vue/composition-api": "^1.0.0-rc.1",
+    "vue": "^2.0.0 || >=3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@vue/composition-api": {
+      "optional": true
+    }
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.1",
     "cross-env": "^7.0.3",
+    "fast-glob": "^3.2.11",
     "fs-extra": "^10.0.0",
     "pascal-case": "^3.1.2",
     "svgo": "^2.3.0",
-    "vite": "^2.7.11"
-  },
-  "engines": {
-    "node": ">=14"
+    "vite": "^2.9.0",
+    "vue": "^3.2.31"
   },
   "dependencies": {
-    "@vitejs/plugin-vue-jsx": "^1.3.3"
+    "@vitejs/plugin-vue-jsx": "^1.3.3",
+    "vue-demi": "latest"
   }
 }

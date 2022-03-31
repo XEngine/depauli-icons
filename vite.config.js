@@ -4,6 +4,9 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 export default defineConfig({
     plugins: [vueJsx(), vue()],
+    optimizeDeps: {
+        exclude: ['vue-demi']
+    },
     build: {
         lib: {
             entry: './src/index.js',

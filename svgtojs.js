@@ -13,7 +13,7 @@ module.exports = (name, componentName, content) => {
     console.log(componentName);
 
     return  `
-import { defineComponent } from 'vue'
+import { defineComponent } from 'vue-demi'
 
 const ${componentName} = defineComponent({
     name: '${name}',
@@ -24,7 +24,7 @@ const ${componentName} = defineComponent({
         properties.width = attrs.width || size
         properties.height = attrs.height || size
 
-        return () => ${svg.replace(/<svg([^>]+)>/, "<svg$1 {...properties}>")}
+        return () => ${svg.replace(/<svg([^>]+)>/, "<svg$1 {...properties}>").replace(/#000/g, 'currentColor')}
     },
     props: {
         size: {
