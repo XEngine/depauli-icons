@@ -44,11 +44,9 @@ async function main() {
             const svg = await fs.readFile(icon, "utf8");
             const component = svgToVue(iconName, iconName, svg);
 
-            await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.jsx`, component, "utf8");
+            await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
 
             indexContent.push(`export { default as ${iconName} } from '../icons/${iconName}'`)
-
-            return
         }
         console.log(indexContent)
     }

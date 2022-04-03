@@ -1,40 +1,61 @@
-const { optimize } = require('svgo');
+const {optimize} = require('svgo');
+const customConvertShapeToPath = require('./utils/convertShapeToPath.js');
+const mergePath = require('./utils/merge.js');
+const {parseSync} = require('svgson')
 
 module.exports = (name, componentName, content) => {
-    const svg = optimize(content, {
-        multipass: false,
+    let svg = optimize(content, {
         plugins: [
             {
-                name: 'removeViewBox',
-                active: false
-            }
+                name: 'convertShapeToPath',
+                active: true,
+                params: {
+                    convertArcs: true
+                }
+            },
+            'collapseGroups',
+            customConvertShapeToPath,
+            mergePath,
+            'removeTitle',
+            'removeDesc'
         ]
     }).data;
-    console.log(componentName);
 
-    return  `
-import { defineComponent } from 'vue-demi'
-
-const ${componentName} = defineComponent({
-    name: '${name}',
-    setup(props, {attrs}) {
-        const size = props.size.slice(-1) === 'x' ? props.size.slice(0, props.size.length - 1) + 'em' : parseInt(props.size) + 'px';
-
-        const properties = {}
-        properties.width = attrs.width || size
-        properties.height = attrs.height || size
-
-        return () => ${svg.replace(/<svg([^>]+)>/, "<svg$1 {...properties}>").replace(/#000/g, 'currentColor')}
-    },
-    props: {
-        size: {
-            type: String,
-            default: '24',
-            validator: (s) => (!isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x')
-        }
+    const svgAst = parseSync(svg)
+    console.log(svg, svgAst)
+    const path = svgAst.children.find(child => child.name === 'path').attributes.d
+    let style = svgAst.children.find(child => child.name === 'defs')?.children.find(child => child.name === 'style')?.children[0].value
+    if (style) {
+        style = style.replace(/#000/g, 'currentColor').match(/{(.*?)}/)[1]
+        style = style.split(';').filter(x => x).reduce((acc, rule) => {
+            const [key, value] = rule.split(':')
+            acc[key.trim()] = value.trim()
+            return acc
+        }, {})
     }
-})
 
-export default ${componentName}
-    `.trim();
+    return `
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+const iconName = '${componentName}';
+const width = 24;
+const height = 24;
+const attributes = ${JSON.stringify(style)};
+const svgPathData = '${path}';
+
+exports.definition = {
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    svgPathData
+  ]
 };
+
+exports.iconName = iconName;
+exports.attributes = attributes;
+exports.width = width;
+exports.height = height;
+exports.svgPathData = svgPathData;
+    `
+}
