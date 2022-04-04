@@ -1,11 +1,29 @@
 const {optimize} = require('svgo');
 const customConvertShapeToPath = require('./utils/convertShapeToPath.js');
 const mergePath = require('./utils/merge.js');
+const removeGroups = require('./utils/removeGroups.js');
 const {parseSync} = require('svgson')
+const svgSlim = require('svg-slim');
 
-module.exports = (name, componentName, content) => {
+module.exports = async (name, componentName, content) => {
+
+    const test = await svgSlim(content, {
+        "rules": {
+            "shorten-class": true,
+            "shorten-shape": true,
+            "collapse-g": true,
+            "combine-transform": true,
+        },
+        "browsers": ["> 1%", "not ie 11", "not firefox < 99"]
+    })
+
+    console.log(test)
+
+    return
     let svg = optimize(content, {
         plugins: [
+            'removeTitle',
+            'removeDesc',
             {
                 name: 'convertShapeToPath',
                 active: true,
@@ -13,16 +31,14 @@ module.exports = (name, componentName, content) => {
                     convertArcs: true
                 }
             },
-            'collapseGroups',
+            removeGroups,
             customConvertShapeToPath,
             mergePath,
-            'removeTitle',
-            'removeDesc'
         ]
     }).data;
 
     const svgAst = parseSync(svg)
-    console.log(svg, svgAst)
+    //console.log(svg, svgAst)
     const path = svgAst.children.find(child => child.name === 'path').attributes.d
     let style = svgAst.children.find(child => child.name === 'defs')?.children.find(child => child.name === 'style')?.children[0].value
     if (style) {
