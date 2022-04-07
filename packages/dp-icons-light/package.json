@@ -1,6 +1,6 @@
 {
   "name": "@depaulisystems/dp-icons-light",
-  "version": "2.0.1-alpha.0",
+  "version": "2.0.2-alpha.0",
   "main": "./dist/dp-icons-light.umd.js",
   "module": "./dist/dp-icons-light.es.js",
   "private": false,
@@ -10,5 +10,9 @@
   "peerDependencies": {
     "@depaulisystems/dp-icons": "*"
   },
-  "gitHead": "cfc1fdbd9441aa18abc7ceea636ea70ea92a6954"
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "4b6d3722de2da51c26eeeadb21e7996885fcc752"
 }
