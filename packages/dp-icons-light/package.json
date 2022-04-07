@@ -1,12 +1,14 @@
 {
   "name": "@depaulisystems/dp-icons-light",
-  "version": "2.0.0-alpha.0",
+  "version": "2.0.1-alpha.0",
   "main": "./dist/dp-icons-light.umd.js",
   "module": "./dist/dp-icons-light.es.js",
+  "private": false,
   "scripts": {
     "build": "vite build"
   },
   "peerDependencies": {
     "@depaulisystems/dp-icons": "*"
-  }
+  },
+  "gitHead": "cfc1fdbd9441aa18abc7ceea636ea70ea92a6954"
 }
