@@ -1,11 +1,8 @@
 {
-  "name": "@depaulisystems/dp-icons-light",
+  "name": "@depaulisystems/dp-icons-bold",
   "version": "2.0.2-alpha.0",
   "main": "./index.js",
   "private": false,
-  "scripts": {
-    "build": "vite build"
-  },
   "peerDependencies": {
     "@depaulisystems/dp-icons": "*"
   },

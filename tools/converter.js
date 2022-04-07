@@ -17,7 +17,7 @@ async function main() {
             package: 'dp-icons-light',
             path: './svg/light/',
         },
-        /*{
+        {
             name: 'bold',
             package: 'dp-icons-bold',
             path: './svg/bold/',
@@ -26,24 +26,30 @@ async function main() {
             name: 'regular',
             package: 'dp-icons-regular',
             path: './svg/regular/',
-        },*/
+        },
     ]
-    const iconsJSPath = path.join(__dirname, "./src/icons.js");
 
     for (const iconPackage of icons) {
         const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
         const indexContent = []
 
-        for(const icon of iconFiles){
+        for (const icon of iconFiles) {
             const iconName = componentify(icon.split('/').pop().split('.')[0]);
-
-            if(startsWithNumber(iconName)){
+            if (iconName !== 'StandingLamp1') {
+                continue;
+            }
+            if (startsWithNumber(iconName)) {
                 continue;
             }
 
             const svg = await fs.readFile(icon, "utf8");
-            const component = await svgToVue(iconName, iconName, svg);
-            await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
+            try {
+                const component = await svgToVue(iconName, iconName, svg);
+                await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
+            } catch (e) {
+                console.log(icon, iconName)
+                console.log(e)
+            }
 
             indexContent.push(`export { default as ${iconName} } from './icons/${iconName}'`)
         }
