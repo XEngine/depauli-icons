@@ -29,7 +29,7 @@ module.exports = async (name, componentName, content) => {
         ]
     }).data;
     const svgAst = parseSync(svg)
-    console.log(svg)
+
     const path = svgAst.children.find(child => child.name === 'path').attributes.d
     let style = svgAst.children.find(child => child.name === 'style')?.children[0].value
     if (style) {

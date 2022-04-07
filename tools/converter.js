@@ -35,9 +35,7 @@ async function main() {
 
         for (const icon of iconFiles) {
             const iconName = componentify(icon.split('/').pop().split('.')[0]);
-            if (iconName !== 'StandingLamp1') {
-                continue;
-            }
+
             if (startsWithNumber(iconName)) {
                 continue;
             }
