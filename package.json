@@ -16,7 +16,7 @@
   "sideEffects": false,
   "scripts": {
     "dev": "vite",
-    "prepublishOnly": "cross-env NODE_ENV=production node converter.js && vite build",
+    "prepublishOnly": "cross-env NODE_ENV=production node converter.js && lerna publish",
     "build": "vite build"
   },
   "engines": {
