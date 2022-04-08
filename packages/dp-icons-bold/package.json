@@ -1,6 +1,6 @@
 {
   "name": "@depaulisystems/dp-icons-bold",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "main": "./index.js",
   "private": false,
   "peerDependencies": {
@@ -10,5 +10,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "4b6d3722de2da51c26eeeadb21e7996885fcc752"
+  "gitHead": "6e85c4f028c1c3bed41902960e0f38151db91cf3"
 }
