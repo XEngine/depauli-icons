@@ -19,7 +19,7 @@ export default {
             return createElement('span')
         }
 
-        let size = props.props.size.slice(-1) === 'x' ? props.props.size.slice(0, props.props.size.length - 1) + 'rem' : parseInt(props.props.size) + 'px';
+        let size = props.size.slice(-1) === 'x' ? props.size.slice(0, props.size.length - 1) + 'rem' : parseInt(props.size) + 'px';
         let attrs = {
             width: data.attrs.width || size,
             height: data.attrs.height || size,
