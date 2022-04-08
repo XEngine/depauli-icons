@@ -9,7 +9,7 @@ export default {
         },
         size: {
             type: String,
-            default: '24px'
+            default: '1.5x'
         }
     },
     render(createElement, {props, data}) {
@@ -27,7 +27,6 @@ export default {
 
         return createElement(
             'svg', {
-                class: props.size,
                 attrs: {
                     viewBox: '0 0 24 24',
                     ...attrs
@@ -35,7 +34,8 @@ export default {
             }, [
                 createElement('path', {
                     attrs: {
-                        'd': `${svg.svgPathData}`
+                        'd': `${svg.svgPathData}`,
+                        ...(svg.attributes ?? {})
                     }
                 })
             ]

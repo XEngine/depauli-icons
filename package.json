@@ -17,7 +17,8 @@
   "scripts": {
     "dev": "vite",
     "prepublishOnly": "cross-env NODE_ENV=production node ./tools/converter.js",
-    "build": "vite build"
+    "build": "vite build",
+    "publish": "lerna bootstrap && lerna run build --no-bail && lerna publish --yes --force-publish"
   },
   "engines": {
     "node": ">=14"

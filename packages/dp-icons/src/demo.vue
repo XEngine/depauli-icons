@@ -1,6 +1,6 @@
 <template>
     <div>
         bok
-        <dp-icon icon="arrow-down" size="10"></dp-icon>
+        <dp-icon icon="Bin1" size="1.5x"></dp-icon>
     </div>
 </template>
