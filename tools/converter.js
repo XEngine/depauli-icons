@@ -49,7 +49,7 @@ async function main() {
                 console.log(e)
             }
 
-            indexContent.push(`export { default as ${iconName} } from './icons/${iconName}'`)
+            indexContent.push(`export ${iconName} from './icons/${iconName}'`)
         }
         fs.writeFileSync(`./packages/${iconPackage.package}/index.js`, indexContent.join('\n'), "utf8");
     }
