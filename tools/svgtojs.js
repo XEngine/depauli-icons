@@ -42,7 +42,8 @@ module.exports = async (name, componentName, content) => {
     }
 
     return `export default {
-    name: '${componentName}',
+    name: '${name}',
+    key: '${componentName}',
     width: 24,
     height: 24,
     attributes: ${JSON.stringify(style)},

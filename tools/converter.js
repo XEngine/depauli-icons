@@ -34,7 +34,8 @@ async function main() {
         const indexContent = []
 
         for (const icon of iconFiles) {
-            const iconName = componentify(icon.split('/').pop().split('.')[0]);
+            const fileName = icon.split('/').pop().split('.')[0]
+            const iconName = componentify(fileName);
 
             if (startsWithNumber(iconName)) {
                 continue;
@@ -42,7 +43,7 @@ async function main() {
 
             const svg = await fs.readFile(icon, "utf8");
             try {
-                const component = await svgToVue(iconName, iconName, svg);
+                const component = await svgToVue(fileName, iconName, svg);
                 await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
             } catch (e) {
                 console.log(icon, iconName)

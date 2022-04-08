@@ -47,10 +47,11 @@ var Component = {
     },
     size: {
       type: String,
-      default: "24px"
+      default: "1.5x"
     }
   },
   render(createElement, { props, data }) {
+    var _a;
     let svg = Library$1.get(props.icon);
     if (!svg) {
       return createElement("span");
@@ -61,15 +62,14 @@ var Component = {
       height: data.attrs.height || size
     };
     return createElement("svg", {
-      class: props.size,
       attrs: __spreadValues({
         viewBox: "0 0 24 24"
       }, attrs)
     }, [
       createElement("path", {
-        attrs: {
+        attrs: __spreadValues({
           "d": `${svg.svgPathData}`
-        }
+        }, (_a = svg.attributes) != null ? _a : {})
       })
     ]);
   }
