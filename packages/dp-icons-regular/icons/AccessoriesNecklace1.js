@@ -1,5 +1,6 @@
 export default {
-    name: 'AccessoriesNecklace1',
+    name: 'accessories-necklace-1',
+    key: 'AccessoriesNecklace1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'OptimizationClock',
+    name: 'optimization-clock',
+    key: 'OptimizationClock',
     width: 24,
     height: 24,
     attributes: undefined,

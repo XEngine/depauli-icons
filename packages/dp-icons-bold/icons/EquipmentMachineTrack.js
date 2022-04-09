@@ -1,5 +1,6 @@
 export default {
-    name: 'EquipmentMachineTrack',
+    name: 'equipment-machine-track',
+    key: 'EquipmentMachineTrack',
     width: 24,
     height: 24,
     attributes: undefined,

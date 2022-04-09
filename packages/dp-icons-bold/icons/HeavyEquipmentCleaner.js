@@ -1,5 +1,6 @@
 export default {
-    name: 'HeavyEquipmentCleaner',
+    name: 'heavy-equipment-cleaner',
+    key: 'HeavyEquipmentCleaner',
     width: 24,
     height: 24,
     attributes: undefined,

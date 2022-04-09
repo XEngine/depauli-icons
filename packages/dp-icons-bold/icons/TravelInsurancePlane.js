@@ -1,5 +1,6 @@
 export default {
-    name: 'TravelInsurancePlane',
+    name: 'travel-insurance-plane',
+    key: 'TravelInsurancePlane',
     width: 24,
     height: 24,
     attributes: undefined,

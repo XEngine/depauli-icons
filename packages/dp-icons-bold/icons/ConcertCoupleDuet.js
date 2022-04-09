@@ -1,5 +1,6 @@
 export default {
-    name: 'ConcertCoupleDuet',
+    name: 'concert-couple-duet',
+    key: 'ConcertCoupleDuet',
     width: 24,
     height: 24,
     attributes: undefined,

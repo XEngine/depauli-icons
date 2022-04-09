@@ -1,5 +1,6 @@
 export default {
-    name: 'SportsCarConvertible3',
+    name: 'sports-car-convertible-3',
+    key: 'SportsCarConvertible3',
     width: 24,
     height: 24,
     attributes: undefined,

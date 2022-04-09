@@ -1,5 +1,6 @@
 export default {
-    name: 'Tablet1',
+    name: 'tablet-1',
+    key: 'Tablet1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

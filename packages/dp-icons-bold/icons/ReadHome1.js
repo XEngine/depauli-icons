@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadHome1',
+    name: 'read-home-1',
+    key: 'ReadHome1',
     width: 24,
     height: 24,
     attributes: undefined,

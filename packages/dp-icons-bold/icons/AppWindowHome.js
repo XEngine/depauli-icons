@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowHome',
+    name: 'app-window-home',
+    key: 'AppWindowHome',
     width: 24,
     height: 24,
     attributes: undefined,

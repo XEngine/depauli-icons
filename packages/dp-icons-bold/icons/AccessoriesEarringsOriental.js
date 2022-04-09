@@ -1,5 +1,6 @@
 export default {
-    name: 'AccessoriesEarringsOriental',
+    name: 'accessories-earrings-oriental',
+    key: 'AccessoriesEarringsOriental',
     width: 24,
     height: 24,
     attributes: undefined,

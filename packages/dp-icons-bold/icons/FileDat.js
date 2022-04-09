@@ -1,5 +1,6 @@
 export default {
-    name: 'FileDat',
+    name: 'file-dat',
+    key: 'FileDat',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DiamondRing',
+    name: 'diamond-ring',
+    key: 'DiamondRing',
     width: 24,
     height: 24,
     attributes: undefined,

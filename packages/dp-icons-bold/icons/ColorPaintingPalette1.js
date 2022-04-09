@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorPaintingPalette1',
+    name: 'color-painting-palette-1',
+    key: 'ColorPaintingPalette1',
     width: 24,
     height: 24,
     attributes: undefined,

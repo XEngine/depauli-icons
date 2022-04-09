@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileUpload',
+    name: 'common-file-upload',
+    key: 'CommonFileUpload',
     width: 24,
     height: 24,
     attributes: undefined,

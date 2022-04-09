@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsWenchHold',
+    name: 'tools-wench-hold',
+    key: 'ToolsWenchHold',
     width: 24,
     height: 24,
     attributes: undefined,

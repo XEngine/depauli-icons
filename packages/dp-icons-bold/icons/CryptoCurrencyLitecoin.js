@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyLitecoin',
+    name: 'crypto-currency-litecoin',
+    key: 'CryptoCurrencyLitecoin',
     width: 24,
     height: 24,
     attributes: undefined,

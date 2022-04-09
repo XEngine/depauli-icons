@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysTeddyBear',
+    name: 'toys-teddy-bear',
+    key: 'ToysTeddyBear',
     width: 24,
     height: 24,
     attributes: undefined,

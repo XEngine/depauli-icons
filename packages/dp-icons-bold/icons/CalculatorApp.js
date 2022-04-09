@@ -1,5 +1,6 @@
 export default {
-    name: 'CalculatorApp',
+    name: 'calculator-app',
+    key: 'CalculatorApp',
     width: 24,
     height: 24,
     attributes: undefined,

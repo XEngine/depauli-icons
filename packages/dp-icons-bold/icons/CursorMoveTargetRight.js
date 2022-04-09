@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorMoveTargetRight',
+    name: 'cursor-move-target-right',
+    key: 'CursorMoveTargetRight',
     width: 24,
     height: 24,
     attributes: undefined,

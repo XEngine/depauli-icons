@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsCreditCard',
+    name: 'single-woman-actions-credit-card',
+    key: 'SingleWomanActionsCreditCard',
     width: 24,
     height: 24,
     attributes: undefined,

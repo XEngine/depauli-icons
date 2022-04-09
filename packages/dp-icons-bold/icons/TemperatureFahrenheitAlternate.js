@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureFahrenheitAlternate',
+    name: 'temperature-fahrenheit-alternate',
+    key: 'TemperatureFahrenheitAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

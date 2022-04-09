@@ -1,5 +1,6 @@
 export default {
-    name: 'InsectCentipede',
+    name: 'insect-centipede',
+    key: 'InsectCentipede',
     width: 24,
     height: 24,
     attributes: undefined,

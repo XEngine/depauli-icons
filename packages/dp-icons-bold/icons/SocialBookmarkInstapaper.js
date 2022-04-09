@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialBookmarkInstapaper',
+    name: 'social-bookmark-instapaper',
+    key: 'SocialBookmarkInstapaper',
     width: 24,
     height: 24,
     attributes: undefined,

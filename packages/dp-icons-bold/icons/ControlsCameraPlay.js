@@ -1,5 +1,6 @@
 export default {
-    name: 'ControlsCameraPlay',
+    name: 'controls-camera-play',
+    key: 'ControlsCameraPlay',
     width: 24,
     height: 24,
     attributes: undefined,

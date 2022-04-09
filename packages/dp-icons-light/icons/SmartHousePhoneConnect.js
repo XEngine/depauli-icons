@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHousePhoneConnect',
+    name: 'smart-house-phone-connect',
+    key: 'SmartHousePhoneConnect',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairTowTruck2',
+    name: 'car-repair-tow-truck-2',
+    key: 'CarRepairTowTruck2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Asp',
+    name: 'asp',
+    key: 'Asp',
     width: 24,
     height: 24,
     attributes: undefined,

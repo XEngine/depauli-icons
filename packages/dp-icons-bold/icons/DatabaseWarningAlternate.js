@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseWarningAlternate',
+    name: 'database-warning-alternate',
+    key: 'DatabaseWarningAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

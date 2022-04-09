@@ -1,5 +1,6 @@
 export default {
-    name: 'FarmingBarn1',
+    name: 'farming-barn-1',
+    key: 'FarmingBarn1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramArrowDiagonal',
+    name: 'diagram-arrow-diagonal',
+    key: 'DiagramArrowDiagonal',
     width: 24,
     height: 24,
     attributes: undefined,

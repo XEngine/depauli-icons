@@ -1,5 +1,6 @@
 export default {
-    name: 'FaceIdScan1',
+    name: 'face-id-scan-1',
+    key: 'FaceIdScan1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

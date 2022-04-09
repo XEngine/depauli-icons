@@ -1,5 +1,6 @@
 export default {
-    name: 'PrintPicture',
+    name: 'print-picture',
+    key: 'PrintPicture',
     width: 24,
     height: 24,
     attributes: undefined,

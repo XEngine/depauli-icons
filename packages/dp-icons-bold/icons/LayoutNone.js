@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutNone',
+    name: 'layout-none',
+    key: 'LayoutNone',
     width: 24,
     height: 24,
     attributes: undefined,

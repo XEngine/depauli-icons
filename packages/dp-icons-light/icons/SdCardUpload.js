@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardUpload',
+    name: 'sd-card-upload',
+    key: 'SdCardUpload',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

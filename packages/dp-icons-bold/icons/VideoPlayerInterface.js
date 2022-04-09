@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoPlayerInterface',
+    name: 'video-player-interface',
+    key: 'VideoPlayerInterface',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationProjector1',
+    name: 'presentation-projector-1',
+    key: 'PresentationProjector1',
     width: 24,
     height: 24,
     attributes: undefined,

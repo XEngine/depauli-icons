@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchIdSmartphone1',
+    name: 'touch-id-smartphone-1',
+    key: 'TouchIdSmartphone1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

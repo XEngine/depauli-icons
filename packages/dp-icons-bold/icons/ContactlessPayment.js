@@ -1,5 +1,6 @@
 export default {
-    name: 'ContactlessPayment',
+    name: 'contactless-payment',
+    key: 'ContactlessPayment',
     width: 24,
     height: 24,
     attributes: undefined,

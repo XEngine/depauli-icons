@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsBrightness',
+    name: 'settings-brightness',
+    key: 'SettingsBrightness',
     width: 24,
     height: 24,
     attributes: undefined,

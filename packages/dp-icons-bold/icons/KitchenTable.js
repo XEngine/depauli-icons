@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenTable',
+    name: 'kitchen-table',
+    key: 'KitchenTable',
     width: 24,
     height: 24,
     attributes: undefined,

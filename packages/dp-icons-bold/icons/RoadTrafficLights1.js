@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadTrafficLights1',
+    name: 'road-traffic-lights-1',
+    key: 'RoadTrafficLights1',
     width: 24,
     height: 24,
     attributes: undefined,

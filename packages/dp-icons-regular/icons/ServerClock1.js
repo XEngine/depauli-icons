@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerClock1',
+    name: 'server-clock-1',
+    key: 'ServerClock1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

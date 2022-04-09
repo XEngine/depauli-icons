@@ -1,5 +1,6 @@
 export default {
-    name: 'WindVelocityMeasure',
+    name: 'wind-velocity-measure',
+    key: 'WindVelocityMeasure',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingLock',
+    name: 'real-estate-action-building-lock',
+    key: 'RealEstateActionBuildingLock',
     width: 24,
     height: 24,
     attributes: undefined,

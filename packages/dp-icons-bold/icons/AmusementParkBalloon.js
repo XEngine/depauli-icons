@@ -1,5 +1,6 @@
 export default {
-    name: 'AmusementParkBalloon',
+    name: 'amusement-park-balloon',
+    key: 'AmusementParkBalloon',
     width: 24,
     height: 24,
     attributes: undefined,

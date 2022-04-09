@@ -1,5 +1,6 @@
 export default {
-    name: 'TripDistance',
+    name: 'trip-distance',
+    key: 'TripDistance',
     width: 24,
     height: 24,
     attributes: undefined,

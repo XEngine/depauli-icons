@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileStar',
+    name: 'data-file-star',
+    key: 'DataFileStar',
     width: 24,
     height: 24,
     attributes: undefined,

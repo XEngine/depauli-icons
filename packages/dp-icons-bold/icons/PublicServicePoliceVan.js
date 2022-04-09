@@ -1,5 +1,6 @@
 export default {
-    name: 'PublicServicePoliceVan',
+    name: 'public-service-police-van',
+    key: 'PublicServicePoliceVan',
     width: 24,
     height: 24,
     attributes: undefined,

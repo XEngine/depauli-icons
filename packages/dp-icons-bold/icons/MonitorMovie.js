@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorMovie',
+    name: 'monitor-movie',
+    key: 'MonitorMovie',
     width: 24,
     height: 24,
     attributes: undefined,

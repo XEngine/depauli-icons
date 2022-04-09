@@ -1,5 +1,6 @@
 export default {
-    name: 'LightBulb',
+    name: 'light-bulb',
+    key: 'LightBulb',
     width: 24,
     height: 24,
     attributes: undefined,

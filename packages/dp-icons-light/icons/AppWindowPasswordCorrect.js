@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowPasswordCorrect',
+    name: 'app-window-password-correct',
+    key: 'AppWindowPasswordCorrect',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

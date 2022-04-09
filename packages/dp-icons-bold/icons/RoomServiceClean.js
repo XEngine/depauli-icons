@@ -1,5 +1,6 @@
 export default {
-    name: 'RoomServiceClean',
+    name: 'room-service-clean',
+    key: 'RoomServiceClean',
     width: 24,
     height: 24,
     attributes: undefined,

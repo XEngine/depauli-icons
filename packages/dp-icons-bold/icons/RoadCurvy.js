@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadCurvy',
+    name: 'road-curvy',
+    key: 'RoadCurvy',
     width: 24,
     height: 24,
     attributes: undefined,

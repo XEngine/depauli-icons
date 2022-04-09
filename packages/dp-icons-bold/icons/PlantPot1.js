@@ -1,5 +1,6 @@
 export default {
-    name: 'PlantPot1',
+    name: 'plant-pot-1',
+    key: 'PlantPot1',
     width: 24,
     height: 24,
     attributes: undefined,

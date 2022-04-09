@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignerCommunityCoroflot',
+    name: 'designer-community-coroflot',
+    key: 'DesignerCommunityCoroflot',
     width: 24,
     height: 24,
     attributes: undefined,

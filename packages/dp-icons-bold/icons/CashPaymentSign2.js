@@ -1,5 +1,6 @@
 export default {
-    name: 'CashPaymentSign2',
+    name: 'cash-payment-sign-2',
+    key: 'CashPaymentSign2',
     width: 24,
     height: 24,
     attributes: undefined,

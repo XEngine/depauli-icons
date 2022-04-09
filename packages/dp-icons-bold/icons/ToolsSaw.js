@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsSaw',
+    name: 'tools-saw',
+    key: 'ToolsSaw',
     width: 24,
     height: 24,
     attributes: undefined,

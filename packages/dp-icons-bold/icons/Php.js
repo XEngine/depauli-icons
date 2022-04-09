@@ -1,5 +1,6 @@
 export default {
-    name: 'Php',
+    name: 'php',
+    key: 'Php',
     width: 24,
     height: 24,
     attributes: undefined,

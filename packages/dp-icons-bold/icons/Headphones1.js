@@ -1,5 +1,6 @@
 export default {
-    name: 'Headphones1',
+    name: 'headphones-1',
+    key: 'Headphones1',
     width: 24,
     height: 24,
     attributes: undefined,

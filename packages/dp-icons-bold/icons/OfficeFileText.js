@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileText',
+    name: 'office-file-text',
+    key: 'OfficeFileText',
     width: 24,
     height: 24,
     attributes: undefined,

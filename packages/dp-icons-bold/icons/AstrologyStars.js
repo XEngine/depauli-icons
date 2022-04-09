@@ -1,5 +1,6 @@
 export default {
-    name: 'AstrologyStars',
+    name: 'astrology-stars',
+    key: 'AstrologyStars',
     width: 24,
     height: 24,
     attributes: undefined,

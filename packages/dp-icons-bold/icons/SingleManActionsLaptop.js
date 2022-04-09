@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsLaptop',
+    name: 'single-man-actions-laptop',
+    key: 'SingleManActionsLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

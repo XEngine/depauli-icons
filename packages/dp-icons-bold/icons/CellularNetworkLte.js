@@ -1,5 +1,6 @@
 export default {
-    name: 'CellularNetworkLte',
+    name: 'cellular-network-lte',
+    key: 'CellularNetworkLte',
     width: 24,
     height: 24,
     attributes: undefined,

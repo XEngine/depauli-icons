@@ -1,5 +1,6 @@
 export default {
-    name: 'BagElegant',
+    name: 'bag-elegant',
+    key: 'BagElegant',
     width: 24,
     height: 24,
     attributes: undefined,

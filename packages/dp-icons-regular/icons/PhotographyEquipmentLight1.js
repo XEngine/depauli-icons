@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotographyEquipmentLight1',
+    name: 'photography-equipment-light-1',
+    key: 'PhotographyEquipmentLight1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

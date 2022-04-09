@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmyBadge',
+    name: 'army-badge',
+    key: 'ArmyBadge',
     width: 24,
     height: 24,
     attributes: undefined,

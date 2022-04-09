@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingDollar',
+    name: 'real-estate-action-building-dollar',
+    key: 'RealEstateActionBuildingDollar',
     width: 24,
     height: 24,
     attributes: undefined,

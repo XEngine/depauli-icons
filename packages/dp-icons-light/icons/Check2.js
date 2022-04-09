@@ -1,5 +1,6 @@
 export default {
-    name: 'Check2',
+    name: 'check-2',
+    key: 'Check2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

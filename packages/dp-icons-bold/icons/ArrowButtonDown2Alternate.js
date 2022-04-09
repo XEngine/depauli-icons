@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowButtonDown2Alternate',
+    name: 'arrow-button-down-2-alternate',
+    key: 'ArrowButtonDown2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

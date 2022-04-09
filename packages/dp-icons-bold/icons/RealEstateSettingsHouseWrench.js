@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateSettingsHouseWrench',
+    name: 'real-estate-settings-house-wrench',
+    key: 'RealEstateSettingsHouseWrench',
     width: 24,
     height: 24,
     attributes: undefined,

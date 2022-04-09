@@ -1,5 +1,6 @@
 export default {
-    name: 'MoneyWalletOpen',
+    name: 'money-wallet-open',
+    key: 'MoneyWalletOpen',
     width: 24,
     height: 24,
     attributes: undefined,

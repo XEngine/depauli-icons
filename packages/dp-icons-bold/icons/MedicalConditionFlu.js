@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalConditionFlu',
+    name: 'medical-condition-flu',
+    key: 'MedicalConditionFlu',
     width: 24,
     height: 24,
     attributes: undefined,

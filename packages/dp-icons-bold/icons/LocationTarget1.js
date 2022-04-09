@@ -1,5 +1,6 @@
 export default {
-    name: 'LocationTarget1',
+    name: 'location-target-1',
+    key: 'LocationTarget1',
     width: 24,
     height: 24,
     attributes: undefined,

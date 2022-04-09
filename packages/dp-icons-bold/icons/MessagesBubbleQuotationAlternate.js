@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleQuotationAlternate',
+    name: 'messages-bubble-quotation-alternate',
+    key: 'MessagesBubbleQuotationAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

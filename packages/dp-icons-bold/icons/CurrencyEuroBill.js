@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyEuroBill',
+    name: 'currency-euro-bill',
+    key: 'CurrencyEuroBill',
     width: 24,
     height: 24,
     attributes: undefined,

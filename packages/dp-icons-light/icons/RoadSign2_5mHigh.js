@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSign2_5mHigh',
+    name: 'road-sign-2-5m-high',
+    key: 'RoadSign2_5mHigh',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'TechnologyChipHold',
+    name: 'technology-chip-hold',
+    key: 'TechnologyChipHold',
     width: 24,
     height: 24,
     attributes: undefined,

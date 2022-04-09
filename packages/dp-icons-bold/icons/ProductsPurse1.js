@@ -1,5 +1,6 @@
 export default {
-    name: 'ProductsPurse1',
+    name: 'products-purse-1',
+    key: 'ProductsPurse1',
     width: 24,
     height: 24,
     attributes: undefined,

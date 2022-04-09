@@ -1,5 +1,6 @@
 export default {
-    name: 'VipCrownQueen1',
+    name: 'vip-crown-queen-1',
+    key: 'VipCrownQueen1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

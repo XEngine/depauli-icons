@@ -1,5 +1,6 @@
 export default {
-    name: 'UiBrowserSlider',
+    name: 'ui-browser-slider',
+    key: 'UiBrowserSlider',
     width: 24,
     height: 24,
     attributes: undefined,

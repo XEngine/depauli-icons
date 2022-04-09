@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmySymbolMp',
+    name: 'army-symbol-mp',
+    key: 'ArmySymbolMp',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentBrowserEdit',
+    name: 'content-browser-edit',
+    key: 'ContentBrowserEdit',
     width: 24,
     height: 24,
     attributes: undefined,

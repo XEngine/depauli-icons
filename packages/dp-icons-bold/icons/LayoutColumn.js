@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutColumn',
+    name: 'layout-column',
+    key: 'LayoutColumn',
     width: 24,
     height: 24,
     attributes: undefined,

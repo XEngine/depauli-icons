@@ -1,5 +1,6 @@
 export default {
-    name: 'NuclearEnergyMessage',
+    name: 'nuclear-energy-message',
+    key: 'NuclearEnergyMessage',
     width: 24,
     height: 24,
     attributes: undefined,

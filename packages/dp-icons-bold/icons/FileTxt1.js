@@ -1,5 +1,6 @@
 export default {
-    name: 'FileTxt1',
+    name: 'file-txt-1',
+    key: 'FileTxt1',
     width: 24,
     height: 24,
     attributes: undefined,

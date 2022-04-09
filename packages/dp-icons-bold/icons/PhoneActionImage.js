@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionImage',
+    name: 'phone-action-image',
+    key: 'PhoneActionImage',
     width: 24,
     height: 24,
     attributes: undefined,

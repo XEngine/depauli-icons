@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkLouvre',
+    name: 'landmark-louvre',
+    key: 'LandmarkLouvre',
     width: 24,
     height: 24,
     attributes: undefined,

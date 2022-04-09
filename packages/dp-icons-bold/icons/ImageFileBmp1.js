@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileBmp1',
+    name: 'image-file-bmp-1',
+    key: 'ImageFileBmp1',
     width: 24,
     height: 24,
     attributes: undefined,

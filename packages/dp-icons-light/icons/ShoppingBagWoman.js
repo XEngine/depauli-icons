@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBagWoman',
+    name: 'shopping-bag-woman',
+    key: 'ShoppingBagWoman',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

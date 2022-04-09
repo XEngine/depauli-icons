@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudSync',
+    name: 'cloud-sync',
+    key: 'CloudSync',
     width: 24,
     height: 24,
     attributes: undefined,

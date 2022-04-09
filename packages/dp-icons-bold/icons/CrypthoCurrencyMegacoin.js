@@ -1,5 +1,6 @@
 export default {
-    name: 'CrypthoCurrencyMegacoin',
+    name: 'cryptho-currency-megacoin',
+    key: 'CrypthoCurrencyMegacoin',
     width: 24,
     height: 24,
     attributes: undefined,

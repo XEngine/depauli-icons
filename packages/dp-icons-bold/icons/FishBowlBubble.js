@@ -1,5 +1,6 @@
 export default {
-    name: 'FishBowlBubble',
+    name: 'fish-bowl-bubble',
+    key: 'FishBowlBubble',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SeoEye',
+    name: 'seo-eye',
+    key: 'SeoEye',
     width: 24,
     height: 24,
     attributes: undefined,

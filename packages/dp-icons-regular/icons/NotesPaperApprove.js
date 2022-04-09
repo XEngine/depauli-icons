@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesPaperApprove',
+    name: 'notes-paper-approve',
+    key: 'NotesPaperApprove',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

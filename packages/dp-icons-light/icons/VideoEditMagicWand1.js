@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditMagicWand1',
+    name: 'video-edit-magic-wand-1',
+    key: 'VideoEditMagicWand1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

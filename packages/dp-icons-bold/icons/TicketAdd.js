@@ -1,5 +1,6 @@
 export default {
-    name: 'TicketAdd',
+    name: 'ticket-add',
+    key: 'TicketAdd',
     width: 24,
     height: 24,
     attributes: undefined,

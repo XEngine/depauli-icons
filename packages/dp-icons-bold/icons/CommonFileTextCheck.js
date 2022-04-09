@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextCheck',
+    name: 'common-file-text-check',
+    key: 'CommonFileTextCheck',
     width: 24,
     height: 24,
     attributes: undefined,

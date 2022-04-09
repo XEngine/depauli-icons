@@ -1,5 +1,6 @@
 export default {
-    name: 'FastFoodFrenchFries',
+    name: 'fast-food-french-fries',
+    key: 'FastFoodFrenchFries',
     width: 24,
     height: 24,
     attributes: undefined,

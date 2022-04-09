@@ -1,5 +1,6 @@
 export default {
-    name: 'ShowTheaterPlay',
+    name: 'show-theater-play',
+    key: 'ShowTheaterPlay',
     width: 24,
     height: 24,
     attributes: undefined,

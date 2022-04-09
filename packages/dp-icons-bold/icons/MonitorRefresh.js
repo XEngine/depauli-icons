@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorRefresh',
+    name: 'monitor-refresh',
+    key: 'MonitorRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

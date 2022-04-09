@@ -1,5 +1,6 @@
 export default {
-    name: 'BrowserUserHelpMessage',
+    name: 'browser-user-help-message',
+    key: 'BrowserUserHelpMessage',
     width: 24,
     height: 24,
     attributes: undefined,

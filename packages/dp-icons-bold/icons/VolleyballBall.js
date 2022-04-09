@@ -1,5 +1,6 @@
 export default {
-    name: 'VolleyballBall',
+    name: 'volleyball-ball',
+    key: 'VolleyballBall',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NightPass',
+    name: 'night-pass',
+    key: 'NightPass',
     width: 24,
     height: 24,
     attributes: undefined,

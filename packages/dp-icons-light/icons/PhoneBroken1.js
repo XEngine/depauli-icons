@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneBroken1',
+    name: 'phone-broken-1',
+    key: 'PhoneBroken1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

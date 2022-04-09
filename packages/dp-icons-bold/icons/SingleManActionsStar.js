@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsStar',
+    name: 'single-man-actions-star',
+    key: 'SingleManActionsStar',
     width: 24,
     height: 24,
     attributes: undefined,

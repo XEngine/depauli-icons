@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateMessageChatBuilding',
+    name: 'real-estate-message-chat-building',
+    key: 'RealEstateMessageChatBuilding',
     width: 24,
     height: 24,
     attributes: undefined,

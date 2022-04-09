@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveSquare1Alternate',
+    name: 'remove-square-1-alternate',
+    key: 'RemoveSquare1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

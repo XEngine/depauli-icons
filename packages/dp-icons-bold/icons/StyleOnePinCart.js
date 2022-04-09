@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinCart',
+    name: 'style-one-pin-cart',
+    key: 'StyleOnePinCart',
     width: 24,
     height: 24,
     attributes: undefined,

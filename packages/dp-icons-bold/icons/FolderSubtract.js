@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderSubtract',
+    name: 'folder-subtract',
+    key: 'FolderSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceMomentum',
+    name: 'science-momentum',
+    key: 'ScienceMomentum',
     width: 24,
     height: 24,
     attributes: undefined,

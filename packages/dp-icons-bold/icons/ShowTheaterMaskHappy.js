@@ -1,5 +1,6 @@
 export default {
-    name: 'ShowTheaterMaskHappy',
+    name: 'show-theater-mask-happy',
+    key: 'ShowTheaterMaskHappy',
     width: 24,
     height: 24,
     attributes: undefined,

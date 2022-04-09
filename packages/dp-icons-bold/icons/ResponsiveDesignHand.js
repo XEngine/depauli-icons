@@ -1,5 +1,6 @@
 export default {
-    name: 'ResponsiveDesignHand',
+    name: 'responsive-design-hand',
+    key: 'ResponsiveDesignHand',
     width: 24,
     height: 24,
     attributes: undefined,

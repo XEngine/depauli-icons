@@ -1,5 +1,6 @@
 export default {
-    name: 'AbTestingBrowsers',
+    name: 'ab-testing-browsers',
+    key: 'AbTestingBrowsers',
     width: 24,
     height: 24,
     attributes: undefined,

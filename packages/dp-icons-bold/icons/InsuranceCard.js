@@ -1,5 +1,6 @@
 export default {
-    name: 'InsuranceCard',
+    name: 'insurance-card',
+    key: 'InsuranceCard',
     width: 24,
     height: 24,
     attributes: undefined,

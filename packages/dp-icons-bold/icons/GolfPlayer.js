@@ -1,5 +1,6 @@
 export default {
-    name: 'GolfPlayer',
+    name: 'golf-player',
+    key: 'GolfPlayer',
     width: 24,
     height: 24,
     attributes: undefined,

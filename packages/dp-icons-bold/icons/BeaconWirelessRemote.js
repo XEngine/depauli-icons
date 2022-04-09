@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconWirelessRemote',
+    name: 'beacon-wireless-remote',
+    key: 'BeaconWirelessRemote',
     width: 24,
     height: 24,
     attributes: undefined,

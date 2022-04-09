@@ -1,5 +1,6 @@
 export default {
-    name: 'ClothesDesignThread',
+    name: 'clothes-design-thread',
+    key: 'ClothesDesignThread',
     width: 24,
     height: 24,
     attributes: undefined,

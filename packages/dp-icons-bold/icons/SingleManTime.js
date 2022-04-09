@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManTime',
+    name: 'single-man-time',
+    key: 'SingleManTime',
     width: 24,
     height: 24,
     attributes: undefined,

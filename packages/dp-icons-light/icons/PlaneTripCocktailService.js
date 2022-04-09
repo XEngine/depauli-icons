@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneTripCocktailService',
+    name: 'plane-trip-cocktail-service',
+    key: 'PlaneTripCocktailService',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

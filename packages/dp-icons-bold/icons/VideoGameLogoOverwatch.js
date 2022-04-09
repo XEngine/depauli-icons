@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoOverwatch',
+    name: 'video-game-logo-overwatch',
+    key: 'VideoGameLogoOverwatch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AlertMessageLaptop',
+    name: 'alert-message-laptop',
+    key: 'AlertMessageLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderDownloadAlternate',
+    name: 'folder-download-alternate',
+    key: 'FolderDownloadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

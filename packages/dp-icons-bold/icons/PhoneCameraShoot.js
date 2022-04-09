@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneCameraShoot',
+    name: 'phone-camera-shoot',
+    key: 'PhoneCameraShoot',
     width: 24,
     height: 24,
     attributes: undefined,

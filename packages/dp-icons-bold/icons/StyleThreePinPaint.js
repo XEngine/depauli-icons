@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPaint',
+    name: 'style-three-pin-paint',
+    key: 'StyleThreePinPaint',
     width: 24,
     height: 24,
     attributes: undefined,

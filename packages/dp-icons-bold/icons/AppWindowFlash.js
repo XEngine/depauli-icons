@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowFlash',
+    name: 'app-window-flash',
+    key: 'AppWindowFlash',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileDisk',
+    name: 'audio-file-disk',
+    key: 'AudioFileDisk',
     width: 24,
     height: 24,
     attributes: undefined,

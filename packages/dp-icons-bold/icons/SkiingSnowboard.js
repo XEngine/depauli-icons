@@ -1,5 +1,6 @@
 export default {
-    name: 'SkiingSnowboard',
+    name: 'skiing-snowboard',
+    key: 'SkiingSnowboard',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TicketClock',
+    name: 'ticket-clock',
+    key: 'TicketClock',
     width: 24,
     height: 24,
     attributes: undefined,

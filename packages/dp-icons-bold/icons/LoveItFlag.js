@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItFlag',
+    name: 'love-it-flag',
+    key: 'LoveItFlag',
     width: 24,
     height: 24,
     attributes: undefined,

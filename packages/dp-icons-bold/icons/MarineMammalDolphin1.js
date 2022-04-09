@@ -1,5 +1,6 @@
 export default {
-    name: 'MarineMammalDolphin1',
+    name: 'marine-mammal-dolphin-1',
+    key: 'MarineMammalDolphin1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMusicGrooveshark',
+    name: 'social-music-grooveshark',
+    key: 'SocialMusicGrooveshark',
     width: 24,
     height: 24,
     attributes: undefined,

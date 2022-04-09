@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageMan1',
+    name: 'vintage-man-1',
+    key: 'VintageMan1',
     width: 24,
     height: 24,
     attributes: undefined,

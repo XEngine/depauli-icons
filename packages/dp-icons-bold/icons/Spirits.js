@@ -1,5 +1,6 @@
 export default {
-    name: 'Spirits',
+    name: 'spirits',
+    key: 'Spirits',
     width: 24,
     height: 24,
     attributes: undefined,

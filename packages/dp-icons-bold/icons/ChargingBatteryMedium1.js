@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryMedium1',
+    name: 'charging-battery-medium-1',
+    key: 'ChargingBatteryMedium1',
     width: 24,
     height: 24,
     attributes: undefined,

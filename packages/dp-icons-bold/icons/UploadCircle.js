@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadCircle',
+    name: 'upload-circle',
+    key: 'UploadCircle',
     width: 24,
     height: 24,
     attributes: undefined,

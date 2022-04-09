@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsHorizontal',
+    name: 'settings-horizontal',
+    key: 'SettingsHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareEmail',
+    name: 'smart-watch-square-email',
+    key: 'SmartWatchSquareEmail',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

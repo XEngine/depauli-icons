@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinJudaism',
+    name: 'style-three-pin-judaism',
+    key: 'StyleThreePinJudaism',
     width: 24,
     height: 24,
     attributes: undefined,

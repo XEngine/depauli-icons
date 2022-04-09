@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherSun',
+    name: 'weather-sun',
+    key: 'WeatherSun',
     width: 24,
     height: 24,
     attributes: undefined,

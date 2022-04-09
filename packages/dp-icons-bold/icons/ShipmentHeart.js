@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentHeart',
+    name: 'shipment-heart',
+    key: 'ShipmentHeart',
     width: 24,
     height: 24,
     attributes: undefined,

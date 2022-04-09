@@ -1,5 +1,6 @@
 export default {
-    name: 'BeachParasolWater1',
+    name: 'beach-parasol-water-1',
+    key: 'BeachParasolWater1',
     width: 24,
     height: 24,
     attributes: undefined,

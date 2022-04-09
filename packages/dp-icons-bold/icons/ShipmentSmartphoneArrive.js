@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentSmartphoneArrive',
+    name: 'shipment-smartphone-arrive',
+    key: 'ShipmentSmartphoneArrive',
     width: 24,
     height: 24,
     attributes: undefined,

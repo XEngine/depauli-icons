@@ -1,5 +1,6 @@
 export default {
-    name: 'InsertImageTop',
+    name: 'insert-image-top',
+    key: 'InsertImageTop',
     width: 24,
     height: 24,
     attributes: undefined,

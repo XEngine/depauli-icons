@@ -1,5 +1,6 @@
 export default {
-    name: 'PollutionSkull',
+    name: 'pollution-skull',
+    key: 'PollutionSkull',
     width: 24,
     height: 24,
     attributes: undefined,

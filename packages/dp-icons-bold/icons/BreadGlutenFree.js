@@ -1,5 +1,6 @@
 export default {
-    name: 'BreadGlutenFree',
+    name: 'bread-gluten-free',
+    key: 'BreadGlutenFree',
     width: 24,
     height: 24,
     attributes: undefined,

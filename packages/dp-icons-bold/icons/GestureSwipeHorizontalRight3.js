@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureSwipeHorizontalRight3',
+    name: 'gesture-swipe-horizontal-right-3',
+    key: 'GestureSwipeHorizontalRight3',
     width: 24,
     height: 24,
     attributes: undefined,

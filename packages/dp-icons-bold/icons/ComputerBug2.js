@@ -1,5 +1,6 @@
 export default {
-    name: 'ComputerBug2',
+    name: 'computer-bug-2',
+    key: 'ComputerBug2',
     width: 24,
     height: 24,
     attributes: undefined,

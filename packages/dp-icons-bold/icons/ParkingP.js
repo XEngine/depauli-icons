@@ -1,5 +1,6 @@
 export default {
-    name: 'ParkingP',
+    name: 'parking-p',
+    key: 'ParkingP',
     width: 24,
     height: 24,
     attributes: undefined,

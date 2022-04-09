@@ -1,5 +1,6 @@
 export default {
-    name: 'FeedNewsVine',
+    name: 'feed-news-vine',
+    key: 'FeedNewsVine',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItDownload',
+    name: 'love-it-download',
+    key: 'LoveItDownload',
     width: 24,
     height: 24,
     attributes: undefined,

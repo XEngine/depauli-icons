@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyDecodeAlternate',
+    name: 'smiley-decode-alternate',
+    key: 'SmileyDecodeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

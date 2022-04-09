@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicTree1',
+    name: 'organic-tree-1',
+    key: 'OrganicTree1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

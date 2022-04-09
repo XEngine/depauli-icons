@@ -1,5 +1,6 @@
 export default {
-    name: 'AnswerMachine',
+    name: 'answer-machine',
+    key: 'AnswerMachine',
     width: 24,
     height: 24,
     attributes: undefined,

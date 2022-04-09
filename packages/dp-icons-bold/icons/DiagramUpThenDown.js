@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramUpThenDown',
+    name: 'diagram-up-then-down',
+    key: 'DiagramUpThenDown',
     width: 24,
     height: 24,
     attributes: undefined,

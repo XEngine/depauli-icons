@@ -1,5 +1,6 @@
 export default {
-    name: 'NauticSportsSailing',
+    name: 'nautic-sports-sailing',
+    key: 'NauticSportsSailing',
     width: 24,
     height: 24,
     attributes: undefined,

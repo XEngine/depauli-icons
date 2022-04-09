@@ -1,5 +1,6 @@
 export default {
-    name: 'Superscript',
+    name: 'superscript',
+    key: 'Superscript',
     width: 24,
     height: 24,
     attributes: undefined,

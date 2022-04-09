@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyYawnAlternate',
+    name: 'smiley-yawn-alternate',
+    key: 'SmileyYawnAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsOn',
+    name: 'settings-on',
+    key: 'SettingsOn',
     width: 24,
     height: 24,
     attributes: undefined,

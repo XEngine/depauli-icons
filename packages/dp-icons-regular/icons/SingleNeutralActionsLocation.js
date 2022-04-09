@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsLocation',
+    name: 'single-neutral-actions-location',
+    key: 'SingleNeutralActionsLocation',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

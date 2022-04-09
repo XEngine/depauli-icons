@@ -1,5 +1,6 @@
 export default {
-    name: 'Torch',
+    name: 'torch',
+    key: 'Torch',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameFriendSter',
+    name: 'video-game-friend-ster',
+    key: 'VideoGameFriendSter',
     width: 24,
     height: 24,
     attributes: undefined,

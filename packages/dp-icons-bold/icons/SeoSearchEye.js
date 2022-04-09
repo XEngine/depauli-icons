@@ -1,5 +1,6 @@
 export default {
-    name: 'SeoSearchEye',
+    name: 'seo-search-eye',
+    key: 'SeoSearchEye',
     width: 24,
     height: 24,
     attributes: undefined,

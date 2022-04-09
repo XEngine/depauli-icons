@@ -1,5 +1,6 @@
 export default {
-    name: 'ChatTranslate',
+    name: 'chat-translate',
+    key: 'ChatTranslate',
     width: 24,
     height: 24,
     attributes: undefined,

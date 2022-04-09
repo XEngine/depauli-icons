@@ -1,5 +1,6 @@
 export default {
-    name: 'CheckShieldAlternate',
+    name: 'check-shield-alternate',
+    key: 'CheckShieldAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

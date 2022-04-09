@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionalToolEvernote',
+    name: 'professional-tool-evernote',
+    key: 'ProfessionalToolEvernote',
     width: 24,
     height: 24,
     attributes: undefined,

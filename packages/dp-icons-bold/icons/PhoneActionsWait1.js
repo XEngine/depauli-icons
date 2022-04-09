@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsWait1',
+    name: 'phone-actions-wait-1',
+    key: 'PhoneActionsWait1',
     width: 24,
     height: 24,
     attributes: undefined,

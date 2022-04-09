@@ -1,5 +1,6 @@
 export default {
-    name: 'Hedgehog',
+    name: 'hedgehog',
+    key: 'Hedgehog',
     width: 24,
     height: 24,
     attributes: undefined,

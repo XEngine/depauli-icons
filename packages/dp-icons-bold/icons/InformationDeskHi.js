@@ -1,5 +1,6 @@
 export default {
-    name: 'InformationDeskHi',
+    name: 'information-desk-hi',
+    key: 'InformationDeskHi',
     width: 24,
     height: 24,
     attributes: undefined,

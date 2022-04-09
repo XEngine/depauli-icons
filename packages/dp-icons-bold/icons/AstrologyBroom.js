@@ -1,5 +1,6 @@
 export default {
-    name: 'AstrologyBroom',
+    name: 'astrology-broom',
+    key: 'AstrologyBroom',
     width: 24,
     height: 24,
     attributes: undefined,

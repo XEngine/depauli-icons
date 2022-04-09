@@ -1,5 +1,6 @@
 export default {
-    name: 'CasinoGoldBars',
+    name: 'casino-gold-bars',
+    key: 'CasinoGoldBars',
     width: 24,
     height: 24,
     attributes: undefined,

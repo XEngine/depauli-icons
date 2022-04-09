@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowCloud',
+    name: 'app-window-cloud',
+    key: 'AppWindowCloud',
     width: 24,
     height: 24,
     attributes: undefined,

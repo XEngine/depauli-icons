@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmySymbolSignals',
+    name: 'army-symbol-signals',
+    key: 'ArmySymbolSignals',
     width: 24,
     height: 24,
     attributes: undefined,

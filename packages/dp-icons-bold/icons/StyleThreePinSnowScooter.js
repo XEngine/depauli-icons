@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSnowScooter',
+    name: 'style-three-pin-snow-scooter',
+    key: 'StyleThreePinSnowScooter',
     width: 24,
     height: 24,
     attributes: undefined,

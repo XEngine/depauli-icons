@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditCut',
+    name: 'video-edit-cut',
+    key: 'VideoEditCut',
     width: 24,
     height: 24,
     attributes: undefined,

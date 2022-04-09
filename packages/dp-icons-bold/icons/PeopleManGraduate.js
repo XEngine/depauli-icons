@@ -1,5 +1,6 @@
 export default {
-    name: 'PeopleManGraduate',
+    name: 'people-man-graduate',
+    key: 'PeopleManGraduate',
     width: 24,
     height: 24,
     attributes: undefined,

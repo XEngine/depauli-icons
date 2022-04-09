@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenShelf',
+    name: 'kitchen-shelf',
+    key: 'KitchenShelf',
     width: 24,
     height: 24,
     attributes: undefined,

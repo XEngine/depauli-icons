@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanPhoneBook',
+    name: 'single-woman-phone-book',
+    key: 'SingleWomanPhoneBook',
     width: 24,
     height: 24,
     attributes: undefined,

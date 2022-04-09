@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingCarHeartBalloon',
+    name: 'wedding-car-heart-balloon',
+    key: 'WeddingCarHeartBalloon',
     width: 24,
     height: 24,
     attributes: undefined,

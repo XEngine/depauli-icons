@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseLockAlternate',
+    name: 'database-lock-alternate',
+    key: 'DatabaseLockAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

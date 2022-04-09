@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsHorse',
+    name: 'outdoors-horse',
+    key: 'OutdoorsHorse',
     width: 24,
     height: 24,
     attributes: undefined,

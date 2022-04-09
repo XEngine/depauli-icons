@@ -1,5 +1,6 @@
 export default {
-    name: 'TargetCenterMonitor',
+    name: 'target-center-monitor',
+    key: 'TargetCenterMonitor',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

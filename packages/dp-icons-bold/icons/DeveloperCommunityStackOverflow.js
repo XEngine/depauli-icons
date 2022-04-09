@@ -1,5 +1,6 @@
 export default {
-    name: 'DeveloperCommunityStackOverflow',
+    name: 'developer-community-stack-overflow',
+    key: 'DeveloperCommunityStackOverflow',
     width: 24,
     height: 24,
     attributes: undefined,

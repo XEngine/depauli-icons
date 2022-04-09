@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardWireless',
+    name: 'keyboard-wireless',
+    key: 'KeyboardWireless',
     width: 24,
     height: 24,
     attributes: undefined,

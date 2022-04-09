@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignNoUTurn',
+    name: 'road-sign-no-u-turn',
+    key: 'RoadSignNoUTurn',
     width: 24,
     height: 24,
     attributes: undefined,

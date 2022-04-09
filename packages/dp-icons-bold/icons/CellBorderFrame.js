@@ -1,5 +1,6 @@
 export default {
-    name: 'CellBorderFrame',
+    name: 'cell-border-frame',
+    key: 'CellBorderFrame',
     width: 24,
     height: 24,
     attributes: undefined,

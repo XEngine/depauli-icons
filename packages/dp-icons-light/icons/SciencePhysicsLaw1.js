@@ -1,5 +1,6 @@
 export default {
-    name: 'SciencePhysicsLaw1',
+    name: 'science-physics-law-1',
+    key: 'SciencePhysicsLaw1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

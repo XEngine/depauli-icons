@@ -1,5 +1,6 @@
 export default {
-    name: 'CertifiedRibbon1',
+    name: 'certified-ribbon-1',
+    key: 'CertifiedRibbon1',
     width: 24,
     height: 24,
     attributes: undefined,

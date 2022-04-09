@@ -1,5 +1,6 @@
 export default {
-    name: 'ReptileRattlesnake1',
+    name: 'reptile-rattlesnake-1',
+    key: 'ReptileRattlesnake1',
     width: 24,
     height: 24,
     attributes: undefined,

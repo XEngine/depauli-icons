@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterCamera',
+    name: 'paginate-filter-camera',
+    key: 'PaginateFilterCamera',
     width: 24,
     height: 24,
     attributes: undefined,

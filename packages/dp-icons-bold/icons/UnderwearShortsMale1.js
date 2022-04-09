@@ -1,5 +1,6 @@
 export default {
-    name: 'UnderwearShortsMale1',
+    name: 'underwear-shorts-male-1',
+    key: 'UnderwearShortsMale1',
     width: 24,
     height: 24,
     attributes: undefined,

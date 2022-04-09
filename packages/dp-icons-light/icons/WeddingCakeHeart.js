@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingCakeHeart',
+    name: 'wedding-cake-heart',
+    key: 'WeddingCakeHeart',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

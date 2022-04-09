@@ -1,5 +1,6 @@
 export default {
-    name: 'MoodWarning',
+    name: 'mood-warning',
+    key: 'MoodWarning',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseSettingsAlternate',
+    name: 'database-settings-alternate',
+    key: 'DatabaseSettingsAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

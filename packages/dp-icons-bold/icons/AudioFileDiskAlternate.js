@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileDiskAlternate',
+    name: 'audio-file-disk-alternate',
+    key: 'AudioFileDiskAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

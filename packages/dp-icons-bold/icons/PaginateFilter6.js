@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilter6',
+    name: 'paginate-filter-6',
+    key: 'PaginateFilter6',
     width: 24,
     height: 24,
     attributes: undefined,

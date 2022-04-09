@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmBell',
+    name: 'alarm-bell',
+    key: 'AlarmBell',
     width: 24,
     height: 24,
     attributes: undefined,

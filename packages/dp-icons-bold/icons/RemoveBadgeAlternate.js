@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveBadgeAlternate',
+    name: 'remove-badge-alternate',
+    key: 'RemoveBadgeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

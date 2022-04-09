@@ -1,5 +1,6 @@
 export default {
-    name: 'Shell2',
+    name: 'shell-2',
+    key: 'Shell2',
     width: 24,
     height: 24,
     attributes: undefined,

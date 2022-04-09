@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsManMagician',
+    name: 'professions-man-magician',
+    key: 'ProfessionsManMagician',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

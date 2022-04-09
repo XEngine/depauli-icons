@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonLoop1',
+    name: 'button-loop-1',
+    key: 'ButtonLoop1',
     width: 24,
     height: 24,
     attributes: undefined,

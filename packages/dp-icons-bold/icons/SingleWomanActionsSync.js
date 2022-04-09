@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsSync',
+    name: 'single-woman-actions-sync',
+    key: 'SingleWomanActionsSync',
     width: 24,
     height: 24,
     attributes: undefined,

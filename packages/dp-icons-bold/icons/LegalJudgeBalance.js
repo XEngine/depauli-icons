@@ -1,5 +1,6 @@
 export default {
-    name: 'LegalJudgeBalance',
+    name: 'legal-judge-balance',
+    key: 'LegalJudgeBalance',
     width: 24,
     height: 24,
     attributes: undefined,

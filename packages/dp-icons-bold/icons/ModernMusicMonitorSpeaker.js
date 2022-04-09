@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernMusicMonitorSpeaker',
+    name: 'modern-music-monitor-speaker',
+    key: 'ModernMusicMonitorSpeaker',
     width: 24,
     height: 24,
     attributes: undefined,

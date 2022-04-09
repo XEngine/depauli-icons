@@ -1,5 +1,6 @@
 export default {
-    name: 'Add',
+    name: 'add',
+    key: 'Add',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RetouchGraph',
+    name: 'retouch-graph',
+    key: 'RetouchGraph',
     width: 24,
     height: 24,
     attributes: undefined,

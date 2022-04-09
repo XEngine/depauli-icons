@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageWoman1',
+    name: 'vintage-woman-1',
+    key: 'VintageWoman1',
     width: 24,
     height: 24,
     attributes: undefined,

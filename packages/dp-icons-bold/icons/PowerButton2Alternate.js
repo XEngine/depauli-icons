@@ -1,5 +1,6 @@
 export default {
-    name: 'PowerButton2Alternate',
+    name: 'power-button-2-alternate',
+    key: 'PowerButton2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

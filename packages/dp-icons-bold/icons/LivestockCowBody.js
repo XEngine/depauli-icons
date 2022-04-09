@@ -1,5 +1,6 @@
 export default {
-    name: 'LivestockCowBody',
+    name: 'livestock-cow-body',
+    key: 'LivestockCowBody',
     width: 24,
     height: 24,
     attributes: undefined,

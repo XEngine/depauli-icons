@@ -1,5 +1,6 @@
 export default {
-    name: 'BarcodeScan',
+    name: 'barcode-scan',
+    key: 'BarcodeScan',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

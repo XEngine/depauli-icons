@@ -1,5 +1,6 @@
 export default {
-    name: 'AnswerMachinePaper',
+    name: 'answer-machine-paper',
+    key: 'AnswerMachinePaper',
     width: 24,
     height: 24,
     attributes: undefined,

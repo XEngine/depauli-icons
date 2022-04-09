@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonLoopArrow',
+    name: 'button-loop-arrow',
+    key: 'ButtonLoopArrow',
     width: 24,
     height: 24,
     attributes: undefined,

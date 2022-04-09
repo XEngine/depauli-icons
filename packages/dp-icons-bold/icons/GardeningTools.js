@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningTools',
+    name: 'gardening-tools',
+    key: 'GardeningTools',
     width: 24,
     height: 24,
     attributes: undefined,

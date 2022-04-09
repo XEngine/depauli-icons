@@ -1,5 +1,6 @@
 export default {
-    name: 'TabletTouch1',
+    name: 'tablet-touch-1',
+    key: 'TabletTouch1',
     width: 24,
     height: 24,
     attributes: undefined,

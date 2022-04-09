@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCard1',
+    name: 'credit-card-1',
+    key: 'CreditCard1',
     width: 24,
     height: 24,
     attributes: undefined,

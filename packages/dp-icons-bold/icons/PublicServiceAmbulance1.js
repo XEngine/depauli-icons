@@ -1,5 +1,6 @@
 export default {
-    name: 'PublicServiceAmbulance1',
+    name: 'public-service-ambulance-1',
+    key: 'PublicServiceAmbulance1',
     width: 24,
     height: 24,
     attributes: undefined,

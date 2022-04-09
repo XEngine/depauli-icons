@@ -1,5 +1,6 @@
 export default {
-    name: 'HardwareNail',
+    name: 'hardware-nail',
+    key: 'HardwareNail',
     width: 24,
     height: 24,
     attributes: undefined,

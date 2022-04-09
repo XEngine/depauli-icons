@@ -1,5 +1,6 @@
 export default {
-    name: 'FootwearSneakers1',
+    name: 'footwear-sneakers-1',
+    key: 'FootwearSneakers1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ElephantWater',
+    name: 'elephant-water',
+    key: 'ElephantWater',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RecyclingRefresh',
+    name: 'recycling-refresh',
+    key: 'RecyclingRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

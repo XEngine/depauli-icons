@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSlotMachine',
+    name: 'style-three-pin-slot-machine',
+    key: 'StyleThreePinSlotMachine',
     width: 24,
     height: 24,
     attributes: undefined,

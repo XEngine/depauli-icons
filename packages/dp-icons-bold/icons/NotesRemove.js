@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesRemove',
+    name: 'notes-remove',
+    key: 'NotesRemove',
     width: 24,
     height: 24,
     attributes: undefined,

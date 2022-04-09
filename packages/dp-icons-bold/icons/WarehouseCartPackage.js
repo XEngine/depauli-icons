@@ -1,5 +1,6 @@
 export default {
-    name: 'WarehouseCartPackage',
+    name: 'warehouse-cart-package',
+    key: 'WarehouseCartPackage',
     width: 24,
     height: 24,
     attributes: undefined,

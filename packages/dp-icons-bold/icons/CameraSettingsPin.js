@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraSettingsPin',
+    name: 'camera-settings-pin',
+    key: 'CameraSettingsPin',
     width: 24,
     height: 24,
     attributes: undefined,

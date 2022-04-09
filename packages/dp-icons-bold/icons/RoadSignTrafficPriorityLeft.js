@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignTrafficPriorityLeft',
+    name: 'road-sign-traffic-priority-left',
+    key: 'RoadSignTrafficPriorityLeft',
     width: 24,
     height: 24,
     attributes: undefined,

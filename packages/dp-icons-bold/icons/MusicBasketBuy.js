@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicBasketBuy',
+    name: 'music-basket-buy',
+    key: 'MusicBasketBuy',
     width: 24,
     height: 24,
     attributes: undefined,

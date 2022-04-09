@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignKeepRight',
+    name: 'road-sign-keep-right',
+    key: 'RoadSignKeepRight',
     width: 24,
     height: 24,
     attributes: undefined,

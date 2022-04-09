@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesHeart',
+    name: 'notes-heart',
+    key: 'NotesHeart',
     width: 24,
     height: 24,
     attributes: undefined,

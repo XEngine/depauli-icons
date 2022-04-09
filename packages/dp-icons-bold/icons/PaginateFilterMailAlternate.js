@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterMailAlternate',
+    name: 'paginate-filter-mail-alternate',
+    key: 'PaginateFilterMailAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

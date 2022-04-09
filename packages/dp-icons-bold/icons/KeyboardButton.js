@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardButton',
+    name: 'keyboard-button',
+    key: 'KeyboardButton',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ConsoleTable',
+    name: 'console-table',
+    key: 'ConsoleTable',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

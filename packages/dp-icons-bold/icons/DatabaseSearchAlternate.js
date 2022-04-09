@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseSearchAlternate',
+    name: 'database-search-alternate',
+    key: 'DatabaseSearchAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

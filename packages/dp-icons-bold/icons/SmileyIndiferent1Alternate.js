@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyIndiferent1Alternate',
+    name: 'smiley-indiferent-1-alternate',
+    key: 'SmileyIndiferent1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

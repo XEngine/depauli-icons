@@ -1,5 +1,6 @@
 export default {
-    name: 'MobileShoppingShop',
+    name: 'mobile-shopping-shop',
+    key: 'MobileShoppingShop',
     width: 24,
     height: 24,
     attributes: undefined,

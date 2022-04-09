@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsTunnelDiode',
+    name: 'electronics-tunnel-diode',
+    key: 'ElectronicsTunnelDiode',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsImage',
+    name: 'single-neutral-actions-image',
+    key: 'SingleNeutralActionsImage',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

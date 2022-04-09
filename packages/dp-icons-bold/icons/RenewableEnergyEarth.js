@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergyEarth',
+    name: 'renewable-energy-earth',
+    key: 'RenewableEnergyEarth',
     width: 24,
     height: 24,
     attributes: undefined,

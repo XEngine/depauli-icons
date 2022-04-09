@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioBookRecordMicrophoneF',
+    name: 'audio-book-record-microphone-f',
+    key: 'AudioBookRecordMicrophoneF',
     width: 24,
     height: 24,
     attributes: undefined,

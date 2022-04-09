@@ -1,5 +1,6 @@
 export default {
-    name: 'TableLampColorful',
+    name: 'table-lamp-colorful',
+    key: 'TableLampColorful',
     width: 24,
     height: 24,
     attributes: undefined,

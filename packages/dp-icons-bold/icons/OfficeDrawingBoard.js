@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeDrawingBoard',
+    name: 'office-drawing-board',
+    key: 'OfficeDrawingBoard',
     width: 24,
     height: 24,
     attributes: undefined,

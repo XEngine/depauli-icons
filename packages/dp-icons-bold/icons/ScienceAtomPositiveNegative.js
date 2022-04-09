@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceAtomPositiveNegative',
+    name: 'science-atom-positive-negative',
+    key: 'ScienceAtomPositiveNegative',
     width: 24,
     height: 24,
     attributes: undefined,

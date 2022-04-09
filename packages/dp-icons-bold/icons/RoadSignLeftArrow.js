@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignLeftArrow',
+    name: 'road-sign-left-arrow',
+    key: 'RoadSignLeftArrow',
     width: 24,
     height: 24,
     attributes: undefined,

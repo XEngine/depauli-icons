@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorDropOff',
+    name: 'color-drop-off',
+    key: 'ColorDropOff',
     width: 24,
     height: 24,
     attributes: undefined,

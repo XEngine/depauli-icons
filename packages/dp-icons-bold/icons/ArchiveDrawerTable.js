@@ -1,5 +1,6 @@
 export default {
-    name: 'ArchiveDrawerTable',
+    name: 'archive-drawer-table',
+    key: 'ArchiveDrawerTable',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleMan',
+    name: 'multiple-man',
+    key: 'MultipleMan',
     width: 24,
     height: 24,
     attributes: undefined,

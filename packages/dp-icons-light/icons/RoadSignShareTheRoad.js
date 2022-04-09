@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignShareTheRoad',
+    name: 'road-sign-share-the-road',
+    key: 'RoadSignShareTheRoad',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyChildPlayBallWarning',
+    name: 'family-child-play-ball-warning',
+    key: 'FamilyChildPlayBallWarning',
     width: 24,
     height: 24,
     attributes: undefined,

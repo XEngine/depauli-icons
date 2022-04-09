@@ -1,5 +1,6 @@
 export default {
-    name: 'CleaningVacuum2',
+    name: 'cleaning-vacuum-2',
+    key: 'CleaningVacuum2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkQuestion',
+    name: 'network-question',
+    key: 'NetworkQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

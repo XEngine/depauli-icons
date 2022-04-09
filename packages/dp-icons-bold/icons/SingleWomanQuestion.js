@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanQuestion',
+    name: 'single-woman-question',
+    key: 'SingleWomanQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

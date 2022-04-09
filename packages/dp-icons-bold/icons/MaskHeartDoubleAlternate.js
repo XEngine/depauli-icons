@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskHeartDoubleAlternate',
+    name: 'mask-heart-double-alternate',
+    key: 'MaskHeartDoubleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

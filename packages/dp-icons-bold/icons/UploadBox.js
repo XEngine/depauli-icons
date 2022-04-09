@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadBox',
+    name: 'upload-box',
+    key: 'UploadBox',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergyBatteryCharge',
+    name: 'renewable-energy-battery-charge',
+    key: 'RenewableEnergyBatteryCharge',
     width: 24,
     height: 24,
     attributes: undefined,

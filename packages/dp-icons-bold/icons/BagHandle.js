@@ -1,5 +1,6 @@
 export default {
-    name: 'BagHandle',
+    name: 'bag-handle',
+    key: 'BagHandle',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditCcTitles',
+    name: 'video-edit-cc-titles',
+    key: 'VideoEditCcTitles',
     width: 24,
     height: 24,
     attributes: undefined,

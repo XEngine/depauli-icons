@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsGraduate',
+    name: 'multiple-actions-graduate',
+    key: 'MultipleActionsGraduate',
     width: 24,
     height: 24,
     attributes: undefined,

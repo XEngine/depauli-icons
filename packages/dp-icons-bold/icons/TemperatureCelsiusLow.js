@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureCelsiusLow',
+    name: 'temperature-celsius-low',
+    key: 'TemperatureCelsiusLow',
     width: 24,
     height: 24,
     attributes: undefined,

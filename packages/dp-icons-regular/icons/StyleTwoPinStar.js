@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinStar',
+    name: 'style-two-pin-star',
+    key: 'StyleTwoPinStar',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

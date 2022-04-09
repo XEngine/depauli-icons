@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyBoard',
+    name: 'safety-board',
+    key: 'SafetyBoard',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CasinoPlayerWoman',
+    name: 'casino-player-woman',
+    key: 'CasinoPlayerWoman',
     width: 24,
     height: 24,
     attributes: undefined,

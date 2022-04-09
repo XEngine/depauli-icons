@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrangeLetter',
+    name: 'arrange-letter',
+    key: 'ArrangeLetter',
     width: 24,
     height: 24,
     attributes: undefined,

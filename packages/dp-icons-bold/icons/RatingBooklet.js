@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingBooklet',
+    name: 'rating-booklet',
+    key: 'RatingBooklet',
     width: 24,
     height: 24,
     attributes: undefined,

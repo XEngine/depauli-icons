@@ -1,5 +1,6 @@
 export default {
-    name: 'PlantBamboo',
+    name: 'plant-bamboo',
+    key: 'PlantBamboo',
     width: 24,
     height: 24,
     attributes: undefined,

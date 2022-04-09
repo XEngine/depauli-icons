@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCroissant',
+    name: 'style-three-pin-croissant',
+    key: 'StyleThreePinCroissant',
     width: 24,
     height: 24,
     attributes: undefined,

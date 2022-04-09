@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseHandAlternate',
+    name: 'database-hand-alternate',
+    key: 'DatabaseHandAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

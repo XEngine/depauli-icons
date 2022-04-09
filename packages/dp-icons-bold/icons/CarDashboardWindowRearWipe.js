@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardWindowRearWipe',
+    name: 'car-dashboard-window-rear-wipe',
+    key: 'CarDashboardWindowRearWipe',
     width: 24,
     height: 24,
     attributes: undefined,

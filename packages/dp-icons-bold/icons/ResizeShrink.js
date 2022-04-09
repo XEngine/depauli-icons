@@ -1,5 +1,6 @@
 export default {
-    name: 'ResizeShrink',
+    name: 'resize-shrink',
+    key: 'ResizeShrink',
     width: 24,
     height: 24,
     attributes: undefined,

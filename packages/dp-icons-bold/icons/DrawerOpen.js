@@ -1,5 +1,6 @@
 export default {
-    name: 'DrawerOpen',
+    name: 'drawer-open',
+    key: 'DrawerOpen',
     width: 24,
     height: 24,
     attributes: undefined,

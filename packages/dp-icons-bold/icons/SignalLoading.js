@@ -1,5 +1,6 @@
 export default {
-    name: 'SignalLoading',
+    name: 'signal-loading',
+    key: 'SignalLoading',
     width: 24,
     height: 24,
     attributes: undefined,

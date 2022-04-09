@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkWww',
+    name: 'network-www',
+    key: 'NetworkWww',
     width: 24,
     height: 24,
     attributes: undefined,

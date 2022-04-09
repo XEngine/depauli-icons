@@ -1,5 +1,6 @@
 export default {
-    name: 'SnailShell',
+    name: 'snail-shell',
+    key: 'SnailShell',
     width: 24,
     height: 24,
     attributes: undefined,

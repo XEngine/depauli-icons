@@ -1,5 +1,6 @@
 export default {
-    name: 'TagFreeCircle',
+    name: 'tag-free-circle',
+    key: 'TagFreeCircle',
     width: 24,
     height: 24,
     attributes: undefined,

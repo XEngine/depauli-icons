@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorShield',
+    name: 'monitor-shield',
+    key: 'MonitorShield',
     width: 24,
     height: 24,
     attributes: undefined,

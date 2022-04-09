@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaSnapchat',
+    name: 'social-media-snapchat',
+    key: 'SocialMediaSnapchat',
     width: 24,
     height: 24,
     attributes: undefined,

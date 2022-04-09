@@ -1,5 +1,6 @@
 export default {
-    name: 'SubtractSquareAlternate',
+    name: 'subtract-square-alternate',
+    key: 'SubtractSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

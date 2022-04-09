@@ -1,5 +1,6 @@
 export default {
-    name: 'User3dBox',
+    name: 'user-3d-box',
+    key: 'User3dBox',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

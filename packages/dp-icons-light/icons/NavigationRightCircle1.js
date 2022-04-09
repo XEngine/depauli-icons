@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationRightCircle1',
+    name: 'navigation-right-circle-1',
+    key: 'NavigationRightCircle1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

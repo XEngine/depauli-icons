@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyEye',
+    name: 'medical-specialty-eye',
+    key: 'MedicalSpecialtyEye',
     width: 24,
     height: 24,
     attributes: undefined,

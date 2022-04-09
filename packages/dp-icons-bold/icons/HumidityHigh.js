@@ -1,5 +1,6 @@
 export default {
-    name: 'HumidityHigh',
+    name: 'humidity-high',
+    key: 'HumidityHigh',
     width: 24,
     height: 24,
     attributes: undefined,

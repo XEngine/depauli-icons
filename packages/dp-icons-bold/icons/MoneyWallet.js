@@ -1,5 +1,6 @@
 export default {
-    name: 'MoneyWallet',
+    name: 'money-wallet',
+    key: 'MoneyWallet',
     width: 24,
     height: 24,
     attributes: undefined,

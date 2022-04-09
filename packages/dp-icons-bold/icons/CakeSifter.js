@@ -1,5 +1,6 @@
 export default {
-    name: 'CakeSifter',
+    name: 'cake-sifter',
+    key: 'CakeSifter',
     width: 24,
     height: 24,
     attributes: undefined,

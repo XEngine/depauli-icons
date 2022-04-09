@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleTextAlternate',
+    name: 'smart-watch-circle-text-alternate',
+    key: 'SmartWatchCircleTextAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

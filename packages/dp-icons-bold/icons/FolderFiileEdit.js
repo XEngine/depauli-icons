@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderFiileEdit',
+    name: 'folder-fiile-edit',
+    key: 'FolderFiileEdit',
     width: 24,
     height: 24,
     attributes: undefined,

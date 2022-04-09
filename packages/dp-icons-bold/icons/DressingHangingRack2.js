@@ -1,5 +1,6 @@
 export default {
-    name: 'DressingHangingRack2',
+    name: 'dressing-hanging-rack-2',
+    key: 'DressingHangingRack2',
     width: 24,
     height: 24,
     attributes: undefined,

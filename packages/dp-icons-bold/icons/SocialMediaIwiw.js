@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaIwiw',
+    name: 'social-media-iwiw',
+    key: 'SocialMediaIwiw',
     width: 24,
     height: 24,
     attributes: undefined,

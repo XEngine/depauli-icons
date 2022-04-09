@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaTuenti',
+    name: 'social-media-tuenti',
+    key: 'SocialMediaTuenti',
     width: 24,
     height: 24,
     attributes: undefined,

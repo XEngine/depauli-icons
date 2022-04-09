@@ -1,5 +1,6 @@
 export default {
-    name: 'VrUserPlay1',
+    name: 'vr-user-play-1',
+    key: 'VrUserPlay1',
     width: 24,
     height: 24,
     attributes: undefined,

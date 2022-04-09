@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingBrideCake',
+    name: 'wedding-bride-cake',
+    key: 'WeddingBrideCake',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

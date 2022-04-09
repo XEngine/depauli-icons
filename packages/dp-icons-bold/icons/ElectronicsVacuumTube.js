@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsVacuumTube',
+    name: 'electronics-vacuum-tube',
+    key: 'ElectronicsVacuumTube',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PictureSun',
+    name: 'picture-sun',
+    key: 'PictureSun',
     width: 24,
     height: 24,
     attributes: undefined,

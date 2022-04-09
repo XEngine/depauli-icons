@@ -1,5 +1,6 @@
 export default {
-    name: 'DatingRose',
+    name: 'dating-rose',
+    key: 'DatingRose',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkOneWorldTradeCenter',
+    name: 'landmark-one-world-trade-center',
+    key: 'LandmarkOneWorldTradeCenter',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

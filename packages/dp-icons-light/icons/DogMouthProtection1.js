@@ -1,5 +1,6 @@
 export default {
-    name: 'DogMouthProtection1',
+    name: 'dog-mouth-protection-1',
+    key: 'DogMouthProtection1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

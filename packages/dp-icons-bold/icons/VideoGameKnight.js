@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameKnight',
+    name: 'video-game-knight',
+    key: 'VideoGameKnight',
     width: 24,
     height: 24,
     attributes: undefined,

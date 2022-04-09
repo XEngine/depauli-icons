@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileHome',
+    name: 'video-file-home',
+    key: 'VideoFileHome',
     width: 24,
     height: 24,
     attributes: undefined,

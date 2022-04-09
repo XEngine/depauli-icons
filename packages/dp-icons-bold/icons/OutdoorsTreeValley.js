@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsTreeValley',
+    name: 'outdoors-tree-valley',
+    key: 'OutdoorsTreeValley',
     width: 24,
     height: 24,
     attributes: undefined,

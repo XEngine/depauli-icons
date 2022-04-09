@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileMid',
+    name: 'audio-file-mid',
+    key: 'AudioFileMid',
     width: 24,
     height: 24,
     attributes: undefined,

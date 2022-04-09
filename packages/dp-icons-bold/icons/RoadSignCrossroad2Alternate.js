@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignCrossroad2Alternate',
+    name: 'road-sign-crossroad-2-alternate',
+    key: 'RoadSignCrossroad2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowMoveDown',
+    name: 'app-window-move-down',
+    key: 'AppWindowMoveDown',
     width: 24,
     height: 24,
     attributes: undefined,

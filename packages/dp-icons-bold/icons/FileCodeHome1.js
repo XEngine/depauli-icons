@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeHome1',
+    name: 'file-code-home-1',
+    key: 'FileCodeHome1',
     width: 24,
     height: 24,
     attributes: undefined,

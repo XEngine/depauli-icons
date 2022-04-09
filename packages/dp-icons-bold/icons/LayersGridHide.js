@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridHide',
+    name: 'layers-grid-hide',
+    key: 'LayersGridHide',
     width: 24,
     height: 24,
     attributes: undefined,

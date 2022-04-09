@@ -1,5 +1,6 @@
 export default {
-    name: 'RankingStarsRibbon',
+    name: 'ranking-stars-ribbon',
+    key: 'RankingStarsRibbon',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

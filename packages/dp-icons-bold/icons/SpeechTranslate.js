@@ -1,5 +1,6 @@
 export default {
-    name: 'SpeechTranslate',
+    name: 'speech-translate',
+    key: 'SpeechTranslate',
     width: 24,
     height: 24,
     attributes: undefined,

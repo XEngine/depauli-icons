@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotoFrameHang1',
+    name: 'photo-frame-hang-1',
+    key: 'PhotoFrameHang1',
     width: 24,
     height: 24,
     attributes: undefined,

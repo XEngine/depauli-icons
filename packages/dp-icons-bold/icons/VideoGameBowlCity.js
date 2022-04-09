@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameBowlCity',
+    name: 'video-game-bowl-city',
+    key: 'VideoGameBowlCity',
     width: 24,
     height: 24,
     attributes: undefined,

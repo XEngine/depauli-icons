@@ -1,5 +1,6 @@
 export default {
-    name: 'ModuleBlocks',
+    name: 'module-blocks',
+    key: 'ModuleBlocks',
     width: 24,
     height: 24,
     attributes: undefined,

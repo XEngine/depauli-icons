@@ -1,5 +1,6 @@
 export default {
-    name: 'RabbitBody',
+    name: 'rabbit-body',
+    key: 'RabbitBody',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

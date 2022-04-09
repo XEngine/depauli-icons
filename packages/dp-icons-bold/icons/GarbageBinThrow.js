@@ -1,5 +1,6 @@
 export default {
-    name: 'GarbageBinThrow',
+    name: 'garbage-bin-throw',
+    key: 'GarbageBinThrow',
     width: 24,
     height: 24,
     attributes: undefined,

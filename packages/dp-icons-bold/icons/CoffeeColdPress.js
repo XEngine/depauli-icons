@@ -1,5 +1,6 @@
 export default {
-    name: 'CoffeeColdPress',
+    name: 'coffee-cold-press',
+    key: 'CoffeeColdPress',
     width: 24,
     height: 24,
     attributes: undefined,

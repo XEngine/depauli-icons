@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterText',
+    name: 'paginate-filter-text',
+    key: 'PaginateFilterText',
     width: 24,
     height: 24,
     attributes: undefined,

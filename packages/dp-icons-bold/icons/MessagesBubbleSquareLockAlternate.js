@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareLockAlternate',
+    name: 'messages-bubble-square-lock-alternate',
+    key: 'MessagesBubbleSquareLockAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

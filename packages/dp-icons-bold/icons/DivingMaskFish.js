@@ -1,5 +1,6 @@
 export default {
-    name: 'DivingMaskFish',
+    name: 'diving-mask-fish',
+    key: 'DivingMaskFish',
     width: 24,
     height: 24,
     attributes: undefined,

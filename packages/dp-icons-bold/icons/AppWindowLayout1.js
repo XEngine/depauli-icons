@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowLayout1',
+    name: 'app-window-layout-1',
+    key: 'AppWindowLayout1',
     width: 24,
     height: 24,
     attributes: undefined,

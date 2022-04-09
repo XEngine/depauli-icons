@@ -1,5 +1,6 @@
 export default {
-    name: 'WalkingCrossStreet',
+    name: 'walking-cross-street',
+    key: 'WalkingCrossStreet',
     width: 24,
     height: 24,
     attributes: undefined,

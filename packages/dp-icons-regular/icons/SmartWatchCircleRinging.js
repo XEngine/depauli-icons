@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleRinging',
+    name: 'smart-watch-circle-ringing',
+    key: 'SmartWatchCircleRinging',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceEtsy',
+    name: 'e-commerce-etsy',
+    key: 'ECommerceEtsy',
     width: 24,
     height: 24,
     attributes: undefined,

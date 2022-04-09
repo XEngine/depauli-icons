@@ -1,5 +1,6 @@
 export default {
-    name: 'StampsMail',
+    name: 'stamps-mail',
+    key: 'StampsMail',
     width: 24,
     height: 24,
     attributes: undefined,

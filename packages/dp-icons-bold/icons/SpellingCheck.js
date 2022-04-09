@@ -1,5 +1,6 @@
 export default {
-    name: 'SpellingCheck',
+    name: 'spelling-check',
+    key: 'SpellingCheck',
     width: 24,
     height: 24,
     attributes: undefined,

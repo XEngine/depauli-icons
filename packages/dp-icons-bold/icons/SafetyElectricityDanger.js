@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyElectricityDanger',
+    name: 'safety-electricity-danger',
+    key: 'SafetyElectricityDanger',
     width: 24,
     height: 24,
     attributes: undefined,

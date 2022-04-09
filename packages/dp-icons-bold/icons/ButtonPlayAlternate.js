@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonPlayAlternate',
+    name: 'button-play-alternate',
+    key: 'ButtonPlayAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

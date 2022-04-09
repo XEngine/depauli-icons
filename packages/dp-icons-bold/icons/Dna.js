@@ -1,5 +1,6 @@
 export default {
-    name: 'Dna',
+    name: 'dna',
+    key: 'Dna',
     width: 24,
     height: 24,
     attributes: undefined,

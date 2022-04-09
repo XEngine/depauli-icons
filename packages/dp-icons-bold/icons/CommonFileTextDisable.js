@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextDisable',
+    name: 'common-file-text-disable',
+    key: 'CommonFileTextDisable',
     width: 24,
     height: 24,
     attributes: undefined,

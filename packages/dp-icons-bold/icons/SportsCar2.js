@@ -1,5 +1,6 @@
 export default {
-    name: 'SportsCar2',
+    name: 'sports-car-2',
+    key: 'SportsCar2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionRefresh',
+    name: 'phone-action-refresh',
+    key: 'PhoneActionRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

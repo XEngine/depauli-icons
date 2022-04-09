@@ -1,5 +1,6 @@
 export default {
-    name: 'StampsImage',
+    name: 'stamps-image',
+    key: 'StampsImage',
     width: 24,
     height: 24,
     attributes: undefined,

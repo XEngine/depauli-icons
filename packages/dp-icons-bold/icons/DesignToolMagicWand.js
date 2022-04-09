@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolMagicWand',
+    name: 'design-tool-magic-wand',
+    key: 'DesignToolMagicWand',
     width: 24,
     height: 24,
     attributes: undefined,

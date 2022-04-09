@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameCharacter',
+    name: 'video-game-character',
+    key: 'VideoGameCharacter',
     width: 24,
     height: 24,
     attributes: undefined,

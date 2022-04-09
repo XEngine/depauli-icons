@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowError404',
+    name: 'app-window-error-404',
+    key: 'AppWindowError404',
     width: 24,
     height: 24,
     attributes: undefined,

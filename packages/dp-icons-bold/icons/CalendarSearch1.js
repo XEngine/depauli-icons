@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarSearch1',
+    name: 'calendar-search-1',
+    key: 'CalendarSearch1',
     width: 24,
     height: 24,
     attributes: undefined,

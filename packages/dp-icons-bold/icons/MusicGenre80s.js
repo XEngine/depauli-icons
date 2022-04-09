@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenre80s',
+    name: 'music-genre-80s',
+    key: 'MusicGenre80s',
     width: 24,
     height: 24,
     attributes: undefined,

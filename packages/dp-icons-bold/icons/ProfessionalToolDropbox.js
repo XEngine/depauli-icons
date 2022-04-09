@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionalToolDropbox',
+    name: 'professional-tool-dropbox',
+    key: 'ProfessionalToolDropbox',
     width: 24,
     height: 24,
     attributes: undefined,

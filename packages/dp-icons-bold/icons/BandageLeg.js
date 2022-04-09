@@ -1,5 +1,6 @@
 export default {
-    name: 'BandageLeg',
+    name: 'bandage-leg',
+    key: 'BandageLeg',
     width: 24,
     height: 24,
     attributes: undefined,

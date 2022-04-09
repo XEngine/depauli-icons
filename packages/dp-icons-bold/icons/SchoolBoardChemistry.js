@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolBoardChemistry',
+    name: 'school-board-chemistry',
+    key: 'SchoolBoardChemistry',
     width: 24,
     height: 24,
     attributes: undefined,

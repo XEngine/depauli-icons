@@ -1,5 +1,6 @@
 export default {
-    name: 'ReceiptSlip1',
+    name: 'receipt-slip-1',
+    key: 'ReceiptSlip1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SeatSettings',
+    name: 'seat-settings',
+    key: 'SeatSettings',
     width: 24,
     height: 24,
     attributes: undefined,

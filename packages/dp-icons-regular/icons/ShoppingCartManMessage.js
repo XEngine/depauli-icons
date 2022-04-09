@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingCartManMessage',
+    name: 'shopping-cart-man-message',
+    key: 'ShoppingCartManMessage',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

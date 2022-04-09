@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaHiFive',
+    name: 'social-media-hi-five',
+    key: 'SocialMediaHiFive',
     width: 24,
     height: 24,
     attributes: undefined,

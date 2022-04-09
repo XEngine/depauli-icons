@@ -1,5 +1,6 @@
 export default {
-    name: 'SpiderWeb1',
+    name: 'spider-web-1',
+    key: 'SpiderWeb1',
     width: 24,
     height: 24,
     attributes: undefined,

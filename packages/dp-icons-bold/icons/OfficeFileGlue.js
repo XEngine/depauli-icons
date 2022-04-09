@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileGlue',
+    name: 'office-file-glue',
+    key: 'OfficeFileGlue',
     width: 24,
     height: 24,
     attributes: undefined,

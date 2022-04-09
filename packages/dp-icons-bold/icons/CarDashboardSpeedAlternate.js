@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardSpeedAlternate',
+    name: 'car-dashboard-speed-alternate',
+    key: 'CarDashboardSpeedAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

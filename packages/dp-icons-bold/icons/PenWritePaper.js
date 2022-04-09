@@ -1,5 +1,6 @@
 export default {
-    name: 'PenWritePaper',
+    name: 'pen-write-paper',
+    key: 'PenWritePaper',
     width: 24,
     height: 24,
     attributes: undefined,

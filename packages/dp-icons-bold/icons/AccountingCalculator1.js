@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingCalculator1',
+    name: 'accounting-calculator-1',
+    key: 'AccountingCalculator1',
     width: 24,
     height: 24,
     attributes: undefined,

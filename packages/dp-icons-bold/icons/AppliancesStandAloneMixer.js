@@ -1,5 +1,6 @@
 export default {
-    name: 'AppliancesStandAloneMixer',
+    name: 'appliances-stand-alone-mixer',
+    key: 'AppliancesStandAloneMixer',
     width: 24,
     height: 24,
     attributes: undefined,

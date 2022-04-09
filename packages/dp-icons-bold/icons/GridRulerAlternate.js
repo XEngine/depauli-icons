@@ -1,5 +1,6 @@
 export default {
-    name: 'GridRulerAlternate',
+    name: 'grid-ruler-alternate',
+    key: 'GridRulerAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

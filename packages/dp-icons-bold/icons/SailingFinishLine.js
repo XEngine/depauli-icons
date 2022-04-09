@@ -1,5 +1,6 @@
 export default {
-    name: 'SailingFinishLine',
+    name: 'sailing-finish-line',
+    key: 'SailingFinishLine',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GridDotAlternate',
+    name: 'grid-dot-alternate',
+    key: 'GridDotAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

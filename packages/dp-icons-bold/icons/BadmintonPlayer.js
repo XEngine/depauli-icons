@@ -1,5 +1,6 @@
 export default {
-    name: 'BadmintonPlayer',
+    name: 'badminton-player',
+    key: 'BadmintonPlayer',
     width: 24,
     height: 24,
     attributes: undefined,

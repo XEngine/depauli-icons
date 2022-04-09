@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionAt',
+    name: 'phone-action-at',
+    key: 'PhoneActionAt',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHouseCall',
+    name: 'smart-house-call',
+    key: 'SmartHouseCall',
     width: 24,
     height: 24,
     attributes: undefined,

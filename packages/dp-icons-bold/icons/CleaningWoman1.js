@@ -1,5 +1,6 @@
 export default {
-    name: 'CleaningWoman1',
+    name: 'cleaning-woman-1',
+    key: 'CleaningWoman1',
     width: 24,
     height: 24,
     attributes: undefined,

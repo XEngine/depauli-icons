@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignTrafficRight',
+    name: 'road-sign-traffic-right',
+    key: 'RoadSignTrafficRight',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ControlsStop',
+    name: 'controls-stop',
+    key: 'ControlsStop',
     width: 24,
     height: 24,
     attributes: undefined,

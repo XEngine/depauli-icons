@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSkate',
+    name: 'style-three-pin-skate',
+    key: 'StyleThreePinSkate',
     width: 24,
     height: 24,
     attributes: undefined,

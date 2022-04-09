@@ -1,5 +1,6 @@
 export default {
-    name: 'VisibilityCloudLow',
+    name: 'visibility-cloud-low',
+    key: 'VisibilityCloudLow',
     width: 24,
     height: 24,
     attributes: undefined,

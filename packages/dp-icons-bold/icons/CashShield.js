@@ -1,5 +1,6 @@
 export default {
-    name: 'CashShield',
+    name: 'cash-shield',
+    key: 'CashShield',
     width: 24,
     height: 24,
     attributes: undefined,

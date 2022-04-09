@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceBuyApparel',
+    name: 'e-commerce-buy-apparel',
+    key: 'ECommerceBuyApparel',
     width: 24,
     height: 24,
     attributes: undefined,

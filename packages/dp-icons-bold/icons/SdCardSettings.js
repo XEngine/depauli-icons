@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardSettings',
+    name: 'sd-card-settings',
+    key: 'SdCardSettings',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorSignal',
+    name: 'monitor-signal',
+    key: 'MonitorSignal',
     width: 24,
     height: 24,
     attributes: undefined,

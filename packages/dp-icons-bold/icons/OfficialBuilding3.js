@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficialBuilding3',
+    name: 'official-building-3',
+    key: 'OfficialBuilding3',
     width: 24,
     height: 24,
     attributes: undefined,

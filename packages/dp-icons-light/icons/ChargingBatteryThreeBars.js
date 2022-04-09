@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryThreeBars',
+    name: 'charging-battery-three-bars',
+    key: 'ChargingBatteryThreeBars',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

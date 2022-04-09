@@ -1,5 +1,6 @@
 export default {
-    name: 'MoveBottomRight',
+    name: 'move-bottom-right',
+    key: 'MoveBottomRight',
     width: 24,
     height: 24,
     attributes: undefined,

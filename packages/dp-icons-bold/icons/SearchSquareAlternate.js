@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchSquareAlternate',
+    name: 'search-square-alternate',
+    key: 'SearchSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

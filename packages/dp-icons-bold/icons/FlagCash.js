@@ -1,5 +1,6 @@
 export default {
-    name: 'FlagCash',
+    name: 'flag-cash',
+    key: 'FlagCash',
     width: 24,
     height: 24,
     attributes: undefined,

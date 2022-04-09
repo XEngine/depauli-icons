@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateLocationBuildingPin',
+    name: 'real-estate-location-building-pin',
+    key: 'RealEstateLocationBuildingPin',
     width: 24,
     height: 24,
     attributes: undefined,

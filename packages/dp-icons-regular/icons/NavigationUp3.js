@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationUp3',
+    name: 'navigation-up-3',
+    key: 'NavigationUp3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-width":"1.5"},

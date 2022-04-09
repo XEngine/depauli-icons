@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesPeopleWomanBubbleSquare',
+    name: 'messages-people-woman-bubble-square',
+    key: 'MessagesPeopleWomanBubbleSquare',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

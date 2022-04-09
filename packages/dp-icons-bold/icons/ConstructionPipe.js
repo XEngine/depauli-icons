@@ -1,5 +1,6 @@
 export default {
-    name: 'ConstructionPipe',
+    name: 'construction-pipe',
+    key: 'ConstructionPipe',
     width: 24,
     height: 24,
     attributes: undefined,

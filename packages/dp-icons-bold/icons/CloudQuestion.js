@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudQuestion',
+    name: 'cloud-question',
+    key: 'CloudQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

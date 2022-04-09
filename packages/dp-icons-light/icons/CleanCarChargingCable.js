@@ -1,5 +1,6 @@
 export default {
-    name: 'CleanCarChargingCable',
+    name: 'clean-car-charging-cable',
+    key: 'CleanCarChargingCable',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

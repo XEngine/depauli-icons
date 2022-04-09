@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureThermometerLow',
+    name: 'temperature-thermometer-low',
+    key: 'TemperatureThermometerLow',
     width: 24,
     height: 24,
     attributes: undefined,

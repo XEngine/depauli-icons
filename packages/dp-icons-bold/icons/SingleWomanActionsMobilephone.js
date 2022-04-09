@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsMobilephone',
+    name: 'single-woman-actions-mobilephone',
+    key: 'SingleWomanActionsMobilephone',
     width: 24,
     height: 24,
     attributes: undefined,

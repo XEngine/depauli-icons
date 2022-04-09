@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextAdd',
+    name: 'common-file-text-add',
+    key: 'CommonFileTextAdd',
     width: 24,
     height: 24,
     attributes: undefined,

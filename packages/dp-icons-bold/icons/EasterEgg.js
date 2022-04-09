@@ -1,5 +1,6 @@
 export default {
-    name: 'EasterEgg',
+    name: 'easter-egg',
+    key: 'EasterEgg',
     width: 24,
     height: 24,
     attributes: undefined,

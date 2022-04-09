@@ -1,5 +1,6 @@
 export default {
-    name: 'FileZip',
+    name: 'file-zip',
+    key: 'FileZip',
     width: 24,
     height: 24,
     attributes: undefined,

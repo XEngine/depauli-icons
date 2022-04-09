@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignRightCurve1',
+    name: 'road-sign-right-curve-1',
+    key: 'RoadSignRightCurve1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'VegetablesSalad',
+    name: 'vegetables-salad',
+    key: 'VegetablesSalad',
     width: 24,
     height: 24,
     attributes: undefined,

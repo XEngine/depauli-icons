@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionCash1',
+    name: 'phone-action-cash-1',
+    key: 'PhoneActionCash1',
     width: 24,
     height: 24,
     attributes: undefined,

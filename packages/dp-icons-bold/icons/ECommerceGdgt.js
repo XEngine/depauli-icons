@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceGdgt',
+    name: 'e-commerce-gdgt',
+    key: 'ECommerceGdgt',
     width: 24,
     height: 24,
     attributes: undefined,

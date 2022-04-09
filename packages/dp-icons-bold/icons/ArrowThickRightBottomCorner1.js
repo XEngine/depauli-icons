@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickRightBottomCorner1',
+    name: 'arrow-thick-right-bottom-corner-1',
+    key: 'ArrowThickRightBottomCorner1',
     width: 24,
     height: 24,
     attributes: undefined,

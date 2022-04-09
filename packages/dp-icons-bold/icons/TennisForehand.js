@@ -1,5 +1,6 @@
 export default {
-    name: 'TennisForehand',
+    name: 'tennis-forehand',
+    key: 'TennisForehand',
     width: 24,
     height: 24,
     attributes: undefined,

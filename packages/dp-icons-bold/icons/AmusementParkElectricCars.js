@@ -1,5 +1,6 @@
 export default {
-    name: 'AmusementParkElectricCars',
+    name: 'amusement-park-electric-cars',
+    key: 'AmusementParkElectricCars',
     width: 24,
     height: 24,
     attributes: undefined,

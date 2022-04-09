@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartLightConnect',
+    name: 'smart-light-connect',
+    key: 'SmartLightConnect',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowButtonUp2Alternate',
+    name: 'arrow-button-up-2-alternate',
+    key: 'ArrowButtonUp2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

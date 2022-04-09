@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolTeacherMusic',
+    name: 'school-teacher-music',
+    key: 'SchoolTeacherMusic',
     width: 24,
     height: 24,
     attributes: undefined,

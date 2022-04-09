@@ -1,5 +1,6 @@
 export default {
-    name: 'WildBirdSing',
+    name: 'wild-bird-sing',
+    key: 'WildBirdSing',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardArrowTopLeft',
+    name: 'keyboard-arrow-top-left',
+    key: 'KeyboardArrowTopLeft',
     width: 24,
     height: 24,
     attributes: undefined,

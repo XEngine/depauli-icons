@@ -1,5 +1,6 @@
 export default {
-    name: 'DecorationFlowers',
+    name: 'decoration-flowers',
+    key: 'DecorationFlowers',
     width: 24,
     height: 24,
     attributes: undefined,

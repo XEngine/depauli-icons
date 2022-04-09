@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalPersonnelDoctor',
+    name: 'medical-personnel-doctor',
+    key: 'MedicalPersonnelDoctor',
     width: 24,
     height: 24,
     attributes: undefined,

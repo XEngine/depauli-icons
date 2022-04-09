@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaRenren1',
+    name: 'social-media-renren-1',
+    key: 'SocialMediaRenren1',
     width: 24,
     height: 24,
     attributes: undefined,

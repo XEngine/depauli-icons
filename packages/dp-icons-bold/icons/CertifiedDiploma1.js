@@ -1,5 +1,6 @@
 export default {
-    name: 'CertifiedDiploma1',
+    name: 'certified-diploma-1',
+    key: 'CertifiedDiploma1',
     width: 24,
     height: 24,
     attributes: undefined,

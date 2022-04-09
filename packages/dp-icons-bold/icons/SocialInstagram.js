@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialInstagram',
+    name: 'social-instagram',
+    key: 'SocialInstagram',
     width: 24,
     height: 24,
     attributes: undefined,

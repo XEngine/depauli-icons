@@ -1,5 +1,6 @@
 export default {
-    name: 'Attachment1',
+    name: 'attachment-1',
+    key: 'Attachment1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridCheck',
+    name: 'layers-grid-check',
+    key: 'LayersGridCheck',
     width: 24,
     height: 24,
     attributes: undefined,

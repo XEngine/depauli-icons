@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameMario2',
+    name: 'video-game-mario-2',
+    key: 'VideoGameMario2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

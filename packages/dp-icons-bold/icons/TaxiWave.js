@@ -1,5 +1,6 @@
 export default {
-    name: 'TaxiWave',
+    name: 'taxi-wave',
+    key: 'TaxiWave',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardGive',
+    name: 'credit-card-give',
+    key: 'CreditCardGive',
     width: 24,
     height: 24,
     attributes: undefined,

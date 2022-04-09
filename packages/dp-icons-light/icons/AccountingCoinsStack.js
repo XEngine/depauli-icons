@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingCoinsStack',
+    name: 'accounting-coins-stack',
+    key: 'AccountingCoinsStack',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

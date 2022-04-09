@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeClipper',
+    name: 'office-clipper',
+    key: 'OfficeClipper',
     width: 24,
     height: 24,
     attributes: undefined,

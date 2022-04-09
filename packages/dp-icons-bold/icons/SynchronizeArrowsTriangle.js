@@ -1,5 +1,6 @@
 export default {
-    name: 'SynchronizeArrowsTriangle',
+    name: 'synchronize-arrows-triangle',
+    key: 'SynchronizeArrowsTriangle',
     width: 24,
     height: 24,
     attributes: undefined,

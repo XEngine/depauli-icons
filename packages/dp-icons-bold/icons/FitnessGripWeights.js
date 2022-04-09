@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessGripWeights',
+    name: 'fitness-grip-weights',
+    key: 'FitnessGripWeights',
     width: 24,
     height: 24,
     attributes: undefined,

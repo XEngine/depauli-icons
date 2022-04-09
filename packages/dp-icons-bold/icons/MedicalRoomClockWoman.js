@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalRoomClockWoman',
+    name: 'medical-room-clock-woman',
+    key: 'MedicalRoomClockWoman',
     width: 24,
     height: 24,
     attributes: undefined,

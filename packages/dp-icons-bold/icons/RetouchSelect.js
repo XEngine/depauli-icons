@@ -1,5 +1,6 @@
 export default {
-    name: 'RetouchSelect',
+    name: 'retouch-select',
+    key: 'RetouchSelect',
     width: 24,
     height: 24,
     attributes: undefined,

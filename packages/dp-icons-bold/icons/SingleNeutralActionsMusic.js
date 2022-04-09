@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsMusic',
+    name: 'single-neutral-actions-music',
+    key: 'SingleNeutralActionsMusic',
     width: 24,
     height: 24,
     attributes: undefined,

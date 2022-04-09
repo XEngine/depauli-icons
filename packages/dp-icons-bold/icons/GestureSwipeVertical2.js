@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureSwipeVertical2',
+    name: 'gesture-swipe-vertical-2',
+    key: 'GestureSwipeVertical2',
     width: 24,
     height: 24,
     attributes: undefined,

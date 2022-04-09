@@ -1,5 +1,6 @@
 export default {
-    name: 'Loading3',
+    name: 'loading-3',
+    key: 'Loading3',
     width: 24,
     height: 24,
     attributes: undefined,

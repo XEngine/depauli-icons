@@ -1,5 +1,6 @@
 export default {
-    name: 'SecurityOfficerGate',
+    name: 'security-officer-gate',
+    key: 'SecurityOfficerGate',
     width: 24,
     height: 24,
     attributes: undefined,

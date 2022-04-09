@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutHeadline',
+    name: 'layout-headline',
+    key: 'LayoutHeadline',
     width: 24,
     height: 24,
     attributes: undefined,

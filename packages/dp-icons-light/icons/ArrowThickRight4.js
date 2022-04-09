@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickRight4',
+    name: 'arrow-thick-right-4',
+    key: 'ArrowThickRight4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'AmusementParkCastle',
+    name: 'amusement-park-castle',
+    key: 'AmusementParkCastle',
     width: 24,
     height: 24,
     attributes: undefined,

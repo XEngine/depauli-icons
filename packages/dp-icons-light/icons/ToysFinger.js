@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysFinger',
+    name: 'toys-finger',
+    key: 'ToysFinger',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

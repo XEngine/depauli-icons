@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsPathFlat',
+    name: 'vectors-path-flat',
+    key: 'VectorsPathFlat',
     width: 24,
     height: 24,
     attributes: undefined,

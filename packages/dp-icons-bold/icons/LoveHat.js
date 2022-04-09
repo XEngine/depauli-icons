@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveHat',
+    name: 'love-hat',
+    key: 'LoveHat',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderSearchAlternate',
+    name: 'folder-search-alternate',
+    key: 'FolderSearchAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

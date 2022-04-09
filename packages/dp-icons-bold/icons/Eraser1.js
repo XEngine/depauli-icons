@@ -1,5 +1,6 @@
 export default {
-    name: 'Eraser1',
+    name: 'eraser-1',
+    key: 'Eraser1',
     width: 24,
     height: 24,
     attributes: undefined,

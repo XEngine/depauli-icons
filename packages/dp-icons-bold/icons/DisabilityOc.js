@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityOc',
+    name: 'disability-oc',
+    key: 'DisabilityOc',
     width: 24,
     height: 24,
     attributes: undefined,

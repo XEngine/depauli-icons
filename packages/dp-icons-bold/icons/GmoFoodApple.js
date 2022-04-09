@@ -1,5 +1,6 @@
 export default {
-    name: 'GmoFoodApple',
+    name: 'gmo-food-apple',
+    key: 'GmoFoodApple',
     width: 24,
     height: 24,
     attributes: undefined,

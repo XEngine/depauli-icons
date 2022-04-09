@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationStatistics',
+    name: 'presentation-statistics',
+    key: 'PresentationStatistics',
     width: 24,
     height: 24,
     attributes: undefined,

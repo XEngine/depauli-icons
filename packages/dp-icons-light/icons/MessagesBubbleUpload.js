@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleUpload',
+    name: 'messages-bubble-upload',
+    key: 'MessagesBubbleUpload',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

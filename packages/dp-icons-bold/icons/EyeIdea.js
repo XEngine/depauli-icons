@@ -1,5 +1,6 @@
 export default {
-    name: 'EyeIdea',
+    name: 'eye-idea',
+    key: 'EyeIdea',
     width: 24,
     height: 24,
     attributes: undefined,

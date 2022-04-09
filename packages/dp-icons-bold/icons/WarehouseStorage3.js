@@ -1,5 +1,6 @@
 export default {
-    name: 'WarehouseStorage3',
+    name: 'warehouse-storage-3',
+    key: 'WarehouseStorage3',
     width: 24,
     height: 24,
     attributes: undefined,

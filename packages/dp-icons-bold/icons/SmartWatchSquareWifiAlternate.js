@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareWifiAlternate',
+    name: 'smart-watch-square-wifi-alternate',
+    key: 'SmartWatchSquareWifiAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

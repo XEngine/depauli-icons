@@ -1,5 +1,6 @@
 export default {
-    name: 'DogHouse',
+    name: 'dog-house',
+    key: 'DogHouse',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonRecordAlternate',
+    name: 'button-record-alternate',
+    key: 'ButtonRecordAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

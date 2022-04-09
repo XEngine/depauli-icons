@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacter1',
+    name: 'famous-character-1',
+    key: 'FamousCharacter1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

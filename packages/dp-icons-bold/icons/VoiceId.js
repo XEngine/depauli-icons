@@ -1,5 +1,6 @@
 export default {
-    name: 'VoiceId',
+    name: 'voice-id',
+    key: 'VoiceId',
     width: 24,
     height: 24,
     attributes: undefined,

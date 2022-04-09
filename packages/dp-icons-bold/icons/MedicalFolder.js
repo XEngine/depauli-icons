@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalFolder',
+    name: 'medical-folder',
+    key: 'MedicalFolder',
     width: 24,
     height: 24,
     attributes: undefined,

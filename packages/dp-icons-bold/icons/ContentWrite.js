@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentWrite',
+    name: 'content-write',
+    key: 'ContentWrite',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyNxtcoin',
+    name: 'crypto-currency-nxtcoin',
+    key: 'CryptoCurrencyNxtcoin',
     width: 24,
     height: 24,
     attributes: undefined,

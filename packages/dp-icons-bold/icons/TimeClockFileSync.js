@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileSync',
+    name: 'time-clock-file-sync',
+    key: 'TimeClockFileSync',
     width: 24,
     height: 24,
     attributes: undefined,

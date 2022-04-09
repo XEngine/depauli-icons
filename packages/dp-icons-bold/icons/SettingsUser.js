@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsUser',
+    name: 'settings-user',
+    key: 'SettingsUser',
     width: 24,
     height: 24,
     attributes: undefined,

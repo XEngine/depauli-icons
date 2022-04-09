@@ -1,5 +1,6 @@
 export default {
-    name: 'PerformanceIncreaseMail',
+    name: 'performance-increase-mail',
+    key: 'PerformanceIncreaseMail',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

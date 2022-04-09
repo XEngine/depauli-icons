@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesPeopleManBubbleSquare1',
+    name: 'messages-people-man-bubble-square-1',
+    key: 'MessagesPeopleManBubbleSquare1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

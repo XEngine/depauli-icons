@@ -1,5 +1,6 @@
 export default {
-    name: 'FocusFrameTargetAlternate',
+    name: 'focus-frame-target-alternate',
+    key: 'FocusFrameTargetAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

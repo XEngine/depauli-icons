@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchSquare',
+    name: 'search-square',
+    key: 'SearchSquare',
     width: 24,
     height: 24,
     attributes: undefined,

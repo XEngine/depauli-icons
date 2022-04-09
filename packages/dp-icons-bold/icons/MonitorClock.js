@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorClock',
+    name: 'monitor-clock',
+    key: 'MonitorClock',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesWarning',
+    name: 'notes-warning',
+    key: 'NotesWarning',
     width: 24,
     height: 24,
     attributes: undefined,

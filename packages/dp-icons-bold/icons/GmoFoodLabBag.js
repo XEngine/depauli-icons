@@ -1,5 +1,6 @@
 export default {
-    name: 'GmoFoodLabBag',
+    name: 'gmo-food-lab-bag',
+    key: 'GmoFoodLabBag',
     width: 24,
     height: 24,
     attributes: undefined,

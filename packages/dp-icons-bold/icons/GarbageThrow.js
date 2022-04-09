@@ -1,5 +1,6 @@
 export default {
-    name: 'GarbageThrow',
+    name: 'garbage-throw',
+    key: 'GarbageThrow',
     width: 24,
     height: 24,
     attributes: undefined,

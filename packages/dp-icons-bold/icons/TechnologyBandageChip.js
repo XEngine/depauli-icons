@@ -1,5 +1,6 @@
 export default {
-    name: 'TechnologyBandageChip',
+    name: 'technology-bandage-chip',
+    key: 'TechnologyBandageChip',
     width: 24,
     height: 24,
     attributes: undefined,

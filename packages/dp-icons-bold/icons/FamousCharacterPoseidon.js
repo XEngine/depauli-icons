@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterPoseidon',
+    name: 'famous-character-poseidon',
+    key: 'FamousCharacterPoseidon',
     width: 24,
     height: 24,
     attributes: undefined,

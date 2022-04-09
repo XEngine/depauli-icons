@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareStrainer',
+    name: 'kitchenware-strainer',
+    key: 'KitchenwareStrainer',
     width: 24,
     height: 24,
     attributes: undefined,

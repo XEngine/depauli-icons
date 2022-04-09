@@ -1,5 +1,6 @@
 export default {
-    name: 'AmphibianFrog1',
+    name: 'amphibian-frog-1',
+    key: 'AmphibianFrog1',
     width: 24,
     height: 24,
     attributes: undefined,

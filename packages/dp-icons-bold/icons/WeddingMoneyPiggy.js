@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingMoneyPiggy',
+    name: 'wedding-money-piggy',
+    key: 'WeddingMoneyPiggy',
     width: 24,
     height: 24,
     attributes: undefined,

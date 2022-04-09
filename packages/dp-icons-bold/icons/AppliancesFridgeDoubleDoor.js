@@ -1,5 +1,6 @@
 export default {
-    name: 'AppliancesFridgeDoubleDoor',
+    name: 'appliances-fridge-double-door',
+    key: 'AppliancesFridgeDoubleDoor',
     width: 24,
     height: 24,
     attributes: undefined,

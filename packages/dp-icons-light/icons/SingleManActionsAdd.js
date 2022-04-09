@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsAdd',
+    name: 'single-man-actions-add',
+    key: 'SingleManActionsAdd',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

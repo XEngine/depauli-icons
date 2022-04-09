@@ -1,5 +1,6 @@
 export default {
-    name: 'DietWaist1',
+    name: 'diet-waist-1',
+    key: 'DietWaist1',
     width: 24,
     height: 24,
     attributes: undefined,

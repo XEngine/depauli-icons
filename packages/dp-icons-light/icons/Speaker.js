@@ -1,5 +1,6 @@
 export default {
-    name: 'Speaker',
+    name: 'speaker',
+    key: 'Speaker',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

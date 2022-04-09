@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionCross',
+    name: 'religion-cross',
+    key: 'ReligionCross',
     width: 24,
     height: 24,
     attributes: undefined,

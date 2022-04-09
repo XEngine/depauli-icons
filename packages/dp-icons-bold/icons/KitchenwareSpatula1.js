@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareSpatula1',
+    name: 'kitchenware-spatula-1',
+    key: 'KitchenwareSpatula1',
     width: 24,
     height: 24,
     attributes: undefined,

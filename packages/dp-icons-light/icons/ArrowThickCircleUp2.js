@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickCircleUp2',
+    name: 'arrow-thick-circle-up-2',
+    key: 'ArrowThickCircleUp2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDealKey1',
+    name: 'real-estate-deal-key-1',
+    key: 'RealEstateDealKey1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderMediaAlternate',
+    name: 'folder-media-alternate',
+    key: 'FolderMediaAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

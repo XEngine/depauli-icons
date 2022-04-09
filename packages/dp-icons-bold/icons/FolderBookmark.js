@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderBookmark',
+    name: 'folder-bookmark',
+    key: 'FolderBookmark',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TicketDay1Alternate',
+    name: 'ticket-day-1-alternate',
+    key: 'TicketDay1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

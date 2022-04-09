@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeSearch',
+    name: 'file-code-search',
+    key: 'FileCodeSearch',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

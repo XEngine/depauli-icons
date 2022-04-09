@@ -1,5 +1,6 @@
 export default {
-    name: 'PlantCactus',
+    name: 'plant-cactus',
+    key: 'PlantCactus',
     width: 24,
     height: 24,
     attributes: undefined,

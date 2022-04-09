@@ -1,5 +1,6 @@
 export default {
-    name: 'RankingRibbon',
+    name: 'ranking-ribbon',
+    key: 'RankingRibbon',
     width: 24,
     height: 24,
     attributes: undefined,

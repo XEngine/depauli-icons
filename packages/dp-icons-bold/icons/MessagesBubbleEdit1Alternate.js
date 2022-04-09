@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleEdit1Alternate',
+    name: 'messages-bubble-edit-1-alternate',
+    key: 'MessagesBubbleEdit1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

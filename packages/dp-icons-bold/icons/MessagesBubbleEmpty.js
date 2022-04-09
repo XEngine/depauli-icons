@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleEmpty',
+    name: 'messages-bubble-empty',
+    key: 'MessagesBubbleEmpty',
     width: 24,
     height: 24,
     attributes: undefined,

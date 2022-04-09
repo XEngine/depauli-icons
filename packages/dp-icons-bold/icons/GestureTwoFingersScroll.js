@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTwoFingersScroll',
+    name: 'gesture-two-fingers-scroll',
+    key: 'GestureTwoFingersScroll',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardUsb',
+    name: 'keyboard-usb',
+    key: 'KeyboardUsb',
     width: 24,
     height: 24,
     attributes: undefined,

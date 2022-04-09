@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsSettings',
+    name: 'data-file-bars-settings',
+    key: 'DataFileBarsSettings',
     width: 24,
     height: 24,
     attributes: undefined,

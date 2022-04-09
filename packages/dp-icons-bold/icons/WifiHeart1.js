@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiHeart1',
+    name: 'wifi-heart-1',
+    key: 'WifiHeart1',
     width: 24,
     height: 24,
     attributes: undefined,

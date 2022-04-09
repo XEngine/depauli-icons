@@ -1,5 +1,6 @@
 export default {
-    name: 'ComputerChipFire',
+    name: 'computer-chip-fire',
+    key: 'ComputerChipFire',
     width: 24,
     height: 24,
     attributes: undefined,

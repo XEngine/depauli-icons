@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinTrain',
+    name: 'style-two-pin-train',
+    key: 'StyleTwoPinTrain',
     width: 24,
     height: 24,
     attributes: undefined,

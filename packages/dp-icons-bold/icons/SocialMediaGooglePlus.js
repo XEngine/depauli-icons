@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaGooglePlus',
+    name: 'social-media-google-plus',
+    key: 'SocialMediaGooglePlus',
     width: 24,
     height: 24,
     attributes: undefined,

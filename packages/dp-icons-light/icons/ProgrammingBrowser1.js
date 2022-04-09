@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingBrowser1',
+    name: 'programming-browser-1',
+    key: 'ProgrammingBrowser1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

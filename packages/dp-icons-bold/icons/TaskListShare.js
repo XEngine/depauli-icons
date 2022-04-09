@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListShare',
+    name: 'task-list-share',
+    key: 'TaskListShare',
     width: 24,
     height: 24,
     attributes: undefined,

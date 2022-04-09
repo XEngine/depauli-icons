@@ -1,5 +1,6 @@
 export default {
-    name: 'CarActionsCheck1',
+    name: 'car-actions-check-1',
+    key: 'CarActionsCheck1',
     width: 24,
     height: 24,
     attributes: undefined,

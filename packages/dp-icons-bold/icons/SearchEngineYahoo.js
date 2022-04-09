@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchEngineYahoo',
+    name: 'search-engine-yahoo',
+    key: 'SearchEngineYahoo',
     width: 24,
     height: 24,
     attributes: undefined,

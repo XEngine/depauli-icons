@@ -1,5 +1,6 @@
 export default {
-    name: 'GlobalWarmingDeadPlant',
+    name: 'global-warming-dead-plant',
+    key: 'GlobalWarmingDeadPlant',
     width: 24,
     height: 24,
     attributes: undefined,

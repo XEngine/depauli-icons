@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsDownloadAlternate',
+    name: 'tags-download-alternate',
+    key: 'TagsDownloadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

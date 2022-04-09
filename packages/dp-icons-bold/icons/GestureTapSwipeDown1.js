@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTapSwipeDown1',
+    name: 'gesture-tap-swipe-down-1',
+    key: 'GestureTapSwipeDown1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardOptionAlternate',
+    name: 'keyboard-option-alternate',
+    key: 'KeyboardOptionAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

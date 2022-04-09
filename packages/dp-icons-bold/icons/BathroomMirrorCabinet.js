@@ -1,5 +1,6 @@
 export default {
-    name: 'BathroomMirrorCabinet',
+    name: 'bathroom-mirror-cabinet',
+    key: 'BathroomMirrorCabinet',
     width: 24,
     height: 24,
     attributes: undefined,

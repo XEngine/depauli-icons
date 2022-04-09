@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernTvRemote',
+    name: 'modern-tv-remote',
+    key: 'ModernTvRemote',
     width: 24,
     height: 24,
     attributes: undefined,

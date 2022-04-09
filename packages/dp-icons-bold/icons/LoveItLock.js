@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItLock',
+    name: 'love-it-lock',
+    key: 'LoveItLock',
     width: 24,
     height: 24,
     attributes: undefined,

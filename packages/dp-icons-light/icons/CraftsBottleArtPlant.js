@@ -1,5 +1,6 @@
 export default {
-    name: 'CraftsBottleArtPlant',
+    name: 'crafts-bottle-art-plant',
+    key: 'CraftsBottleArtPlant',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SteampunkDecorationDiaDeLosMuertos',
+    name: 'steampunk-decoration-dia-de-los-muertos',
+    key: 'SteampunkDecorationDiaDeLosMuertos',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

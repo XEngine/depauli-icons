@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowButtonRight2',
+    name: 'arrow-button-right-2',
+    key: 'ArrowButtonRight2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

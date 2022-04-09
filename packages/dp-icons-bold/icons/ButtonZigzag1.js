@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonZigzag1',
+    name: 'button-zigzag-1',
+    key: 'ButtonZigzag1',
     width: 24,
     height: 24,
     attributes: undefined,

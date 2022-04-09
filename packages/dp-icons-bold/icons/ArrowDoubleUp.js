@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowDoubleUp',
+    name: 'arrow-double-up',
+    key: 'ArrowDoubleUp',
     width: 24,
     height: 24,
     attributes: undefined,

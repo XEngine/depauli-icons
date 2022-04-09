@@ -1,5 +1,6 @@
 export default {
-    name: 'WindCloud',
+    name: 'wind-cloud',
+    key: 'WindCloud',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGamePingPong',
+    name: 'video-game-ping-pong',
+    key: 'VideoGamePingPong',
     width: 24,
     height: 24,
     attributes: undefined,

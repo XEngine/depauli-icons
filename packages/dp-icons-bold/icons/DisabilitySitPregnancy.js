@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilitySitPregnancy',
+    name: 'disability-sit-pregnancy',
+    key: 'DisabilitySitPregnancy',
     width: 24,
     height: 24,
     attributes: undefined,

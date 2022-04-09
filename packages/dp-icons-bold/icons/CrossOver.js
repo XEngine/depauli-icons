@@ -1,5 +1,6 @@
 export default {
-    name: 'CrossOver',
+    name: 'cross-over',
+    key: 'CrossOver',
     width: 24,
     height: 24,
     attributes: undefined,

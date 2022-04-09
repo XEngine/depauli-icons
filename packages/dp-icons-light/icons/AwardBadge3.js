@@ -1,5 +1,6 @@
 export default {
-    name: 'AwardBadge3',
+    name: 'award-badge-3',
+    key: 'AwardBadge3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

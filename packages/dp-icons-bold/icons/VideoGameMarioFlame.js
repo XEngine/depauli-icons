@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameMarioFlame',
+    name: 'video-game-mario-flame',
+    key: 'VideoGameMarioFlame',
     width: 24,
     height: 24,
     attributes: undefined,

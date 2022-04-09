@@ -1,5 +1,6 @@
 export default {
-    name: 'TargetMiss',
+    name: 'target-miss',
+    key: 'TargetMiss',
     width: 24,
     height: 24,
     attributes: undefined,

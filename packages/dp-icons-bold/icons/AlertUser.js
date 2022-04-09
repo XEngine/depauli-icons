@@ -1,5 +1,6 @@
 export default {
-    name: 'AlertUser',
+    name: 'alert-user',
+    key: 'AlertUser',
     width: 24,
     height: 24,
     attributes: undefined,

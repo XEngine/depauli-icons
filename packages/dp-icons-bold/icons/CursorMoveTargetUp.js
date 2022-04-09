@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorMoveTargetUp',
+    name: 'cursor-move-target-up',
+    key: 'CursorMoveTargetUp',
     width: 24,
     height: 24,
     attributes: undefined,

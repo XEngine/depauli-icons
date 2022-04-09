@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioBookMusic',
+    name: 'audio-book-music',
+    key: 'AudioBookMusic',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AircraftHotAirBalloon1',
+    name: 'aircraft-hot-air-balloon-1',
+    key: 'AircraftHotAirBalloon1',
     width: 24,
     height: 24,
     attributes: undefined,

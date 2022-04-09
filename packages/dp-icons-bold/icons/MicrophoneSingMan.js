@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophoneSingMan',
+    name: 'microphone-sing-man',
+    key: 'MicrophoneSingMan',
     width: 24,
     height: 24,
     attributes: undefined,

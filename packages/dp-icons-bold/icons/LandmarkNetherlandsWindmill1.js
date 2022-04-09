@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkNetherlandsWindmill1',
+    name: 'landmark-netherlands-windmill-1',
+    key: 'LandmarkNetherlandsWindmill1',
     width: 24,
     height: 24,
     attributes: undefined,

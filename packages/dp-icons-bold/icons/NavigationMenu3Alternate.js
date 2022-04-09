@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationMenu3Alternate',
+    name: 'navigation-menu-3-alternate',
+    key: 'NavigationMenu3Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

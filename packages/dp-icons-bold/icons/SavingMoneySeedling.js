@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingMoneySeedling',
+    name: 'saving-money-seedling',
+    key: 'SavingMoneySeedling',
     width: 24,
     height: 24,
     attributes: undefined,

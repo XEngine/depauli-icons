@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPerfume',
+    name: 'style-three-pin-perfume',
+    key: 'StyleThreePinPerfume',
     width: 24,
     height: 24,
     attributes: undefined,

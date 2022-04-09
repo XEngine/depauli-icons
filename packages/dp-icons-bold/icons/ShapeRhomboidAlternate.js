@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapeRhomboidAlternate',
+    name: 'shape-rhomboid-alternate',
+    key: 'ShapeRhomboidAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

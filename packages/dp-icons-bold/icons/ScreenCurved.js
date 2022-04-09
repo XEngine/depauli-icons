@@ -1,5 +1,6 @@
 export default {
-    name: 'ScreenCurved',
+    name: 'screen-curved',
+    key: 'ScreenCurved',
     width: 24,
     height: 24,
     attributes: undefined,

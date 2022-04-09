@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicClefSheet',
+    name: 'music-clef-sheet',
+    key: 'MusicClefSheet',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

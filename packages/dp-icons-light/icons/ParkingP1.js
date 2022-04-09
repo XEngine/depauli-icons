@@ -1,5 +1,6 @@
 export default {
-    name: 'ParkingP1',
+    name: 'parking-p-1',
+    key: 'ParkingP1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

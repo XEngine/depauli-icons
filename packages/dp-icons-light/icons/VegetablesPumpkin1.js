@@ -1,5 +1,6 @@
 export default {
-    name: 'VegetablesPumpkin1',
+    name: 'vegetables-pumpkin-1',
+    key: 'VegetablesPumpkin1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

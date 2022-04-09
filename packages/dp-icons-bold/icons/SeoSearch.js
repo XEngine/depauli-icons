@@ -1,5 +1,6 @@
 export default {
-    name: 'SeoSearch',
+    name: 'seo-search',
+    key: 'SeoSearch',
     width: 24,
     height: 24,
     attributes: undefined,

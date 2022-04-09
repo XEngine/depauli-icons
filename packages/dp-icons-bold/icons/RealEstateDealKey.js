@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDealKey',
+    name: 'real-estate-deal-key',
+    key: 'RealEstateDealKey',
     width: 24,
     height: 24,
     attributes: undefined,

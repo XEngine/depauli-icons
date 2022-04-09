@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudShield',
+    name: 'cloud-shield',
+    key: 'CloudShield',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingCameraSquareAlternate',
+    name: 'meeting-camera-square-alternate',
+    key: 'MeetingCameraSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

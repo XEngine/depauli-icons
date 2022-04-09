@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderAdd',
+    name: 'folder-add',
+    key: 'FolderAdd',
     width: 24,
     height: 24,
     attributes: undefined,

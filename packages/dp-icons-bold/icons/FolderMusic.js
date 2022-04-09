@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderMusic',
+    name: 'folder-music',
+    key: 'FolderMusic',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowDown',
+    name: 'arrow-down',
+    key: 'ArrowDown',
     width: 24,
     height: 24,
     attributes: undefined,

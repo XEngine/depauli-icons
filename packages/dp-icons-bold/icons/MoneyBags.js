@@ -1,5 +1,6 @@
 export default {
-    name: 'MoneyBags',
+    name: 'money-bags',
+    key: 'MoneyBags',
     width: 24,
     height: 24,
     attributes: undefined,

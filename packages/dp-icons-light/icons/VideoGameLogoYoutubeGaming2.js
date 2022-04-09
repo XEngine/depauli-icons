@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoYoutubeGaming2',
+    name: 'video-game-logo-youtube-gaming-2',
+    key: 'VideoGameLogoYoutubeGaming2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

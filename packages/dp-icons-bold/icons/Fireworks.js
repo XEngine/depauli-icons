@@ -1,5 +1,6 @@
 export default {
-    name: 'Fireworks',
+    name: 'fireworks',
+    key: 'Fireworks',
     width: 24,
     height: 24,
     attributes: undefined,

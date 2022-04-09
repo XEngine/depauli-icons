@@ -1,5 +1,6 @@
 export default {
-    name: 'GlassesSunCircle',
+    name: 'glasses-sun-circle',
+    key: 'GlassesSunCircle',
     width: 24,
     height: 24,
     attributes: undefined,

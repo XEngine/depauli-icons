@@ -1,5 +1,6 @@
 export default {
-    name: 'FireworksRocket',
+    name: 'fireworks-rocket',
+    key: 'FireworksRocket',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyPoundDecrease',
+    name: 'currency-pound-decrease',
+    key: 'CurrencyPoundDecrease',
     width: 24,
     height: 24,
     attributes: undefined,

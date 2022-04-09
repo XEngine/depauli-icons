@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoPlayerSubtitle',
+    name: 'video-player-subtitle',
+    key: 'VideoPlayerSubtitle',
     width: 24,
     height: 24,
     attributes: undefined,

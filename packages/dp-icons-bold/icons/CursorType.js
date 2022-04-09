@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorType',
+    name: 'cursor-type',
+    key: 'CursorType',
     width: 24,
     height: 24,
     attributes: undefined,

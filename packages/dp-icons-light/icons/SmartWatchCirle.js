@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCirle',
+    name: 'smart-watch-cirle',
+    key: 'SmartWatchCirle',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round"},

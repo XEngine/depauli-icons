@@ -1,5 +1,6 @@
 export default {
-    name: 'LegalScaleUnequal1',
+    name: 'legal-scale-unequal-1',
+    key: 'LegalScaleUnequal1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

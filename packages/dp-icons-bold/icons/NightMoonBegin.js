@@ -1,5 +1,6 @@
 export default {
-    name: 'NightMoonBegin',
+    name: 'night-moon-begin',
+    key: 'NightMoonBegin',
     width: 24,
     height: 24,
     attributes: undefined,

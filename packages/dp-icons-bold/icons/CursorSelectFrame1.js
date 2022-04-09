@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorSelectFrame1',
+    name: 'cursor-select-frame-1',
+    key: 'CursorSelectFrame1',
     width: 24,
     height: 24,
     attributes: undefined,

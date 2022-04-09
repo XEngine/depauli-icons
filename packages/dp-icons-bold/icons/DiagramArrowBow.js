@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramArrowBow',
+    name: 'diagram-arrow-bow',
+    key: 'DiagramArrowBow',
     width: 24,
     height: 24,
     attributes: undefined,

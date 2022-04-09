@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolExamFFailAlternate',
+    name: 'school-exam-f-fail-alternate',
+    key: 'SchoolExamFFailAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

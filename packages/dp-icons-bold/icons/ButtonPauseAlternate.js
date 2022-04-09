@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonPauseAlternate',
+    name: 'button-pause-alternate',
+    key: 'ButtonPauseAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

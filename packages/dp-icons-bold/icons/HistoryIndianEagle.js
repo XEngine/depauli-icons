@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryIndianEagle',
+    name: 'history-indian-eagle',
+    key: 'HistoryIndianEagle',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AdventureCar4',
+    name: 'adventure-car-4',
+    key: 'AdventureCar4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

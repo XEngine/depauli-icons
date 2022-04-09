@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHouseMusic',
+    name: 'smart-house-music',
+    key: 'SmartHouseMusic',
     width: 24,
     height: 24,
     attributes: undefined,

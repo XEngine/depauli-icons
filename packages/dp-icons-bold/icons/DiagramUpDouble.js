@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramUpDouble',
+    name: 'diagram-up-double',
+    key: 'DiagramUpDouble',
     width: 24,
     height: 24,
     attributes: undefined,

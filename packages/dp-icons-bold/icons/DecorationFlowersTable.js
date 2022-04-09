@@ -1,5 +1,6 @@
 export default {
-    name: 'DecorationFlowersTable',
+    name: 'decoration-flowers-table',
+    key: 'DecorationFlowersTable',
     width: 24,
     height: 24,
     attributes: undefined,

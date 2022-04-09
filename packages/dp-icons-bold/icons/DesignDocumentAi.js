@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDocumentAi',
+    name: 'design-document-ai',
+    key: 'DesignDocumentAi',
     width: 24,
     height: 24,
     attributes: undefined,

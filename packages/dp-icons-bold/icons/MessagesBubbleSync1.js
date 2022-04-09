@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSync1',
+    name: 'messages-bubble-sync-1',
+    key: 'MessagesBubbleSync1',
     width: 24,
     height: 24,
     attributes: undefined,

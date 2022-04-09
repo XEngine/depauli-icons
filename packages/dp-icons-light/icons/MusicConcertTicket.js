@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicConcertTicket',
+    name: 'music-concert-ticket',
+    key: 'MusicConcertTicket',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

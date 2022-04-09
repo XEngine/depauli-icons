@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepair24hService',
+    name: 'car-repair-24h-service',
+    key: 'CarRepair24hService',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

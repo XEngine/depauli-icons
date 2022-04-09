@@ -1,5 +1,6 @@
 export default {
-    name: 'BaggageRoll',
+    name: 'baggage-roll',
+    key: 'BaggageRoll',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

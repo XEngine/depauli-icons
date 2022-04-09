@@ -1,5 +1,6 @@
 export default {
-    name: 'SendEmailFly',
+    name: 'send-email-fly',
+    key: 'SendEmailFly',
     width: 24,
     height: 24,
     attributes: undefined,

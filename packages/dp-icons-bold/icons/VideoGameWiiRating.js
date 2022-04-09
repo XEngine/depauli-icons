@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameWiiRating',
+    name: 'video-game-wii-rating',
+    key: 'VideoGameWiiRating',
     width: 24,
     height: 24,
     attributes: undefined,

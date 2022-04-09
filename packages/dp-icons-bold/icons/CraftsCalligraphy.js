@@ -1,5 +1,6 @@
 export default {
-    name: 'CraftsCalligraphy',
+    name: 'crafts-calligraphy',
+    key: 'CraftsCalligraphy',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CoffeeMug',
+    name: 'coffee-mug',
+    key: 'CoffeeMug',
     width: 24,
     height: 24,
     attributes: undefined,

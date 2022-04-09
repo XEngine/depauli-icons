@@ -1,5 +1,6 @@
 export default {
-    name: 'Flask',
+    name: 'flask',
+    key: 'Flask',
     width: 24,
     height: 24,
     attributes: undefined,

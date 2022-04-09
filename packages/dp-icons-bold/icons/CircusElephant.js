@@ -1,5 +1,6 @@
 export default {
-    name: 'CircusElephant',
+    name: 'circus-elephant',
+    key: 'CircusElephant',
     width: 24,
     height: 24,
     attributes: undefined,

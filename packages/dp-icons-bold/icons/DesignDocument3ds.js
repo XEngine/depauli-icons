@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDocument3ds',
+    name: 'design-document-3ds',
+    key: 'DesignDocument3ds',
     width: 24,
     height: 24,
     attributes: undefined,

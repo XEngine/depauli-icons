@@ -1,5 +1,6 @@
 export default {
-    name: 'AcCool',
+    name: 'ac-cool',
+    key: 'AcCool',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileDash',
+    name: 'common-file-dash',
+    key: 'CommonFileDash',
     width: 24,
     height: 24,
     attributes: undefined,

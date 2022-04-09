@@ -1,5 +1,6 @@
 export default {
-    name: 'WatchTimeAlternate',
+    name: 'watch-time-alternate',
+    key: 'WatchTimeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

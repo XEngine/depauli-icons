@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBraille',
+    name: 'style-three-pin-braille',
+    key: 'StyleThreePinBraille',
     width: 24,
     height: 24,
     attributes: undefined,

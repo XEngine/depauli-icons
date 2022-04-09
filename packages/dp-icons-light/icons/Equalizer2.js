@@ -1,5 +1,6 @@
 export default {
-    name: 'Equalizer2',
+    name: 'equalizer-2',
+    key: 'Equalizer2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

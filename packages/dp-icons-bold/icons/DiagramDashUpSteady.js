@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramDashUpSteady',
+    name: 'diagram-dash-up-steady',
+    key: 'DiagramDashUpSteady',
     width: 24,
     height: 24,
     attributes: undefined,

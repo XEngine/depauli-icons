@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeSync1',
+    name: 'file-code-sync-1',
+    key: 'FileCodeSync1',
     width: 24,
     height: 24,
     attributes: undefined,

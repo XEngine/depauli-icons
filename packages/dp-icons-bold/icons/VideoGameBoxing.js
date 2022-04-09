@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameBoxing',
+    name: 'video-game-boxing',
+    key: 'VideoGameBoxing',
     width: 24,
     height: 24,
     attributes: undefined,

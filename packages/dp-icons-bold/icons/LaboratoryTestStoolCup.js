@@ -1,5 +1,6 @@
 export default {
-    name: 'LaboratoryTestStoolCup',
+    name: 'laboratory-test-stool-cup',
+    key: 'LaboratoryTestStoolCup',
     width: 24,
     height: 24,
     attributes: undefined,

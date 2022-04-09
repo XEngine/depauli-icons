@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherAppSunCoudy',
+    name: 'weather-app-sun-coudy',
+    key: 'WeatherAppSunCoudy',
     width: 24,
     height: 24,
     attributes: undefined,

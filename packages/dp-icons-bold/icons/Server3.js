@@ -1,5 +1,6 @@
 export default {
-    name: 'Server3',
+    name: 'server-3',
+    key: 'Server3',
     width: 24,
     height: 24,
     attributes: undefined,

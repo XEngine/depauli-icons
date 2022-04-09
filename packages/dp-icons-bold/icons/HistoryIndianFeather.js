@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryIndianFeather',
+    name: 'history-indian-feather',
+    key: 'HistoryIndianFeather',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MuseumPainting',
+    name: 'museum-painting',
+    key: 'MuseumPainting',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Cloud',
+    name: 'cloud',
+    key: 'Cloud',
     width: 24,
     height: 24,
     attributes: undefined,

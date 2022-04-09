@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoCreeperAlternate',
+    name: 'video-game-logo-creeper-alternate',
+    key: 'VideoGameLogoCreeperAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

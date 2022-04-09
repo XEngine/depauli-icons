@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernMusicDrums',
+    name: 'modern-music-drums',
+    key: 'ModernMusicDrums',
     width: 24,
     height: 24,
     attributes: undefined,

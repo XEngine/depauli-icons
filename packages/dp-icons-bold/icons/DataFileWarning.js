@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileWarning',
+    name: 'data-file-warning',
+    key: 'DataFileWarning',
     width: 24,
     height: 24,
     attributes: undefined,

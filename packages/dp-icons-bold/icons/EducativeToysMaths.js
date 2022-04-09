@@ -1,5 +1,6 @@
 export default {
-    name: 'EducativeToysMaths',
+    name: 'educative-toys-maths',
+    key: 'EducativeToysMaths',
     width: 24,
     height: 24,
     attributes: undefined,

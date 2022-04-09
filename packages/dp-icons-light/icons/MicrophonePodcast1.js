@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophonePodcast1',
+    name: 'microphone-podcast-1',
+    key: 'MicrophonePodcast1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

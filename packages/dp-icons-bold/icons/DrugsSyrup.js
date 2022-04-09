@@ -1,5 +1,6 @@
 export default {
-    name: 'DrugsSyrup',
+    name: 'drugs-syrup',
+    key: 'DrugsSyrup',
     width: 24,
     height: 24,
     attributes: undefined,

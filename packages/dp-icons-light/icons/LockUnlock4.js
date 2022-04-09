@@ -1,5 +1,6 @@
 export default {
-    name: 'LockUnlock4',
+    name: 'lock-unlock-4',
+    key: 'LockUnlock4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

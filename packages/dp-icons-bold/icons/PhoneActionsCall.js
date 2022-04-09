@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsCall',
+    name: 'phone-actions-call',
+    key: 'PhoneActionsCall',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationBoard',
+    name: 'presentation-board',
+    key: 'PresentationBoard',
     width: 24,
     height: 24,
     attributes: undefined,

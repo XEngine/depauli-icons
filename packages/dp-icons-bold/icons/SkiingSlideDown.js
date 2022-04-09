@@ -1,5 +1,6 @@
 export default {
-    name: 'SkiingSlideDown',
+    name: 'skiing-slide-down',
+    key: 'SkiingSlideDown',
     width: 24,
     height: 24,
     attributes: undefined,

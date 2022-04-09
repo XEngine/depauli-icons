@@ -1,5 +1,6 @@
 export default {
-    name: 'DoorLock',
+    name: 'door-lock',
+    key: 'DoorLock',
     width: 24,
     height: 24,
     attributes: undefined,

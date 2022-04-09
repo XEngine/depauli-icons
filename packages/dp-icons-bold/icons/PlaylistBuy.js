@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistBuy',
+    name: 'playlist-buy',
+    key: 'PlaylistBuy',
     width: 24,
     height: 24,
     attributes: undefined,

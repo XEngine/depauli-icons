@@ -1,5 +1,6 @@
 export default {
-    name: 'OptimizationRocketGraph',
+    name: 'optimization-rocket-graph',
+    key: 'OptimizationRocketGraph',
     width: 24,
     height: 24,
     attributes: undefined,

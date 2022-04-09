@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameControlDirections',
+    name: 'video-game-control-directions',
+    key: 'VideoGameControlDirections',
     width: 24,
     height: 24,
     attributes: undefined,

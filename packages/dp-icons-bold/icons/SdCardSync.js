@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardSync',
+    name: 'sd-card-sync',
+    key: 'SdCardSync',
     width: 24,
     height: 24,
     attributes: undefined,

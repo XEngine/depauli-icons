@@ -1,5 +1,6 @@
 export default {
-    name: 'PerformancePresentationCart',
+    name: 'performance-presentation-cart',
+    key: 'PerformancePresentationCart',
     width: 24,
     height: 24,
     attributes: undefined,

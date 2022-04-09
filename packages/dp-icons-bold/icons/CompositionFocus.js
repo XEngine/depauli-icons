@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionFocus',
+    name: 'composition-focus',
+    key: 'CompositionFocus',
     width: 24,
     height: 24,
     attributes: undefined,

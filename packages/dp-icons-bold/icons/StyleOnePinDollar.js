@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinDollar',
+    name: 'style-one-pin-dollar',
+    key: 'StyleOnePinDollar',
     width: 24,
     height: 24,
     attributes: undefined,

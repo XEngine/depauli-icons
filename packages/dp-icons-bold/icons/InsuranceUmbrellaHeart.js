@@ -1,5 +1,6 @@
 export default {
-    name: 'InsuranceUmbrellaHeart',
+    name: 'insurance-umbrella-heart',
+    key: 'InsuranceUmbrellaHeart',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinInk',
+    name: 'style-three-pin-ink',
+    key: 'StyleThreePinInk',
     width: 24,
     height: 24,
     attributes: undefined,

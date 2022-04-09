@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramArrowRight',
+    name: 'diagram-arrow-right',
+    key: 'DiagramArrowRight',
     width: 24,
     height: 24,
     attributes: undefined,

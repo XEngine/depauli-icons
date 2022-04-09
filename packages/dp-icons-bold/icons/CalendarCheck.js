@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarCheck',
+    name: 'calendar-check',
+    key: 'CalendarCheck',
     width: 24,
     height: 24,
     attributes: undefined,

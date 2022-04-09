@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinNavigationLocation',
+    name: 'style-three-pin-navigation-location',
+    key: 'StyleThreePinNavigationLocation',
     width: 24,
     height: 24,
     attributes: undefined,

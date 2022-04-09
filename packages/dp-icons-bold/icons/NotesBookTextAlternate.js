@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesBookTextAlternate',
+    name: 'notes-book-text-alternate',
+    key: 'NotesBookTextAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

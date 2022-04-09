@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceShoppingBagBrowser',
+    name: 'e-commerce-shopping-bag-browser',
+    key: 'ECommerceShoppingBagBrowser',
     width: 24,
     height: 24,
     attributes: undefined,

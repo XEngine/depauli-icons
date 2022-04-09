@@ -1,5 +1,6 @@
 export default {
-    name: 'Canoe1',
+    name: 'canoe-1',
+    key: 'Canoe1',
     width: 24,
     height: 24,
     attributes: undefined,

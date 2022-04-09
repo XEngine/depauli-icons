@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionCreditCard1',
+    name: 'phone-action-credit-card-1',
+    key: 'PhoneActionCreditCard1',
     width: 24,
     height: 24,
     attributes: undefined,

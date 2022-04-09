@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationMenuHorizontal1Alternate',
+    name: 'navigation-menu-horizontal-1-alternate',
+    key: 'NavigationMenuHorizontal1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalInstrumentSyringe1',
+    name: 'medical-instrument-syringe-1',
+    key: 'MedicalInstrumentSyringe1',
     width: 24,
     height: 24,
     attributes: undefined,

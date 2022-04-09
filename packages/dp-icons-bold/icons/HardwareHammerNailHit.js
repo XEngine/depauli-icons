@@ -1,5 +1,6 @@
 export default {
-    name: 'HardwareHammerNailHit',
+    name: 'hardware-hammer-nail-hit',
+    key: 'HardwareHammerNailHit',
     width: 24,
     height: 24,
     attributes: undefined,

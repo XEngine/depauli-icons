@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkShrineOfItsukushima',
+    name: 'landmark-shrine-of-itsukushima',
+    key: 'LandmarkShrineOfItsukushima',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherAppSunny',
+    name: 'weather-app-sunny',
+    key: 'WeatherAppSunny',
     width: 24,
     height: 24,
     attributes: undefined,

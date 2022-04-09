@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherAppCloudLocation',
+    name: 'weather-app-cloud-location',
+    key: 'WeatherAppCloudLocation',
     width: 24,
     height: 24,
     attributes: undefined,

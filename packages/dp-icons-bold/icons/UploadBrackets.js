@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadBrackets',
+    name: 'upload-brackets',
+    key: 'UploadBrackets',
     width: 24,
     height: 24,
     attributes: undefined,

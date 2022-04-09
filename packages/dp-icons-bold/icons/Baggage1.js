@@ -1,5 +1,6 @@
 export default {
-    name: 'Baggage1',
+    name: 'baggage-1',
+    key: 'Baggage1',
     width: 24,
     height: 24,
     attributes: undefined,

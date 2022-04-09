@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardE',
+    name: 'car-dashboard-e',
+    key: 'CarDashboardE',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadTunnel',
+    name: 'road-tunnel',
+    key: 'RoadTunnel',
     width: 24,
     height: 24,
     attributes: undefined,

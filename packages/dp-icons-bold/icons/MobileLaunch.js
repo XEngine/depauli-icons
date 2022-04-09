@@ -1,5 +1,6 @@
 export default {
-    name: 'MobileLaunch',
+    name: 'mobile-launch',
+    key: 'MobileLaunch',
     width: 24,
     height: 24,
     attributes: undefined,

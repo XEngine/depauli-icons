@@ -1,5 +1,6 @@
 export default {
-    name: 'ResponsiveDesign',
+    name: 'responsive-design',
+    key: 'ResponsiveDesign',
     width: 24,
     height: 24,
     attributes: undefined,

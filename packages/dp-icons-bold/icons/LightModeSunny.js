@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeSunny',
+    name: 'light-mode-sunny',
+    key: 'LightModeSunny',
     width: 24,
     height: 24,
     attributes: undefined,

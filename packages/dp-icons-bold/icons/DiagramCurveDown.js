@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramCurveDown',
+    name: 'diagram-curve-down',
+    key: 'DiagramCurveDown',
     width: 24,
     height: 24,
     attributes: undefined,

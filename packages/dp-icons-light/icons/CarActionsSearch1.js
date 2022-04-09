@@ -1,5 +1,6 @@
 export default {
-    name: 'CarActionsSearch1',
+    name: 'car-actions-search-1',
+    key: 'CarActionsSearch1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'LibraryHidden',
+    name: 'library-hidden',
+    key: 'LibraryHidden',
     width: 24,
     height: 24,
     attributes: undefined,

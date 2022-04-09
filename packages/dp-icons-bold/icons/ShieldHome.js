@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldHome',
+    name: 'shield-home',
+    key: 'ShieldHome',
     width: 24,
     height: 24,
     attributes: undefined,

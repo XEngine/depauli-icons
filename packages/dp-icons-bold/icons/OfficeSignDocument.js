@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeSignDocument',
+    name: 'office-sign-document',
+    key: 'OfficeSignDocument',
     width: 24,
     height: 24,
     attributes: undefined,

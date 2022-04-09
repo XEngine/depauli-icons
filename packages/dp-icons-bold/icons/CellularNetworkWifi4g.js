@@ -1,5 +1,6 @@
 export default {
-    name: 'CellularNetworkWifi4g',
+    name: 'cellular-network-wifi-4g',
+    key: 'CellularNetworkWifi4g',
     width: 24,
     height: 24,
     attributes: undefined,

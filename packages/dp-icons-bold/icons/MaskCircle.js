@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskCircle',
+    name: 'mask-circle',
+    key: 'MaskCircle',
     width: 24,
     height: 24,
     attributes: undefined,

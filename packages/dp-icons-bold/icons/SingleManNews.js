@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManNews',
+    name: 'single-man-news',
+    key: 'SingleManNews',
     width: 24,
     height: 24,
     attributes: undefined,

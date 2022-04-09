@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesCalendar',
+    name: 'notes-calendar',
+    key: 'NotesCalendar',
     width: 24,
     height: 24,
     attributes: undefined,

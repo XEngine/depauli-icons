@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalAppLaptop1',
+    name: 'medical-app-laptop-1',
+    key: 'MedicalAppLaptop1',
     width: 24,
     height: 24,
     attributes: undefined,

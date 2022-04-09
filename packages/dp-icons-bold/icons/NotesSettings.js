@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesSettings',
+    name: 'notes-settings',
+    key: 'NotesSettings',
     width: 24,
     height: 24,
     attributes: undefined,

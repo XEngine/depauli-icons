@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSideRoadAngleRight1Alternate',
+    name: 'road-sign-side-road-angle-right-1-alternate',
+    key: 'RoadSignSideRoadAngleRight1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

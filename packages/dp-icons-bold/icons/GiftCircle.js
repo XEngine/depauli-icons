@@ -1,5 +1,6 @@
 export default {
-    name: 'GiftCircle',
+    name: 'gift-circle',
+    key: 'GiftCircle',
     width: 24,
     height: 24,
     attributes: undefined,

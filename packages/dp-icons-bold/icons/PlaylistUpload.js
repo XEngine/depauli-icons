@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistUpload',
+    name: 'playlist-upload',
+    key: 'PlaylistUpload',
     width: 24,
     height: 24,
     attributes: undefined,

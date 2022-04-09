@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeShredder1',
+    name: 'office-shredder-1',
+    key: 'OfficeShredder1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHouseLightOn',
+    name: 'smart-house-light-on',
+    key: 'SmartHouseLightOn',
     width: 24,
     height: 24,
     attributes: undefined,

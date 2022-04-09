@@ -1,5 +1,6 @@
 export default {
-    name: 'LegalScaleDocument',
+    name: 'legal-scale-document',
+    key: 'LegalScaleDocument',
     width: 24,
     height: 24,
     attributes: undefined,

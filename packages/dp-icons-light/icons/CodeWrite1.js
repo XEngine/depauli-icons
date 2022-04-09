@@ -1,5 +1,6 @@
 export default {
-    name: 'CodeWrite1',
+    name: 'code-write-1',
+    key: 'CodeWrite1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

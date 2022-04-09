@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSpeedLimit90',
+    name: 'road-sign-speed-limit-90',
+    key: 'RoadSignSpeedLimit90',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

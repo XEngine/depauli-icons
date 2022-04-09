@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingWirelessCharging',
+    name: 'charging-wireless-charging',
+    key: 'ChargingWirelessCharging',
     width: 24,
     height: 24,
     attributes: undefined,

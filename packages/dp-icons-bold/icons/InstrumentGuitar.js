@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentGuitar',
+    name: 'instrument-guitar',
+    key: 'InstrumentGuitar',
     width: 24,
     height: 24,
     attributes: undefined,

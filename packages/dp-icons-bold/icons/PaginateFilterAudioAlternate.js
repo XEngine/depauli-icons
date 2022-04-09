@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterAudioAlternate',
+    name: 'paginate-filter-audio-alternate',
+    key: 'PaginateFilterAudioAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

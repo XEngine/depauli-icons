@@ -1,5 +1,6 @@
 export default {
-    name: 'DancingBalletDress',
+    name: 'dancing-ballet-dress',
+    key: 'DancingBalletDress',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RainUmbrella',
+    name: 'rain-umbrella',
+    key: 'RainUmbrella',
     width: 24,
     height: 24,
     attributes: undefined,

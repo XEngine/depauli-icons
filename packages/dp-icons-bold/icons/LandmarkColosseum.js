@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkColosseum',
+    name: 'landmark-colosseum',
+    key: 'LandmarkColosseum',
     width: 24,
     height: 24,
     attributes: undefined,

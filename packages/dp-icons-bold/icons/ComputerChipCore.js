@@ -1,5 +1,6 @@
 export default {
-    name: 'ComputerChipCore',
+    name: 'computer-chip-core',
+    key: 'ComputerChipCore',
     width: 24,
     height: 24,
     attributes: undefined,

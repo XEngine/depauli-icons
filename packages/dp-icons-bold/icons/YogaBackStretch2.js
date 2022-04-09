@@ -1,5 +1,6 @@
 export default {
-    name: 'YogaBackStretch2',
+    name: 'yoga-back-stretch-2',
+    key: 'YogaBackStretch2',
     width: 24,
     height: 24,
     attributes: undefined,

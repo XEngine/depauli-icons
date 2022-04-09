@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowButtonUp3',
+    name: 'arrow-button-up-3',
+    key: 'ArrowButtonUp3',
     width: 24,
     height: 24,
     attributes: undefined,

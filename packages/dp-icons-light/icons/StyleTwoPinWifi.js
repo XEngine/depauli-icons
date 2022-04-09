@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinWifi',
+    name: 'style-two-pin-wifi',
+    key: 'StyleTwoPinWifi',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

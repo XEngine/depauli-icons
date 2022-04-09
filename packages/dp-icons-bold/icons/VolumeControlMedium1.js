@@ -1,5 +1,6 @@
 export default {
-    name: 'VolumeControlMedium1',
+    name: 'volume-control-medium-1',
+    key: 'VolumeControlMedium1',
     width: 24,
     height: 24,
     attributes: undefined,

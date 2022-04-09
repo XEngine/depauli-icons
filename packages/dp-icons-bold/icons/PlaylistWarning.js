@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistWarning',
+    name: 'playlist-warning',
+    key: 'PlaylistWarning',
     width: 24,
     height: 24,
     attributes: undefined,

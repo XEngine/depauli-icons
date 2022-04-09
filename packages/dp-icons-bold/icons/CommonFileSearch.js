@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileSearch',
+    name: 'common-file-search',
+    key: 'CommonFileSearch',
     width: 24,
     height: 24,
     attributes: undefined,

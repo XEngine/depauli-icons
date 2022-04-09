@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanProcess',
+    name: 'single-woman-process',
+    key: 'SingleWomanProcess',
     width: 24,
     height: 24,
     attributes: undefined,

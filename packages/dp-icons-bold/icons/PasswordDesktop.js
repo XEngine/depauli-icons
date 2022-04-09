@@ -1,5 +1,6 @@
 export default {
-    name: 'PasswordDesktop',
+    name: 'password-desktop',
+    key: 'PasswordDesktop',
     width: 24,
     height: 24,
     attributes: undefined,

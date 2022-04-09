@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenWindow',
+    name: 'kitchen-window',
+    key: 'KitchenWindow',
     width: 24,
     height: 24,
     attributes: undefined,

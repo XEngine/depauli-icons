@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkDownload',
+    name: 'network-download',
+    key: 'NetworkDownload',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EnvelopeLetter',
+    name: 'envelope-letter',
+    key: 'EnvelopeLetter',
     width: 24,
     height: 24,
     attributes: undefined,

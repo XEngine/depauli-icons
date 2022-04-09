@@ -1,5 +1,6 @@
 export default {
-    name: 'TruckMoving',
+    name: 'truck-moving',
+    key: 'TruckMoving',
     width: 24,
     height: 24,
     attributes: undefined,

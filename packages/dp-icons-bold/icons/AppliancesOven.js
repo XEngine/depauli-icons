@@ -1,5 +1,6 @@
 export default {
-    name: 'AppliancesOven',
+    name: 'appliances-oven',
+    key: 'AppliancesOven',
     width: 24,
     height: 24,
     attributes: undefined,

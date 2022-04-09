@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFilePdf',
+    name: 'office-file-pdf',
+    key: 'OfficeFilePdf',
     width: 24,
     height: 24,
     attributes: undefined,

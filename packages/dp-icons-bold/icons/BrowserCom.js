@@ -1,5 +1,6 @@
 export default {
-    name: 'BrowserCom',
+    name: 'browser-com',
+    key: 'BrowserCom',
     width: 24,
     height: 24,
     attributes: undefined,

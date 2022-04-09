@@ -1,5 +1,6 @@
 export default {
-    name: 'BreakfastCroissant2',
+    name: 'breakfast-croissant-2',
+    key: 'BreakfastCroissant2',
     width: 24,
     height: 24,
     attributes: undefined,

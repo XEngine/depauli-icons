@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkShield',
+    name: 'network-shield',
+    key: 'NetworkShield',
     width: 24,
     height: 24,
     attributes: undefined,

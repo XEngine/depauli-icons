@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsPaletteSpatula',
+    name: 'tools-palette-spatula',
+    key: 'ToolsPaletteSpatula',
     width: 24,
     height: 24,
     attributes: undefined,

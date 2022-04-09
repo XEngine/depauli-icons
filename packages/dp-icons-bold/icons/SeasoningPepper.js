@@ -1,5 +1,6 @@
 export default {
-    name: 'SeasoningPepper',
+    name: 'seasoning-pepper',
+    key: 'SeasoningPepper',
     width: 24,
     height: 24,
     attributes: undefined,

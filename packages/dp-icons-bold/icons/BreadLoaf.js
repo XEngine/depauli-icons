@@ -1,5 +1,6 @@
 export default {
-    name: 'BreadLoaf',
+    name: 'bread-loaf',
+    key: 'BreadLoaf',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MobilePhoneBlackberry1',
+    name: 'mobile-phone-blackberry-1',
+    key: 'MobilePhoneBlackberry1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'InformationDeskCustomer',
+    name: 'information-desk-customer',
+    key: 'InformationDeskCustomer',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

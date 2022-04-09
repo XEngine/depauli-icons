@@ -1,5 +1,6 @@
 export default {
-    name: 'PicturePolaroidFour',
+    name: 'picture-polaroid-four',
+    key: 'PicturePolaroidFour',
     width: 24,
     height: 24,
     attributes: undefined,

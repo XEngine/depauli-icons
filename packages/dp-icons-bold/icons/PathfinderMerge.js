@@ -1,5 +1,6 @@
 export default {
-    name: 'PathfinderMerge',
+    name: 'pathfinder-merge',
+    key: 'PathfinderMerge',
     width: 24,
     height: 24,
     attributes: undefined,

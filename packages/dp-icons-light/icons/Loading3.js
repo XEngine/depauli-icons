@@ -1,5 +1,6 @@
 export default {
-    name: 'Loading3',
+    name: 'loading-3',
+    key: 'Loading3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

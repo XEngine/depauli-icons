@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyFather',
+    name: 'family-father',
+    key: 'FamilyFather',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignLaneCrossingRight1',
+    name: 'road-sign-lane-crossing-right-1',
+    key: 'RoadSignLaneCrossingRight1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

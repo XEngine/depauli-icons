@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinUser',
+    name: 'style-one-pin-user',
+    key: 'StyleOnePinUser',
     width: 24,
     height: 24,
     attributes: undefined,

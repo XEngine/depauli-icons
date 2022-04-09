@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowUpload',
+    name: 'app-window-upload',
+    key: 'AppWindowUpload',
     width: 24,
     height: 24,
     attributes: undefined,

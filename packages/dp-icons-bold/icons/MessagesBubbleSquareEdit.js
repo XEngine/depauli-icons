@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareEdit',
+    name: 'messages-bubble-square-edit',
+    key: 'MessagesBubbleSquareEdit',
     width: 24,
     height: 24,
     attributes: undefined,

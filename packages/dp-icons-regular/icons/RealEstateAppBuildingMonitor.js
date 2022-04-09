@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateAppBuildingMonitor',
+    name: 'real-estate-app-building-monitor',
+    key: 'RealEstateAppBuildingMonitor',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

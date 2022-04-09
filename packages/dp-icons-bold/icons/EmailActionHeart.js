@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionHeart',
+    name: 'email-action-heart',
+    key: 'EmailActionHeart',
     width: 24,
     height: 24,
     attributes: undefined,

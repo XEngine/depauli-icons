@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationUserCoins',
+    name: 'monetization-user-coins',
+    key: 'MonetizationUserCoins',
     width: 24,
     height: 24,
     attributes: undefined,

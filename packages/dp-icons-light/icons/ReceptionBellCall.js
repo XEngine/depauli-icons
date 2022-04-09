@@ -1,5 +1,6 @@
 export default {
-    name: 'ReceptionBellCall',
+    name: 'reception-bell-call',
+    key: 'ReceptionBellCall',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

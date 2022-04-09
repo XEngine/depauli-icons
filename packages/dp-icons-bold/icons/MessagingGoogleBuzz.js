@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingGoogleBuzz',
+    name: 'messaging-google-buzz',
+    key: 'MessagingGoogleBuzz',
     width: 24,
     height: 24,
     attributes: undefined,

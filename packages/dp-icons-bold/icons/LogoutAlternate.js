@@ -1,5 +1,6 @@
 export default {
-    name: 'LogoutAlternate',
+    name: 'logout-alternate',
+    key: 'LogoutAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

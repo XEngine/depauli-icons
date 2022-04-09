@@ -1,5 +1,6 @@
 export default {
-    name: 'CraftsModelPlane',
+    name: 'crafts-model-plane',
+    key: 'CraftsModelPlane',
     width: 24,
     height: 24,
     attributes: undefined,

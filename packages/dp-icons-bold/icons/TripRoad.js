@@ -1,5 +1,6 @@
 export default {
-    name: 'TripRoad',
+    name: 'trip-road',
+    key: 'TripRoad',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingQik',
+    name: 'messaging-qik',
+    key: 'MessagingQik',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MakeUpHandMirror',
+    name: 'make-up-hand-mirror',
+    key: 'MakeUpHandMirror',
     width: 24,
     height: 24,
     attributes: undefined,

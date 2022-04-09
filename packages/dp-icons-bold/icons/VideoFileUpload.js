@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileUpload',
+    name: 'video-file-upload',
+    key: 'VideoFileUpload',
     width: 24,
     height: 24,
     attributes: undefined,

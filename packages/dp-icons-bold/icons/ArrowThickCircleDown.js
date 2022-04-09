@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickCircleDown',
+    name: 'arrow-thick-circle-down',
+    key: 'ArrowThickCircleDown',
     width: 24,
     height: 24,
     attributes: undefined,

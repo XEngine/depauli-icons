@@ -1,5 +1,6 @@
 export default {
-    name: 'TagHotPrice',
+    name: 'tag-hot-price',
+    key: 'TagHotPrice',
     width: 24,
     height: 24,
     attributes: undefined,

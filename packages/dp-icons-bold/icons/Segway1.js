@@ -1,5 +1,6 @@
 export default {
-    name: 'Segway1',
+    name: 'segway-1',
+    key: 'Segway1',
     width: 24,
     height: 24,
     attributes: undefined,

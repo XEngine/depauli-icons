@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinCloud',
+    name: 'crypto-currency-bitcoin-cloud',
+    key: 'CryptoCurrencyBitcoinCloud',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DogFood',
+    name: 'dog-food',
+    key: 'DogFood',
     width: 24,
     height: 24,
     attributes: undefined,

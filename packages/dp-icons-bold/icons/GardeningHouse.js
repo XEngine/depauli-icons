@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningHouse',
+    name: 'gardening-house',
+    key: 'GardeningHouse',
     width: 24,
     height: 24,
     attributes: undefined,

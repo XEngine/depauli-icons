@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentUploadInformation',
+    name: 'shipment-upload-information',
+    key: 'ShipmentUploadInformation',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

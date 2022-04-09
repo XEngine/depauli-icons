@@ -1,5 +1,6 @@
 export default {
-    name: 'Bookmarks',
+    name: 'bookmarks',
+    key: 'Bookmarks',
     width: 24,
     height: 24,
     attributes: undefined,

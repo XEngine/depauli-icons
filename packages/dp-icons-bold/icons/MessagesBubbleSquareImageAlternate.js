@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareImageAlternate',
+    name: 'messages-bubble-square-image-alternate',
+    key: 'MessagesBubbleSquareImageAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

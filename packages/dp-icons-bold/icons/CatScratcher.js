@@ -1,5 +1,6 @@
 export default {
-    name: 'CatScratcher',
+    name: 'cat-scratcher',
+    key: 'CatScratcher',
     width: 24,
     height: 24,
     attributes: undefined,

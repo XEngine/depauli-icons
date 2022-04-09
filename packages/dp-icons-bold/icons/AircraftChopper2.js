@@ -1,5 +1,6 @@
 export default {
-    name: 'AircraftChopper2',
+    name: 'aircraft-chopper-2',
+    key: 'AircraftChopper2',
     width: 24,
     height: 24,
     attributes: undefined,

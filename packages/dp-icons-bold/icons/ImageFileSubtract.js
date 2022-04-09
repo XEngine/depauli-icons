@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileSubtract',
+    name: 'image-file-subtract',
+    key: 'ImageFileSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

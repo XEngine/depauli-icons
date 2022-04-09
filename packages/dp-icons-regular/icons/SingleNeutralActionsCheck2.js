@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsCheck2',
+    name: 'single-neutral-actions-check-2',
+    key: 'SingleNeutralActionsCheck2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

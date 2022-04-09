@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignLaneNarrowingLeftAlternate',
+    name: 'road-sign-lane-narrowing-left-alternate',
+    key: 'RoadSignLaneNarrowingLeftAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

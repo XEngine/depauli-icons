@@ -1,5 +1,6 @@
 export default {
-    name: 'PinRemove',
+    name: 'pin-remove',
+    key: 'PinRemove',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsRefreshAlternate',
+    name: 'tags-refresh-alternate',
+    key: 'TagsRefreshAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

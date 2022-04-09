@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwarePizzaCutter',
+    name: 'kitchenware-pizza-cutter',
+    key: 'KitchenwarePizzaCutter',
     width: 24,
     height: 24,
     attributes: undefined,

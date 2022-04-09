@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconRemoteHouse',
+    name: 'beacon-remote-house',
+    key: 'BeaconRemoteHouse',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WolfSit',
+    name: 'wolf-sit',
+    key: 'WolfSit',
     width: 24,
     height: 24,
     attributes: undefined,

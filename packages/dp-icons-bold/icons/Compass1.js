@@ -1,5 +1,6 @@
 export default {
-    name: 'Compass1',
+    name: 'compass-1',
+    key: 'Compass1',
     width: 24,
     height: 24,
     attributes: undefined,

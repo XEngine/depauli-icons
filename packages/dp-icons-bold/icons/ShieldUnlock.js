@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldUnlock',
+    name: 'shield-unlock',
+    key: 'ShieldUnlock',
     width: 24,
     height: 24,
     attributes: undefined,

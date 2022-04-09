@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSign2WayAlternate',
+    name: 'road-sign-2-way-alternate',
+    key: 'RoadSign2WayAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

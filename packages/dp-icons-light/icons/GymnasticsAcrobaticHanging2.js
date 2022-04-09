@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsAcrobaticHanging2',
+    name: 'gymnastics-acrobatic-hanging-2',
+    key: 'GymnasticsAcrobaticHanging2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

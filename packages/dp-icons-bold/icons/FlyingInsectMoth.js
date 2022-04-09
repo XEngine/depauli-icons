@@ -1,5 +1,6 @@
 export default {
-    name: 'FlyingInsectMoth',
+    name: 'flying-insect-moth',
+    key: 'FlyingInsectMoth',
     width: 24,
     height: 24,
     attributes: undefined,

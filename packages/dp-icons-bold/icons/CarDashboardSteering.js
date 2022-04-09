@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardSteering',
+    name: 'car-dashboard-steering',
+    key: 'CarDashboardSteering',
     width: 24,
     height: 24,
     attributes: undefined,

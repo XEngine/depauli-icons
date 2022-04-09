@@ -1,5 +1,6 @@
 export default {
-    name: 'TicketHold',
+    name: 'ticket-hold',
+    key: 'TicketHold',
     width: 24,
     height: 24,
     attributes: undefined,

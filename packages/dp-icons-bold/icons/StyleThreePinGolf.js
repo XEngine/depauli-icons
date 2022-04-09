@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinGolf',
+    name: 'style-three-pin-golf',
+    key: 'StyleThreePinGolf',
     width: 24,
     height: 24,
     attributes: undefined,

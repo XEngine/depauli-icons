@@ -1,5 +1,6 @@
 export default {
-    name: 'Cursor1',
+    name: 'cursor-1',
+    key: 'Cursor1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

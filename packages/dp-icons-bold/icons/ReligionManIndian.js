@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionManIndian',
+    name: 'religion-man-indian',
+    key: 'ReligionManIndian',
     width: 24,
     height: 24,
     attributes: undefined,

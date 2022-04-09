@@ -1,5 +1,6 @@
 export default {
-    name: 'GraphStatsAscend',
+    name: 'graph-stats-ascend',
+    key: 'GraphStatsAscend',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderConnect',
+    name: 'folder-connect',
+    key: 'FolderConnect',
     width: 24,
     height: 24,
     attributes: undefined,

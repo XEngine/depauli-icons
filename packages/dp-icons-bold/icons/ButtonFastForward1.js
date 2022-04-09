@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonFastForward1',
+    name: 'button-fast-forward-1',
+    key: 'ButtonFastForward1',
     width: 24,
     height: 24,
     attributes: undefined,

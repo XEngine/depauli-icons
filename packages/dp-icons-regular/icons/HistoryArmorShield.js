@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryArmorShield',
+    name: 'history-armor-shield',
+    key: 'HistoryArmorShield',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

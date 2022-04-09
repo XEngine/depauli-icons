@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionCart',
+    name: 'phone-action-cart',
+    key: 'PhoneActionCart',
     width: 24,
     height: 24,
     attributes: undefined,

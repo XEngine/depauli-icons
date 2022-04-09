@@ -1,5 +1,6 @@
 export default {
-    name: 'DesktopComputer1',
+    name: 'desktop-computer-1',
+    key: 'DesktopComputer1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

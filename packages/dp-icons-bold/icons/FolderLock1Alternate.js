@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderLock1Alternate',
+    name: 'folder-lock-1-alternate',
+    key: 'FolderLock1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

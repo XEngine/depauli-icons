@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsBoardBars',
+    name: 'analytics-board-bars',
+    key: 'AnalyticsBoardBars',
     width: 24,
     height: 24,
     attributes: undefined,

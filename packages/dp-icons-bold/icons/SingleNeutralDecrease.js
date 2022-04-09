@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralDecrease',
+    name: 'single-neutral-decrease',
+    key: 'SingleNeutralDecrease',
     width: 24,
     height: 24,
     attributes: undefined,

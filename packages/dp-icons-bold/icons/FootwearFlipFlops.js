@@ -1,5 +1,6 @@
 export default {
-    name: 'FootwearFlipFlops',
+    name: 'footwear-flip-flops',
+    key: 'FootwearFlipFlops',
     width: 24,
     height: 24,
     attributes: undefined,

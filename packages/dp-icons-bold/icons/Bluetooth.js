@@ -1,5 +1,6 @@
 export default {
-    name: 'Bluetooth',
+    name: 'bluetooth',
+    key: 'Bluetooth',
     width: 24,
     height: 24,
     attributes: undefined,

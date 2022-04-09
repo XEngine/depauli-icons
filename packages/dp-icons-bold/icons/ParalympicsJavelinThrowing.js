@@ -1,5 +1,6 @@
 export default {
-    name: 'ParalympicsJavelinThrowing',
+    name: 'paralympics-javelin-throwing',
+    key: 'ParalympicsJavelinThrowing',
     width: 24,
     height: 24,
     attributes: undefined,

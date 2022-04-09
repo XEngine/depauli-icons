@@ -1,5 +1,6 @@
 export default {
-    name: 'Share1',
+    name: 'share-1',
+    key: 'Share1',
     width: 24,
     height: 24,
     attributes: undefined,

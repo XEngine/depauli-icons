@@ -1,5 +1,6 @@
 export default {
-    name: 'Dmg',
+    name: 'dmg',
+    key: 'Dmg',
     width: 24,
     height: 24,
     attributes: undefined,

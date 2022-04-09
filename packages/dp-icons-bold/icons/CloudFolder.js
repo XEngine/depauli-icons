@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudFolder',
+    name: 'cloud-folder',
+    key: 'CloudFolder',
     width: 24,
     height: 24,
     attributes: undefined,

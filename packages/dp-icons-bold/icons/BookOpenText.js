@@ -1,5 +1,6 @@
 export default {
-    name: 'BookOpenText',
+    name: 'book-open-text',
+    key: 'BookOpenText',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldCheck1',
+    name: 'shield-check-1',
+    key: 'ShieldCheck1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

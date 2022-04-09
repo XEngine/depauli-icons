@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowSkull',
+    name: 'app-window-skull',
+    key: 'AppWindowSkull',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeBrightDark2',
+    name: 'light-mode-bright-dark-2',
+    key: 'LightModeBrightDark2',
     width: 24,
     height: 24,
     attributes: undefined,

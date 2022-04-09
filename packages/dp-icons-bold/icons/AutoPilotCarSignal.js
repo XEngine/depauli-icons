@@ -1,5 +1,6 @@
 export default {
-    name: 'AutoPilotCarSignal',
+    name: 'auto-pilot-car-signal',
+    key: 'AutoPilotCarSignal',
     width: 24,
     height: 24,
     attributes: undefined,

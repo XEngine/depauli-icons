@@ -1,5 +1,6 @@
 export default {
-    name: 'CasinoChip5',
+    name: 'casino-chip-5',
+    key: 'CasinoChip5',
     width: 24,
     height: 24,
     attributes: undefined,

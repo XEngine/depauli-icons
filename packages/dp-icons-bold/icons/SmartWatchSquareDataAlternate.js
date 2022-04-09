@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareDataAlternate',
+    name: 'smart-watch-square-data-alternate',
+    key: 'SmartWatchSquareDataAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

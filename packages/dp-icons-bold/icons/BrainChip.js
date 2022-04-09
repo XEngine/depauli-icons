@@ -1,5 +1,6 @@
 export default {
-    name: 'BrainChip',
+    name: 'brain-chip',
+    key: 'BrainChip',
     width: 24,
     height: 24,
     attributes: undefined,

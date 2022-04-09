@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinAirBoat',
+    name: 'style-three-pin-air-boat',
+    key: 'StyleThreePinAirBoat',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

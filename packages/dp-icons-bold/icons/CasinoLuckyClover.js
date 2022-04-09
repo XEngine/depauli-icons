@@ -1,5 +1,6 @@
 export default {
-    name: 'CasinoLuckyClover',
+    name: 'casino-lucky-clover',
+    key: 'CasinoLuckyClover',
     width: 24,
     height: 24,
     attributes: undefined,

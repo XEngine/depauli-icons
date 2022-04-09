@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarShare',
+    name: 'calendar-share',
+    key: 'CalendarShare',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'JobSeachTeamMan',
+    name: 'job-seach-team-man',
+    key: 'JobSeachTeamMan',
     width: 24,
     height: 24,
     attributes: undefined,

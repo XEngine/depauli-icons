@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairFire1',
+    name: 'car-repair-fire-1',
+    key: 'CarRepairFire1',
     width: 24,
     height: 24,
     attributes: undefined,

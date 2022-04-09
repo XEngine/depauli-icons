@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsAnchorTriangle',
+    name: 'vectors-anchor-triangle',
+    key: 'VectorsAnchorTriangle',
     width: 24,
     height: 24,
     attributes: undefined,

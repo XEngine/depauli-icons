@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsPen1',
+    name: 'vectors-pen-1',
+    key: 'VectorsPen1',
     width: 24,
     height: 24,
     attributes: undefined,

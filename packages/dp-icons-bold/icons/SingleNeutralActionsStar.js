@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsStar',
+    name: 'single-neutral-actions-star',
+    key: 'SingleNeutralActionsStar',
     width: 24,
     height: 24,
     attributes: undefined,

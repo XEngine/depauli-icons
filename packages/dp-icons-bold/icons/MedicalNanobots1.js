@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalNanobots1',
+    name: 'medical-nanobots-1',
+    key: 'MedicalNanobots1',
     width: 24,
     height: 24,
     attributes: undefined,

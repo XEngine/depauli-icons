@@ -1,5 +1,6 @@
 export default {
-    name: 'ConstructionMortarMachine',
+    name: 'construction-mortar-machine',
+    key: 'ConstructionMortarMachine',
     width: 24,
     height: 24,
     attributes: undefined,

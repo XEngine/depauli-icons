@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignRoundaboutAlternate',
+    name: 'road-sign-roundabout-alternate',
+    key: 'RoadSignRoundaboutAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

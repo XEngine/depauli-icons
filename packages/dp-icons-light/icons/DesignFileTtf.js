@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileTtf',
+    name: 'design-file-ttf',
+    key: 'DesignFileTtf',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

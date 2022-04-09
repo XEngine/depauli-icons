@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicPlant',
+    name: 'organic-plant',
+    key: 'OrganicPlant',
     width: 24,
     height: 24,
     attributes: undefined,

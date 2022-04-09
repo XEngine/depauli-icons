@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorTarget2',
+    name: 'cursor-target-2',
+    key: 'CursorTarget2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsWoodSaw',
+    name: 'tools-wood-saw',
+    key: 'ToolsWoodSaw',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesQuestion',
+    name: 'notes-question',
+    key: 'NotesQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

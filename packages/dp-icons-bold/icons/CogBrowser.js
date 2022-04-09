@@ -1,5 +1,6 @@
 export default {
-    name: 'CogBrowser',
+    name: 'cog-browser',
+    key: 'CogBrowser',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LivestockSheepBodyAlternate',
+    name: 'livestock-sheep-body-alternate',
+    key: 'LivestockSheepBodyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveArrowBow',
+    name: 'love-arrow-bow',
+    key: 'LoveArrowBow',
     width: 24,
     height: 24,
     attributes: undefined,

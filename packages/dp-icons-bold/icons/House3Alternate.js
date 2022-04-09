@@ -1,5 +1,6 @@
 export default {
-    name: 'House3Alternate',
+    name: 'house-3-alternate',
+    key: 'House3Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

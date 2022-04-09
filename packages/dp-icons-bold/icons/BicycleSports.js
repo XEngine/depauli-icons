@@ -1,5 +1,6 @@
 export default {
-    name: 'BicycleSports',
+    name: 'bicycle-sports',
+    key: 'BicycleSports',
     width: 24,
     height: 24,
     attributes: undefined,

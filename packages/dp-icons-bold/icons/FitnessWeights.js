@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessWeights',
+    name: 'fitness-weights',
+    key: 'FitnessWeights',
     width: 24,
     height: 24,
     attributes: undefined,

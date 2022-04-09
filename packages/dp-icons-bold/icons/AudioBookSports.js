@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioBookSports',
+    name: 'audio-book-sports',
+    key: 'AudioBookSports',
     width: 24,
     height: 24,
     attributes: undefined,

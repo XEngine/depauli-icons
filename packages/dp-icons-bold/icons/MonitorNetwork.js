@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorNetwork',
+    name: 'monitor-network',
+    key: 'MonitorNetwork',
     width: 24,
     height: 24,
     attributes: undefined,

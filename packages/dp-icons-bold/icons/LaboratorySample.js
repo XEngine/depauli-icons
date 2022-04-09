@@ -1,5 +1,6 @@
 export default {
-    name: 'LaboratorySample',
+    name: 'laboratory-sample',
+    key: 'LaboratorySample',
     width: 24,
     height: 24,
     attributes: undefined,

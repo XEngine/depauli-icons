@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalRoomClockMan',
+    name: 'medical-room-clock-man',
+    key: 'MedicalRoomClockMan',
     width: 24,
     height: 24,
     attributes: undefined,

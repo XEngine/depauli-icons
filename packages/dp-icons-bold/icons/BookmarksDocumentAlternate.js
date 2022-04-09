@@ -1,5 +1,6 @@
 export default {
-    name: 'BookmarksDocumentAlternate',
+    name: 'bookmarks-document-alternate',
+    key: 'BookmarksDocumentAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

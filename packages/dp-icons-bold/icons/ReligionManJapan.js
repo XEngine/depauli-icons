@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionManJapan',
+    name: 'religion-man-japan',
+    key: 'ReligionManJapan',
     width: 24,
     height: 24,
     attributes: undefined,

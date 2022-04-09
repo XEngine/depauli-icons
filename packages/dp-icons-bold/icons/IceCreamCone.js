@@ -1,5 +1,6 @@
 export default {
-    name: 'IceCreamCone',
+    name: 'ice-cream-cone',
+    key: 'IceCreamCone',
     width: 24,
     height: 24,
     attributes: undefined,

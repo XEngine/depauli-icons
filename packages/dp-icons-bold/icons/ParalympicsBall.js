@@ -1,5 +1,6 @@
 export default {
-    name: 'ParalympicsBall',
+    name: 'paralympics-ball',
+    key: 'ParalympicsBall',
     width: 24,
     height: 24,
     attributes: undefined,

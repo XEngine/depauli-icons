@@ -1,5 +1,6 @@
 export default {
-    name: 'AnimalProductsDrumsticks',
+    name: 'animal-products-drumsticks',
+    key: 'AnimalProductsDrumsticks',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AllowancesNoPushing',
+    name: 'allowances-no-pushing',
+    key: 'AllowancesNoPushing',
     width: 24,
     height: 24,
     attributes: undefined,

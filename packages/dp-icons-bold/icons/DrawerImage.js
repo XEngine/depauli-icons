@@ -1,5 +1,6 @@
 export default {
-    name: 'DrawerImage',
+    name: 'drawer-image',
+    key: 'DrawerImage',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PencilWrite3',
+    name: 'pencil-write-3',
+    key: 'PencilWrite3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

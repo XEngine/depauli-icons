@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinTunnel',
+    name: 'style-one-pin-tunnel',
+    key: 'StyleOnePinTunnel',
     width: 24,
     height: 24,
     attributes: undefined,

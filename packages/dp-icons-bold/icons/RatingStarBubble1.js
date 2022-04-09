@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingStarBubble1',
+    name: 'rating-star-bubble-1',
+    key: 'RatingStarBubble1',
     width: 24,
     height: 24,
     attributes: undefined,

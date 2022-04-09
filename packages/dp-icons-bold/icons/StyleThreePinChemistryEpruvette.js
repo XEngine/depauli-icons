@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinChemistryEpruvette',
+    name: 'style-three-pin-chemistry-epruvette',
+    key: 'StyleThreePinChemistryEpruvette',
     width: 24,
     height: 24,
     attributes: undefined,

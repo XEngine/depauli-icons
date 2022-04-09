@@ -1,5 +1,6 @@
 export default {
-    name: 'ResponsiveDesignPhone',
+    name: 'responsive-design-phone',
+    key: 'ResponsiveDesignPhone',
     width: 24,
     height: 24,
     attributes: undefined,

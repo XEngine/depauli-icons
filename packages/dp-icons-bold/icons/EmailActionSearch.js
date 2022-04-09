@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionSearch',
+    name: 'email-action-search',
+    key: 'EmailActionSearch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyDollarDiamond',
+    name: 'currency-dollar-diamond',
+    key: 'CurrencyDollarDiamond',
     width: 24,
     height: 24,
     attributes: undefined,

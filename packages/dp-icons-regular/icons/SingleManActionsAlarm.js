@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsAlarm',
+    name: 'single-man-actions-alarm',
+    key: 'SingleManActionsAlarm',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

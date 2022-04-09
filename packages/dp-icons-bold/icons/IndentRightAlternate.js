@@ -1,5 +1,6 @@
 export default {
-    name: 'IndentRightAlternate',
+    name: 'indent-right-alternate',
+    key: 'IndentRightAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

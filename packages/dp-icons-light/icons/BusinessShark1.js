@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessShark1',
+    name: 'business-shark-1',
+    key: 'BusinessShark1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

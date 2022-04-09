@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskChecklist',
+    name: 'task-checklist',
+    key: 'TaskChecklist',
     width: 24,
     height: 24,
     attributes: undefined,

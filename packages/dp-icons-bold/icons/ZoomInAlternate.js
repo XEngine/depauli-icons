@@ -1,5 +1,6 @@
 export default {
-    name: 'ZoomInAlternate',
+    name: 'zoom-in-alternate',
+    key: 'ZoomInAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

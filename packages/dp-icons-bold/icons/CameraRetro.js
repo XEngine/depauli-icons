@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraRetro',
+    name: 'camera-retro',
+    key: 'CameraRetro',
     width: 24,
     height: 24,
     attributes: undefined,

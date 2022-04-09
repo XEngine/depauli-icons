@@ -1,5 +1,6 @@
 export default {
-    name: 'ReorderUp',
+    name: 'reorder-up',
+    key: 'ReorderUp',
     width: 24,
     height: 24,
     attributes: undefined,

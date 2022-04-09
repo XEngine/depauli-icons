@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsCashAlternate',
+    name: 'tags-cash-alternate',
+    key: 'TagsCashAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingSearchBrowser',
+    name: 'programming-search-browser',
+    key: 'ProgrammingSearchBrowser',
     width: 24,
     height: 24,
     attributes: undefined,

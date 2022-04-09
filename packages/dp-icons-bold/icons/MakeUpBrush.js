@@ -1,5 +1,6 @@
 export default {
-    name: 'MakeUpBrush',
+    name: 'make-up-brush',
+    key: 'MakeUpBrush',
     width: 24,
     height: 24,
     attributes: undefined,

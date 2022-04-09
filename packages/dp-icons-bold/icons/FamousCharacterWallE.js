@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterWallE',
+    name: 'famous-character-wall-e',
+    key: 'FamousCharacterWallE',
     width: 24,
     height: 24,
     attributes: undefined,

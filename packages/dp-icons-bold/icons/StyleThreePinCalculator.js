@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCalculator',
+    name: 'style-three-pin-calculator',
+    key: 'StyleThreePinCalculator',
     width: 24,
     height: 24,
     attributes: undefined,

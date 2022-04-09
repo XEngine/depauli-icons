@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageCameraFoldable',
+    name: 'vintage-camera-foldable',
+    key: 'VintageCameraFoldable',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'UserWomanStress',
+    name: 'user-woman-stress',
+    key: 'UserWomanStress',
     width: 24,
     height: 24,
     attributes: undefined,

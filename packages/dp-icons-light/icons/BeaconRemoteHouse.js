@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconRemoteHouse',
+    name: 'beacon-remote-house',
+    key: 'BeaconRemoteHouse',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

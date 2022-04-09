@@ -1,5 +1,6 @@
 export default {
-    name: 'RailroadCargoTrain',
+    name: 'railroad-cargo-train',
+    key: 'RailroadCargoTrain',
     width: 24,
     height: 24,
     attributes: undefined,

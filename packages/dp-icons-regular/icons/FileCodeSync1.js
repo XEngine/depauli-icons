@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeSync1',
+    name: 'file-code-sync-1',
+    key: 'FileCodeSync1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

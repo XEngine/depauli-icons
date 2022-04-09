@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPhotographer',
+    name: 'style-three-pin-photographer',
+    key: 'StyleThreePinPhotographer',
     width: 24,
     height: 24,
     attributes: undefined,

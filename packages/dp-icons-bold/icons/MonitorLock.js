@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorLock',
+    name: 'monitor-lock',
+    key: 'MonitorLock',
     width: 24,
     height: 24,
     attributes: undefined,

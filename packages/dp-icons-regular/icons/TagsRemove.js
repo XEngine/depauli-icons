@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsRemove',
+    name: 'tags-remove',
+    key: 'TagsRemove',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

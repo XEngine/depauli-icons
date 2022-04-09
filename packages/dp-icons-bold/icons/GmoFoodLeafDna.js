@@ -1,5 +1,6 @@
 export default {
-    name: 'GmoFoodLeafDna',
+    name: 'gmo-food-leaf-dna',
+    key: 'GmoFoodLeafDna',
     width: 24,
     height: 24,
     attributes: undefined,

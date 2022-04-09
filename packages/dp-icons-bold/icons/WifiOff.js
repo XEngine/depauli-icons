@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiOff',
+    name: 'wifi-off',
+    key: 'WifiOff',
     width: 24,
     height: 24,
     attributes: undefined,

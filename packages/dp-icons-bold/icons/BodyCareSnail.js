@@ -1,5 +1,6 @@
 export default {
-    name: 'BodyCareSnail',
+    name: 'body-care-snail',
+    key: 'BodyCareSnail',
     width: 24,
     height: 24,
     attributes: undefined,

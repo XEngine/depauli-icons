@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowLink',
+    name: 'app-window-link',
+    key: 'AppWindowLink',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PlantBonsai1',
+    name: 'plant-bonsai-1',
+    key: 'PlantBonsai1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsCheck1',
+    name: 'single-man-actions-check-1',
+    key: 'SingleManActionsCheck1',
     width: 24,
     height: 24,
     attributes: undefined,

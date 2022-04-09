@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneSelfieWoman1',
+    name: 'phone-selfie-woman-1',
+    key: 'PhoneSelfieWoman1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

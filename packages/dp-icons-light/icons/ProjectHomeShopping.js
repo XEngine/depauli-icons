@@ -1,5 +1,6 @@
 export default {
-    name: 'ProjectHomeShopping',
+    name: 'project-home-shopping',
+    key: 'ProjectHomeShopping',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

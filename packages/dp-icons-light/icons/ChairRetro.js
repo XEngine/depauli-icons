@@ -1,5 +1,6 @@
 export default {
-    name: 'ChairRetro',
+    name: 'chair-retro',
+    key: 'ChairRetro',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

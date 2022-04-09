@@ -1,5 +1,6 @@
 export default {
-    name: 'FlashDrive',
+    name: 'flash-drive',
+    key: 'FlashDrive',
     width: 24,
     height: 24,
     attributes: undefined,

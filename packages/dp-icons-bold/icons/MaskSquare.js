@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskSquare',
+    name: 'mask-square',
+    key: 'MaskSquare',
     width: 24,
     height: 24,
     attributes: undefined,

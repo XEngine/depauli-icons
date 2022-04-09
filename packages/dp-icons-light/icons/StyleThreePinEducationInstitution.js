@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinEducationInstitution',
+    name: 'style-three-pin-education-institution',
+    key: 'StyleThreePinEducationInstitution',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

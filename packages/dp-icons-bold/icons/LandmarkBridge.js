@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkBridge',
+    name: 'landmark-bridge',
+    key: 'LandmarkBridge',
     width: 24,
     height: 24,
     attributes: undefined,

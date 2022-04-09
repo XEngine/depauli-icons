@@ -1,5 +1,6 @@
 export default {
-    name: 'LegalScaleUnequal',
+    name: 'legal-scale-unequal',
+    key: 'LegalScaleUnequal',
     width: 24,
     height: 24,
     attributes: undefined,

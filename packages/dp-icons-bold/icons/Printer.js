@@ -1,5 +1,6 @@
 export default {
-    name: 'Printer',
+    name: 'printer',
+    key: 'Printer',
     width: 24,
     height: 24,
     attributes: undefined,

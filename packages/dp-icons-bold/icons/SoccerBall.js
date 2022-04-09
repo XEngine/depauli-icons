@@ -1,5 +1,6 @@
 export default {
-    name: 'SoccerBall',
+    name: 'soccer-ball',
+    key: 'SoccerBall',
     width: 24,
     height: 24,
     attributes: undefined,

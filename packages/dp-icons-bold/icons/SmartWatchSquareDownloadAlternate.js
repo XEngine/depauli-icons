@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareDownloadAlternate',
+    name: 'smart-watch-square-download-alternate',
+    key: 'SmartWatchSquareDownloadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

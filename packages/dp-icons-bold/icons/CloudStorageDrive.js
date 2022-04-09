@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudStorageDrive',
+    name: 'cloud-storage-drive',
+    key: 'CloudStorageDrive',
     width: 24,
     height: 24,
     attributes: undefined,

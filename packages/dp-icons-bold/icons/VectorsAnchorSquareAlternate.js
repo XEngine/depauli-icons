@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsAnchorSquareAlternate',
+    name: 'vectors-anchor-square-alternate',
+    key: 'VectorsAnchorSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

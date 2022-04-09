@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManHeart',
+    name: 'single-man-heart',
+    key: 'SingleManHeart',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Expand6Alternate',
+    name: 'expand-6-alternate',
+    key: 'Expand6Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

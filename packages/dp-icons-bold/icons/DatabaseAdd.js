@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseAdd',
+    name: 'database-add',
+    key: 'DatabaseAdd',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSearchMinus',
+    name: 'style-three-pin-search-minus',
+    key: 'StyleThreePinSearchMinus',
     width: 24,
     height: 24,
     attributes: undefined,

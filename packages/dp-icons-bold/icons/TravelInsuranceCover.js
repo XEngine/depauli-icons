@@ -1,5 +1,6 @@
 export default {
-    name: 'TravelInsuranceCover',
+    name: 'travel-insurance-cover',
+    key: 'TravelInsuranceCover',
     width: 24,
     height: 24,
     attributes: undefined,

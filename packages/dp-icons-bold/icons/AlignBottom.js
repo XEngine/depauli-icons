@@ -1,5 +1,6 @@
 export default {
-    name: 'AlignBottom',
+    name: 'align-bottom',
+    key: 'AlignBottom',
     width: 24,
     height: 24,
     attributes: undefined,

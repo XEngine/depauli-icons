@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceCartBrowser',
+    name: 'e-commerce-cart-browser',
+    key: 'ECommerceCartBrowser',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

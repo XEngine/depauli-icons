@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinRepairTool',
+    name: 'style-three-pin-repair-tool',
+    key: 'StyleThreePinRepairTool',
     width: 24,
     height: 24,
     attributes: undefined,

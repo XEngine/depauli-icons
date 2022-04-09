@@ -1,5 +1,6 @@
 export default {
-    name: 'OpenQuote',
+    name: 'open-quote',
+    key: 'OpenQuote',
     width: 24,
     height: 24,
     attributes: undefined,

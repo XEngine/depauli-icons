@@ -1,5 +1,6 @@
 export default {
-    name: 'CardGameCardClub',
+    name: 'card-game-card-club',
+    key: 'CardGameCardClub',
     width: 24,
     height: 24,
     attributes: undefined,

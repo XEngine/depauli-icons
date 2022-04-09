@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingIcq',
+    name: 'messaging-icq',
+    key: 'MessagingIcq',
     width: 24,
     height: 24,
     attributes: undefined,

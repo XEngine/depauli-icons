@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoPlayerSlider',
+    name: 'video-player-slider',
+    key: 'VideoPlayerSlider',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WildPig',
+    name: 'wild-pig',
+    key: 'WildPig',
     width: 24,
     height: 24,
     attributes: undefined,

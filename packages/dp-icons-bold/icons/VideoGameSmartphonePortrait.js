@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameSmartphonePortrait',
+    name: 'video-game-smartphone-portrait',
+    key: 'VideoGameSmartphonePortrait',
     width: 24,
     height: 24,
     attributes: undefined,

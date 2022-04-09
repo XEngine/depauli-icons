@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerPhoneExchange',
+    name: 'server-phone-exchange',
+    key: 'ServerPhoneExchange',
     width: 24,
     height: 24,
     attributes: undefined,

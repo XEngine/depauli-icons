@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionShare1',
+    name: 'phone-action-share-1',
+    key: 'PhoneActionShare1',
     width: 24,
     height: 24,
     attributes: undefined,

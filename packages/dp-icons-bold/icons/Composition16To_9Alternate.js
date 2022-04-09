@@ -1,5 +1,6 @@
 export default {
-    name: 'Composition16To_9Alternate',
+    name: 'composition-16-to-9-alternate',
+    key: 'Composition16To_9Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

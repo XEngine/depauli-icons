@@ -1,5 +1,6 @@
 export default {
-    name: 'SeatRegular',
+    name: 'seat-regular',
+    key: 'SeatRegular',
     width: 24,
     height: 24,
     attributes: undefined,

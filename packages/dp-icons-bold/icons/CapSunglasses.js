@@ -1,5 +1,6 @@
 export default {
-    name: 'CapSunglasses',
+    name: 'cap-sunglasses',
+    key: 'CapSunglasses',
     width: 24,
     height: 24,
     attributes: undefined,

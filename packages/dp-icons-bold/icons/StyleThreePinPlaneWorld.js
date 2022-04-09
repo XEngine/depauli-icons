@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPlaneWorld',
+    name: 'style-three-pin-plane-world',
+    key: 'StyleThreePinPlaneWorld',
     width: 24,
     height: 24,
     attributes: undefined,

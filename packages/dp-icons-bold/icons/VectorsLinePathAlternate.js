@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsLinePathAlternate',
+    name: 'vectors-line-path-alternate',
+    key: 'VectorsLinePathAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

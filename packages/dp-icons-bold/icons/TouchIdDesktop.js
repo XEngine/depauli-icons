@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchIdDesktop',
+    name: 'touch-id-desktop',
+    key: 'TouchIdDesktop',
     width: 24,
     height: 24,
     attributes: undefined,

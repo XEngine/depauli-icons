@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFire',
+    name: 'time-clock-fire',
+    key: 'TimeClockFire',
     width: 24,
     height: 24,
     attributes: undefined,

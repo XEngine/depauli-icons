@@ -1,5 +1,6 @@
 export default {
-    name: 'GunSilent',
+    name: 'gun-silent',
+    key: 'GunSilent',
     width: 24,
     height: 24,
     attributes: undefined,

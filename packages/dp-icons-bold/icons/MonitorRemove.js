@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorRemove',
+    name: 'monitor-remove',
+    key: 'MonitorRemove',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudMonitorExchange',
+    name: 'cloud-monitor-exchange',
+    key: 'CloudMonitorExchange',
     width: 24,
     height: 24,
     attributes: undefined,

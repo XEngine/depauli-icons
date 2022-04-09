@@ -1,5 +1,6 @@
 export default {
-    name: 'Flash1',
+    name: 'flash-1',
+    key: 'Flash1',
     width: 24,
     height: 24,
     attributes: undefined,

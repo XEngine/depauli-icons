@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseCheckAlternate',
+    name: 'database-check-alternate',
+    key: 'DatabaseCheckAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

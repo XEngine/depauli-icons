@@ -1,5 +1,6 @@
 export default {
-    name: 'AnimalPrintTwoFingers',
+    name: 'animal-print-two-fingers',
+    key: 'AnimalPrintTwoFingers',
     width: 24,
     height: 24,
     attributes: undefined,

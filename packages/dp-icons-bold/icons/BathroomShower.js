@@ -1,5 +1,6 @@
 export default {
-    name: 'BathroomShower',
+    name: 'bathroom-shower',
+    key: 'BathroomShower',
     width: 24,
     height: 24,
     attributes: undefined,

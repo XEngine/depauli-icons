@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiDisable',
+    name: 'wifi-disable',
+    key: 'WifiDisable',
     width: 24,
     height: 24,
     attributes: undefined,

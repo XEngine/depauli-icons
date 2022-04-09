@@ -1,5 +1,6 @@
 export default {
-    name: 'Html',
+    name: 'html',
+    key: 'Html',
     width: 24,
     height: 24,
     attributes: undefined,

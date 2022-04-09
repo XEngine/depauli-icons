@@ -1,5 +1,6 @@
 export default {
-    name: 'MailboxIn',
+    name: 'mailbox-in',
+    key: 'MailboxIn',
     width: 24,
     height: 24,
     attributes: undefined,

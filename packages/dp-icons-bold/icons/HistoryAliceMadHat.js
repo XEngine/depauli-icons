@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryAliceMadHat',
+    name: 'history-alice-mad-hat',
+    key: 'HistoryAliceMadHat',
     width: 24,
     height: 24,
     attributes: undefined,

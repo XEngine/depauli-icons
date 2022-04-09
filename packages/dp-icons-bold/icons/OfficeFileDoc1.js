@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileDoc1',
+    name: 'office-file-doc-1',
+    key: 'OfficeFileDoc1',
     width: 24,
     height: 24,
     attributes: undefined,

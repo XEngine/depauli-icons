@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorAlternate',
+    name: 'cursor-alternate',
+    key: 'CursorAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

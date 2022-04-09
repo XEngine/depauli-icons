@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalInstrumentScalpelCut',
+    name: 'medical-instrument-scalpel-cut',
+    key: 'MedicalInstrumentScalpelCut',
     width: 24,
     height: 24,
     attributes: undefined,

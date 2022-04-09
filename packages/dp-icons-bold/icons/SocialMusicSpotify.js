@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMusicSpotify',
+    name: 'social-music-spotify',
+    key: 'SocialMusicSpotify',
     width: 24,
     height: 24,
     attributes: undefined,

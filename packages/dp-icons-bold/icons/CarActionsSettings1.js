@@ -1,5 +1,6 @@
 export default {
-    name: 'CarActionsSettings1',
+    name: 'car-actions-settings-1',
+    key: 'CarActionsSettings1',
     width: 24,
     height: 24,
     attributes: undefined,

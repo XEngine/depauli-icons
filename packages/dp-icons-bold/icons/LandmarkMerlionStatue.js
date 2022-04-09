@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkMerlionStatue',
+    name: 'landmark-merlion-statue',
+    key: 'LandmarkMerlionStatue',
     width: 24,
     height: 24,
     attributes: undefined,

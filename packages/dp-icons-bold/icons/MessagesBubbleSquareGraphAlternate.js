@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareGraphAlternate',
+    name: 'messages-bubble-square-graph-alternate',
+    key: 'MessagesBubbleSquareGraphAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

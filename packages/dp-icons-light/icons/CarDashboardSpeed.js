@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardSpeed',
+    name: 'car-dashboard-speed',
+    key: 'CarDashboardSpeed',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

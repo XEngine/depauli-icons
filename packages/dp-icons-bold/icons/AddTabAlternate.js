@@ -1,5 +1,6 @@
 export default {
-    name: 'AddTabAlternate',
+    name: 'add-tab-alternate',
+    key: 'AddTabAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

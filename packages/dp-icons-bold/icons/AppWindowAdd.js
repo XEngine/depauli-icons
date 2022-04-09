@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowAdd',
+    name: 'app-window-add',
+    key: 'AppWindowAdd',
     width: 24,
     height: 24,
     attributes: undefined,

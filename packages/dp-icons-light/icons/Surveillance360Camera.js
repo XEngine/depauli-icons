@@ -1,5 +1,6 @@
 export default {
-    name: 'Surveillance360Camera',
+    name: 'surveillance-360-camera',
+    key: 'Surveillance360Camera',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CogBrowserAlternate',
+    name: 'cog-browser-alternate',
+    key: 'CogBrowserAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

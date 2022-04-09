@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernWeaponDieCast',
+    name: 'modern-weapon-die-cast',
+    key: 'ModernWeaponDieCast',
     width: 24,
     height: 24,
     attributes: undefined,

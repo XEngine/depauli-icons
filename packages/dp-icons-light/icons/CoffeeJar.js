@@ -1,5 +1,6 @@
 export default {
-    name: 'CoffeeJar',
+    name: 'coffee-jar',
+    key: 'CoffeeJar',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

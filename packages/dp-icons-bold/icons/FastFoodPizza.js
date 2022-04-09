@@ -1,5 +1,6 @@
 export default {
-    name: 'FastFoodPizza',
+    name: 'fast-food-pizza',
+    key: 'FastFoodPizza',
     width: 24,
     height: 24,
     attributes: undefined,

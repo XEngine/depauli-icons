@@ -1,5 +1,6 @@
 export default {
-    name: 'NauticSportsWaterSkiing',
+    name: 'nautic-sports-water-skiing',
+    key: 'NauticSportsWaterSkiing',
     width: 24,
     height: 24,
     attributes: undefined,

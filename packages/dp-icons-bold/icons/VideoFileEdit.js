@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileEdit',
+    name: 'video-file-edit',
+    key: 'VideoFileEdit',
     width: 24,
     height: 24,
     attributes: undefined,

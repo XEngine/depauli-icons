@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListEdit1',
+    name: 'task-list-edit-1',
+    key: 'TaskListEdit1',
     width: 24,
     height: 24,
     attributes: undefined,

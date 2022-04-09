@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessContractGive',
+    name: 'business-contract-give',
+    key: 'BusinessContractGive',
     width: 24,
     height: 24,
     attributes: undefined,

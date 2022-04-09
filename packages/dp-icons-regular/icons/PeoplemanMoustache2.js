@@ -1,5 +1,6 @@
 export default {
-    name: 'PeoplemanMoustache2',
+    name: 'peopleman-moustache-2',
+    key: 'PeoplemanMoustache2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

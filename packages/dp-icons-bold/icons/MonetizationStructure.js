@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationStructure',
+    name: 'monetization-structure',
+    key: 'MonetizationStructure',
     width: 24,
     height: 24,
     attributes: undefined,

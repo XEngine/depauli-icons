@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramLowerSteady',
+    name: 'diagram-lower-steady',
+    key: 'DiagramLowerSteady',
     width: 24,
     height: 24,
     attributes: undefined,

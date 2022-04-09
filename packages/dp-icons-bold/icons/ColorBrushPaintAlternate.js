@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorBrushPaintAlternate',
+    name: 'color-brush-paint-alternate',
+    key: 'ColorBrushPaintAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

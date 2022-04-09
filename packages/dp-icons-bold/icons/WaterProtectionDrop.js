@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterProtectionDrop',
+    name: 'water-protection-drop',
+    key: 'WaterProtectionDrop',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinDollarEqual',
+    name: 'crypto-currency-bitcoin-dollar-equal',
+    key: 'CryptoCurrencyBitcoinDollarEqual',
     width: 24,
     height: 24,
     attributes: undefined,

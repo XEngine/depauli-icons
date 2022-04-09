@@ -1,5 +1,6 @@
 export default {
-    name: 'BombDetonator',
+    name: 'bomb-detonator',
+    key: 'BombDetonator',
     width: 24,
     height: 24,
     attributes: undefined,

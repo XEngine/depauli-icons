@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsVertical1',
+    name: 'settings-vertical-1',
+    key: 'SettingsVertical1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadSearchAlternate',
+    name: 'read-search-alternate',
+    key: 'ReadSearchAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

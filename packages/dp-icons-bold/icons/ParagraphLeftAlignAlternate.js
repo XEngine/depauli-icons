@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphLeftAlignAlternate',
+    name: 'paragraph-left-align-alternate',
+    key: 'ParagraphLeftAlignAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

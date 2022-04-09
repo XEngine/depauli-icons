@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerSettings',
+    name: 'server-settings',
+    key: 'ServerSettings',
     width: 24,
     height: 24,
     attributes: undefined,

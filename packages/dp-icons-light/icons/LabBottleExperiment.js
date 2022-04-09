@@ -1,5 +1,6 @@
 export default {
-    name: 'LabBottleExperiment',
+    name: 'lab-bottle-experiment',
+    key: 'LabBottleExperiment',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

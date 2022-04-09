@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRetro2',
+    name: 'car-retro-2',
+    key: 'CarRetro2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ReceiptSlip1',
+    name: 'receipt-slip-1',
+    key: 'ReceiptSlip1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

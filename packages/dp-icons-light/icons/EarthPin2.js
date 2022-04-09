@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthPin2',
+    name: 'earth-pin-2',
+    key: 'EarthPin2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

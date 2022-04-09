@@ -1,5 +1,6 @@
 export default {
-    name: 'AppliancesMixer',
+    name: 'appliances-mixer',
+    key: 'AppliancesMixer',
     width: 24,
     height: 24,
     attributes: undefined,

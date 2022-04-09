@@ -1,5 +1,6 @@
 export default {
-    name: 'ConsoleLamp',
+    name: 'console-lamp',
+    key: 'ConsoleLamp',
     width: 24,
     height: 24,
     attributes: undefined,

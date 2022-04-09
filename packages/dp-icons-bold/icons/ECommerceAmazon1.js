@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceAmazon1',
+    name: 'e-commerce-amazon-1',
+    key: 'ECommerceAmazon1',
     width: 24,
     height: 24,
     attributes: {"fill-rule":"evenodd"},

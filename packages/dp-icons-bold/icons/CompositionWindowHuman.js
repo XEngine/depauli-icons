@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionWindowHuman',
+    name: 'composition-window-human',
+    key: 'CompositionWindowHuman',
     width: 24,
     height: 24,
     attributes: undefined,

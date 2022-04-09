@@ -1,5 +1,6 @@
 export default {
-    name: 'PictureDoubleShapes',
+    name: 'picture-double-shapes',
+    key: 'PictureDoubleShapes',
     width: 24,
     height: 24,
     attributes: undefined,

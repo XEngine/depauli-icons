@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentFragileBreak',
+    name: 'shipment-fragile-break',
+    key: 'ShipmentFragileBreak',
     width: 24,
     height: 24,
     attributes: undefined,

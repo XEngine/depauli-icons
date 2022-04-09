@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioDocumentMp3',
+    name: 'audio-document-mp3',
+    key: 'AudioDocumentMp3',
     width: 24,
     height: 24,
     attributes: undefined,

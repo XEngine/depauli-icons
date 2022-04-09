@@ -1,5 +1,6 @@
 export default {
-    name: 'TechnologyPill',
+    name: 'technology-pill',
+    key: 'TechnologyPill',
     width: 24,
     height: 24,
     attributes: undefined,

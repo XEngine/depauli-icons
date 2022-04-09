@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityBlindReadBook',
+    name: 'disability-blind-read-book',
+    key: 'DisabilityBlindReadBook',
     width: 24,
     height: 24,
     attributes: undefined,

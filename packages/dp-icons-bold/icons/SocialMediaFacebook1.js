@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaFacebook1',
+    name: 'social-media-facebook-1',
+    key: 'SocialMediaFacebook1',
     width: 24,
     height: 24,
     attributes: undefined,

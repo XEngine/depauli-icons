@@ -1,5 +1,6 @@
 export default {
-    name: 'ProjectPlanPen',
+    name: 'project-plan-pen',
+    key: 'ProjectPlanPen',
     width: 24,
     height: 24,
     attributes: undefined,

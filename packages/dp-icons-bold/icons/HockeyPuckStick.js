@@ -1,5 +1,6 @@
 export default {
-    name: 'HockeyPuckStick',
+    name: 'hockey-puck-stick',
+    key: 'HockeyPuckStick',
     width: 24,
     height: 24,
     attributes: undefined,

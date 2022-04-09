@@ -1,5 +1,6 @@
 export default {
-    name: 'FruitScaleApple',
+    name: 'fruit-scale-apple',
+    key: 'FruitScaleApple',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveCircleAlternate',
+    name: 'remove-circle-alternate',
+    key: 'RemoveCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

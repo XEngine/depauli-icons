@@ -1,5 +1,6 @@
 export default {
-    name: 'GoPro',
+    name: 'go-pro',
+    key: 'GoPro',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorMoveDirection',
+    name: 'cursor-move-direction',
+    key: 'CursorMoveDirection',
     width: 24,
     height: 24,
     attributes: undefined,

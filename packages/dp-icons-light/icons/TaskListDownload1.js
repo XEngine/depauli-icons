@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListDownload1',
+    name: 'task-list-download-1',
+    key: 'TaskListDownload1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsEdit2',
+    name: 'single-man-actions-edit-2',
+    key: 'SingleManActionsEdit2',
     width: 24,
     height: 24,
     attributes: undefined,

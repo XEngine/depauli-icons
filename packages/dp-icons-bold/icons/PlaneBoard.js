@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneBoard',
+    name: 'plane-board',
+    key: 'PlaneBoard',
     width: 24,
     height: 24,
     attributes: undefined,

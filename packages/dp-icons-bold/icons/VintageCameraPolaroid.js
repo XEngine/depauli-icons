@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageCameraPolaroid',
+    name: 'vintage-camera-polaroid',
+    key: 'VintageCameraPolaroid',
     width: 24,
     height: 24,
     attributes: undefined,

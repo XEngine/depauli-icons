@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceEarth',
+    name: 'science-earth',
+    key: 'ScienceEarth',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareInformation',
+    name: 'messages-bubble-square-information',
+    key: 'MessagesBubbleSquareInformation',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

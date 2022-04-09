@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsDownload',
+    name: 'single-man-actions-download',
+    key: 'SingleManActionsDownload',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentPen2',
+    name: 'content-pen-2',
+    key: 'ContentPen2',
     width: 24,
     height: 24,
     attributes: undefined,

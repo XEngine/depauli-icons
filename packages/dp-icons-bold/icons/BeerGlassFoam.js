@@ -1,5 +1,6 @@
 export default {
-    name: 'BeerGlassFoam',
+    name: 'beer-glass-foam',
+    key: 'BeerGlassFoam',
     width: 24,
     height: 24,
     attributes: undefined,

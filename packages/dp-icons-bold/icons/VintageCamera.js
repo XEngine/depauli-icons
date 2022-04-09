@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageCamera',
+    name: 'vintage-camera',
+    key: 'VintageCamera',
     width: 24,
     height: 24,
     attributes: undefined,

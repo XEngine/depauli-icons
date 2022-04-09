@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconRemotePlane',
+    name: 'beacon-remote-plane',
+    key: 'BeaconRemotePlane',
     width: 24,
     height: 24,
     attributes: undefined,

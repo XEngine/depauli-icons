@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthHeart',
+    name: 'earth-heart',
+    key: 'EarthHeart',
     width: 24,
     height: 24,
     attributes: undefined,

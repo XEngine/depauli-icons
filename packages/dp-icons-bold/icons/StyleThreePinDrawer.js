@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinDrawer',
+    name: 'style-three-pin-drawer',
+    key: 'StyleThreePinDrawer',
     width: 24,
     height: 24,
     attributes: undefined,

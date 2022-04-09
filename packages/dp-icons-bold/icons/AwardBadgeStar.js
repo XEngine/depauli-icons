@@ -1,5 +1,6 @@
 export default {
-    name: 'AwardBadgeStar',
+    name: 'award-badge-star',
+    key: 'AwardBadgeStar',
     width: 24,
     height: 24,
     attributes: undefined,

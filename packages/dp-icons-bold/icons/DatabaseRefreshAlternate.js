@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseRefreshAlternate',
+    name: 'database-refresh-alternate',
+    key: 'DatabaseRefreshAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

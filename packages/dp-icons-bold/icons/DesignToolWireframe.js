@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolWireframe',
+    name: 'design-tool-wireframe',
+    key: 'DesignToolWireframe',
     width: 24,
     height: 24,
     attributes: undefined,

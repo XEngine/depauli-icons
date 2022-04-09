@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsHammer1',
+    name: 'tools-hammer-1',
+    key: 'ToolsHammer1',
     width: 24,
     height: 24,
     attributes: undefined,

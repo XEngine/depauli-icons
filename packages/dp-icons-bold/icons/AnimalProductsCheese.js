@@ -1,5 +1,6 @@
 export default {
-    name: 'AnimalProductsCheese',
+    name: 'animal-products-cheese',
+    key: 'AnimalProductsCheese',
     width: 24,
     height: 24,
     attributes: undefined,

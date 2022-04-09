@@ -1,5 +1,6 @@
 export default {
-    name: 'TagYuan',
+    name: 'tag-yuan',
+    key: 'TagYuan',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyKissBlush',
+    name: 'smiley-kiss-blush',
+    key: 'SmileyKissBlush',
     width: 24,
     height: 24,
     attributes: undefined,

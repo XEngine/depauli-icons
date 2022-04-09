@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersFront',
+    name: 'layers-front',
+    key: 'LayersFront',
     width: 24,
     height: 24,
     attributes: undefined,

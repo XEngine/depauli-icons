@@ -1,5 +1,6 @@
 export default {
-    name: 'EarpodsBluetooth2',
+    name: 'earpods-bluetooth-2',
+    key: 'EarpodsBluetooth2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

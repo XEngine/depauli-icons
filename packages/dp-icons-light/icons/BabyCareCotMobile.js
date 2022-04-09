@@ -1,5 +1,6 @@
 export default {
-    name: 'BabyCareCotMobile',
+    name: 'baby-care-cot-mobile',
+    key: 'BabyCareCotMobile',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

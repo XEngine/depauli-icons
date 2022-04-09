@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialDeviantArt',
+    name: 'social-deviant-art',
+    key: 'SocialDeviantArt',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsLaptop',
+    name: 'multiple-actions-laptop',
+    key: 'MultipleActionsLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

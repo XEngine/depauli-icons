@@ -1,5 +1,6 @@
 export default {
-    name: 'AndroidSettings',
+    name: 'android-settings',
+    key: 'AndroidSettings',
     width: 24,
     height: 24,
     attributes: undefined,

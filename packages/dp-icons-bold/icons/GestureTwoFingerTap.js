@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTwoFingerTap',
+    name: 'gesture-two-finger-tap',
+    key: 'GestureTwoFingerTap',
     width: 24,
     height: 24,
     attributes: undefined,

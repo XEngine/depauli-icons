@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionCamera',
+    name: 'phone-action-camera',
+    key: 'PhoneActionCamera',
     width: 24,
     height: 24,
     attributes: undefined,

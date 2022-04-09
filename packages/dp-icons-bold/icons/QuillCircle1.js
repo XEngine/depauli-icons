@@ -1,5 +1,6 @@
 export default {
-    name: 'QuillCircle1',
+    name: 'quill-circle-1',
+    key: 'QuillCircle1',
     width: 24,
     height: 24,
     attributes: undefined,

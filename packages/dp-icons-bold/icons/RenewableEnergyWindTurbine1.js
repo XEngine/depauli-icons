@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergyWindTurbine1',
+    name: 'renewable-energy-wind-turbine-1',
+    key: 'RenewableEnergyWindTurbine1',
     width: 24,
     height: 24,
     attributes: undefined,

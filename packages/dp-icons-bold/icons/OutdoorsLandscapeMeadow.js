@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsLandscapeMeadow',
+    name: 'outdoors-landscape-meadow',
+    key: 'OutdoorsLandscapeMeadow',
     width: 24,
     height: 24,
     attributes: undefined,

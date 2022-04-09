@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareUploadAlternate',
+    name: 'smart-watch-square-upload-alternate',
+    key: 'SmartWatchSquareUploadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

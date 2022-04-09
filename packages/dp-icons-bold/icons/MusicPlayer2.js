@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicPlayer2',
+    name: 'music-player-2',
+    key: 'MusicPlayer2',
     width: 24,
     height: 24,
     attributes: undefined,

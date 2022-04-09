@@ -1,5 +1,6 @@
 export default {
-    name: 'PetsPawSoap',
+    name: 'pets-paw-soap',
+    key: 'PetsPawSoap',
     width: 24,
     height: 24,
     attributes: undefined,

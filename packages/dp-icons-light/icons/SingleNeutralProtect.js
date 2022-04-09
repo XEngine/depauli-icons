@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralProtect',
+    name: 'single-neutral-protect',
+    key: 'SingleNeutralProtect',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

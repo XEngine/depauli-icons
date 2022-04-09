@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowStar1',
+    name: 'app-window-star-1',
+    key: 'AppWindowStar1',
     width: 24,
     height: 24,
     attributes: undefined,

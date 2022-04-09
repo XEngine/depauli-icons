@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowEdit',
+    name: 'app-window-edit',
+    key: 'AppWindowEdit',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysHandGhost',
+    name: 'toys-hand-ghost',
+    key: 'ToysHandGhost',
     width: 24,
     height: 24,
     attributes: undefined,

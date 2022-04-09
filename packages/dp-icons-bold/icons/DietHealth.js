@@ -1,5 +1,6 @@
 export default {
-    name: 'DietHealth',
+    name: 'diet-health',
+    key: 'DietHealth',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameControlGear1',
+    name: 'video-game-control-gear-1',
+    key: 'VideoGameControlGear1',
     width: 24,
     height: 24,
     attributes: undefined,

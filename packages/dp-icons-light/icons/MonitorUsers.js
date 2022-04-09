@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorUsers',
+    name: 'monitor-users',
+    key: 'MonitorUsers',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

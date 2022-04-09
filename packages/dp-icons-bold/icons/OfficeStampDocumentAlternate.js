@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeStampDocumentAlternate',
+    name: 'office-stamp-document-alternate',
+    key: 'OfficeStampDocumentAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignDividedHighwayAhead',
+    name: 'road-sign-divided-highway-ahead',
+    key: 'RoadSignDividedHighwayAhead',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonStop',
+    name: 'button-stop',
+    key: 'ButtonStop',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinHouseRepair',
+    name: 'style-three-pin-house-repair',
+    key: 'StyleThreePinHouseRepair',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeQuestion',
+    name: 'file-code-question',
+    key: 'FileCodeQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

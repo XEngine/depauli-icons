@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionWarning1',
+    name: 'phone-action-warning-1',
+    key: 'PhoneActionWarning1',
     width: 24,
     height: 24,
     attributes: undefined,

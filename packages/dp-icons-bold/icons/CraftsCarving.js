@@ -1,5 +1,6 @@
 export default {
-    name: 'CraftsCarving',
+    name: 'crafts-carving',
+    key: 'CraftsCarving',
     width: 24,
     height: 24,
     attributes: undefined,

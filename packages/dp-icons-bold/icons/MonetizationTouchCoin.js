@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationTouchCoin',
+    name: 'monetization-touch-coin',
+    key: 'MonetizationTouchCoin',
     width: 24,
     height: 24,
     attributes: undefined,

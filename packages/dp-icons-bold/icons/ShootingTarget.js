@@ -1,5 +1,6 @@
 export default {
-    name: 'ShootingTarget',
+    name: 'shooting-target',
+    key: 'ShootingTarget',
     width: 24,
     height: 24,
     attributes: undefined,

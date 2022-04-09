@@ -1,5 +1,6 @@
 export default {
-    name: 'Anchor',
+    name: 'anchor',
+    key: 'Anchor',
     width: 24,
     height: 24,
     attributes: undefined,

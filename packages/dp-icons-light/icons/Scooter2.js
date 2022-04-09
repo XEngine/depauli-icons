@@ -1,5 +1,6 @@
 export default {
-    name: 'Scooter2',
+    name: 'scooter-2',
+    key: 'Scooter2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

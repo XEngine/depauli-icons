@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationMenu4Alternate',
+    name: 'navigation-menu-4-alternate',
+    key: 'NavigationMenu4Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

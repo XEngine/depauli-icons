@@ -1,5 +1,6 @@
 export default {
-    name: 'PictureStackLandscape',
+    name: 'picture-stack-landscape',
+    key: 'PictureStackLandscape',
     width: 24,
     height: 24,
     attributes: undefined,

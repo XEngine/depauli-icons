@@ -1,5 +1,6 @@
 export default {
-    name: 'App1',
+    name: 'app-1',
+    key: 'App1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

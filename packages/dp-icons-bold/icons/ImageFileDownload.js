@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileDownload',
+    name: 'image-file-download',
+    key: 'ImageFileDownload',
     width: 24,
     height: 24,
     attributes: undefined,

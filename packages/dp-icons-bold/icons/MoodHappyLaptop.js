@@ -1,5 +1,6 @@
 export default {
-    name: 'MoodHappyLaptop',
+    name: 'mood-happy-laptop',
+    key: 'MoodHappyLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoPlayer1Alternate',
+    name: 'video-player-1-alternate',
+    key: 'VideoPlayer1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceElecricityPower',
+    name: 'science-elecricity-power',
+    key: 'ScienceElecricityPower',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationPrevious',
+    name: 'navigation-previous',
+    key: 'NavigationPrevious',
     width: 24,
     height: 24,
     attributes: undefined,

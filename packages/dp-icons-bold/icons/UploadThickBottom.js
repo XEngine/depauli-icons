@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadThickBottom',
+    name: 'upload-thick-bottom',
+    key: 'UploadThickBottom',
     width: 24,
     height: 24,
     attributes: undefined,

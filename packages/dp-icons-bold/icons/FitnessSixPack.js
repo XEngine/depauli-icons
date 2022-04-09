@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessSixPack',
+    name: 'fitness-six-pack',
+    key: 'FitnessSixPack',
     width: 24,
     height: 24,
     attributes: undefined,

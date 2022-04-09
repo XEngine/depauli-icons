@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraSettingsFrame1',
+    name: 'camera-settings-frame-1',
+    key: 'CameraSettingsFrame1',
     width: 24,
     height: 24,
     attributes: undefined,

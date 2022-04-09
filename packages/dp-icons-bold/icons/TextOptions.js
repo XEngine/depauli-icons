@@ -1,5 +1,6 @@
 export default {
-    name: 'TextOptions',
+    name: 'text-options',
+    key: 'TextOptions',
     width: 24,
     height: 24,
     attributes: undefined,

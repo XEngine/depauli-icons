@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkChrysler',
+    name: 'landmark-chrysler',
+    key: 'LandmarkChrysler',
     width: 24,
     height: 24,
     attributes: undefined,

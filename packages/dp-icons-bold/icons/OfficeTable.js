@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeTable',
+    name: 'office-table',
+    key: 'OfficeTable',
     width: 24,
     height: 24,
     attributes: undefined,

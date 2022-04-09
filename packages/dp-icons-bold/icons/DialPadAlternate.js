@@ -1,5 +1,6 @@
 export default {
-    name: 'DialPadAlternate',
+    name: 'dial-pad-alternate',
+    key: 'DialPadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

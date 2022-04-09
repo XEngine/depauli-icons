@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsMissedCall1',
+    name: 'phone-actions-missed-call-1',
+    key: 'PhoneActionsMissedCall1',
     width: 24,
     height: 24,
     attributes: undefined,

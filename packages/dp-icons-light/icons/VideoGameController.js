@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameController',
+    name: 'video-game-controller',
+    key: 'VideoGameController',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

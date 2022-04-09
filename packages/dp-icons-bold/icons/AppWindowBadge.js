@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowBadge',
+    name: 'app-window-badge',
+    key: 'AppWindowBadge',
     width: 24,
     height: 24,
     attributes: undefined,

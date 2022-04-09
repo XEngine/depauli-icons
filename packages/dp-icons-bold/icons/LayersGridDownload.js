@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridDownload',
+    name: 'layers-grid-download',
+    key: 'LayersGridDownload',
     width: 24,
     height: 24,
     attributes: undefined,

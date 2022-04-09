@@ -1,5 +1,6 @@
 export default {
-    name: 'NaturalDisasterHurricaneRadar',
+    name: 'natural-disaster-hurricane-radar',
+    key: 'NaturalDisasterHurricaneRadar',
     width: 24,
     height: 24,
     attributes: undefined,

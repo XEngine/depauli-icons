@@ -1,5 +1,6 @@
 export default {
-    name: 'VolumeControlRemove',
+    name: 'volume-control-remove',
+    key: 'VolumeControlRemove',
     width: 24,
     height: 24,
     attributes: undefined,

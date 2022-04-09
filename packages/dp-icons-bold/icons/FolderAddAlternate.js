@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderAddAlternate',
+    name: 'folder-add-alternate',
+    key: 'FolderAddAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

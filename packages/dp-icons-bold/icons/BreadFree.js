@@ -1,5 +1,6 @@
 export default {
-    name: 'BreadFree',
+    name: 'bread-free',
+    key: 'BreadFree',
     width: 24,
     height: 24,
     attributes: undefined,

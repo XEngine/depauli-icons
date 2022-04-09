@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryGeisha1',
+    name: 'history-geisha-1',
+    key: 'HistoryGeisha1',
     width: 24,
     height: 24,
     attributes: undefined,

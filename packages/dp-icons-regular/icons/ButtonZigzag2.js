@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonZigzag2',
+    name: 'button-zigzag-2',
+    key: 'ButtonZigzag2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

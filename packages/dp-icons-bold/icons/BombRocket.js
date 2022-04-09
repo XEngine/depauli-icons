@@ -1,5 +1,6 @@
 export default {
-    name: 'BombRocket',
+    name: 'bomb-rocket',
+    key: 'BombRocket',
     width: 24,
     height: 24,
     attributes: undefined,

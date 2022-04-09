@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareBrightnessAlternate',
+    name: 'smart-watch-square-brightness-alternate',
+    key: 'SmartWatchSquareBrightnessAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

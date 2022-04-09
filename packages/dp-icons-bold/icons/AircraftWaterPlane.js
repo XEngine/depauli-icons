@@ -1,5 +1,6 @@
 export default {
-    name: 'AircraftWaterPlane',
+    name: 'aircraft-water-plane',
+    key: 'AircraftWaterPlane',
     width: 24,
     height: 24,
     attributes: undefined,

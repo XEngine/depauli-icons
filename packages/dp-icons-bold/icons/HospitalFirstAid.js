@@ -1,5 +1,6 @@
 export default {
-    name: 'HospitalFirstAid',
+    name: 'hospital-first-aid',
+    key: 'HospitalFirstAid',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BarbecueStick1',
+    name: 'barbecue-stick-1',
+    key: 'BarbecueStick1',
     width: 24,
     height: 24,
     attributes: undefined,

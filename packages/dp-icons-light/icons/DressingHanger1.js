@@ -1,5 +1,6 @@
 export default {
-    name: 'DressingHanger1',
+    name: 'dressing-hanger-1',
+    key: 'DressingHanger1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

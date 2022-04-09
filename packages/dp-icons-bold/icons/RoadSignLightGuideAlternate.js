@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignLightGuideAlternate',
+    name: 'road-sign-light-guide-alternate',
+    key: 'RoadSignLightGuideAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

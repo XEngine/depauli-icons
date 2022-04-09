@@ -1,5 +1,6 @@
 export default {
-    name: 'UvHigh',
+    name: 'uv-high',
+    key: 'UvHigh',
     width: 24,
     height: 24,
     attributes: undefined,

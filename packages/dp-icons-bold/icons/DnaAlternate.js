@@ -1,5 +1,6 @@
 export default {
-    name: 'DnaAlternate',
+    name: 'dna-alternate',
+    key: 'DnaAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

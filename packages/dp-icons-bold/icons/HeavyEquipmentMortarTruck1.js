@@ -1,5 +1,6 @@
 export default {
-    name: 'HeavyEquipmentMortarTruck1',
+    name: 'heavy-equipment-mortar-truck-1',
+    key: 'HeavyEquipmentMortarTruck1',
     width: 24,
     height: 24,
     attributes: undefined,

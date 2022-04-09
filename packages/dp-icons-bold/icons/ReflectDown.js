@@ -1,5 +1,6 @@
 export default {
-    name: 'ReflectDown',
+    name: 'reflect-down',
+    key: 'ReflectDown',
     width: 24,
     height: 24,
     attributes: undefined,

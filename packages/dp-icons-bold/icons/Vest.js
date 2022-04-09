@@ -1,5 +1,6 @@
 export default {
-    name: 'Vest',
+    name: 'vest',
+    key: 'Vest',
     width: 24,
     height: 24,
     attributes: undefined,

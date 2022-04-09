@@ -1,5 +1,6 @@
 export default {
-    name: 'ViewOff',
+    name: 'view-off',
+    key: 'ViewOff',
     width: 24,
     height: 24,
     attributes: undefined,

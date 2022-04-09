@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentPanFlute',
+    name: 'instrument-pan-flute',
+    key: 'InstrumentPanFlute',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Antenna2',
+    name: 'antenna-2',
+    key: 'Antenna2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

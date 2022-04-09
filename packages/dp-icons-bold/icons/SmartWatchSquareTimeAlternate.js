@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareTimeAlternate',
+    name: 'smart-watch-square-time-alternate',
+    key: 'SmartWatchSquareTimeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

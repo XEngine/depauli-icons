@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchIdDenied',
+    name: 'touch-id-denied',
+    key: 'TouchIdDenied',
     width: 24,
     height: 24,
     attributes: undefined,

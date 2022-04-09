@@ -1,5 +1,6 @@
 export default {
-    name: 'VrUserController',
+    name: 'vr-user-controller',
+    key: 'VrUserController',
     width: 24,
     height: 24,
     attributes: undefined,

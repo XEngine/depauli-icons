@@ -1,5 +1,6 @@
 export default {
-    name: 'ConstructionPaint',
+    name: 'construction-paint',
+    key: 'ConstructionPaint',
     width: 24,
     height: 24,
     attributes: undefined,

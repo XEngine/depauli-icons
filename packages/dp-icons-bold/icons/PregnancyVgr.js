@@ -1,5 +1,6 @@
 export default {
-    name: 'PregnancyVgr',
+    name: 'pregnancy-vgr',
+    key: 'PregnancyVgr',
     width: 24,
     height: 24,
     attributes: undefined,

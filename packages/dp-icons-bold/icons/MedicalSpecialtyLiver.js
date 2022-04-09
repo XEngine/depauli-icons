@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyLiver',
+    name: 'medical-specialty-liver',
+    key: 'MedicalSpecialtyLiver',
     width: 24,
     height: 24,
     attributes: undefined,

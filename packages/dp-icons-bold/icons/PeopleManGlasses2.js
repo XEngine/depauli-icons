@@ -1,5 +1,6 @@
 export default {
-    name: 'PeopleManGlasses2',
+    name: 'people-man-glasses-2',
+    key: 'PeopleManGlasses2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyBlushAlternate',
+    name: 'smiley-blush-alternate',
+    key: 'SmileyBlushAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PillLaptop',
+    name: 'pill-laptop',
+    key: 'PillLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

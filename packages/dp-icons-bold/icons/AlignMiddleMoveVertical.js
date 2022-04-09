@@ -1,5 +1,6 @@
 export default {
-    name: 'AlignMiddleMoveVertical',
+    name: 'align-middle-move-vertical',
+    key: 'AlignMiddleMoveVertical',
     width: 24,
     height: 24,
     attributes: undefined,

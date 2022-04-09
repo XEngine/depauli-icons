@@ -1,5 +1,6 @@
 export default {
-    name: 'BinPaper',
+    name: 'bin-paper',
+    key: 'BinPaper',
     width: 24,
     height: 24,
     attributes: undefined,

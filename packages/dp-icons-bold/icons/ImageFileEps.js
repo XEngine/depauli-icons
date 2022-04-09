@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileEps',
+    name: 'image-file-eps',
+    key: 'ImageFileEps',
     width: 24,
     height: 24,
     attributes: undefined,

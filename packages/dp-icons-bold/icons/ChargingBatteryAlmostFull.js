@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryAlmostFull',
+    name: 'charging-battery-almost-full',
+    key: 'ChargingBatteryAlmostFull',
     width: 24,
     height: 24,
     attributes: undefined,

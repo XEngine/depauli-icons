@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileHeart',
+    name: 'video-file-heart',
+    key: 'VideoFileHeart',
     width: 24,
     height: 24,
     attributes: undefined,

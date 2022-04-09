@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialVideoViddler',
+    name: 'social-video-viddler',
+    key: 'SocialVideoViddler',
     width: 24,
     height: 24,
     attributes: undefined,

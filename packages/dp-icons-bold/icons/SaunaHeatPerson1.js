@@ -1,5 +1,6 @@
 export default {
-    name: 'SaunaHeatPerson1',
+    name: 'sauna-heat-person-1',
+    key: 'SaunaHeatPerson1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MartialArtsSwords',
+    name: 'martial-arts-swords',
+    key: 'MartialArtsSwords',
     width: 24,
     height: 24,
     attributes: undefined,

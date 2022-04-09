@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanStatis2',
+    name: 'single-woman-statis-2',
+    key: 'SingleWomanStatis2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

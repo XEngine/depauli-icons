@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneTripCloud',
+    name: 'plane-trip-cloud',
+    key: 'PlaneTripCloud',
     width: 24,
     height: 24,
     attributes: undefined,

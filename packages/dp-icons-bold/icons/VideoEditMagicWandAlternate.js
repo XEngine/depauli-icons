@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditMagicWandAlternate',
+    name: 'video-edit-magic-wand-alternate',
+    key: 'VideoEditMagicWandAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

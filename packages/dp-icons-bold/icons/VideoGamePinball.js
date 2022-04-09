@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGamePinball',
+    name: 'video-game-pinball',
+    key: 'VideoGamePinball',
     width: 24,
     height: 24,
     attributes: undefined,

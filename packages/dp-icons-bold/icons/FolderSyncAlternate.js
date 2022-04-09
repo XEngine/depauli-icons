@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderSyncAlternate',
+    name: 'folder-sync-alternate',
+    key: 'FolderSyncAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

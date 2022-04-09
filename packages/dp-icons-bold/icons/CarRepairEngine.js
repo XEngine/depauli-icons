@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairEngine',
+    name: 'car-repair-engine',
+    key: 'CarRepairEngine',
     width: 24,
     height: 24,
     attributes: undefined,

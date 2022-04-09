@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareSmileAlternate',
+    name: 'messages-bubble-square-smile-alternate',
+    key: 'MessagesBubbleSquareSmileAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

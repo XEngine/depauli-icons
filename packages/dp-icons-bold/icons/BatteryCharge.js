@@ -1,5 +1,6 @@
 export default {
-    name: 'BatteryCharge',
+    name: 'battery-charge',
+    key: 'BatteryCharge',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmClock1Alternate',
+    name: 'alarm-clock-1-alternate',
+    key: 'AlarmClock1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

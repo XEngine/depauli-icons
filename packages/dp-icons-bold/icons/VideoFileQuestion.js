@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileQuestion',
+    name: 'video-file-question',
+    key: 'VideoFileQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

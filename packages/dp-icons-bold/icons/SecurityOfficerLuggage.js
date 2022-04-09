@@ -1,5 +1,6 @@
 export default {
-    name: 'SecurityOfficerLuggage',
+    name: 'security-officer-luggage',
+    key: 'SecurityOfficerLuggage',
     width: 24,
     height: 24,
     attributes: undefined,

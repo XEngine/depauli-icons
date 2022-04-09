@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsKitchenServingDome',
+    name: 'tools-kitchen-serving-dome',
+    key: 'ToolsKitchenServingDome',
     width: 24,
     height: 24,
     attributes: undefined,

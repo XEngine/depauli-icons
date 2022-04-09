@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolLayout',
+    name: 'design-tool-layout',
+    key: 'DesignToolLayout',
     width: 24,
     height: 24,
     attributes: undefined,

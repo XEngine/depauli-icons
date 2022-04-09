@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaceExplore',
+    name: 'space-explore',
+    key: 'SpaceExplore',
     width: 24,
     height: 24,
     attributes: undefined,

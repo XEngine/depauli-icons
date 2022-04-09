@@ -1,5 +1,6 @@
 export default {
-    name: 'PetTrackingCatChip',
+    name: 'pet-tracking-cat-chip',
+    key: 'PetTrackingCatChip',
     width: 24,
     height: 24,
     attributes: undefined,

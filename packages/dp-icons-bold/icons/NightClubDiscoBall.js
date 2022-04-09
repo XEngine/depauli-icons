@@ -1,5 +1,6 @@
 export default {
-    name: 'NightClubDiscoBall',
+    name: 'night-club-disco-ball',
+    key: 'NightClubDiscoBall',
     width: 24,
     height: 24,
     attributes: undefined,

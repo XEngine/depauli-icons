@@ -1,5 +1,6 @@
 export default {
-    name: 'FilePps1',
+    name: 'file-pps-1',
+    key: 'FilePps1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

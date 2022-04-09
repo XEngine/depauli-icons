@@ -1,5 +1,6 @@
 export default {
-    name: 'LaboratoryTestBloodSugar',
+    name: 'laboratory-test-blood-sugar',
+    key: 'LaboratoryTestBloodSugar',
     width: 24,
     height: 24,
     attributes: undefined,

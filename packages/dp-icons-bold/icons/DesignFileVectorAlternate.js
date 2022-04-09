@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileVectorAlternate',
+    name: 'design-file-vector-alternate',
+    key: 'DesignFileVectorAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

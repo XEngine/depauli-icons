@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaFlame',
+    name: 'spa-flame',
+    key: 'SpaFlame',
     width: 24,
     height: 24,
     attributes: undefined,

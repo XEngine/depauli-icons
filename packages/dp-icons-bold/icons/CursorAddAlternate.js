@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorAddAlternate',
+    name: 'cursor-add-alternate',
+    key: 'CursorAddAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

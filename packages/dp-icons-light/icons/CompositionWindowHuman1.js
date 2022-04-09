@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionWindowHuman1',
+    name: 'composition-window-human-1',
+    key: 'CompositionWindowHuman1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

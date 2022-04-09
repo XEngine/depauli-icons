@@ -1,5 +1,6 @@
 export default {
-    name: 'CogApproved',
+    name: 'cog-approved',
+    key: 'CogApproved',
     width: 24,
     height: 24,
     attributes: undefined,

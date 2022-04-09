@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesSearchWomen',
+    name: 'human-resources-search-women',
+    key: 'HumanResourcesSearchWomen',
     width: 24,
     height: 24,
     attributes: undefined,

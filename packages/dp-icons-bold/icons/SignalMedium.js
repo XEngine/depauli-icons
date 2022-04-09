@@ -1,5 +1,6 @@
 export default {
-    name: 'SignalMedium',
+    name: 'signal-medium',
+    key: 'SignalMedium',
     width: 24,
     height: 24,
     attributes: undefined,

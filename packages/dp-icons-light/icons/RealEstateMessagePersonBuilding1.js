@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateMessagePersonBuilding1',
+    name: 'real-estate-message-person-building-1',
+    key: 'RealEstateMessagePersonBuilding1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

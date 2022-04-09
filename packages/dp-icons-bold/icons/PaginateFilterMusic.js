@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterMusic',
+    name: 'paginate-filter-music',
+    key: 'PaginateFilterMusic',
     width: 24,
     height: 24,
     attributes: undefined,

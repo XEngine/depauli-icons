@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderRemove',
+    name: 'folder-remove',
+    key: 'FolderRemove',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

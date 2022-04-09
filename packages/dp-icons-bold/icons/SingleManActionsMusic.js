@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsMusic',
+    name: 'single-man-actions-music',
+    key: 'SingleManActionsMusic',
     width: 24,
     height: 24,
     attributes: undefined,

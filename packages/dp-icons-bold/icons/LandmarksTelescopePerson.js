@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarksTelescopePerson',
+    name: 'landmarks-telescope-person',
+    key: 'LandmarksTelescopePerson',
     width: 24,
     height: 24,
     attributes: undefined,

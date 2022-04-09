@@ -1,5 +1,6 @@
 export default {
-    name: 'HeadIdea',
+    name: 'head-idea',
+    key: 'HeadIdea',
     width: 24,
     height: 24,
     attributes: undefined,

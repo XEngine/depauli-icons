@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceCartMonitorKeyboard',
+    name: 'e-commerce-cart-monitor-keyboard',
+    key: 'ECommerceCartMonitorKeyboard',
     width: 24,
     height: 24,
     attributes: undefined,

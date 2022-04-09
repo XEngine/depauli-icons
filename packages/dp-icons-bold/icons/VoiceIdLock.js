@@ -1,5 +1,6 @@
 export default {
-    name: 'VoiceIdLock',
+    name: 'voice-id-lock',
+    key: 'VoiceIdLock',
     width: 24,
     height: 24,
     attributes: undefined,

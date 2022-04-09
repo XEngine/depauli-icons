@@ -1,5 +1,6 @@
 export default {
-    name: 'NuclearEnergyPlant',
+    name: 'nuclear-energy-plant',
+    key: 'NuclearEnergyPlant',
     width: 24,
     height: 24,
     attributes: undefined,

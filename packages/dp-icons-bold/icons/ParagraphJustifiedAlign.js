@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphJustifiedAlign',
+    name: 'paragraph-justified-align',
+    key: 'ParagraphJustifiedAlign',
     width: 24,
     height: 24,
     attributes: undefined,

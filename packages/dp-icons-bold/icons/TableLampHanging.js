@@ -1,5 +1,6 @@
 export default {
-    name: 'TableLampHanging',
+    name: 'table-lamp-hanging',
+    key: 'TableLampHanging',
     width: 24,
     height: 24,
     attributes: undefined,

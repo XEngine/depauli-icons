@@ -1,5 +1,6 @@
 export default {
-    name: 'Bridge',
+    name: 'bridge',
+    key: 'Bridge',
     width: 24,
     height: 24,
     attributes: undefined,

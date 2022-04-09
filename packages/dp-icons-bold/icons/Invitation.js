@@ -1,5 +1,6 @@
 export default {
-    name: 'Invitation',
+    name: 'invitation',
+    key: 'Invitation',
     width: 24,
     height: 24,
     attributes: undefined,

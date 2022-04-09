@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileQuill',
+    name: 'common-file-quill',
+    key: 'CommonFileQuill',
     width: 24,
     height: 24,
     attributes: undefined,

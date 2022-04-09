@@ -1,5 +1,6 @@
 export default {
-    name: 'ChefGearHatMoustache',
+    name: 'chef-gear-hat-moustache',
+    key: 'ChefGearHatMoustache',
     width: 24,
     height: 24,
     attributes: undefined,

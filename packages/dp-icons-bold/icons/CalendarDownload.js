@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarDownload',
+    name: 'calendar-download',
+    key: 'CalendarDownload',
     width: 24,
     height: 24,
     attributes: undefined,

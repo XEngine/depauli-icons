@@ -1,5 +1,6 @@
 export default {
-    name: 'FilePpt1',
+    name: 'file-ppt-1',
+    key: 'FilePpt1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'LockUnlock',
+    name: 'lock-unlock',
+    key: 'LockUnlock',
     width: 24,
     height: 24,
     attributes: undefined,

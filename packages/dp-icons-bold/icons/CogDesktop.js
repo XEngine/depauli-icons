@@ -1,5 +1,6 @@
 export default {
-    name: 'CogDesktop',
+    name: 'cog-desktop',
+    key: 'CogDesktop',
     width: 24,
     height: 24,
     attributes: undefined,

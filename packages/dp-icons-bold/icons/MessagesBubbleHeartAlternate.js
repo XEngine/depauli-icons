@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleHeartAlternate',
+    name: 'messages-bubble-heart-alternate',
+    key: 'MessagesBubbleHeartAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

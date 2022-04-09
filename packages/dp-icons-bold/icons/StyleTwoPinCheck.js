@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinCheck',
+    name: 'style-two-pin-check',
+    key: 'StyleTwoPinCheck',
     width: 24,
     height: 24,
     attributes: undefined,

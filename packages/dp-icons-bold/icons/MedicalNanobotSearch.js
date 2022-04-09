@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalNanobotSearch',
+    name: 'medical-nanobot-search',
+    key: 'MedicalNanobotSearch',
     width: 24,
     height: 24,
     attributes: undefined,

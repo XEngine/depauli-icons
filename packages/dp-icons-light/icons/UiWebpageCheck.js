@@ -1,5 +1,6 @@
 export default {
-    name: 'UiWebpageCheck',
+    name: 'ui-webpage-check',
+    key: 'UiWebpageCheck',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

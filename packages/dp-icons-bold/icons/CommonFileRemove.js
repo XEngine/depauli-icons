@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileRemove',
+    name: 'common-file-remove',
+    key: 'CommonFileRemove',
     width: 24,
     height: 24,
     attributes: undefined,

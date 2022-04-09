@@ -1,5 +1,6 @@
 export default {
-    name: 'CashSearch',
+    name: 'cash-search',
+    key: 'CashSearch',
     width: 24,
     height: 24,
     attributes: undefined,

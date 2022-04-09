@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiQuestion',
+    name: 'wifi-question',
+    key: 'WifiQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

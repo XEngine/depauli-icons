@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeShare1',
+    name: 'file-code-share-1',
+    key: 'FileCodeShare1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

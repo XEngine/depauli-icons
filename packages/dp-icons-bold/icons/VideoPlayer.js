@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoPlayer',
+    name: 'video-player',
+    key: 'VideoPlayer',
     width: 24,
     height: 24,
     attributes: undefined,

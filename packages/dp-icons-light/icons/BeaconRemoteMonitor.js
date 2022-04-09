@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconRemoteMonitor',
+    name: 'beacon-remote-monitor',
+    key: 'BeaconRemoteMonitor',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

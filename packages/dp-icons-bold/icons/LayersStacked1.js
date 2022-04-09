@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersStacked1',
+    name: 'layers-stacked-1',
+    key: 'LayersStacked1',
     width: 24,
     height: 24,
     attributes: undefined,

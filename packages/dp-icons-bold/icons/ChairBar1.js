@@ -1,5 +1,6 @@
 export default {
-    name: 'ChairBar1',
+    name: 'chair-bar-1',
+    key: 'ChairBar1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ListBullets',
+    name: 'list-bullets',
+    key: 'ListBullets',
     width: 24,
     height: 24,
     attributes: undefined,

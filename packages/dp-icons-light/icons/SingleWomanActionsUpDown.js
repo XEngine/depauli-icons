@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsUpDown',
+    name: 'single-woman-actions-up-down',
+    key: 'SingleWomanActionsUpDown',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

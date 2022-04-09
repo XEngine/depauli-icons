@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageCar5',
+    name: 'vintage-car-5',
+    key: 'VintageCar5',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

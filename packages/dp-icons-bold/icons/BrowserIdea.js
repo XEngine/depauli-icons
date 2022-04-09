@@ -1,5 +1,6 @@
 export default {
-    name: 'BrowserIdea',
+    name: 'browser-idea',
+    key: 'BrowserIdea',
     width: 24,
     height: 24,
     attributes: undefined,

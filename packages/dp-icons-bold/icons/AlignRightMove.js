@@ -1,5 +1,6 @@
 export default {
-    name: 'AlignRightMove',
+    name: 'align-right-move',
+    key: 'AlignRightMove',
     width: 24,
     height: 24,
     attributes: undefined,

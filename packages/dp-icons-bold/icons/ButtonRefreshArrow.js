@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonRefreshArrow',
+    name: 'button-refresh-arrow',
+    key: 'ButtonRefreshArrow',
     width: 24,
     height: 24,
     attributes: undefined,

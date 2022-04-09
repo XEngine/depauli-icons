@@ -1,5 +1,6 @@
 export default {
-    name: 'FossilEnergyGasCan',
+    name: 'fossil-energy-gas-can',
+    key: 'FossilEnergyGasCan',
     width: 24,
     height: 24,
     attributes: undefined,

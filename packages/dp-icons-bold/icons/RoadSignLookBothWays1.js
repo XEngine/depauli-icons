@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignLookBothWays1',
+    name: 'road-sign-look-both-ways-1',
+    key: 'RoadSignLookBothWays1',
     width: 24,
     height: 24,
     attributes: undefined,

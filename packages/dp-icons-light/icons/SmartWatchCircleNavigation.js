@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleNavigation',
+    name: 'smart-watch-circle-navigation',
+    key: 'SmartWatchCircleNavigation',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

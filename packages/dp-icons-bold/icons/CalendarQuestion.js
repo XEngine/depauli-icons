@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarQuestion',
+    name: 'calendar-question',
+    key: 'CalendarQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

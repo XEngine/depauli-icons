@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleHeart2',
+    name: 'messages-bubble-heart-2',
+    key: 'MessagesBubbleHeart2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

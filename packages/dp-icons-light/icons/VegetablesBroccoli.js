@@ -1,5 +1,6 @@
 export default {
-    name: 'VegetablesBroccoli',
+    name: 'vegetables-broccoli',
+    key: 'VegetablesBroccoli',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

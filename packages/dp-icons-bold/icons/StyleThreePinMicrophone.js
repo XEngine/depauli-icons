@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinMicrophone',
+    name: 'style-three-pin-microphone',
+    key: 'StyleThreePinMicrophone',
     width: 24,
     height: 24,
     attributes: undefined,

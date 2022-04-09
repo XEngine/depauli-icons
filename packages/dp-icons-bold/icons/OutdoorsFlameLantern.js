@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsFlameLantern',
+    name: 'outdoors-flame-lantern',
+    key: 'OutdoorsFlameLantern',
     width: 24,
     height: 24,
     attributes: undefined,

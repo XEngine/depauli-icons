@@ -1,5 +1,6 @@
 export default {
-    name: 'ControlsNext',
+    name: 'controls-next',
+    key: 'ControlsNext',
     width: 24,
     height: 24,
     attributes: undefined,

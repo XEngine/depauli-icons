@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardPageUp',
+    name: 'keyboard-page-up',
+    key: 'KeyboardPageUp',
     width: 24,
     height: 24,
     attributes: undefined,

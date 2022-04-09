@@ -1,5 +1,6 @@
 export default {
-    name: 'TagNewCircle',
+    name: 'tag-new-circle',
+    key: 'TagNewCircle',
     width: 24,
     height: 24,
     attributes: undefined,

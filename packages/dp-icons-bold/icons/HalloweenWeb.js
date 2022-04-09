@@ -1,5 +1,6 @@
 export default {
-    name: 'HalloweenWeb',
+    name: 'halloween-web',
+    key: 'HalloweenWeb',
     width: 24,
     height: 24,
     attributes: undefined,

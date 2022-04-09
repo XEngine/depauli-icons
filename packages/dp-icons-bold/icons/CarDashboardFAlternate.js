@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardFAlternate',
+    name: 'car-dashboard-f-alternate',
+    key: 'CarDashboardFAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

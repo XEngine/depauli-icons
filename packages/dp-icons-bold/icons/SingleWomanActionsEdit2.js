@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsEdit2',
+    name: 'single-woman-actions-edit-2',
+    key: 'SingleWomanActionsEdit2',
     width: 24,
     height: 24,
     attributes: undefined,

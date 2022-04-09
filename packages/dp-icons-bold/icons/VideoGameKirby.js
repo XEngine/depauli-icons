@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameKirby',
+    name: 'video-game-kirby',
+    key: 'VideoGameKirby',
     width: 24,
     height: 24,
     attributes: undefined,

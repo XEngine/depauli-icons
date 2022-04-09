@@ -1,5 +1,6 @@
 export default {
-    name: 'ModulePuzzle',
+    name: 'module-puzzle',
+    key: 'ModulePuzzle',
     width: 24,
     height: 24,
     attributes: undefined,

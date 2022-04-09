@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSearch1',
+    name: 'messages-bubble-search-1',
+    key: 'MessagesBubbleSearch1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

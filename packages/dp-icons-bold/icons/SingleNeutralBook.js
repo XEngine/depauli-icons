@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralBook',
+    name: 'single-neutral-book',
+    key: 'SingleNeutralBook',
     width: 24,
     height: 24,
     attributes: undefined,

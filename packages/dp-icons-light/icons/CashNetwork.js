@@ -1,5 +1,6 @@
 export default {
-    name: 'CashNetwork',
+    name: 'cash-network',
+    key: 'CashNetwork',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

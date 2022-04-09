@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsAlternate',
+    name: 'data-file-bars-alternate',
+    key: 'DataFileBarsAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

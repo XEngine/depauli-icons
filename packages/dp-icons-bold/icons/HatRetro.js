@@ -1,5 +1,6 @@
 export default {
-    name: 'HatRetro',
+    name: 'hat-retro',
+    key: 'HatRetro',
     width: 24,
     height: 24,
     attributes: undefined,

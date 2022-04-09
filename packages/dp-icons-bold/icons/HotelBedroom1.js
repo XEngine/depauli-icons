@@ -1,5 +1,6 @@
 export default {
-    name: 'HotelBedroom1',
+    name: 'hotel-bedroom-1',
+    key: 'HotelBedroom1',
     width: 24,
     height: 24,
     attributes: undefined,

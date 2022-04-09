@@ -1,5 +1,6 @@
 export default {
-    name: 'AstronomyEclipse',
+    name: 'astronomy-eclipse',
+    key: 'AstronomyEclipse',
     width: 24,
     height: 24,
     attributes: undefined,

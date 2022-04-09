@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesPeopleUserStar',
+    name: 'messages-people-user-star',
+    key: 'MessagesPeopleUserStar',
     width: 24,
     height: 24,
     attributes: undefined,

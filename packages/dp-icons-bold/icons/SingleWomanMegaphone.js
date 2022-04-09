@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanMegaphone',
+    name: 'single-woman-megaphone',
+    key: 'SingleWomanMegaphone',
     width: 24,
     height: 24,
     attributes: undefined,

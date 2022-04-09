@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningSprinkleBottle',
+    name: 'gardening-sprinkle-bottle',
+    key: 'GardeningSprinkleBottle',
     width: 24,
     height: 24,
     attributes: undefined,

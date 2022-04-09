@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsShareAlternate',
+    name: 'tags-share-alternate',
+    key: 'TagsShareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

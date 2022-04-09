@@ -1,5 +1,6 @@
 export default {
-    name: 'CoffeeMachine',
+    name: 'coffee-machine',
+    key: 'CoffeeMachine',
     width: 24,
     height: 24,
     attributes: undefined,

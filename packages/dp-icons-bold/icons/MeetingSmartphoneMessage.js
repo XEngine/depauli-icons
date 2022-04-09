@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingSmartphoneMessage',
+    name: 'meeting-smartphone-message',
+    key: 'MeetingSmartphoneMessage',
     width: 24,
     height: 24,
     attributes: undefined,

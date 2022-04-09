@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaSign',
+    name: 'spa-sign',
+    key: 'SpaSign',
     width: 24,
     height: 24,
     attributes: undefined,

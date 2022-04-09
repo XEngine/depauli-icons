@@ -1,5 +1,6 @@
 export default {
-    name: 'DownloadThickBottom',
+    name: 'download-thick-bottom',
+    key: 'DownloadThickBottom',
     width: 24,
     height: 24,
     attributes: undefined,

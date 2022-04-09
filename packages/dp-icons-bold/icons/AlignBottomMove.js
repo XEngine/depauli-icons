@@ -1,5 +1,6 @@
 export default {
-    name: 'AlignBottomMove',
+    name: 'align-bottom-move',
+    key: 'AlignBottomMove',
     width: 24,
     height: 24,
     attributes: undefined,

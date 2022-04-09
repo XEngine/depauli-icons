@@ -1,5 +1,6 @@
 export default {
-    name: 'CleanCarLeaf1',
+    name: 'clean-car-leaf-1',
+    key: 'CleanCarLeaf1',
     width: 24,
     height: 24,
     attributes: undefined,

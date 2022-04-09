@@ -1,5 +1,6 @@
 export default {
-    name: 'TrendsTorch2',
+    name: 'trends-torch-2',
+    key: 'TrendsTorch2',
     width: 24,
     height: 24,
     attributes: undefined,

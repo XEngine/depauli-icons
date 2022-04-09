@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinReel',
+    name: 'style-three-pin-reel',
+    key: 'StyleThreePinReel',
     width: 24,
     height: 24,
     attributes: undefined,

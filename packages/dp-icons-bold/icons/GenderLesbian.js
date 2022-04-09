@@ -1,5 +1,6 @@
 export default {
-    name: 'GenderLesbian',
+    name: 'gender-lesbian',
+    key: 'GenderLesbian',
     width: 24,
     height: 24,
     attributes: undefined,

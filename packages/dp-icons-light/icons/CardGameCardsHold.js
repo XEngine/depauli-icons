@@ -1,5 +1,6 @@
 export default {
-    name: 'CardGameCardsHold',
+    name: 'card-game-cards-hold',
+    key: 'CardGameCardsHold',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManCircle',
+    name: 'single-man-circle',
+    key: 'SingleManCircle',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentWeightLb',
+    name: 'shipment-weight-lb',
+    key: 'ShipmentWeightLb',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

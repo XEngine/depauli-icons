@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceMagento',
+    name: 'e-commerce-magento',
+    key: 'ECommerceMagento',
     width: 24,
     height: 24,
     attributes: undefined,

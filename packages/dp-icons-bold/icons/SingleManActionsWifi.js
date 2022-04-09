@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsWifi',
+    name: 'single-man-actions-wifi',
+    key: 'SingleManActionsWifi',
     width: 24,
     height: 24,
     attributes: undefined,

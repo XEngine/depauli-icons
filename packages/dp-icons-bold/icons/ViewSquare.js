@@ -1,5 +1,6 @@
 export default {
-    name: 'ViewSquare',
+    name: 'view-square',
+    key: 'ViewSquare',
     width: 24,
     height: 24,
     attributes: undefined,

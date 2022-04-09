@@ -1,5 +1,6 @@
 export default {
-    name: 'DataTransferVerticalDiamond',
+    name: 'data-transfer-vertical-diamond',
+    key: 'DataTransferVerticalDiamond',
     width: 24,
     height: 24,
     attributes: undefined,

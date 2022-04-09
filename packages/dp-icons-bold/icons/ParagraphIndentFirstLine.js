@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphIndentFirstLine',
+    name: 'paragraph-indent-first-line',
+    key: 'ParagraphIndentFirstLine',
     width: 24,
     height: 24,
     attributes: undefined,

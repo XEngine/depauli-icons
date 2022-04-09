@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileShield',
+    name: 'time-clock-file-shield',
+    key: 'TimeClockFileShield',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinToiletUnclog',
+    name: 'style-three-pin-toilet-unclog',
+    key: 'StyleThreePinToiletUnclog',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

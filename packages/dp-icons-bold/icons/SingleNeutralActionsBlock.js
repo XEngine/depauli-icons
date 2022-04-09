@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsBlock',
+    name: 'single-neutral-actions-block',
+    key: 'SingleNeutralActionsBlock',
     width: 24,
     height: 24,
     attributes: undefined,

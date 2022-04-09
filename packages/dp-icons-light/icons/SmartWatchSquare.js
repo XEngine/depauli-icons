@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquare',
+    name: 'smart-watch-square',
+    key: 'SmartWatchSquare',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

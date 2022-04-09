@@ -1,5 +1,6 @@
 export default {
-    name: 'DislikeAlternate',
+    name: 'dislike-alternate',
+    key: 'DislikeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

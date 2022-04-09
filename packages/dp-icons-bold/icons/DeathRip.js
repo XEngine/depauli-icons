@@ -1,5 +1,6 @@
 export default {
-    name: 'DeathRip',
+    name: 'death-rip',
+    key: 'DeathRip',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BodyCareWaterHand',
+    name: 'body-care-water-hand',
+    key: 'BodyCareWaterHand',
     width: 24,
     height: 24,
     attributes: undefined,

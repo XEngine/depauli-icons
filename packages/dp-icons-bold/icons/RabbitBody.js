@@ -1,5 +1,6 @@
 export default {
-    name: 'RabbitBody',
+    name: 'rabbit-body',
+    key: 'RabbitBody',
     width: 24,
     height: 24,
     attributes: undefined,

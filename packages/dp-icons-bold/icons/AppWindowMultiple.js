@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowMultiple',
+    name: 'app-window-multiple',
+    key: 'AppWindowMultiple',
     width: 24,
     height: 24,
     attributes: undefined,

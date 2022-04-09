@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderStarAlternate',
+    name: 'folder-star-alternate',
+    key: 'FolderStarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

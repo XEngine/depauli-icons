@@ -1,5 +1,6 @@
 export default {
-    name: 'CarToolSteeringWheel',
+    name: 'car-tool-steering-wheel',
+    key: 'CarToolSteeringWheel',
     width: 24,
     height: 24,
     attributes: undefined,

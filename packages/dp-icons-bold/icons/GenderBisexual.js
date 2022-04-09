@@ -1,5 +1,6 @@
 export default {
-    name: 'GenderBisexual',
+    name: 'gender-bisexual',
+    key: 'GenderBisexual',
     width: 24,
     height: 24,
     attributes: undefined,

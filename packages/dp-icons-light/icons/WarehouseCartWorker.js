@@ -1,5 +1,6 @@
 export default {
-    name: 'WarehouseCartWorker',
+    name: 'warehouse-cart-worker',
+    key: 'WarehouseCartWorker',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

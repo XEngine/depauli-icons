@@ -1,5 +1,6 @@
 export default {
-    name: 'ExternalUpload',
+    name: 'external-upload',
+    key: 'ExternalUpload',
     width: 24,
     height: 24,
     attributes: undefined,

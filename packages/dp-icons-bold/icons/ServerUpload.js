@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerUpload',
+    name: 'server-upload',
+    key: 'ServerUpload',
     width: 24,
     height: 24,
     attributes: undefined,

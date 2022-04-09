@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudText',
+    name: 'cloud-text',
+    key: 'CloudText',
     width: 24,
     height: 24,
     attributes: undefined,

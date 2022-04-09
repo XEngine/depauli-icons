@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramArrowBendDown',
+    name: 'diagram-arrow-bend-down',
+    key: 'DiagramArrowBendDown',
     width: 24,
     height: 24,
     attributes: undefined,

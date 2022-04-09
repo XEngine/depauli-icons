@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsSingleCellBattery',
+    name: 'electronics-single-cell-battery',
+    key: 'ElectronicsSingleCellBattery',
     width: 24,
     height: 24,
     attributes: undefined,

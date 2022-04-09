@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFilePsd1',
+    name: 'design-file-psd-1',
+    key: 'DesignFilePsd1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

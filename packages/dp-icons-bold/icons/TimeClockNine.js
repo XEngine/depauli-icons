@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockNine',
+    name: 'time-clock-nine',
+    key: 'TimeClockNine',
     width: 24,
     height: 24,
     attributes: undefined,

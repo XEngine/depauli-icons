@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderShareAlternate',
+    name: 'folder-share-alternate',
+    key: 'FolderShareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

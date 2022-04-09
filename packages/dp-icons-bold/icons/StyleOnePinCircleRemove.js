@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinCircleRemove',
+    name: 'style-one-pin-circle-remove',
+    key: 'StyleOnePinCircleRemove',
     width: 24,
     height: 24,
     attributes: undefined,

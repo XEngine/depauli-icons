@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorCamera',
+    name: 'monitor-camera',
+    key: 'MonitorCamera',
     width: 24,
     height: 24,
     attributes: undefined,

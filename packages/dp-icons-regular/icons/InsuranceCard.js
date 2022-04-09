@@ -1,5 +1,6 @@
 export default {
-    name: 'InsuranceCard',
+    name: 'insurance-card',
+    key: 'InsuranceCard',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

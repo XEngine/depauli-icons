@@ -1,5 +1,6 @@
 export default {
-    name: 'BridgeGoldenGate',
+    name: 'bridge-golden-gate',
+    key: 'BridgeGoldenGate',
     width: 24,
     height: 24,
     attributes: undefined,

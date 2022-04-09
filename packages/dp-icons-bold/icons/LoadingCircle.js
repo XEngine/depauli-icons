@@ -1,5 +1,6 @@
 export default {
-    name: 'LoadingCircle',
+    name: 'loading-circle',
+    key: 'LoadingCircle',
     width: 24,
     height: 24,
     attributes: undefined,

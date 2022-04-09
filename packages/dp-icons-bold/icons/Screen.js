@@ -1,5 +1,6 @@
 export default {
-    name: 'Screen',
+    name: 'screen',
+    key: 'Screen',
     width: 24,
     height: 24,
     attributes: undefined,

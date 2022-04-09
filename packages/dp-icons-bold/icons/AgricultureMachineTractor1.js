@@ -1,5 +1,6 @@
 export default {
-    name: 'AgricultureMachineTractor1',
+    name: 'agriculture-machine-tractor-1',
+    key: 'AgricultureMachineTractor1',
     width: 24,
     height: 24,
     attributes: undefined,

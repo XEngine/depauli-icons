@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionDownload',
+    name: 'phone-action-download',
+    key: 'PhoneActionDownload',
     width: 24,
     height: 24,
     attributes: undefined,

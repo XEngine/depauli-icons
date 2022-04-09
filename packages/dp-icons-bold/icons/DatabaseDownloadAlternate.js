@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseDownloadAlternate',
+    name: 'database-download-alternate',
+    key: 'DatabaseDownloadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

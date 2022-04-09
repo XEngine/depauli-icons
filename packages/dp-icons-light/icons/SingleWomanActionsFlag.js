@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsFlag',
+    name: 'single-woman-actions-flag',
+    key: 'SingleWomanActionsFlag',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

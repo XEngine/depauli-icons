@@ -1,5 +1,6 @@
 export default {
-    name: 'DivingOxygenTank',
+    name: 'diving-oxygen-tank',
+    key: 'DivingOxygenTank',
     width: 24,
     height: 24,
     attributes: undefined,

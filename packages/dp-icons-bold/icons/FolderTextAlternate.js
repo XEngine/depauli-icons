@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderTextAlternate',
+    name: 'folder-text-alternate',
+    key: 'FolderTextAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

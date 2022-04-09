@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeShelfCorner',
+    name: 'office-shelf-corner',
+    key: 'OfficeShelfCorner',
     width: 24,
     height: 24,
     attributes: undefined,

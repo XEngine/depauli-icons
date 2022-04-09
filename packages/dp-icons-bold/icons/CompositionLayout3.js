@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionLayout3',
+    name: 'composition-layout-3',
+    key: 'CompositionLayout3',
     width: 24,
     height: 24,
     attributes: undefined,

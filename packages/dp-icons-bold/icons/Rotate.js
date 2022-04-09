@@ -1,5 +1,6 @@
 export default {
-    name: 'Rotate',
+    name: 'rotate',
+    key: 'Rotate',
     width: 24,
     height: 24,
     attributes: undefined,

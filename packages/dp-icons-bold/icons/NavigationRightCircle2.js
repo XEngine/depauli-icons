@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationRightCircle2',
+    name: 'navigation-right-circle-2',
+    key: 'NavigationRightCircle2',
     width: 24,
     height: 24,
     attributes: undefined,

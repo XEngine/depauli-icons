@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramWaveDown',
+    name: 'diagram-wave-down',
+    key: 'DiagramWaveDown',
     width: 24,
     height: 24,
     attributes: undefined,

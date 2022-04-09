@@ -1,5 +1,6 @@
 export default {
-    name: 'DeveloperCommunityGithub1',
+    name: 'developer-community-github-1',
+    key: 'DeveloperCommunityGithub1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

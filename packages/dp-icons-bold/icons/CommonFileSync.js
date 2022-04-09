@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileSync',
+    name: 'common-file-sync',
+    key: 'CommonFileSync',
     width: 24,
     height: 24,
     attributes: undefined,

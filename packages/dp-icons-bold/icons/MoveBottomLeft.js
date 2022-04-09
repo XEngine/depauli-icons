@@ -1,5 +1,6 @@
 export default {
-    name: 'MoveBottomLeft',
+    name: 'move-bottom-left',
+    key: 'MoveBottomLeft',
     width: 24,
     height: 24,
     attributes: undefined,

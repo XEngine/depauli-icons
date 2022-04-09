@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsDownload',
+    name: 'multiple-actions-download',
+    key: 'MultipleActionsDownload',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CardGameCardSpade',
+    name: 'card-game-card-spade',
+    key: 'CardGameCardSpade',
     width: 24,
     height: 24,
     attributes: undefined,

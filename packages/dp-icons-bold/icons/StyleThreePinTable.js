@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinTable',
+    name: 'style-three-pin-table',
+    key: 'StyleThreePinTable',
     width: 24,
     height: 24,
     attributes: undefined,

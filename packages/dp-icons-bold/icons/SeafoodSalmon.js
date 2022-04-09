@@ -1,5 +1,6 @@
 export default {
-    name: 'SeafoodSalmon',
+    name: 'seafood-salmon',
+    key: 'SeafoodSalmon',
     width: 24,
     height: 24,
     attributes: undefined,

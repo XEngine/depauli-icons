@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaReddit',
+    name: 'social-media-reddit',
+    key: 'SocialMediaReddit',
     width: 24,
     height: 24,
     attributes: undefined,

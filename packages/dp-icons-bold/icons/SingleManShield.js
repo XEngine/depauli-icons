@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManShield',
+    name: 'single-man-shield',
+    key: 'SingleManShield',
     width: 24,
     height: 24,
     attributes: undefined,

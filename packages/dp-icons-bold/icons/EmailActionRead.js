@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionRead',
+    name: 'email-action-read',
+    key: 'EmailActionRead',
     width: 24,
     height: 24,
     attributes: undefined,

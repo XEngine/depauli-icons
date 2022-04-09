@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionFlash',
+    name: 'phone-action-flash',
+    key: 'PhoneActionFlash',
     width: 24,
     height: 24,
     attributes: undefined,

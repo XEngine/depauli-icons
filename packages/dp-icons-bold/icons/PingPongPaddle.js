@@ -1,5 +1,6 @@
 export default {
-    name: 'PingPongPaddle',
+    name: 'ping-pong-paddle',
+    key: 'PingPongPaddle',
     width: 24,
     height: 24,
     attributes: undefined,

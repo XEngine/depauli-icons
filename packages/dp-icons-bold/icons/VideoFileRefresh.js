@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileRefresh',
+    name: 'video-file-refresh',
+    key: 'VideoFileRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

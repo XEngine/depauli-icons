@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkLondonTower',
+    name: 'landmark-london-tower',
+    key: 'LandmarkLondonTower',
     width: 24,
     height: 24,
     attributes: undefined,

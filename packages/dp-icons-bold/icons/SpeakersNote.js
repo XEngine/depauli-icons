@@ -1,5 +1,6 @@
 export default {
-    name: 'SpeakersNote',
+    name: 'speakers-note',
+    key: 'SpeakersNote',
     width: 24,
     height: 24,
     attributes: undefined,

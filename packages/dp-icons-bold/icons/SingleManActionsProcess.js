@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsProcess',
+    name: 'single-man-actions-process',
+    key: 'SingleManActionsProcess',
     width: 24,
     height: 24,
     attributes: undefined,

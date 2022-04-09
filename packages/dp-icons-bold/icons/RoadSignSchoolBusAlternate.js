@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSchoolBusAlternate',
+    name: 'road-sign-school-bus-alternate',
+    key: 'RoadSignSchoolBusAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

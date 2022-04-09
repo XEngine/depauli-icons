@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudLoading',
+    name: 'cloud-loading',
+    key: 'CloudLoading',
     width: 24,
     height: 24,
     attributes: undefined,

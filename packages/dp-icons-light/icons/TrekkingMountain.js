@@ -1,5 +1,6 @@
 export default {
-    name: 'TrekkingMountain',
+    name: 'trekking-mountain',
+    key: 'TrekkingMountain',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'WineBarrel1',
+    name: 'wine-barrel-1',
+    key: 'WineBarrel1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

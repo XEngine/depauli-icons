@@ -1,5 +1,6 @@
 export default {
-    name: 'AgricultureMachinePlow3',
+    name: 'agriculture-machine-plow-3',
+    key: 'AgricultureMachinePlow3',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MeasureCaliber',
+    name: 'measure-caliber',
+    key: 'MeasureCaliber',
     width: 24,
     height: 24,
     attributes: undefined,

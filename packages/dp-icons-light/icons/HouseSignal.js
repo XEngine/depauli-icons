@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseSignal',
+    name: 'house-signal',
+    key: 'HouseSignal',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

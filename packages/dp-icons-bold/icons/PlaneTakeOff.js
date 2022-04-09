@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneTakeOff',
+    name: 'plane-take-off',
+    key: 'PlaneTakeOff',
     width: 24,
     height: 24,
     attributes: undefined,

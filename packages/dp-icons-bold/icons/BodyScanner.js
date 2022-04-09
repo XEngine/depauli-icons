@@ -1,5 +1,6 @@
 export default {
-    name: 'BodyScanner',
+    name: 'body-scanner',
+    key: 'BodyScanner',
     width: 24,
     height: 24,
     attributes: undefined,

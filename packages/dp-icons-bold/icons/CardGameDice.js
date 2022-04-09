@@ -1,5 +1,6 @@
 export default {
-    name: 'CardGameDice',
+    name: 'card-game-dice',
+    key: 'CardGameDice',
     width: 24,
     height: 24,
     attributes: undefined,

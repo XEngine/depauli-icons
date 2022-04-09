@@ -1,5 +1,6 @@
 export default {
-    name: 'PrimitiveSymbolsWoman1',
+    name: 'primitive-symbols-woman-1',
+    key: 'PrimitiveSymbolsWoman1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRetroLuggage',
+    name: 'car-retro-luggage',
+    key: 'CarRetroLuggage',
     width: 24,
     height: 24,
     attributes: undefined,

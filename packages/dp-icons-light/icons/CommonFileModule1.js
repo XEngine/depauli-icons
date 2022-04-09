@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileModule1',
+    name: 'common-file-module-1',
+    key: 'CommonFileModule1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

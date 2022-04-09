@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseDisable',
+    name: 'database-disable',
+    key: 'DatabaseDisable',
     width: 24,
     height: 24,
     attributes: undefined,

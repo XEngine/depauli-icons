@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreBrain',
+    name: 'music-genre-brain',
+    key: 'MusicGenreBrain',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateSignHouseSale',
+    name: 'real-estate-sign-house-sale',
+    key: 'RealEstateSignHouseSale',
     width: 24,
     height: 24,
     attributes: undefined,

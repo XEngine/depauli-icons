@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaceRocketLaunch',
+    name: 'space-rocket-launch',
+    key: 'SpaceRocketLaunch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialSmugMug',
+    name: 'social-smug-mug',
+    key: 'SocialSmugMug',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameTetris',
+    name: 'video-game-tetris',
+    key: 'VideoGameTetris',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseFire',
+    name: 'house-fire',
+    key: 'HouseFire',
     width: 24,
     height: 24,
     attributes: undefined,

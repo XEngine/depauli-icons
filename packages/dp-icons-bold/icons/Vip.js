@@ -1,5 +1,6 @@
 export default {
-    name: 'Vip',
+    name: 'vip',
+    key: 'Vip',
     width: 24,
     height: 24,
     attributes: undefined,

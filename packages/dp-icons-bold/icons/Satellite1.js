@@ -1,5 +1,6 @@
 export default {
-    name: 'Satellite1',
+    name: 'satellite-1',
+    key: 'Satellite1',
     width: 24,
     height: 24,
     attributes: undefined,

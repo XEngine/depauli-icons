@@ -1,5 +1,6 @@
 export default {
-    name: 'AlertTriangle',
+    name: 'alert-triangle',
+    key: 'AlertTriangle',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDocumentPsd1',
+    name: 'design-document-psd-1',
+    key: 'DesignDocumentPsd1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TableCandles',
+    name: 'table-candles',
+    key: 'TableCandles',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

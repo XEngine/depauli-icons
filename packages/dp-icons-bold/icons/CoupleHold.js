@@ -1,5 +1,6 @@
 export default {
-    name: 'CoupleHold',
+    name: 'couple-hold',
+    key: 'CoupleHold',
     width: 24,
     height: 24,
     attributes: undefined,

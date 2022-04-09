@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinFishRod',
+    name: 'style-three-pin-fish-rod',
+    key: 'StyleThreePinFishRod',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

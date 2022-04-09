@@ -1,5 +1,6 @@
 export default {
-    name: 'CatWater',
+    name: 'cat-water',
+    key: 'CatWater',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

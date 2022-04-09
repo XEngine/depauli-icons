@@ -1,5 +1,6 @@
 export default {
-    name: 'MortarPestle',
+    name: 'mortar-pestle',
+    key: 'MortarPestle',
     width: 24,
     height: 24,
     attributes: undefined,

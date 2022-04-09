@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairLock',
+    name: 'car-repair-lock',
+    key: 'CarRepairLock',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

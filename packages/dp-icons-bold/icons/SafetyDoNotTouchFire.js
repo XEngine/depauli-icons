@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyDoNotTouchFire',
+    name: 'safety-do-not-touch-fire',
+    key: 'SafetyDoNotTouchFire',
     width: 24,
     height: 24,
     attributes: undefined,

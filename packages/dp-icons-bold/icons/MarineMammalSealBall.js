@@ -1,5 +1,6 @@
 export default {
-    name: 'MarineMammalSealBall',
+    name: 'marine-mammal-seal-ball',
+    key: 'MarineMammalSealBall',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinTrain1',
+    name: 'style-one-pin-train-1',
+    key: 'StyleOnePinTrain1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

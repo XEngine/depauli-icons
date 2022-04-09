@@ -1,5 +1,6 @@
 export default {
-    name: 'ConversationChatTextAlternate',
+    name: 'conversation-chat-text-alternate',
+    key: 'ConversationChatTextAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

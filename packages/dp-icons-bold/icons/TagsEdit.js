@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsEdit',
+    name: 'tags-edit',
+    key: 'TagsEdit',
     width: 24,
     height: 24,
     attributes: undefined,

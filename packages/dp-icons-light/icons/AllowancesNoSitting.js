@@ -1,5 +1,6 @@
 export default {
-    name: 'AllowancesNoSitting',
+    name: 'allowances-no-sitting',
+    key: 'AllowancesNoSitting',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

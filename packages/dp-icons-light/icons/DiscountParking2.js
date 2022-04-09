@@ -1,5 +1,6 @@
 export default {
-    name: 'DiscountParking2',
+    name: 'discount-parking-2',
+    key: 'DiscountParking2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

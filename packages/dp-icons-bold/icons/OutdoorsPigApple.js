@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsPigApple',
+    name: 'outdoors-pig-apple',
+    key: 'OutdoorsPigApple',
     width: 24,
     height: 24,
     attributes: undefined,

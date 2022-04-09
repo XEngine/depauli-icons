@@ -1,5 +1,6 @@
 export default {
-    name: 'UserIdea',
+    name: 'user-idea',
+    key: 'UserIdea',
     width: 24,
     height: 24,
     attributes: undefined,

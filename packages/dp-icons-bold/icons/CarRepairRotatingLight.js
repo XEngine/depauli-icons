@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairRotatingLight',
+    name: 'car-repair-rotating-light',
+    key: 'CarRepairRotatingLight',
     width: 24,
     height: 24,
     attributes: undefined,

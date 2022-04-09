@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileCash',
+    name: 'data-file-cash',
+    key: 'DataFileCash',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

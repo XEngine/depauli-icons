@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsMountain',
+    name: 'analytics-mountain',
+    key: 'AnalyticsMountain',
     width: 24,
     height: 24,
     attributes: undefined,

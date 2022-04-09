@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseHurricane',
+    name: 'house-hurricane',
+    key: 'HouseHurricane',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityBlindReadBook2',
+    name: 'disability-blind-read-book-2',
+    key: 'DisabilityBlindReadBook2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

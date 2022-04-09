@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsRemove',
+    name: 'single-man-actions-remove',
+    key: 'SingleManActionsRemove',
     width: 24,
     height: 24,
     attributes: undefined,

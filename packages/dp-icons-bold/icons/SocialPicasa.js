@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialPicasa',
+    name: 'social-picasa',
+    key: 'SocialPicasa',
     width: 24,
     height: 24,
     attributes: undefined,

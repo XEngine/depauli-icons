@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesPeopleUserWarning1',
+    name: 'messages-people-user-warning-1',
+    key: 'MessagesPeopleUserWarning1',
     width: 24,
     height: 24,
     attributes: undefined,

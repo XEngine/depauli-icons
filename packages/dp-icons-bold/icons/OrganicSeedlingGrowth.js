@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicSeedlingGrowth',
+    name: 'organic-seedling-growth',
+    key: 'OrganicSeedlingGrowth',
     width: 24,
     height: 24,
     attributes: undefined,

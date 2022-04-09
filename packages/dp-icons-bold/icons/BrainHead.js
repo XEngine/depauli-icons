@@ -1,5 +1,6 @@
 export default {
-    name: 'BrainHead',
+    name: 'brain-head',
+    key: 'BrainHead',
     width: 24,
     height: 24,
     attributes: undefined,

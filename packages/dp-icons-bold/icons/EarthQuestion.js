@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthQuestion',
+    name: 'earth-question',
+    key: 'EarthQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HardDrive',
+    name: 'hard-drive',
+    key: 'HardDrive',
     width: 24,
     height: 24,
     attributes: undefined,

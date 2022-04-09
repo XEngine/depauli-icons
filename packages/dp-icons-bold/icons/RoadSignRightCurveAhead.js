@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignRightCurveAhead',
+    name: 'road-sign-right-curve-ahead',
+    key: 'RoadSignRightCurveAhead',
     width: 24,
     height: 24,
     attributes: undefined,

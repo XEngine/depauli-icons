@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCc',
+    name: 'style-three-pin-cc',
+    key: 'StyleThreePinCc',
     width: 24,
     height: 24,
     attributes: undefined,

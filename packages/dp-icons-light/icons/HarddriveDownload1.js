@@ -1,5 +1,6 @@
 export default {
-    name: 'HarddriveDownload1',
+    name: 'harddrive-download-1',
+    key: 'HarddriveDownload1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

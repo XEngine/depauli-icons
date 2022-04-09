@@ -1,5 +1,6 @@
 export default {
-    name: 'BoardGameDicePawn',
+    name: 'board-game-dice-pawn',
+    key: 'BoardGameDicePawn',
     width: 24,
     height: 24,
     attributes: undefined,

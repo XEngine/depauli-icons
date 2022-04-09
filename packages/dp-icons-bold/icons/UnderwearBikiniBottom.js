@@ -1,5 +1,6 @@
 export default {
-    name: 'UnderwearBikiniBottom',
+    name: 'underwear-bikini-bottom',
+    key: 'UnderwearBikiniBottom',
     width: 24,
     height: 24,
     attributes: undefined,

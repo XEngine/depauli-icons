@@ -1,5 +1,6 @@
 export default {
-    name: 'StudyDesk',
+    name: 'study-desk',
+    key: 'StudyDesk',
     width: 24,
     height: 24,
     attributes: undefined,

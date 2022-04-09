@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairFluid1',
+    name: 'car-repair-fluid-1',
+    key: 'CarRepairFluid1',
     width: 24,
     height: 24,
     attributes: undefined,

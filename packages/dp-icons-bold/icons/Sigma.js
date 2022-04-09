@@ -1,5 +1,6 @@
 export default {
-    name: 'Sigma',
+    name: 'sigma',
+    key: 'Sigma',
     width: 24,
     height: 24,
     attributes: undefined,

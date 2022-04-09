@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameMarioMushroom1',
+    name: 'video-game-mario-mushroom-1',
+    key: 'VideoGameMarioMushroom1',
     width: 24,
     height: 24,
     attributes: undefined,

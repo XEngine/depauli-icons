@@ -1,5 +1,6 @@
 export default {
-    name: 'TagFree',
+    name: 'tag-free',
+    key: 'TagFree',
     width: 24,
     height: 24,
     attributes: undefined,

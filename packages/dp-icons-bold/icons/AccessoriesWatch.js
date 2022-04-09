@@ -1,5 +1,6 @@
 export default {
-    name: 'AccessoriesWatch',
+    name: 'accessories-watch',
+    key: 'AccessoriesWatch',
     width: 24,
     height: 24,
     attributes: undefined,

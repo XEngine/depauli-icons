@@ -1,5 +1,6 @@
 export default {
-    name: 'Ipod1',
+    name: 'ipod-1',
+    key: 'Ipod1',
     width: 24,
     height: 24,
     attributes: undefined,

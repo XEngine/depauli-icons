@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsInformation',
+    name: 'single-man-actions-information',
+    key: 'SingleManActionsInformation',
     width: 24,
     height: 24,
     attributes: undefined,

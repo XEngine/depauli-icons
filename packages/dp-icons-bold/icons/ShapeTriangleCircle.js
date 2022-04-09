@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapeTriangleCircle',
+    name: 'shape-triangle-circle',
+    key: 'ShapeTriangleCircle',
     width: 24,
     height: 24,
     attributes: undefined,

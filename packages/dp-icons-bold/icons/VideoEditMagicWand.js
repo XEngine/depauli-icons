@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditMagicWand',
+    name: 'video-edit-magic-wand',
+    key: 'VideoEditMagicWand',
     width: 24,
     height: 24,
     attributes: undefined,

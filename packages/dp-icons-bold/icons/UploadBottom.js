@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadBottom',
+    name: 'upload-bottom',
+    key: 'UploadBottom',
     width: 24,
     height: 24,
     attributes: undefined,

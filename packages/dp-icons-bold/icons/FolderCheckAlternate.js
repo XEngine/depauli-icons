@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderCheckAlternate',
+    name: 'folder-check-alternate',
+    key: 'FolderCheckAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

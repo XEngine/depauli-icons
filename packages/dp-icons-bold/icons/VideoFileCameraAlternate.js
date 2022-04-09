@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileCameraAlternate',
+    name: 'video-file-camera-alternate',
+    key: 'VideoFileCameraAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

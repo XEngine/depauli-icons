@@ -1,5 +1,6 @@
 export default {
-    name: 'ChefGearPizza',
+    name: 'chef-gear-pizza',
+    key: 'ChefGearPizza',
     width: 24,
     height: 24,
     attributes: undefined,

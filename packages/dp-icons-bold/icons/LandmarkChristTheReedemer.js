@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkChristTheReedemer',
+    name: 'landmark-christ-the-reedemer',
+    key: 'LandmarkChristTheReedemer',
     width: 24,
     height: 24,
     attributes: undefined,

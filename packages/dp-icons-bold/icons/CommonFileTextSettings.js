@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextSettings',
+    name: 'common-file-text-settings',
+    key: 'CommonFileTextSettings',
     width: 24,
     height: 24,
     attributes: undefined,

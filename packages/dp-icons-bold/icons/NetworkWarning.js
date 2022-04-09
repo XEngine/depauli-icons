@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkWarning',
+    name: 'network-warning',
+    key: 'NetworkWarning',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardPhoneCall',
+    name: 'credit-card-phone-call',
+    key: 'CreditCardPhoneCall',
     width: 24,
     height: 24,
     attributes: undefined,

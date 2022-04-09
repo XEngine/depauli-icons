@@ -1,5 +1,6 @@
 export default {
-    name: 'ControlsCameraStop',
+    name: 'controls-camera-stop',
+    key: 'ControlsCameraStop',
     width: 24,
     height: 24,
     attributes: undefined,

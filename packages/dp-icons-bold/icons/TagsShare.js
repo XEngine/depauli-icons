@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsShare',
+    name: 'tags-share',
+    key: 'TagsShare',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AsianInteriorBoiler',
+    name: 'asian-interior-boiler',
+    key: 'AsianInteriorBoiler',
     width: 24,
     height: 24,
     attributes: undefined,

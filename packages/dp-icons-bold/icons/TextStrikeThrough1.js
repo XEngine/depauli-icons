@@ -1,5 +1,6 @@
 export default {
-    name: 'TextStrikeThrough1',
+    name: 'text-strike-through-1',
+    key: 'TextStrikeThrough1',
     width: 24,
     height: 24,
     attributes: undefined,

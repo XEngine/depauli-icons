@@ -1,5 +1,6 @@
 export default {
-    name: 'CashUserMessage',
+    name: 'cash-user-message',
+    key: 'CashUserMessage',
     width: 24,
     height: 24,
     attributes: undefined,

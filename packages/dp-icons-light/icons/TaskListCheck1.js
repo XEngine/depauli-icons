@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListCheck1',
+    name: 'task-list-check-1',
+    key: 'TaskListCheck1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

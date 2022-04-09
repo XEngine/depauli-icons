@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingCartAdd',
+    name: 'shopping-cart-add',
+    key: 'ShoppingCartAdd',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

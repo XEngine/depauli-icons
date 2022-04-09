@@ -1,5 +1,6 @@
 export default {
-    name: 'AstronomyComet',
+    name: 'astronomy-comet',
+    key: 'AstronomyComet',
     width: 24,
     height: 24,
     attributes: undefined,

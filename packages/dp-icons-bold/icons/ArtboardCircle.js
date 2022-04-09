@@ -1,5 +1,6 @@
 export default {
-    name: 'ArtboardCircle',
+    name: 'artboard-circle',
+    key: 'ArtboardCircle',
     width: 24,
     height: 24,
     attributes: undefined,

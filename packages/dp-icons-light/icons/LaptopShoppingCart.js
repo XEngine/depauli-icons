@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopShoppingCart',
+    name: 'laptop-shopping-cart',
+    key: 'LaptopShoppingCart',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

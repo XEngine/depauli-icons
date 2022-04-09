@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveTabAlternate',
+    name: 'remove-tab-alternate',
+    key: 'RemoveTabAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

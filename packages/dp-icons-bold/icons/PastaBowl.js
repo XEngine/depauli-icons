@@ -1,5 +1,6 @@
 export default {
-    name: 'PastaBowl',
+    name: 'pasta-bowl',
+    key: 'PastaBowl',
     width: 24,
     height: 24,
     attributes: undefined,

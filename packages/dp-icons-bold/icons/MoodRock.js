@@ -1,5 +1,6 @@
 export default {
-    name: 'MoodRock',
+    name: 'mood-rock',
+    key: 'MoodRock',
     width: 24,
     height: 24,
     attributes: undefined,

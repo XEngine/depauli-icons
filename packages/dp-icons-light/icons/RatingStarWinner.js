@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingStarWinner',
+    name: 'rating-star-winner',
+    key: 'RatingStarWinner',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

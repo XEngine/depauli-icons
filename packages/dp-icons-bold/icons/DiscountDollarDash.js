@@ -1,5 +1,6 @@
 export default {
-    name: 'DiscountDollarDash',
+    name: 'discount-dollar-dash',
+    key: 'DiscountDollarDash',
     width: 24,
     height: 24,
     attributes: undefined,

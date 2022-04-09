@@ -1,5 +1,6 @@
 export default {
-    name: 'DataTransferVertical',
+    name: 'data-transfer-vertical',
+    key: 'DataTransferVertical',
     width: 24,
     height: 24,
     attributes: undefined,

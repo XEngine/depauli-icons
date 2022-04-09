@@ -1,5 +1,6 @@
 export default {
-    name: 'InformationDeskQuestionHelp',
+    name: 'information-desk-question-help',
+    key: 'InformationDeskQuestionHelp',
     width: 24,
     height: 24,
     attributes: undefined,

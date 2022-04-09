@@ -1,5 +1,6 @@
 export default {
-    name: 'HeadphonesPlug',
+    name: 'headphones-plug',
+    key: 'HeadphonesPlug',
     width: 24,
     height: 24,
     attributes: undefined,

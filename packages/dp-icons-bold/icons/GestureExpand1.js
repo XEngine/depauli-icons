@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureExpand1',
+    name: 'gesture-expand-1',
+    key: 'GestureExpand1',
     width: 24,
     height: 24,
     attributes: undefined,

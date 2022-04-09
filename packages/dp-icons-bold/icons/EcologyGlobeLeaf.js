@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyGlobeLeaf',
+    name: 'ecology-globe-leaf',
+    key: 'EcologyGlobeLeaf',
     width: 24,
     height: 24,
     attributes: undefined,

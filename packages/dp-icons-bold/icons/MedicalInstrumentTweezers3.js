@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalInstrumentTweezers3',
+    name: 'medical-instrument-tweezers-3',
+    key: 'MedicalInstrumentTweezers3',
     width: 24,
     height: 24,
     attributes: undefined,

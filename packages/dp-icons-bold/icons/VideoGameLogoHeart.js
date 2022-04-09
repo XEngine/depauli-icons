@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoHeart',
+    name: 'video-game-logo-heart',
+    key: 'VideoGameLogoHeart',
     width: 24,
     height: 24,
     attributes: undefined,

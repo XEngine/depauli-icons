@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileDoubleAlternate',
+    name: 'common-file-double-alternate',
+    key: 'CommonFileDoubleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AgricultureMachineHarvesterStorage',
+    name: 'agriculture-machine-harvester-storage',
+    key: 'AgricultureMachineHarvesterStorage',
     width: 24,
     height: 24,
     attributes: undefined,

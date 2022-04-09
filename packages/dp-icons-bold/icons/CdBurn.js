@@ -1,5 +1,6 @@
 export default {
-    name: 'CdBurn',
+    name: 'cd-burn',
+    key: 'CdBurn',
     width: 24,
     height: 24,
     attributes: undefined,

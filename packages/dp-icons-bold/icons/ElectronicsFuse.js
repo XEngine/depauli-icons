@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsFuse',
+    name: 'electronics-fuse',
+    key: 'ElectronicsFuse',
     width: 24,
     height: 24,
     attributes: undefined,

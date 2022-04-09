@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterPitcher2',
+    name: 'water-pitcher-2',
+    key: 'WaterPitcher2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneSelfieMan',
+    name: 'phone-selfie-man',
+    key: 'PhoneSelfieMan',
     width: 24,
     height: 24,
     attributes: undefined,

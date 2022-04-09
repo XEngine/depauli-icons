@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinGas',
+    name: 'style-two-pin-gas',
+    key: 'StyleTwoPinGas',
     width: 24,
     height: 24,
     attributes: undefined,

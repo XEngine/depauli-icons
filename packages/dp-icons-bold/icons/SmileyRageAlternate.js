@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyRageAlternate',
+    name: 'smiley-rage-alternate',
+    key: 'SmileyRageAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

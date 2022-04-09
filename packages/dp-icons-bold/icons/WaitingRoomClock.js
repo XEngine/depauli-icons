@@ -1,5 +1,6 @@
 export default {
-    name: 'WaitingRoomClock',
+    name: 'waiting-room-clock',
+    key: 'WaitingRoomClock',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileOtf1',
+    name: 'design-file-otf-1',
+    key: 'DesignFileOtf1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

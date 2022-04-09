@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyIntestine',
+    name: 'medical-specialty-intestine',
+    key: 'MedicalSpecialtyIntestine',
     width: 24,
     height: 24,
     attributes: undefined,

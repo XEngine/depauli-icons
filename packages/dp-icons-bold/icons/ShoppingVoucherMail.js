@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingVoucherMail',
+    name: 'shopping-voucher-mail',
+    key: 'ShoppingVoucherMail',
     width: 24,
     height: 24,
     attributes: undefined,

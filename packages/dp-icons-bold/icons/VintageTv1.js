@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageTv1',
+    name: 'vintage-tv-1',
+    key: 'VintageTv1',
     width: 24,
     height: 24,
     attributes: undefined,

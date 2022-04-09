@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesCheck',
+    name: 'notes-check',
+    key: 'NotesCheck',
     width: 24,
     height: 24,
     attributes: undefined,

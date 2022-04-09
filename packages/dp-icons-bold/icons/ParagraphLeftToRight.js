@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphLeftToRight',
+    name: 'paragraph-left-to-right',
+    key: 'ParagraphLeftToRight',
     width: 24,
     height: 24,
     attributes: undefined,

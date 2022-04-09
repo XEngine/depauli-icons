@@ -1,5 +1,6 @@
 export default {
-    name: 'SecurityOfficerPassport',
+    name: 'security-officer-passport',
+    key: 'SecurityOfficerPassport',
     width: 24,
     height: 24,
     attributes: undefined,

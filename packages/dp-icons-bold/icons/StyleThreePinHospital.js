@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinHospital',
+    name: 'style-three-pin-hospital',
+    key: 'StyleThreePinHospital',
     width: 24,
     height: 24,
     attributes: undefined,

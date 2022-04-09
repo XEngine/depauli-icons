@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolLocker',
+    name: 'school-locker',
+    key: 'SchoolLocker',
     width: 24,
     height: 24,
     attributes: undefined,

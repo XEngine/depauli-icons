@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentFlv',
+    name: 'vide-document-flv',
+    key: 'VideDocumentFlv',
     width: 24,
     height: 24,
     attributes: undefined,

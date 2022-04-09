@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHouseTimerAlternate',
+    name: 'smart-house-timer-alternate',
+    key: 'SmartHouseTimerAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneScroll',
+    name: 'phone-scroll',
+    key: 'PhoneScroll',
     width: 24,
     height: 24,
     attributes: undefined,

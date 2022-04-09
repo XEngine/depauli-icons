@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareSleepAlternate',
+    name: 'smart-watch-square-sleep-alternate',
+    key: 'SmartWatchSquareSleepAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

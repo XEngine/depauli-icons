@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPlaneFly',
+    name: 'style-three-pin-plane-fly',
+    key: 'StyleThreePinPlaneFly',
     width: 24,
     height: 24,
     attributes: undefined,

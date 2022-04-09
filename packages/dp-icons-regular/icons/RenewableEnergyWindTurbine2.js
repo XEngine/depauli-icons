@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergyWindTurbine2',
+    name: 'renewable-energy-wind-turbine-2',
+    key: 'RenewableEnergyWindTurbine2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

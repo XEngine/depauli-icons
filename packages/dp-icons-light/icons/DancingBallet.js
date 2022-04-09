@@ -1,5 +1,6 @@
 export default {
-    name: 'DancingBallet',
+    name: 'dancing-ballet',
+    key: 'DancingBallet',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyPeercoin',
+    name: 'crypto-currency-peercoin',
+    key: 'CryptoCurrencyPeercoin',
     width: 24,
     height: 24,
     attributes: undefined,

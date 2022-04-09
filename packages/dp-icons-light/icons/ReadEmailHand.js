@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadEmailHand',
+    name: 'read-email-hand',
+    key: 'ReadEmailHand',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CasinoPlayerDice',
+    name: 'casino-player-dice',
+    key: 'CasinoPlayerDice',
     width: 24,
     height: 24,
     attributes: undefined,

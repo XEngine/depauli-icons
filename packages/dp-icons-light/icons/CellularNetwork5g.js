@@ -1,5 +1,6 @@
 export default {
-    name: 'CellularNetwork5g',
+    name: 'cellular-network-5g',
+    key: 'CellularNetwork5g',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

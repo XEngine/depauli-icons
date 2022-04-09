@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentSaxophonePlay',
+    name: 'instrument-saxophone-play',
+    key: 'InstrumentSaxophonePlay',
     width: 24,
     height: 24,
     attributes: undefined,

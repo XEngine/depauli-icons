@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinInformation',
+    name: 'style-one-pin-information',
+    key: 'StyleOnePinInformation',
     width: 24,
     height: 24,
     attributes: undefined,

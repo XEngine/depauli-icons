@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinXRemove',
+    name: 'style-three-pin-x-remove',
+    key: 'StyleThreePinXRemove',
     width: 24,
     height: 24,
     attributes: undefined,

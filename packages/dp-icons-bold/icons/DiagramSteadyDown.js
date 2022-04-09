@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramSteadyDown',
+    name: 'diagram-steady-down',
+    key: 'DiagramSteadyDown',
     width: 24,
     height: 24,
     attributes: undefined,

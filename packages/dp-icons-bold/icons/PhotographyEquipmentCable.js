@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotographyEquipmentCable',
+    name: 'photography-equipment-cable',
+    key: 'PhotographyEquipmentCable',
     width: 24,
     height: 24,
     attributes: undefined,

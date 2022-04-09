@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationUp1',
+    name: 'navigation-up-1',
+    key: 'NavigationUp1',
     width: 24,
     height: 24,
     attributes: undefined,

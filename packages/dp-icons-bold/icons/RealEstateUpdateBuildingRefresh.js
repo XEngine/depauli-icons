@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateUpdateBuildingRefresh',
+    name: 'real-estate-update-building-refresh',
+    key: 'RealEstateUpdateBuildingRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

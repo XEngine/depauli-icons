@@ -1,5 +1,6 @@
 export default {
-    name: 'MoveToTop',
+    name: 'move-to-top',
+    key: 'MoveToTop',
     width: 24,
     height: 24,
     attributes: undefined,

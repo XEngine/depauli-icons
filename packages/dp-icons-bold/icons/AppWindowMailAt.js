@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowMailAt',
+    name: 'app-window-mail-at',
+    key: 'AppWindowMailAt',
     width: 24,
     height: 24,
     attributes: undefined,

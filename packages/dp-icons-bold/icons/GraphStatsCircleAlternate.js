@@ -1,5 +1,6 @@
 export default {
-    name: 'GraphStatsCircleAlternate',
+    name: 'graph-stats-circle-alternate',
+    key: 'GraphStatsCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

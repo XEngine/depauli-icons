@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationUpCircleAlternate',
+    name: 'navigation-up-circle-alternate',
+    key: 'NavigationUpCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

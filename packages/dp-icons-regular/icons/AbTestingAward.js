@@ -1,5 +1,6 @@
 export default {
-    name: 'AbTestingAward',
+    name: 'ab-testing-award',
+    key: 'AbTestingAward',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

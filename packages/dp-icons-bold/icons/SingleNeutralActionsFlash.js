@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsFlash',
+    name: 'single-neutral-actions-flash',
+    key: 'SingleNeutralActionsFlash',
     width: 24,
     height: 24,
     attributes: undefined,

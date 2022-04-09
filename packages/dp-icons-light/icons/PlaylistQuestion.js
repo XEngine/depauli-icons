@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistQuestion',
+    name: 'playlist-question',
+    key: 'PlaylistQuestion',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

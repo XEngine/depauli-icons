@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreMoonNightAlternate',
+    name: 'music-genre-moon-night-alternate',
+    key: 'MusicGenreMoonNightAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

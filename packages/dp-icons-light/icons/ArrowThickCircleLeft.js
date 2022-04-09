@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickCircleLeft',
+    name: 'arrow-thick-circle-left',
+    key: 'ArrowThickCircleLeft',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

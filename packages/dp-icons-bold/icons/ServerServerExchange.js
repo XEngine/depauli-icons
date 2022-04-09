@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerServerExchange',
+    name: 'server-server-exchange',
+    key: 'ServerServerExchange',
     width: 24,
     height: 24,
     attributes: undefined,

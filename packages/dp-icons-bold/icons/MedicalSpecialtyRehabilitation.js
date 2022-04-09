@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyRehabilitation',
+    name: 'medical-specialty-rehabilitation',
+    key: 'MedicalSpecialtyRehabilitation',
     width: 24,
     height: 24,
     attributes: undefined,

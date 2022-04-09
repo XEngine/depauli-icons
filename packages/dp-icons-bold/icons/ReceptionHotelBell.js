@@ -1,5 +1,6 @@
 export default {
-    name: 'ReceptionHotelBell',
+    name: 'reception-hotel-bell',
+    key: 'ReceptionHotelBell',
     width: 24,
     height: 24,
     attributes: undefined,

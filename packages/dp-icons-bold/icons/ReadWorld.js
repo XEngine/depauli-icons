@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadWorld',
+    name: 'read-world',
+    key: 'ReadWorld',
     width: 24,
     height: 24,
     attributes: undefined,

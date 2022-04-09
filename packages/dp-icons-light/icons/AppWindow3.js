@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindow3',
+    name: 'app-window-3',
+    key: 'AppWindow3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

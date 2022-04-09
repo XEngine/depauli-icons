@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralIdea',
+    name: 'single-neutral-idea',
+    key: 'SingleNeutralIdea',
     width: 24,
     height: 24,
     attributes: undefined,

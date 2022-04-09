@@ -1,5 +1,6 @@
 export default {
-    name: 'Folder1Alternate',
+    name: 'folder-1-alternate',
+    key: 'Folder1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

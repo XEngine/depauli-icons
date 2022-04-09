@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraHolder',
+    name: 'camera-holder',
+    key: 'CameraHolder',
     width: 24,
     height: 24,
     attributes: undefined,

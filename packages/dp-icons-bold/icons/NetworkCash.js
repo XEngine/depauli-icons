@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkCash',
+    name: 'network-cash',
+    key: 'NetworkCash',
     width: 24,
     height: 24,
     attributes: undefined,

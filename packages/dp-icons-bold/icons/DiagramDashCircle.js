@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramDashCircle',
+    name: 'diagram-dash-circle',
+    key: 'DiagramDashCircle',
     width: 24,
     height: 24,
     attributes: undefined,

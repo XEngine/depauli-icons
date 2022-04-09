@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartwatchShoppingCart',
+    name: 'smartwatch-shopping-cart',
+    key: 'SmartwatchShoppingCart',
     width: 24,
     height: 24,
     attributes: undefined,

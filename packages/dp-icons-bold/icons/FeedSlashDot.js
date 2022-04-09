@@ -1,5 +1,6 @@
 export default {
-    name: 'FeedSlashDot',
+    name: 'feed-slash-dot',
+    key: 'FeedSlashDot',
     width: 24,
     height: 24,
     attributes: undefined,

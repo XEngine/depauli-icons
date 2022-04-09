@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveCircleBold',
+    name: 'remove-circle-bold',
+    key: 'RemoveCircleBold',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudCheck',
+    name: 'cloud-check',
+    key: 'CloudCheck',
     width: 24,
     height: 24,
     attributes: undefined,

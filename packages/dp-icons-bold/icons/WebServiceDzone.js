@@ -1,5 +1,6 @@
 export default {
-    name: 'WebServiceDzone',
+    name: 'web-service-dzone',
+    key: 'WebServiceDzone',
     width: 24,
     height: 24,
     attributes: undefined,

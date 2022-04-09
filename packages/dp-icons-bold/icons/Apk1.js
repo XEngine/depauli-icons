@@ -1,5 +1,6 @@
 export default {
-    name: 'Apk1',
+    name: 'apk-1',
+    key: 'Apk1',
     width: 24,
     height: 24,
     attributes: undefined,

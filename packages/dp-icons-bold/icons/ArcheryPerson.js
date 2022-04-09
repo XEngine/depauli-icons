@@ -1,5 +1,6 @@
 export default {
-    name: 'ArcheryPerson',
+    name: 'archery-person',
+    key: 'ArcheryPerson',
     width: 24,
     height: 24,
     attributes: undefined,

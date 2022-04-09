@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsQuestion',
+    name: 'single-neutral-actions-question',
+    key: 'SingleNeutralActionsQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

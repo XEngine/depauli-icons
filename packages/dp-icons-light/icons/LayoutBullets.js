@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutBullets',
+    name: 'layout-bullets',
+    key: 'LayoutBullets',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

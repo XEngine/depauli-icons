@@ -1,5 +1,6 @@
 export default {
-    name: 'DaySunset1',
+    name: 'day-sunset-1',
+    key: 'DaySunset1',
     width: 24,
     height: 24,
     attributes: undefined,

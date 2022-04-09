@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryEyeMythology',
+    name: 'history-eye-mythology',
+    key: 'HistoryEyeMythology',
     width: 24,
     height: 24,
     attributes: undefined,

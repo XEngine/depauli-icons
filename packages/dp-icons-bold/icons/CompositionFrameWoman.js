@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionFrameWoman',
+    name: 'composition-frame-woman',
+    key: 'CompositionFrameWoman',
     width: 24,
     height: 24,
     attributes: undefined,

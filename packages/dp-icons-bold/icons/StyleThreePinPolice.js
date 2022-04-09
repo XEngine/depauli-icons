@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPolice',
+    name: 'style-three-pin-police',
+    key: 'StyleThreePinPolice',
     width: 24,
     height: 24,
     attributes: undefined,

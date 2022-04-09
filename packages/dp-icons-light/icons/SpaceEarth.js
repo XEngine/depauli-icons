@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaceEarth',
+    name: 'space-earth',
+    key: 'SpaceEarth',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

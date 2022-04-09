@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceFictionWeapon',
+    name: 'science-fiction-weapon',
+    key: 'ScienceFictionWeapon',
     width: 24,
     height: 24,
     attributes: undefined,

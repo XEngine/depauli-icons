@@ -1,5 +1,6 @@
 export default {
-    name: 'SimCard1',
+    name: 'sim-card-1',
+    key: 'SimCard1',
     width: 24,
     height: 24,
     attributes: undefined,

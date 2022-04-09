@@ -1,5 +1,6 @@
 export default {
-    name: 'PetTrackingDogSearch',
+    name: 'pet-tracking-dog-search',
+    key: 'PetTrackingDogSearch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VoiceIdApproved',
+    name: 'voice-id-approved',
+    key: 'VoiceIdApproved',
     width: 24,
     height: 24,
     attributes: undefined,

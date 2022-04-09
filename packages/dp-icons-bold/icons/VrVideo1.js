@@ -1,5 +1,6 @@
 export default {
-    name: 'VrVideo1',
+    name: 'vr-video-1',
+    key: 'VrVideo1',
     width: 24,
     height: 24,
     attributes: undefined,

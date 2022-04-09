@@ -1,5 +1,6 @@
 export default {
-    name: 'Candle',
+    name: 'candle',
+    key: 'Candle',
     width: 24,
     height: 24,
     attributes: undefined,

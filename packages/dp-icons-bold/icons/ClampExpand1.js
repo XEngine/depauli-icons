@@ -1,5 +1,6 @@
 export default {
-    name: 'ClampExpand1',
+    name: 'clamp-expand-1',
+    key: 'ClampExpand1',
     width: 24,
     height: 24,
     attributes: undefined,

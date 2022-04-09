@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowDown1',
+    name: 'arrow-down-1',
+    key: 'ArrowDown1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

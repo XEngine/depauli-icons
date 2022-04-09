@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowButtonDown2',
+    name: 'arrow-button-down-2',
+    key: 'ArrowButtonDown2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

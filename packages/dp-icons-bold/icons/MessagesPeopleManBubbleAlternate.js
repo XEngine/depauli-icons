@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesPeopleManBubbleAlternate',
+    name: 'messages-people-man-bubble-alternate',
+    key: 'MessagesPeopleManBubbleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

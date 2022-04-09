@@ -1,5 +1,6 @@
 export default {
-    name: 'Expand5',
+    name: 'expand-5',
+    key: 'Expand5',
     width: 24,
     height: 24,
     attributes: undefined,

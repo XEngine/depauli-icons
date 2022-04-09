@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyLeaf',
+    name: 'ecology-leaf',
+    key: 'EcologyLeaf',
     width: 24,
     height: 24,
     attributes: undefined,

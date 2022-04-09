@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleRemoveAlternate',
+    name: 'messages-bubble-remove-alternate',
+    key: 'MessagesBubbleRemoveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

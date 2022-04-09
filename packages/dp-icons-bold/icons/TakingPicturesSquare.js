@@ -1,5 +1,6 @@
 export default {
-    name: 'TakingPicturesSquare',
+    name: 'taking-pictures-square',
+    key: 'TakingPicturesSquare',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CellBorderFull',
+    name: 'cell-border-full',
+    key: 'CellBorderFull',
     width: 24,
     height: 24,
     attributes: undefined,

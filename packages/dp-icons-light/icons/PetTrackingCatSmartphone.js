@@ -1,5 +1,6 @@
 export default {
-    name: 'PetTrackingCatSmartphone',
+    name: 'pet-tracking-cat-smartphone',
+    key: 'PetTrackingCatSmartphone',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

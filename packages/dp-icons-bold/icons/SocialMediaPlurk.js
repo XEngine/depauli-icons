@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaPlurk',
+    name: 'social-media-plurk',
+    key: 'SocialMediaPlurk',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EthernetPort',
+    name: 'ethernet-port',
+    key: 'EthernetPort',
     width: 24,
     height: 24,
     attributes: undefined,

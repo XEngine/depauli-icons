@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergyWaterPower',
+    name: 'renewable-energy-water-power',
+    key: 'RenewableEnergyWaterPower',
     width: 24,
     height: 24,
     attributes: undefined,

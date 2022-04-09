@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudDataTransfer',
+    name: 'cloud-data-transfer',
+    key: 'CloudDataTransfer',
     width: 24,
     height: 24,
     attributes: undefined,

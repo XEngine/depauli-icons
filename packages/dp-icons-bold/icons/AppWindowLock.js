@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowLock',
+    name: 'app-window-lock',
+    key: 'AppWindowLock',
     width: 24,
     height: 24,
     attributes: undefined,

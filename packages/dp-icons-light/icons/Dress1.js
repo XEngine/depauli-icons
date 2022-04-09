@@ -1,5 +1,6 @@
 export default {
-    name: 'Dress1',
+    name: 'dress-1',
+    key: 'Dress1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

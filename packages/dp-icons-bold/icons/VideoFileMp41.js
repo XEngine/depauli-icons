@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileMp41',
+    name: 'video-file-mp4-1',
+    key: 'VideoFileMp41',
     width: 24,
     height: 24,
     attributes: undefined,

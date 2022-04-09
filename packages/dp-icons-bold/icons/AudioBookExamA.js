@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioBookExamA',
+    name: 'audio-book-exam-a',
+    key: 'AudioBookExamA',
     width: 24,
     height: 24,
     attributes: undefined,

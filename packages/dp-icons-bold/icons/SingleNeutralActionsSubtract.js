@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsSubtract',
+    name: 'single-neutral-actions-subtract',
+    key: 'SingleNeutralActionsSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

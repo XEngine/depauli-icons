@@ -1,5 +1,6 @@
 export default {
-    name: 'CashPaymentBill3',
+    name: 'cash-payment-bill-3',
+    key: 'CashPaymentBill3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

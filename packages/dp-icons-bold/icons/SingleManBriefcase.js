@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManBriefcase',
+    name: 'single-man-briefcase',
+    key: 'SingleManBriefcase',
     width: 24,
     height: 24,
     attributes: undefined,

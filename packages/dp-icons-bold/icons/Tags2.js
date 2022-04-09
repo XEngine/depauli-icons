@@ -1,5 +1,6 @@
 export default {
-    name: 'Tags2',
+    name: 'tags-2',
+    key: 'Tags2',
     width: 24,
     height: 24,
     attributes: undefined,

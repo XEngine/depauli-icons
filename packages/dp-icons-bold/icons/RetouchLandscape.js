@@ -1,5 +1,6 @@
 export default {
-    name: 'RetouchLandscape',
+    name: 'retouch-landscape',
+    key: 'RetouchLandscape',
     width: 24,
     height: 24,
     attributes: undefined,

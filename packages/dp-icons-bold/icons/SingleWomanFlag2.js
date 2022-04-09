@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanFlag2',
+    name: 'single-woman-flag-2',
+    key: 'SingleWomanFlag2',
     width: 24,
     height: 24,
     attributes: undefined,

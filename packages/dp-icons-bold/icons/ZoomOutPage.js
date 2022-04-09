@@ -1,5 +1,6 @@
 export default {
-    name: 'ZoomOutPage',
+    name: 'zoom-out-page',
+    key: 'ZoomOutPage',
     width: 24,
     height: 24,
     attributes: undefined,

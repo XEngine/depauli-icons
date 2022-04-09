@@ -1,5 +1,6 @@
 export default {
-    name: 'FileExe',
+    name: 'file-exe',
+    key: 'FileExe',
     width: 24,
     height: 24,
     attributes: undefined,

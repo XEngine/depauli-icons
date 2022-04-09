@@ -1,5 +1,6 @@
 export default {
-    name: 'NonGmoInjection',
+    name: 'non-gmo-injection',
+    key: 'NonGmoInjection',
     width: 24,
     height: 24,
     attributes: undefined,

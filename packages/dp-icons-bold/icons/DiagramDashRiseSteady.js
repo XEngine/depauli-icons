@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramDashRiseSteady',
+    name: 'diagram-dash-rise-steady',
+    key: 'DiagramDashRiseSteady',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TreasureChest',
+    name: 'treasure-chest',
+    key: 'TreasureChest',
     width: 24,
     height: 24,
     attributes: undefined,

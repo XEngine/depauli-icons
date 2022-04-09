@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingInvoiceHand',
+    name: 'accounting-invoice-hand',
+    key: 'AccountingInvoiceHand',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DentistryToothBrush',
+    name: 'dentistry-tooth-brush',
+    key: 'DentistryToothBrush',
     width: 24,
     height: 24,
     attributes: undefined,

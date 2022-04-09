@@ -1,5 +1,6 @@
 export default {
-    name: 'Ticket1',
+    name: 'ticket-1',
+    key: 'Ticket1',
     width: 24,
     height: 24,
     attributes: undefined,

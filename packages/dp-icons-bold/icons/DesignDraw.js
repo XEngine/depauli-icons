@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDraw',
+    name: 'design-draw',
+    key: 'DesignDraw',
     width: 24,
     height: 24,
     attributes: undefined,

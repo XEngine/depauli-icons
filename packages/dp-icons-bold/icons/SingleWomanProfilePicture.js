@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanProfilePicture',
+    name: 'single-woman-profile-picture',
+    key: 'SingleWomanProfilePicture',
     width: 24,
     height: 24,
     attributes: undefined,

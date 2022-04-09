@@ -1,5 +1,6 @@
 export default {
-    name: 'GridArtboard',
+    name: 'grid-artboard',
+    key: 'GridArtboard',
     width: 24,
     height: 24,
     attributes: undefined,

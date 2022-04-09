@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadSquare3',
+    name: 'upload-square-3',
+    key: 'UploadSquare3',
     width: 24,
     height: 24,
     attributes: undefined,

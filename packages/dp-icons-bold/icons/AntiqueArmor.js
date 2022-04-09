@@ -1,5 +1,6 @@
 export default {
-    name: 'AntiqueArmor',
+    name: 'antique-armor',
+    key: 'AntiqueArmor',
     width: 24,
     height: 24,
     attributes: undefined,

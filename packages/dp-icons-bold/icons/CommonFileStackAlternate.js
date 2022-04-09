@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileStackAlternate',
+    name: 'common-file-stack-alternate',
+    key: 'CommonFileStackAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

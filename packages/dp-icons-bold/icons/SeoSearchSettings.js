@@ -1,5 +1,6 @@
 export default {
-    name: 'SeoSearchSettings',
+    name: 'seo-search-settings',
+    key: 'SeoSearchSettings',
     width: 24,
     height: 24,
     attributes: undefined,

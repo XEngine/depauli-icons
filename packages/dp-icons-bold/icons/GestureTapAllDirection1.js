@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTapAllDirection1',
+    name: 'gesture-tap-all-direction-1',
+    key: 'GestureTapAllDirection1',
     width: 24,
     height: 24,
     attributes: undefined,

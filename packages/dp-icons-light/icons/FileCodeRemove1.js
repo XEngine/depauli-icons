@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeRemove1',
+    name: 'file-code-remove-1',
+    key: 'FileCodeRemove1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

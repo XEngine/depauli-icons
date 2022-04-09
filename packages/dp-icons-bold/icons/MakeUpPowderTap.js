@@ -1,5 +1,6 @@
 export default {
-    name: 'MakeUpPowderTap',
+    name: 'make-up-powder-tap',
+    key: 'MakeUpPowderTap',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHousePhoneLock1',
+    name: 'smart-house-phone-lock-1',
+    key: 'SmartHousePhoneLock1',
     width: 24,
     height: 24,
     attributes: undefined,

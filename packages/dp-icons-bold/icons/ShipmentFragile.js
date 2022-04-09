@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentFragile',
+    name: 'shipment-fragile',
+    key: 'ShipmentFragile',
     width: 24,
     height: 24,
     attributes: undefined,

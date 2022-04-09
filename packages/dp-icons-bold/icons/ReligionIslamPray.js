@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionIslamPray',
+    name: 'religion-islam-pray',
+    key: 'ReligionIslamPray',
     width: 24,
     height: 24,
     attributes: undefined,

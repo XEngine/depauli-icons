@@ -1,5 +1,6 @@
 export default {
-    name: 'ResizeExpandArrow',
+    name: 'resize-expand-arrow',
+    key: 'ResizeExpandArrow',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

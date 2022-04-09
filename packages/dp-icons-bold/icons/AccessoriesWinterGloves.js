@@ -1,5 +1,6 @@
 export default {
-    name: 'AccessoriesWinterGloves',
+    name: 'accessories-winter-gloves',
+    key: 'AccessoriesWinterGloves',
     width: 24,
     height: 24,
     attributes: undefined,

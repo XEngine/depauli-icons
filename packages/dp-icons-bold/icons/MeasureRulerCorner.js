@@ -1,5 +1,6 @@
 export default {
-    name: 'MeasureRulerCorner',
+    name: 'measure-ruler-corner',
+    key: 'MeasureRulerCorner',
     width: 24,
     height: 24,
     attributes: undefined,

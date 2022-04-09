@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarSchool',
+    name: 'calendar-school',
+    key: 'CalendarSchool',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

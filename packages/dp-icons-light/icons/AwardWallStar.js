@@ -1,5 +1,6 @@
 export default {
-    name: 'AwardWallStar',
+    name: 'award-wall-star',
+    key: 'AwardWallStar',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

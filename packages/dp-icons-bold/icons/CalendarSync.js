@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarSync',
+    name: 'calendar-sync',
+    key: 'CalendarSync',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PoolBall',
+    name: 'pool-ball',
+    key: 'PoolBall',
     width: 24,
     height: 24,
     attributes: undefined,

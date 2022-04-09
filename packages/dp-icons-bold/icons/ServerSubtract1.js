@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerSubtract1',
+    name: 'server-subtract-1',
+    key: 'ServerSubtract1',
     width: 24,
     height: 24,
     attributes: undefined,

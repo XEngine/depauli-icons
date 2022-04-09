@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalNanobotSyringe',
+    name: 'medical-nanobot-syringe',
+    key: 'MedicalNanobotSyringe',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardShield',
+    name: 'credit-card-shield',
+    key: 'CreditCardShield',
     width: 24,
     height: 24,
     attributes: undefined,

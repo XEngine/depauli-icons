@@ -1,5 +1,6 @@
 export default {
-    name: 'PunishmentPrisonerBall',
+    name: 'punishment-prisoner-ball',
+    key: 'PunishmentPrisonerBall',
     width: 24,
     height: 24,
     attributes: undefined,

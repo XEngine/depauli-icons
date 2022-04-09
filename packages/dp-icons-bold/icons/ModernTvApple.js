@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernTvApple',
+    name: 'modern-tv-apple',
+    key: 'ModernTvApple',
     width: 24,
     height: 24,
     attributes: undefined,

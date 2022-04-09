@@ -1,5 +1,6 @@
 export default {
-    name: 'UiColumns',
+    name: 'ui-columns',
+    key: 'UiColumns',
     width: 24,
     height: 24,
     attributes: undefined,

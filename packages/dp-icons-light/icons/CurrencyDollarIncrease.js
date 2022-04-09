@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyDollarIncrease',
+    name: 'currency-dollar-increase',
+    key: 'CurrencyDollarIncrease',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

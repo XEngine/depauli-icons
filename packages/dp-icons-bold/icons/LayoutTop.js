@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutTop',
+    name: 'layout-top',
+    key: 'LayoutTop',
     width: 24,
     height: 24,
     attributes: undefined,

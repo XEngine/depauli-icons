@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsBirdHouse1',
+    name: 'outdoors-bird-house-1',
+    key: 'OutdoorsBirdHouse1',
     width: 24,
     height: 24,
     attributes: undefined,

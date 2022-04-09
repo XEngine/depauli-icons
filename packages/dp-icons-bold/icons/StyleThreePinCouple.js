@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCouple',
+    name: 'style-three-pin-couple',
+    key: 'StyleThreePinCouple',
     width: 24,
     height: 24,
     attributes: undefined,

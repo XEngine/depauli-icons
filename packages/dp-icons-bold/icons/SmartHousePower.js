@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHousePower',
+    name: 'smart-house-power',
+    key: 'SmartHousePower',
     width: 24,
     height: 24,
     attributes: undefined,

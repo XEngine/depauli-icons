@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolQuill',
+    name: 'design-tool-quill',
+    key: 'DesignToolQuill',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

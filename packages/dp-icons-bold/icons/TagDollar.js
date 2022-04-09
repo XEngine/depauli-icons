@@ -1,5 +1,6 @@
 export default {
-    name: 'TagDollar',
+    name: 'tag-dollar',
+    key: 'TagDollar',
     width: 24,
     height: 24,
     attributes: undefined,

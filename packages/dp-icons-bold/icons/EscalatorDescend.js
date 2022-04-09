@@ -1,5 +1,6 @@
 export default {
-    name: 'EscalatorDescend',
+    name: 'escalator-descend',
+    key: 'EscalatorDescend',
     width: 24,
     height: 24,
     attributes: undefined,

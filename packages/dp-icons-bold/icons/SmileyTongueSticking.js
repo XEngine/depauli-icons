@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyTongueSticking',
+    name: 'smiley-tongue-sticking',
+    key: 'SmileyTongueSticking',
     width: 24,
     height: 24,
     attributes: undefined,

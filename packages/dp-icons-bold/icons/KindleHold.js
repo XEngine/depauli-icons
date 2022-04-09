@@ -1,5 +1,6 @@
 export default {
-    name: 'KindleHold',
+    name: 'kindle-hold',
+    key: 'KindleHold',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardOnlinePayment',
+    name: 'credit-card-online-payment',
+    key: 'CreditCardOnlinePayment',
     width: 24,
     height: 24,
     attributes: undefined,

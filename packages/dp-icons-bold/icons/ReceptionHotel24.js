@@ -1,5 +1,6 @@
 export default {
-    name: 'ReceptionHotel24',
+    name: 'reception-hotel-24',
+    key: 'ReceptionHotel24',
     width: 24,
     height: 24,
     attributes: undefined,

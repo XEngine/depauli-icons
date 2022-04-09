@@ -1,5 +1,6 @@
 export default {
-    name: 'AstrologyLeo',
+    name: 'astrology-leo',
+    key: 'AstrologyLeo',
     width: 24,
     height: 24,
     attributes: undefined,

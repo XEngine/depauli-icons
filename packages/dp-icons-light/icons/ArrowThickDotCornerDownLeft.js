@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickDotCornerDownLeft',
+    name: 'arrow-thick-dot-corner-down-left',
+    key: 'ArrowThickDotCornerDownLeft',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

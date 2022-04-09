@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsHome',
+    name: 'single-woman-actions-home',
+    key: 'SingleWomanActionsHome',
     width: 24,
     height: 24,
     attributes: undefined,

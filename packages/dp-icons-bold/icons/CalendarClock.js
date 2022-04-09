@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarClock',
+    name: 'calendar-clock',
+    key: 'CalendarClock',
     width: 24,
     height: 24,
     attributes: undefined,

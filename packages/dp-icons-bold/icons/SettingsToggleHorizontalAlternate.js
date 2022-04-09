@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsToggleHorizontalAlternate',
+    name: 'settings-toggle-horizontal-alternate',
+    key: 'SettingsToggleHorizontalAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

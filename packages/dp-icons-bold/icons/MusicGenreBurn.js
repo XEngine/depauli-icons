@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreBurn',
+    name: 'music-genre-burn',
+    key: 'MusicGenreBurn',
     width: 24,
     height: 24,
     attributes: undefined,

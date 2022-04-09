@@ -1,5 +1,6 @@
 export default {
-    name: 'ProjectBuildingShopping',
+    name: 'project-building-shopping',
+    key: 'ProjectBuildingShopping',
     width: 24,
     height: 24,
     attributes: undefined,

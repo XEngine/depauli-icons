@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentPrevious',
+    name: 'shipment-previous',
+    key: 'ShipmentPrevious',
     width: 24,
     height: 24,
     attributes: undefined,

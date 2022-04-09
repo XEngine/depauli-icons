@@ -1,5 +1,6 @@
 export default {
-    name: 'BaggageCart2',
+    name: 'baggage-cart-2',
+    key: 'BaggageCart2',
     width: 24,
     height: 24,
     attributes: undefined,

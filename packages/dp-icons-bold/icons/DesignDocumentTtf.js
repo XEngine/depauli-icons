@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDocumentTtf',
+    name: 'design-document-ttf',
+    key: 'DesignDocumentTtf',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PerformanceTabletIncrease',
+    name: 'performance-tablet-increase',
+    key: 'PerformanceTabletIncrease',
     width: 24,
     height: 24,
     attributes: undefined,

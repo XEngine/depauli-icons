@@ -1,5 +1,6 @@
 export default {
-    name: 'Skateboard',
+    name: 'skateboard',
+    key: 'Skateboard',
     width: 24,
     height: 24,
     attributes: undefined,

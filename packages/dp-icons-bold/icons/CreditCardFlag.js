@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardFlag',
+    name: 'credit-card-flag',
+    key: 'CreditCardFlag',
     width: 24,
     height: 24,
     attributes: undefined,

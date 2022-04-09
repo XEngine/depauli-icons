@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardCheck',
+    name: 'sd-card-check',
+    key: 'SdCardCheck',
     width: 24,
     height: 24,
     attributes: undefined,

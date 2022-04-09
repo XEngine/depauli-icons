@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignObstruction1Alternate',
+    name: 'road-sign-obstruction-1-alternate',
+    key: 'RoadSignObstruction1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

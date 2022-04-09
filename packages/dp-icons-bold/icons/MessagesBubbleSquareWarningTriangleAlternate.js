@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareWarningTriangleAlternate',
+    name: 'messages-bubble-square-warning-triangle-alternate',
+    key: 'MessagesBubbleSquareWarningTriangleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

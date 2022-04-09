@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherRainDrops',
+    name: 'weather-rain-drops',
+    key: 'WeatherRainDrops',
     width: 24,
     height: 24,
     attributes: undefined,

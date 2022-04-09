@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionPlay',
+    name: 'phone-action-play',
+    key: 'PhoneActionPlay',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinTheater',
+    name: 'style-three-pin-theater',
+    key: 'StyleThreePinTheater',
     width: 24,
     height: 24,
     attributes: undefined,

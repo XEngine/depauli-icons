@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileHome',
+    name: 'data-file-home',
+    key: 'DataFileHome',
     width: 24,
     height: 24,
     attributes: undefined,

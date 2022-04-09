@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsBlock',
+    name: 'single-man-actions-block',
+    key: 'SingleManActionsBlock',
     width: 24,
     height: 24,
     attributes: undefined,

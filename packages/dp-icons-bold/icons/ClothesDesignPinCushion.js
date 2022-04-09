@@ -1,5 +1,6 @@
 export default {
-    name: 'ClothesDesignPinCushion',
+    name: 'clothes-design-pin-cushion',
+    key: 'ClothesDesignPinCushion',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GamingTrophy10',
+    name: 'gaming-trophy-10',
+    key: 'GamingTrophy10',
     width: 24,
     height: 24,
     attributes: undefined,

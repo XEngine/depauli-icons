@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapeCubeAlternate',
+    name: 'shape-cube-alternate',
+    key: 'ShapeCubeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

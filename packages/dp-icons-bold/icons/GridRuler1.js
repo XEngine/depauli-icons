@@ -1,5 +1,6 @@
 export default {
-    name: 'GridRuler1',
+    name: 'grid-ruler-1',
+    key: 'GridRuler1',
     width: 24,
     height: 24,
     attributes: undefined,

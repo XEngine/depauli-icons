@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickRight2',
+    name: 'arrow-thick-right-2',
+    key: 'ArrowThickRight2',
     width: 24,
     height: 24,
     attributes: undefined,

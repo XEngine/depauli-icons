@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileEdit',
+    name: 'time-clock-file-edit',
+    key: 'TimeClockFileEdit',
     width: 24,
     height: 24,
     attributes: undefined,

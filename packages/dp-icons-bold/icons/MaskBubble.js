@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskBubble',
+    name: 'mask-bubble',
+    key: 'MaskBubble',
     width: 24,
     height: 24,
     attributes: undefined,

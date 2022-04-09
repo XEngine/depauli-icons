@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBoatSkating',
+    name: 'style-three-pin-boat-skating',
+    key: 'StyleThreePinBoatSkating',
     width: 24,
     height: 24,
     attributes: undefined,

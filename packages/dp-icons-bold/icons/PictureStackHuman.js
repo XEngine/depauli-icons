@@ -1,5 +1,6 @@
 export default {
-    name: 'PictureStackHuman',
+    name: 'picture-stack-human',
+    key: 'PictureStackHuman',
     width: 24,
     height: 24,
     attributes: undefined,

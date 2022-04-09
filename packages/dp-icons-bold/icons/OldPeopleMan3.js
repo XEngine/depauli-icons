@@ -1,5 +1,6 @@
 export default {
-    name: 'OldPeopleMan3',
+    name: 'old-people-man-3',
+    key: 'OldPeopleMan3',
     width: 24,
     height: 24,
     attributes: undefined,

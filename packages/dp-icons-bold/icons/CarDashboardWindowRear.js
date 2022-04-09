@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardWindowRear',
+    name: 'car-dashboard-window-rear',
+    key: 'CarDashboardWindowRear',
     width: 24,
     height: 24,
     attributes: undefined,

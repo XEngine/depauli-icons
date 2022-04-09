@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinInformation',
+    name: 'style-two-pin-information',
+    key: 'StyleTwoPinInformation',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

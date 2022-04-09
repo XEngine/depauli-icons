@@ -1,5 +1,6 @@
 export default {
-    name: 'ReptileCrocodileWater',
+    name: 'reptile-crocodile-water',
+    key: 'ReptileCrocodileWater',
     width: 24,
     height: 24,
     attributes: undefined,

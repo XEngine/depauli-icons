@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextShield',
+    name: 'common-file-text-shield',
+    key: 'CommonFileTextShield',
     width: 24,
     height: 24,
     attributes: undefined,

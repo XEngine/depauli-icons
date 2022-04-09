@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiAdd',
+    name: 'wifi-add',
+    key: 'WifiAdd',
     width: 24,
     height: 24,
     attributes: undefined,

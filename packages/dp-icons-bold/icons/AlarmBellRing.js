@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmBellRing',
+    name: 'alarm-bell-ring',
+    key: 'AlarmBellRing',
     width: 24,
     height: 24,
     attributes: undefined,

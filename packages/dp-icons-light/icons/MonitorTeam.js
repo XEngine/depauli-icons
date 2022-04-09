@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorTeam',
+    name: 'monitor-team',
+    key: 'MonitorTeam',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

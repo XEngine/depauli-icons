@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureThermometerMedium',
+    name: 'temperature-thermometer-medium',
+    key: 'TemperatureThermometerMedium',
     width: 24,
     height: 24,
     attributes: undefined,

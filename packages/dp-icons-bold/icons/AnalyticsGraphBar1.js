@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsGraphBar1',
+    name: 'analytics-graph-bar-1',
+    key: 'AnalyticsGraphBar1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopSignClose',
+    name: 'shop-sign-close',
+    key: 'ShopSignClose',
     width: 24,
     height: 24,
     attributes: undefined,

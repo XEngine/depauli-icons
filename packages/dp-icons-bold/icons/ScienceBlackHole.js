@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceBlackHole',
+    name: 'science-black-hole',
+    key: 'ScienceBlackHole',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BathroomShowerHead',
+    name: 'bathroom-shower-head',
+    key: 'BathroomShowerHead',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

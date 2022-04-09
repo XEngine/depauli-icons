@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItCircleAlternate',
+    name: 'love-it-circle-alternate',
+    key: 'LoveItCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

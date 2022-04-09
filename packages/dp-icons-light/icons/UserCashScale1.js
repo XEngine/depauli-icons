@@ -1,5 +1,6 @@
 export default {
-    name: 'UserCashScale1',
+    name: 'user-cash-scale-1',
+    key: 'UserCashScale1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsText',
+    name: 'multiple-actions-text',
+    key: 'MultipleActionsText',
     width: 24,
     height: 24,
     attributes: undefined,

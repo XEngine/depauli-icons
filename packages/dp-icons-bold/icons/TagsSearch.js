@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsSearch',
+    name: 'tags-search',
+    key: 'TagsSearch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ChefGearBiscuits',
+    name: 'chef-gear-biscuits',
+    key: 'ChefGearBiscuits',
     width: 24,
     height: 24,
     attributes: undefined,

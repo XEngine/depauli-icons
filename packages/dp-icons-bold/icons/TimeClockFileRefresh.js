@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileRefresh',
+    name: 'time-clock-file-refresh',
+    key: 'TimeClockFileRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

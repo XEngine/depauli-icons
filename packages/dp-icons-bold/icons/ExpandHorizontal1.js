@@ -1,5 +1,6 @@
 export default {
-    name: 'ExpandHorizontal1',
+    name: 'expand-horizontal-1',
+    key: 'ExpandHorizontal1',
     width: 24,
     height: 24,
     attributes: undefined,

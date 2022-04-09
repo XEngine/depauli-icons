@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowCash',
+    name: 'app-window-cash',
+    key: 'AppWindowCash',
     width: 24,
     height: 24,
     attributes: undefined,

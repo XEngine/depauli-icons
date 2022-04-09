@@ -1,5 +1,6 @@
 export default {
-    name: 'ConstructionSign',
+    name: 'construction-sign',
+    key: 'ConstructionSign',
     width: 24,
     height: 24,
     attributes: undefined,

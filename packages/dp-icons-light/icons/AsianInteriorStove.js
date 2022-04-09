@@ -1,5 +1,6 @@
 export default {
-    name: 'AsianInteriorStove',
+    name: 'asian-interior-stove',
+    key: 'AsianInteriorStove',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

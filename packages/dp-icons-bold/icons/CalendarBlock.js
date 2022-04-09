@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarBlock',
+    name: 'calendar-block',
+    key: 'CalendarBlock',
     width: 24,
     height: 24,
     attributes: undefined,

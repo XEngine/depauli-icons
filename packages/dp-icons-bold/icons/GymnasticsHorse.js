@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsHorse',
+    name: 'gymnastics-horse',
+    key: 'GymnasticsHorse',
     width: 24,
     height: 24,
     attributes: undefined,

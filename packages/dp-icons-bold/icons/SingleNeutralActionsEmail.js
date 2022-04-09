@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsEmail',
+    name: 'single-neutral-actions-email',
+    key: 'SingleNeutralActionsEmail',
     width: 24,
     height: 24,
     attributes: undefined,

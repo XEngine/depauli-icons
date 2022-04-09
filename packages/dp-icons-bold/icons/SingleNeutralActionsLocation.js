@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsLocation',
+    name: 'single-neutral-actions-location',
+    key: 'SingleNeutralActionsLocation',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentAccordian',
+    name: 'instrument-accordian',
+    key: 'InstrumentAccordian',
     width: 24,
     height: 24,
     attributes: undefined,

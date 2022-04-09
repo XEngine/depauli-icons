@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingSettings',
+    name: 'real-estate-action-building-settings',
+    key: 'RealEstateActionBuildingSettings',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorHand2Alternate',
+    name: 'cursor-hand-2-alternate',
+    key: 'CursorHand2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

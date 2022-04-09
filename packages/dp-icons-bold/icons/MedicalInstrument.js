@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalInstrument',
+    name: 'medical-instrument',
+    key: 'MedicalInstrument',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaYelp',
+    name: 'social-media-yelp',
+    key: 'SocialMediaYelp',
     width: 24,
     height: 24,
     attributes: undefined,

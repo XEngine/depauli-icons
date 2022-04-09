@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionVertical',
+    name: 'composition-vertical',
+    key: 'CompositionVertical',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentLock',
+    name: 'shipment-lock',
+    key: 'ShipmentLock',
     width: 24,
     height: 24,
     attributes: undefined,

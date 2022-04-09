@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowDoubleLeft',
+    name: 'arrow-double-left',
+    key: 'ArrowDoubleLeft',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CheckPaymentSign',
+    name: 'check-payment-sign',
+    key: 'CheckPaymentSign',
     width: 24,
     height: 24,
     attributes: undefined,

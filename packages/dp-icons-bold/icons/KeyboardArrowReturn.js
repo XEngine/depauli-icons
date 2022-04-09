@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardArrowReturn',
+    name: 'keyboard-arrow-return',
+    key: 'KeyboardArrowReturn',
     width: 24,
     height: 24,
     attributes: undefined,

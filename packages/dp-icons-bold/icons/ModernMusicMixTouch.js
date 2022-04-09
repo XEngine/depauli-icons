@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernMusicMixTouch',
+    name: 'modern-music-mix-touch',
+    key: 'ModernMusicMixTouch',
     width: 24,
     height: 24,
     attributes: undefined,

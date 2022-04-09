@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileCheck',
+    name: 'data-file-check',
+    key: 'DataFileCheck',
     width: 24,
     height: 24,
     attributes: undefined,

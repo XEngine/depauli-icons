@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkHagiaSophia',
+    name: 'landmark-hagia-sophia',
+    key: 'LandmarkHagiaSophia',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

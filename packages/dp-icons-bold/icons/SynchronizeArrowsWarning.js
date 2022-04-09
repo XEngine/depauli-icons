@@ -1,5 +1,6 @@
 export default {
-    name: 'SynchronizeArrowsWarning',
+    name: 'synchronize-arrows-warning',
+    key: 'SynchronizeArrowsWarning',
     width: 24,
     height: 24,
     attributes: undefined,

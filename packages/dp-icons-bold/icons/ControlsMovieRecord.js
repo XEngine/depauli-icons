@@ -1,5 +1,6 @@
 export default {
-    name: 'ControlsMovieRecord',
+    name: 'controls-movie-record',
+    key: 'ControlsMovieRecord',
     width: 24,
     height: 24,
     attributes: undefined,

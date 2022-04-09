@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernWeaponMachineGun1',
+    name: 'modern-weapon-machine-gun-1',
+    key: 'ModernWeaponMachineGun1',
     width: 24,
     height: 24,
     attributes: undefined,

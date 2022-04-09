@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenStorage',
+    name: 'kitchen-storage',
+    key: 'KitchenStorage',
     width: 24,
     height: 24,
     attributes: undefined,

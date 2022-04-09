@@ -1,5 +1,6 @@
 export default {
-    name: 'GraphStatisticsCoffee',
+    name: 'graph-statistics-coffee',
+    key: 'GraphStatisticsCoffee',
     width: 24,
     height: 24,
     attributes: undefined,

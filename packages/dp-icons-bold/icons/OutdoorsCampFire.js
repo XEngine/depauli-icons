@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsCampFire',
+    name: 'outdoors-camp-fire',
+    key: 'OutdoorsCampFire',
     width: 24,
     height: 24,
     attributes: undefined,

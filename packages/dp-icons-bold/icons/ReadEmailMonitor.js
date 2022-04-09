@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadEmailMonitor',
+    name: 'read-email-monitor',
+    key: 'ReadEmailMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

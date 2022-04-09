@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionStar',
+    name: 'email-action-star',
+    key: 'EmailActionStar',
     width: 24,
     height: 24,
     attributes: undefined,

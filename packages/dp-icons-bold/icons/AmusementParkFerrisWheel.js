@@ -1,5 +1,6 @@
 export default {
-    name: 'AmusementParkFerrisWheel',
+    name: 'amusement-park-ferris-wheel',
+    key: 'AmusementParkFerrisWheel',
     width: 24,
     height: 24,
     attributes: undefined,

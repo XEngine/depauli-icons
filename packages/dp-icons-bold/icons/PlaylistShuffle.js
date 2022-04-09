@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistShuffle',
+    name: 'playlist-shuffle',
+    key: 'PlaylistShuffle',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DentistryToothChipped',
+    name: 'dentistry-tooth-chipped',
+    key: 'DentistryToothChipped',
     width: 24,
     height: 24,
     attributes: undefined,

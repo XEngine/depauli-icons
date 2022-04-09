@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeFlashOff',
+    name: 'light-mode-flash-off',
+    key: 'LightModeFlashOff',
     width: 24,
     height: 24,
     attributes: undefined,

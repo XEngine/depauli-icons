@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingCamera',
+    name: 'meeting-camera',
+    key: 'MeetingCamera',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionHome',
+    name: 'phone-action-home',
+    key: 'PhoneActionHome',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

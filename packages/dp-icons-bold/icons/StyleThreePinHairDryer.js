@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinHairDryer',
+    name: 'style-three-pin-hair-dryer',
+    key: 'StyleThreePinHairDryer',
     width: 24,
     height: 24,
     attributes: undefined,

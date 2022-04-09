@@ -1,5 +1,6 @@
 export default {
-    name: 'CasinoLucky7',
+    name: 'casino-lucky-7',
+    key: 'CasinoLucky7',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BaggageCheck',
+    name: 'baggage-check',
+    key: 'BaggageCheck',
     width: 24,
     height: 24,
     attributes: undefined,

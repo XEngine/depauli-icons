@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinSkull',
+    name: 'style-one-pin-skull',
+    key: 'StyleOnePinSkull',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorChoose',
+    name: 'cursor-choose',
+    key: 'CursorChoose',
     width: 24,
     height: 24,
     attributes: undefined,

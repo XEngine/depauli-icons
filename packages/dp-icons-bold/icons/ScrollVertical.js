@@ -1,5 +1,6 @@
 export default {
-    name: 'ScrollVertical',
+    name: 'scroll-vertical',
+    key: 'ScrollVertical',
     width: 24,
     height: 24,
     attributes: undefined,

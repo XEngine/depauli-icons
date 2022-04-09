@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBasket2',
+    name: 'shopping-basket-2',
+    key: 'ShoppingBasket2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SignBadgeBadgeAlternate',
+    name: 'sign-badge-badge-alternate',
+    key: 'SignBadgeBadgeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

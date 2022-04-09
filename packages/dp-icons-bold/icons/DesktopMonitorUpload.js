@@ -1,5 +1,6 @@
 export default {
-    name: 'DesktopMonitorUpload',
+    name: 'desktop-monitor-upload',
+    key: 'DesktopMonitorUpload',
     width: 24,
     height: 24,
     attributes: undefined,

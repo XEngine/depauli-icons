@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherNightClear',
+    name: 'weather-night-clear',
+    key: 'WeatherNightClear',
     width: 24,
     height: 24,
     attributes: undefined,

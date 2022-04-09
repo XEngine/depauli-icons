@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowLeft1',
+    name: 'arrow-left-1',
+    key: 'ArrowLeft1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

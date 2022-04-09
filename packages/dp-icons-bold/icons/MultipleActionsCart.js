@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsCart',
+    name: 'multiple-actions-cart',
+    key: 'MultipleActionsCart',
     width: 24,
     height: 24,
     attributes: undefined,

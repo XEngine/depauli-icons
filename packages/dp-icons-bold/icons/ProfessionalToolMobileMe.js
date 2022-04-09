@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionalToolMobileMe',
+    name: 'professional-tool-mobile-me',
+    key: 'ProfessionalToolMobileMe',
     width: 24,
     height: 24,
     attributes: undefined,

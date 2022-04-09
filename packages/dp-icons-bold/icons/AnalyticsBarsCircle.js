@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsBarsCircle',
+    name: 'analytics-bars-circle',
+    key: 'AnalyticsBarsCircle',
     width: 24,
     height: 24,
     attributes: undefined,

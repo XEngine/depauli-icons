@@ -1,5 +1,6 @@
 export default {
-    name: 'PathfinderExclude',
+    name: 'pathfinder-exclude',
+    key: 'PathfinderExclude',
     width: 24,
     height: 24,
     attributes: undefined,

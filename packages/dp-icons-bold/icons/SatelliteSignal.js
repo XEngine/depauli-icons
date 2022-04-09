@@ -1,5 +1,6 @@
 export default {
-    name: 'SatelliteSignal',
+    name: 'satellite-signal',
+    key: 'SatelliteSignal',
     width: 24,
     height: 24,
     attributes: undefined,

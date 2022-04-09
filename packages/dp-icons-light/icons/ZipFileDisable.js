@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileDisable',
+    name: 'zip-file-disable',
+    key: 'ZipFileDisable',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

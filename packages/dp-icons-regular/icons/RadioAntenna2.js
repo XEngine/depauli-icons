@@ -1,5 +1,6 @@
 export default {
-    name: 'RadioAntenna2',
+    name: 'radio-antenna-2',
+    key: 'RadioAntenna2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanAim',
+    name: 'single-woman-aim',
+    key: 'SingleWomanAim',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CampingTentSmall',
+    name: 'camping-tent-small',
+    key: 'CampingTentSmall',
     width: 24,
     height: 24,
     attributes: undefined,

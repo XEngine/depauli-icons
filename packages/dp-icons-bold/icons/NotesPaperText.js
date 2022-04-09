@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesPaperText',
+    name: 'notes-paper-text',
+    key: 'NotesPaperText',
     width: 24,
     height: 24,
     attributes: undefined,

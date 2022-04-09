@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceNeurons',
+    name: 'science-neurons',
+    key: 'ScienceNeurons',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AppliancesMicrowave1',
+    name: 'appliances-microwave-1',
+    key: 'AppliancesMicrowave1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

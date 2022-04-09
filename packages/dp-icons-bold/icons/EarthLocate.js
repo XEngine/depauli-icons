@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthLocate',
+    name: 'earth-locate',
+    key: 'EarthLocate',
     width: 24,
     height: 24,
     attributes: undefined,

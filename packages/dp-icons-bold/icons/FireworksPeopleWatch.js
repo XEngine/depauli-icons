@@ -1,5 +1,6 @@
 export default {
-    name: 'FireworksPeopleWatch',
+    name: 'fireworks-people-watch',
+    key: 'FireworksPeopleWatch',
     width: 24,
     height: 24,
     attributes: undefined,

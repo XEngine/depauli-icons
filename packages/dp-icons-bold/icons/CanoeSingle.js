@@ -1,5 +1,6 @@
 export default {
-    name: 'CanoeSingle',
+    name: 'canoe-single',
+    key: 'CanoeSingle',
     width: 24,
     height: 24,
     attributes: undefined,

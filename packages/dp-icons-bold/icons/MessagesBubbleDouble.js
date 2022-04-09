@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleDouble',
+    name: 'messages-bubble-double',
+    key: 'MessagesBubbleDouble',
     width: 24,
     height: 24,
     attributes: undefined,

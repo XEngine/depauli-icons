@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkSettings',
+    name: 'network-settings',
+    key: 'NetworkSettings',
     width: 24,
     height: 24,
     attributes: undefined,

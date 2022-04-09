@@ -1,5 +1,6 @@
 export default {
-    name: 'Church',
+    name: 'church',
+    key: 'Church',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateFavoriteHouseRating',
+    name: 'real-estate-favorite-house-rating',
+    key: 'RealEstateFavoriteHouseRating',
     width: 24,
     height: 24,
     attributes: undefined,

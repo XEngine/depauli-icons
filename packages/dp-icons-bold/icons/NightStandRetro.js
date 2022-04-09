@@ -1,5 +1,6 @@
 export default {
-    name: 'NightStandRetro',
+    name: 'night-stand-retro',
+    key: 'NightStandRetro',
     width: 24,
     height: 24,
     attributes: undefined,

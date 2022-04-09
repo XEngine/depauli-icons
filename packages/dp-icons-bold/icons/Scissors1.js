@@ -1,5 +1,6 @@
 export default {
-    name: 'Scissors1',
+    name: 'scissors-1',
+    key: 'Scissors1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadThickBox',
+    name: 'upload-thick-box',
+    key: 'UploadThickBox',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

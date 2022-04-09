@@ -1,5 +1,6 @@
 export default {
-    name: 'PinMonitor',
+    name: 'pin-monitor',
+    key: 'PinMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

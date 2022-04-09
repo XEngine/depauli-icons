@@ -1,5 +1,6 @@
 export default {
-    name: 'UsbPort',
+    name: 'usb-port',
+    key: 'UsbPort',
     width: 24,
     height: 24,
     attributes: undefined,

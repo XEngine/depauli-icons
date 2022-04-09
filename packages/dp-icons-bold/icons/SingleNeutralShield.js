@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralShield',
+    name: 'single-neutral-shield',
+    key: 'SingleNeutralShield',
     width: 24,
     height: 24,
     attributes: undefined,

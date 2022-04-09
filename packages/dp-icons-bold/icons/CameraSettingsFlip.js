@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraSettingsFlip',
+    name: 'camera-settings-flip',
+    key: 'CameraSettingsFlip',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BrowserPageText2',
+    name: 'browser-page-text-2',
+    key: 'BrowserPageText2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WarehouseCartPackageRibbon1',
+    name: 'warehouse-cart-package-ribbon-1',
+    key: 'WarehouseCartPackageRibbon1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

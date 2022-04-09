@@ -1,5 +1,6 @@
 export default {
-    name: 'ChessRook',
+    name: 'chess-rook',
+    key: 'ChessRook',
     width: 24,
     height: 24,
     attributes: undefined,

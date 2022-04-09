@@ -1,5 +1,6 @@
 export default {
-    name: 'UserSignal',
+    name: 'user-signal',
+    key: 'UserSignal',
     width: 24,
     height: 24,
     attributes: undefined,

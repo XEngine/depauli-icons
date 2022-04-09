@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsGraph',
+    name: 'analytics-graph',
+    key: 'AnalyticsGraph',
     width: 24,
     height: 24,
     attributes: undefined,

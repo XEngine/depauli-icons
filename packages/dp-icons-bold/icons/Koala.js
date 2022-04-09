@@ -1,5 +1,6 @@
 export default {
-    name: 'Koala',
+    name: 'koala',
+    key: 'Koala',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignRightArrowAlternate',
+    name: 'road-sign-right-arrow-alternate',
+    key: 'RoadSignRightArrowAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

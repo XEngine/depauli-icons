@@ -1,5 +1,6 @@
 export default {
-    name: 'Knife1',
+    name: 'knife-1',
+    key: 'Knife1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

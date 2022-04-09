@@ -1,5 +1,6 @@
 export default {
-    name: 'UiPhoneSliderVerticalAlternate',
+    name: 'ui-phone-slider-vertical-alternate',
+    key: 'UiPhoneSliderVerticalAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBadge',
+    name: 'style-three-pin-badge',
+    key: 'StyleThreePinBadge',
     width: 24,
     height: 24,
     attributes: undefined,

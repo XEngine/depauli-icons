@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudDisable',
+    name: 'cloud-disable',
+    key: 'CloudDisable',
     width: 24,
     height: 24,
     attributes: undefined,

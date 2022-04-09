@@ -1,5 +1,6 @@
 export default {
-    name: 'FileYm',
+    name: 'file-ym',
+    key: 'FileYm',
     width: 24,
     height: 24,
     attributes: undefined,

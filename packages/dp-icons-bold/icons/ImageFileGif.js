@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileGif',
+    name: 'image-file-gif',
+    key: 'ImageFileGif',
     width: 24,
     height: 24,
     attributes: undefined,

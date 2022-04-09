@@ -1,5 +1,6 @@
 export default {
-    name: 'AllowancesNoBicycles',
+    name: 'allowances-no-bicycles',
+    key: 'AllowancesNoBicycles',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationArrowsLeft1',
+    name: 'navigation-arrows-left-1',
+    key: 'NavigationArrowsLeft1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

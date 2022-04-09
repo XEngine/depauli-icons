@@ -1,5 +1,6 @@
 export default {
-    name: 'Hierarchy1',
+    name: 'hierarchy-1',
+    key: 'Hierarchy1',
     width: 24,
     height: 24,
     attributes: undefined,

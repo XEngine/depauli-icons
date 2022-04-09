@@ -1,5 +1,6 @@
 export default {
-    name: 'RotateHorizontal',
+    name: 'rotate-horizontal',
+    key: 'RotateHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

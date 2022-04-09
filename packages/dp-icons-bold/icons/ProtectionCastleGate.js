@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionCastleGate',
+    name: 'protection-castle-gate',
+    key: 'ProtectionCastleGate',
     width: 24,
     height: 24,
     attributes: undefined,

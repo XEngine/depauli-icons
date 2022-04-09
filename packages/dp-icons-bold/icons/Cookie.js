@@ -1,5 +1,6 @@
 export default {
-    name: 'Cookie',
+    name: 'cookie',
+    key: 'Cookie',
     width: 24,
     height: 24,
     attributes: undefined,

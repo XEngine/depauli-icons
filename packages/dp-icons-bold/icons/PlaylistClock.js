@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistClock',
+    name: 'playlist-clock',
+    key: 'PlaylistClock',
     width: 24,
     height: 24,
     attributes: undefined,

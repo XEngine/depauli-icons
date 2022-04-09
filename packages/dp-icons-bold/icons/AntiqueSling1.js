@@ -1,5 +1,6 @@
 export default {
-    name: 'AntiqueSling1',
+    name: 'antique-sling-1',
+    key: 'AntiqueSling1',
     width: 24,
     height: 24,
     attributes: undefined,

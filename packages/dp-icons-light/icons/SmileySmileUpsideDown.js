@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileySmileUpsideDown',
+    name: 'smiley-smile-upside-down',
+    key: 'SmileySmileUpsideDown',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

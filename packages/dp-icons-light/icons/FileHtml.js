@@ -1,5 +1,6 @@
 export default {
-    name: 'FileHtml',
+    name: 'file-html',
+    key: 'FileHtml',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

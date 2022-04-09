@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseWarning',
+    name: 'database-warning',
+    key: 'DatabaseWarning',
     width: 24,
     height: 24,
     attributes: undefined,

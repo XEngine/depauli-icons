@@ -1,5 +1,6 @@
 export default {
-    name: 'HatWinter',
+    name: 'hat-winter',
+    key: 'HatWinter',
     width: 24,
     height: 24,
     attributes: undefined,

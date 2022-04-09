@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilitySitWalkingAid',
+    name: 'disability-sit-walking-aid',
+    key: 'DisabilitySitWalkingAid',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SeoSearchReward',
+    name: 'seo-search-reward',
+    key: 'SeoSearchReward',
     width: 24,
     height: 24,
     attributes: undefined,

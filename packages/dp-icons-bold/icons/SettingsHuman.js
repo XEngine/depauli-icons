@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsHuman',
+    name: 'settings-human',
+    key: 'SettingsHuman',
     width: 24,
     height: 24,
     attributes: undefined,

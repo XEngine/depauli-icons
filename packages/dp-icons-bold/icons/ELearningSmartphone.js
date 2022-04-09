@@ -1,5 +1,6 @@
 export default {
-    name: 'ELearningSmartphone',
+    name: 'e-learning-smartphone',
+    key: 'ELearningSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

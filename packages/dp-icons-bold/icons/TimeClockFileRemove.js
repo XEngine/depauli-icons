@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileRemove',
+    name: 'time-clock-file-remove',
+    key: 'TimeClockFileRemove',
     width: 24,
     height: 24,
     attributes: undefined,

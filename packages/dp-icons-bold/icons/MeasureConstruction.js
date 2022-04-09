@@ -1,5 +1,6 @@
 export default {
-    name: 'MeasureConstruction',
+    name: 'measure-construction',
+    key: 'MeasureConstruction',
     width: 24,
     height: 24,
     attributes: undefined,

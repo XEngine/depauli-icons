@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorHeartBeatSearch',
+    name: 'monitor-heart-beat-search',
+    key: 'MonitorHeartBeatSearch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCart',
+    name: 'style-three-pin-cart',
+    key: 'StyleThreePinCart',
     width: 24,
     height: 24,
     attributes: undefined,

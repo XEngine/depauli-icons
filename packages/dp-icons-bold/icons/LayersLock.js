@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersLock',
+    name: 'layers-lock',
+    key: 'LayersLock',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'InsectCentipede1',
+    name: 'insect-centipede-1',
+    key: 'InsectCentipede1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

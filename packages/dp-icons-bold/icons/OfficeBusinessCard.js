@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeBusinessCard',
+    name: 'office-business-card',
+    key: 'OfficeBusinessCard',
     width: 24,
     height: 24,
     attributes: undefined,

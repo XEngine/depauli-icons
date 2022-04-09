@@ -1,5 +1,6 @@
 export default {
-    name: 'MoviesHome',
+    name: 'movies-home',
+    key: 'MoviesHome',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MoviesReel',
+    name: 'movies-reel',
+    key: 'MoviesReel',
     width: 24,
     height: 24,
     attributes: undefined,

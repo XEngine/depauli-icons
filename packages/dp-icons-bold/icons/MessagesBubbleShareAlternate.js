@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleShareAlternate',
+    name: 'messages-bubble-share-alternate',
+    key: 'MessagesBubbleShareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

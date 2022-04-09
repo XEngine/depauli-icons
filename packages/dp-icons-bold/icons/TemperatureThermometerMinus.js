@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureThermometerMinus',
+    name: 'temperature-thermometer-minus',
+    key: 'TemperatureThermometerMinus',
     width: 24,
     height: 24,
     attributes: undefined,

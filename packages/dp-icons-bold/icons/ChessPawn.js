@@ -1,5 +1,6 @@
 export default {
-    name: 'ChessPawn',
+    name: 'chess-pawn',
+    key: 'ChessPawn',
     width: 24,
     height: 24,
     attributes: undefined,

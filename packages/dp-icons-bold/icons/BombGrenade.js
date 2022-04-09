@@ -1,5 +1,6 @@
 export default {
-    name: 'BombGrenade',
+    name: 'bomb-grenade',
+    key: 'BombGrenade',
     width: 24,
     height: 24,
     attributes: undefined,

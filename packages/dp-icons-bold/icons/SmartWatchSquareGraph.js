@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareGraph',
+    name: 'smart-watch-square-graph',
+    key: 'SmartWatchSquareGraph',
     width: 24,
     height: 24,
     attributes: undefined,

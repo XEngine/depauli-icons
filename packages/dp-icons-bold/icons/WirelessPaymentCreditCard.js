@@ -1,5 +1,6 @@
 export default {
-    name: 'WirelessPaymentCreditCard',
+    name: 'wireless-payment-credit-card',
+    key: 'WirelessPaymentCreditCard',
     width: 24,
     height: 24,
     attributes: undefined,

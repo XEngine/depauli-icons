@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDealShake',
+    name: 'real-estate-deal-shake',
+    key: 'RealEstateDealShake',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

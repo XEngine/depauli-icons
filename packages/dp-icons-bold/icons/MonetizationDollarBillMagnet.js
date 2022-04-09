@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationDollarBillMagnet',
+    name: 'monetization-dollar-bill-magnet',
+    key: 'MonetizationDollarBillMagnet',
     width: 24,
     height: 24,
     attributes: undefined,

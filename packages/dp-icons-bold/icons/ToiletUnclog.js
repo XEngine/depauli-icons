@@ -1,5 +1,6 @@
 export default {
-    name: 'ToiletUnclog',
+    name: 'toilet-unclog',
+    key: 'ToiletUnclog',
     width: 24,
     height: 24,
     attributes: undefined,

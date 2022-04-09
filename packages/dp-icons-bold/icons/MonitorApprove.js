@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorApprove',
+    name: 'monitor-approve',
+    key: 'MonitorApprove',
     width: 24,
     height: 24,
     attributes: undefined,

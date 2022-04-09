@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsMobilephone',
+    name: 'single-neutral-actions-mobilephone',
+    key: 'SingleNeutralActionsMobilephone',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RecyclingHandTrash1',
+    name: 'recycling-hand-trash-1',
+    key: 'RecyclingHandTrash1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsCheck1',
+    name: 'multiple-actions-check-1',
+    key: 'MultipleActionsCheck1',
     width: 24,
     height: 24,
     attributes: undefined,

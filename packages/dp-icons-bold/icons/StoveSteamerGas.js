@@ -1,5 +1,6 @@
 export default {
-    name: 'StoveSteamerGas',
+    name: 'stove-steamer-gas',
+    key: 'StoveSteamerGas',
     width: 24,
     height: 24,
     attributes: undefined,

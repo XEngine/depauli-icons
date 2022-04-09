@@ -1,5 +1,6 @@
 export default {
-    name: 'ShowHatMagician1',
+    name: 'show-hat-magician-1',
+    key: 'ShowHatMagician1',
     width: 24,
     height: 24,
     attributes: undefined,

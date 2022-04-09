@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseConnect',
+    name: 'database-connect',
+    key: 'DatabaseConnect',
     width: 24,
     height: 24,
     attributes: undefined,

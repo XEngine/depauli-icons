@@ -1,5 +1,6 @@
 export default {
-    name: 'Mouse1',
+    name: 'mouse-1',
+    key: 'Mouse1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RadioStereo',
+    name: 'radio-stereo',
+    key: 'RadioStereo',
     width: 24,
     height: 24,
     attributes: undefined,

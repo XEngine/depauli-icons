@@ -1,5 +1,6 @@
 export default {
-    name: 'ExpandDiagonal3',
+    name: 'expand-diagonal-3',
+    key: 'ExpandDiagonal3',
     width: 24,
     height: 24,
     attributes: undefined,

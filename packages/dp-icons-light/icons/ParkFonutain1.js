@@ -1,5 +1,6 @@
 export default {
-    name: 'ParkFonutain1',
+    name: 'park-fonutain-1',
+    key: 'ParkFonutain1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

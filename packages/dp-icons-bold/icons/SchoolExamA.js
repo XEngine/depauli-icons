@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolExamA',
+    name: 'school-exam-a',
+    key: 'SchoolExamA',
     width: 24,
     height: 24,
     attributes: undefined,

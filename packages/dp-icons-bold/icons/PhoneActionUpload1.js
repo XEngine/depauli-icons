@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionUpload1',
+    name: 'phone-action-upload-1',
+    key: 'PhoneActionUpload1',
     width: 24,
     height: 24,
     attributes: undefined,

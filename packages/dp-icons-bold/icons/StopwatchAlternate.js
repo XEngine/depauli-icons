@@ -1,5 +1,6 @@
 export default {
-    name: 'StopwatchAlternate',
+    name: 'stopwatch-alternate',
+    key: 'StopwatchAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

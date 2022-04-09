@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiCash',
+    name: 'wifi-cash',
+    key: 'WifiCash',
     width: 24,
     height: 24,
     attributes: undefined,

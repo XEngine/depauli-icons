@@ -1,5 +1,6 @@
 export default {
-    name: 'SwitchOn1',
+    name: 'switch-on-1',
+    key: 'SwitchOn1',
     width: 24,
     height: 24,
     attributes: undefined,

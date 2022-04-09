@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorEdit',
+    name: 'monitor-edit',
+    key: 'MonitorEdit',
     width: 24,
     height: 24,
     attributes: undefined,

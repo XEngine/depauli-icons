@@ -1,5 +1,6 @@
 export default {
-    name: 'NaturalDisasterVolcanoLava',
+    name: 'natural-disaster-volcano-lava',
+    key: 'NaturalDisasterVolcanoLava',
     width: 24,
     height: 24,
     attributes: undefined,

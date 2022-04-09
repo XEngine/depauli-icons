@@ -1,5 +1,6 @@
 export default {
-    name: 'RailroadWagon1',
+    name: 'railroad-wagon-1',
+    key: 'RailroadWagon1',
     width: 24,
     height: 24,
     attributes: undefined,

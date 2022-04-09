@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsBackpack1',
+    name: 'outdoors-backpack-1',
+    key: 'OutdoorsBackpack1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

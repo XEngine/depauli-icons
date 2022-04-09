@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileWarning',
+    name: 'video-file-warning',
+    key: 'VideoFileWarning',
     width: 24,
     height: 24,
     attributes: undefined,

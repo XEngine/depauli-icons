@@ -1,5 +1,6 @@
 export default {
-    name: 'DeliveryTruck2',
+    name: 'delivery-truck-2',
+    key: 'DeliveryTruck2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SendEmail2Alternate',
+    name: 'send-email-2-alternate',
+    key: 'SendEmail2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

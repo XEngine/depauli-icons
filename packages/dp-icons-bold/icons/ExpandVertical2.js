@@ -1,5 +1,6 @@
 export default {
-    name: 'ExpandVertical2',
+    name: 'expand-vertical-2',
+    key: 'ExpandVertical2',
     width: 24,
     height: 24,
     attributes: undefined,

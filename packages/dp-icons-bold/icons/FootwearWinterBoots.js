@@ -1,5 +1,6 @@
 export default {
-    name: 'FootwearWinterBoots',
+    name: 'footwear-winter-boots',
+    key: 'FootwearWinterBoots',
     width: 24,
     height: 24,
     attributes: undefined,

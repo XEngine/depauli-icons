@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkRemove',
+    name: 'network-remove',
+    key: 'NetworkRemove',
     width: 24,
     height: 24,
     attributes: undefined,

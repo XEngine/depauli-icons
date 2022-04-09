@@ -1,5 +1,6 @@
 export default {
-    name: 'FileSql1',
+    name: 'file-sql-1',
+    key: 'FileSql1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

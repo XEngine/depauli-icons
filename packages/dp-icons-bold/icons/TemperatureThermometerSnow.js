@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureThermometerSnow',
+    name: 'temperature-thermometer-snow',
+    key: 'TemperatureThermometerSnow',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphSpacing',
+    name: 'paragraph-spacing',
+    key: 'ParagraphSpacing',
     width: 24,
     height: 24,
     attributes: undefined,

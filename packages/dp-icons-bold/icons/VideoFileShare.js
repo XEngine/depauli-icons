@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileShare',
+    name: 'video-file-share',
+    key: 'VideoFileShare',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasDoorWreath',
+    name: 'christmas-door-wreath',
+    key: 'ChristmasDoorWreath',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolBell',
+    name: 'school-bell',
+    key: 'SchoolBell',
     width: 24,
     height: 24,
     attributes: undefined,

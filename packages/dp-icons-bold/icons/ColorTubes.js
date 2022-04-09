@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorTubes',
+    name: 'color-tubes',
+    key: 'ColorTubes',
     width: 24,
     height: 24,
     attributes: undefined,

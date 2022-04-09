@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkGoldenTemple',
+    name: 'landmark-golden-temple',
+    key: 'LandmarkGoldenTemple',
     width: 24,
     height: 24,
     attributes: undefined,

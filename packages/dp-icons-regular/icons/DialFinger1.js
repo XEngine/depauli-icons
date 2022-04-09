@@ -1,5 +1,6 @@
 export default {
-    name: 'DialFinger1',
+    name: 'dial-finger-1',
+    key: 'DialFinger1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

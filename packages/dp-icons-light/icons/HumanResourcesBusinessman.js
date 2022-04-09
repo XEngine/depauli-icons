@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesBusinessman',
+    name: 'human-resources-businessman',
+    key: 'HumanResourcesBusinessman',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

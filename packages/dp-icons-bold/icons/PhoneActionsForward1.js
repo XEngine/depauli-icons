@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsForward1',
+    name: 'phone-actions-forward-1',
+    key: 'PhoneActionsForward1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinEducation1',
+    name: 'style-three-pin-education-1',
+    key: 'StyleThreePinEducation1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSwimCompete',
+    name: 'style-three-pin-swim-compete',
+    key: 'StyleThreePinSwimCompete',
     width: 24,
     height: 24,
     attributes: undefined,

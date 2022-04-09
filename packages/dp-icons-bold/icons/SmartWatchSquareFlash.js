@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareFlash',
+    name: 'smart-watch-square-flash',
+    key: 'SmartWatchSquareFlash',
     width: 24,
     height: 24,
     attributes: undefined,

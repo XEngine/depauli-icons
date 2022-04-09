@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorQuestionAlternate',
+    name: 'cursor-question-alternate',
+    key: 'CursorQuestionAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

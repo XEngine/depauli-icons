@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinGym',
+    name: 'style-two-pin-gym',
+    key: 'StyleTwoPinGym',
     width: 24,
     height: 24,
     attributes: undefined,

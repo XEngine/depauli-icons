@@ -1,5 +1,6 @@
 export default {
-    name: 'BreadHerbFlour',
+    name: 'bread-herb-flour',
+    key: 'BreadHerbFlour',
     width: 24,
     height: 24,
     attributes: undefined,

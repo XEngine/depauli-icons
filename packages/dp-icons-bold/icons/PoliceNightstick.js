@@ -1,5 +1,6 @@
 export default {
-    name: 'PoliceNightstick',
+    name: 'police-nightstick',
+    key: 'PoliceNightstick',
     width: 24,
     height: 24,
     attributes: undefined,

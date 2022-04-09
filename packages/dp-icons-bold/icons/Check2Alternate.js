@@ -1,5 +1,6 @@
 export default {
-    name: 'Check2Alternate',
+    name: 'check-2-alternate',
+    key: 'Check2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

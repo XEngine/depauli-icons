@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioBookVolumeMedium',
+    name: 'audio-book-volume-medium',
+    key: 'AudioBookVolumeMedium',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmchairHanging',
+    name: 'armchair-hanging',
+    key: 'ArmchairHanging',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AsianInteriorLamp',
+    name: 'asian-interior-lamp',
+    key: 'AsianInteriorLamp',
     width: 24,
     height: 24,
     attributes: undefined,

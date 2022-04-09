@@ -1,5 +1,6 @@
 export default {
-    name: 'CheckSquareAlternate',
+    name: 'check-square-alternate',
+    key: 'CheckSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

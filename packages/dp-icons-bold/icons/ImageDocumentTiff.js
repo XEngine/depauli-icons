@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageDocumentTiff',
+    name: 'image-document-tiff',
+    key: 'ImageDocumentTiff',
     width: 24,
     height: 24,
     attributes: undefined,

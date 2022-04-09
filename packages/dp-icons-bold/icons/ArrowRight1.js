@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowRight1',
+    name: 'arrow-right-1',
+    key: 'ArrowRight1',
     width: 24,
     height: 24,
     attributes: undefined,

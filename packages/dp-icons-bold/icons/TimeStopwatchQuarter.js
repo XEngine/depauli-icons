@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeStopwatchQuarter',
+    name: 'time-stopwatch-quarter',
+    key: 'TimeStopwatchQuarter',
     width: 24,
     height: 24,
     attributes: undefined,

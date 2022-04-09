@@ -1,5 +1,6 @@
 export default {
-    name: 'CoffeeCold',
+    name: 'coffee-cold',
+    key: 'CoffeeCold',
     width: 24,
     height: 24,
     attributes: undefined,

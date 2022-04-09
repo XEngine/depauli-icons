@@ -1,5 +1,6 @@
 export default {
-    name: 'UvLow',
+    name: 'uv-low',
+    key: 'UvLow',
     width: 24,
     height: 24,
     attributes: undefined,

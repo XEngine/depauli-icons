@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHousePhoneCctv',
+    name: 'smart-house-phone-cctv',
+    key: 'SmartHousePhoneCctv',
     width: 24,
     height: 24,
     attributes: undefined,

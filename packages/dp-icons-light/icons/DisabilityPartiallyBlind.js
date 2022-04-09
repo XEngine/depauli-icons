@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityPartiallyBlind',
+    name: 'disability-partially-blind',
+    key: 'DisabilityPartiallyBlind',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaDiingo',
+    name: 'social-media-diingo',
+    key: 'SocialMediaDiingo',
     width: 24,
     height: 24,
     attributes: undefined,

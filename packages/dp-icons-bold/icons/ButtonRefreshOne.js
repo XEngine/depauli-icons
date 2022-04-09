@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonRefreshOne',
+    name: 'button-refresh-one',
+    key: 'ButtonRefreshOne',
     width: 24,
     height: 24,
     attributes: undefined,

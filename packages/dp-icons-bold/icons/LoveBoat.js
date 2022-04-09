@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveBoat',
+    name: 'love-boat',
+    key: 'LoveBoat',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionSend',
+    name: 'email-action-send',
+    key: 'EmailActionSend',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

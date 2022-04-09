@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeLock',
+    name: 'file-code-lock',
+    key: 'FileCodeLock',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

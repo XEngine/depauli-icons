@@ -1,5 +1,6 @@
 export default {
-    name: 'VirtualTapFinger',
+    name: 'virtual-tap-finger',
+    key: 'VirtualTapFinger',
     width: 24,
     height: 24,
     attributes: undefined,

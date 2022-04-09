@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseHeart',
+    name: 'database-heart',
+    key: 'DatabaseHeart',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorMoveLeft',
+    name: 'cursor-move-left',
+    key: 'CursorMoveLeft',
     width: 24,
     height: 24,
     attributes: undefined,

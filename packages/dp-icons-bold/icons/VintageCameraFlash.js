@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageCameraFlash',
+    name: 'vintage-camera-flash',
+    key: 'VintageCameraFlash',
     width: 24,
     height: 24,
     attributes: undefined,

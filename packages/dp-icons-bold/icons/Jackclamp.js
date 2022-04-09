@@ -1,5 +1,6 @@
 export default {
-    name: 'Jackclamp',
+    name: 'jackclamp',
+    key: 'Jackclamp',
     width: 24,
     height: 24,
     attributes: undefined,

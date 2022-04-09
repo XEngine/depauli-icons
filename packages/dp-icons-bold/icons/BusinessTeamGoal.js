@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessTeamGoal',
+    name: 'business-team-goal',
+    key: 'BusinessTeamGoal',
     width: 24,
     height: 24,
     attributes: undefined,

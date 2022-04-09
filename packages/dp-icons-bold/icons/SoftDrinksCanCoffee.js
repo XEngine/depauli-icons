@@ -1,5 +1,6 @@
 export default {
-    name: 'SoftDrinksCanCoffee',
+    name: 'soft-drinks-can-coffee',
+    key: 'SoftDrinksCanCoffee',
     width: 24,
     height: 24,
     attributes: undefined,

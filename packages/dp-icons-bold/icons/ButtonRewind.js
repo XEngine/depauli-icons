@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonRewind',
+    name: 'button-rewind',
+    key: 'ButtonRewind',
     width: 24,
     height: 24,
     attributes: undefined,

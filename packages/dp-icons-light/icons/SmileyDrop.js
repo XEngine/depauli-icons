@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyDrop',
+    name: 'smiley-drop',
+    key: 'SmileyDrop',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

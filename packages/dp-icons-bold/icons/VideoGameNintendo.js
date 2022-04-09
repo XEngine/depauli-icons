@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameNintendo',
+    name: 'video-game-nintendo',
+    key: 'VideoGameNintendo',
     width: 24,
     height: 24,
     attributes: undefined,

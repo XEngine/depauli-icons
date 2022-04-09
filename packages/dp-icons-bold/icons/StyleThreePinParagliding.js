@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinParagliding',
+    name: 'style-three-pin-paragliding',
+    key: 'StyleThreePinParagliding',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VegetablesCorn',
+    name: 'vegetables-corn',
+    key: 'VegetablesCorn',
     width: 24,
     height: 24,
     attributes: undefined,

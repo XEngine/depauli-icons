@@ -1,5 +1,6 @@
 export default {
-    name: 'CatGrass1',
+    name: 'cat-grass-1',
+    key: 'CatGrass1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BeardStyleRazor',
+    name: 'beard-style-razor',
+    key: 'BeardStyleRazor',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

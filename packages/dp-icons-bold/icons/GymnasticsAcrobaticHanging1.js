@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsAcrobaticHanging1',
+    name: 'gymnastics-acrobatic-hanging-1',
+    key: 'GymnasticsAcrobaticHanging1',
     width: 24,
     height: 24,
     attributes: undefined,

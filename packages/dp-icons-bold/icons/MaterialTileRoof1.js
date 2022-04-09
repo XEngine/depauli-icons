@@ -1,5 +1,6 @@
 export default {
-    name: 'MaterialTileRoof1',
+    name: 'material-tile-roof-1',
+    key: 'MaterialTileRoof1',
     width: 24,
     height: 24,
     attributes: undefined,

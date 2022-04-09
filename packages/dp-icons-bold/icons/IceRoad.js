@@ -1,5 +1,6 @@
 export default {
-    name: 'IceRoad',
+    name: 'ice-road',
+    key: 'IceRoad',
     width: 24,
     height: 24,
     attributes: undefined,

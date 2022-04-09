@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolLockerClosed',
+    name: 'school-locker-closed',
+    key: 'SchoolLockerClosed',
     width: 24,
     height: 24,
     attributes: undefined,

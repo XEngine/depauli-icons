@@ -1,5 +1,6 @@
 export default {
-    name: 'TakingPicturesCircleAlternate',
+    name: 'taking-pictures-circle-alternate',
+    key: 'TakingPicturesCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

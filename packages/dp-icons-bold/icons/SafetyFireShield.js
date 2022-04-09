@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyFireShield',
+    name: 'safety-fire-shield',
+    key: 'SafetyFireShield',
     width: 24,
     height: 24,
     attributes: undefined,

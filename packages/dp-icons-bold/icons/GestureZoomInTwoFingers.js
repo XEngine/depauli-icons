@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureZoomInTwoFingers',
+    name: 'gesture-zoom-in-two-fingers',
+    key: 'GestureZoomInTwoFingers',
     width: 24,
     height: 24,
     attributes: undefined,

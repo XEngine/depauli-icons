@@ -1,5 +1,6 @@
 export default {
-    name: 'TreeTwo',
+    name: 'tree-two',
+    key: 'TreeTwo',
     width: 24,
     height: 24,
     attributes: undefined,

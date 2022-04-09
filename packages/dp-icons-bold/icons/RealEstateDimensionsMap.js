@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDimensionsMap',
+    name: 'real-estate-dimensions-map',
+    key: 'RealEstateDimensionsMap',
     width: 24,
     height: 24,
     attributes: undefined,

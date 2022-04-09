@@ -1,5 +1,6 @@
 export default {
-    name: 'MartialArtsSwordFencing',
+    name: 'martial-arts-sword-fencing',
+    key: 'MartialArtsSwordFencing',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardDeleteAlternate',
+    name: 'keyboard-delete-alternate',
+    key: 'KeyboardDeleteAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

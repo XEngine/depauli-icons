@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentTrumpet1',
+    name: 'instrument-trumpet-1',
+    key: 'InstrumentTrumpet1',
     width: 24,
     height: 24,
     attributes: undefined,

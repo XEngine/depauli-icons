@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanIncrease',
+    name: 'single-woman-increase',
+    key: 'SingleWomanIncrease',
     width: 24,
     height: 24,
     attributes: undefined,

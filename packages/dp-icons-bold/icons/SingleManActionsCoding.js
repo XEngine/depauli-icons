@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsCoding',
+    name: 'single-man-actions-coding',
+    key: 'SingleManActionsCoding',
     width: 24,
     height: 24,
     attributes: undefined,

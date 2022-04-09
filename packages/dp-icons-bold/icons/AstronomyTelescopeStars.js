@@ -1,5 +1,6 @@
 export default {
-    name: 'AstronomyTelescopeStars',
+    name: 'astronomy-telescope-stars',
+    key: 'AstronomyTelescopeStars',
     width: 24,
     height: 24,
     attributes: undefined,

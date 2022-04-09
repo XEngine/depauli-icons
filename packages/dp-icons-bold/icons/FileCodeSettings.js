@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeSettings',
+    name: 'file-code-settings',
+    key: 'FileCodeSettings',
     width: 24,
     height: 24,
     attributes: undefined,

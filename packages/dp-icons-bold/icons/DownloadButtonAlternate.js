@@ -1,5 +1,6 @@
 export default {
-    name: 'DownloadButtonAlternate',
+    name: 'download-button-alternate',
+    key: 'DownloadButtonAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

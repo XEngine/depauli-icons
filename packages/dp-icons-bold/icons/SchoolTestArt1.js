@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolTestArt1',
+    name: 'school-test-art-1',
+    key: 'SchoolTestArt1',
     width: 24,
     height: 24,
     attributes: undefined,

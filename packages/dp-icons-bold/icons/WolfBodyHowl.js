@@ -1,5 +1,6 @@
 export default {
-    name: 'WolfBodyHowl',
+    name: 'wolf-body-howl',
+    key: 'WolfBodyHowl',
     width: 24,
     height: 24,
     attributes: undefined,

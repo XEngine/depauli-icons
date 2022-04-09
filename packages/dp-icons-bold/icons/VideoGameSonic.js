@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameSonic',
+    name: 'video-game-sonic',
+    key: 'VideoGameSonic',
     width: 24,
     height: 24,
     attributes: undefined,

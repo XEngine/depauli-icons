@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralHeart',
+    name: 'single-neutral-heart',
+    key: 'SingleNeutralHeart',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Bin2Alternate',
+    name: 'bin-2-alternate',
+    key: 'Bin2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

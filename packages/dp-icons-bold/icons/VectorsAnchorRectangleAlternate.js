@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsAnchorRectangleAlternate',
+    name: 'vectors-anchor-rectangle-alternate',
+    key: 'VectorsAnchorRectangleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

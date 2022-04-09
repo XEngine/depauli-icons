@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyOptometristAlternate',
+    name: 'medical-specialty-optometrist-alternate',
+    key: 'MedicalSpecialtyOptometristAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

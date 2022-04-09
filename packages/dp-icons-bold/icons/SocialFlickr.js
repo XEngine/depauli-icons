@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialFlickr',
+    name: 'social-flickr',
+    key: 'SocialFlickr',
     width: 24,
     height: 24,
     attributes: undefined,

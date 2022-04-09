@@ -1,5 +1,6 @@
 export default {
-    name: 'LabTubeExperiment',
+    name: 'lab-tube-experiment',
+    key: 'LabTubeExperiment',
     width: 24,
     height: 24,
     attributes: undefined,

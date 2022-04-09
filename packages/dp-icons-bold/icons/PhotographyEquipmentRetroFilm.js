@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotographyEquipmentRetroFilm',
+    name: 'photography-equipment-retro-film',
+    key: 'PhotographyEquipmentRetroFilm',
     width: 24,
     height: 24,
     attributes: undefined,

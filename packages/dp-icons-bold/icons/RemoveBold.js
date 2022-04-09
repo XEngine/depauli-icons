@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveBold',
+    name: 'remove-bold',
+    key: 'RemoveBold',
     width: 24,
     height: 24,
     attributes: undefined,

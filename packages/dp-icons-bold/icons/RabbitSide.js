@@ -1,5 +1,6 @@
 export default {
-    name: 'RabbitSide',
+    name: 'rabbit-side',
+    key: 'RabbitSide',
     width: 24,
     height: 24,
     attributes: undefined,

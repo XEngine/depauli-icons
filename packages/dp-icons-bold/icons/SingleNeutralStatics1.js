@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralStatics1',
+    name: 'single-neutral-statics-1',
+    key: 'SingleNeutralStatics1',
     width: 24,
     height: 24,
     attributes: undefined,

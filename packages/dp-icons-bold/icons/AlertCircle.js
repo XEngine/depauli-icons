@@ -1,5 +1,6 @@
 export default {
-    name: 'AlertCircle',
+    name: 'alert-circle',
+    key: 'AlertCircle',
     width: 24,
     height: 24,
     attributes: undefined,

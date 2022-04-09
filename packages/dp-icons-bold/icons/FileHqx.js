@@ -1,5 +1,6 @@
 export default {
-    name: 'FileHqx',
+    name: 'file-hqx',
+    key: 'FileHqx',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AppliancesFoodProcessor',
+    name: 'appliances-food-processor',
+    key: 'AppliancesFoodProcessor',
     width: 24,
     height: 24,
     attributes: undefined,

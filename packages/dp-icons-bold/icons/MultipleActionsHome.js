@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsHome',
+    name: 'multiple-actions-home',
+    key: 'MultipleActionsHome',
     width: 24,
     height: 24,
     attributes: undefined,

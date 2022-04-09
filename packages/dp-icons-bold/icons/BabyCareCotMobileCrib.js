@@ -1,5 +1,6 @@
 export default {
-    name: 'BabyCareCotMobileCrib',
+    name: 'baby-care-cot-mobile-crib',
+    key: 'BabyCareCotMobileCrib',
     width: 24,
     height: 24,
     attributes: undefined,

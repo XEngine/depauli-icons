@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareMissedCallAlternate',
+    name: 'smart-watch-square-missed-call-alternate',
+    key: 'SmartWatchSquareMissedCallAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

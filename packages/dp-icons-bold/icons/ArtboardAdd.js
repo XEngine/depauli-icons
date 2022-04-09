@@ -1,5 +1,6 @@
 export default {
-    name: 'ArtboardAdd',
+    name: 'artboard-add',
+    key: 'ArtboardAdd',
     width: 24,
     height: 24,
     attributes: undefined,

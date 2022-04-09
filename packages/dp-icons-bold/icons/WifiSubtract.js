@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiSubtract',
+    name: 'wifi-subtract',
+    key: 'WifiSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

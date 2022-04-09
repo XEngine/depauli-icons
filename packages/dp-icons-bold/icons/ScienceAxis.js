@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceAxis',
+    name: 'science-axis',
+    key: 'ScienceAxis',
     width: 24,
     height: 24,
     attributes: undefined,

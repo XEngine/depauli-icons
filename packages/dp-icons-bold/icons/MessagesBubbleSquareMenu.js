@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareMenu',
+    name: 'messages-bubble-square-menu',
+    key: 'MessagesBubbleSquareMenu',
     width: 24,
     height: 24,
     attributes: undefined,

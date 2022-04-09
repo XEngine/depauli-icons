@@ -1,5 +1,6 @@
 export default {
-    name: 'LockerRoomWashHands',
+    name: 'locker-room-wash-hands',
+    key: 'LockerRoomWashHands',
     width: 24,
     height: 24,
     attributes: undefined,

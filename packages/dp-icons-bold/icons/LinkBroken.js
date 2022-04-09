@@ -1,5 +1,6 @@
 export default {
-    name: 'LinkBroken',
+    name: 'link-broken',
+    key: 'LinkBroken',
     width: 24,
     height: 24,
     attributes: undefined,

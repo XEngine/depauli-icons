@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextHeart',
+    name: 'common-file-text-heart',
+    key: 'CommonFileTextHeart',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'NauticSportsScooter',
+    name: 'nautic-sports-scooter',
+    key: 'NauticSportsScooter',
     width: 24,
     height: 24,
     attributes: undefined,

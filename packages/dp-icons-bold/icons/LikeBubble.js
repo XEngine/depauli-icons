@@ -1,5 +1,6 @@
 export default {
-    name: 'LikeBubble',
+    name: 'like-bubble',
+    key: 'LikeBubble',
     width: 24,
     height: 24,
     attributes: undefined,

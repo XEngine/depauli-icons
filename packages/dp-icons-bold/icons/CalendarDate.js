@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarDate',
+    name: 'calendar-date',
+    key: 'CalendarDate',
     width: 24,
     height: 24,
     attributes: undefined,

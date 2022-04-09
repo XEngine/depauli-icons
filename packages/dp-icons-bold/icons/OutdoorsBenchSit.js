@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsBenchSit',
+    name: 'outdoors-bench-sit',
+    key: 'OutdoorsBenchSit',
     width: 24,
     height: 24,
     attributes: undefined,

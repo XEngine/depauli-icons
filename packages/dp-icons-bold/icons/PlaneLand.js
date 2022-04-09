@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneLand',
+    name: 'plane-land',
+    key: 'PlaneLand',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaFoodSpotting',
+    name: 'social-media-food-spotting',
+    key: 'SocialMediaFoodSpotting',
     width: 24,
     height: 24,
     attributes: undefined,

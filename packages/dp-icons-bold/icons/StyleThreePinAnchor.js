@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinAnchor',
+    name: 'style-three-pin-anchor',
+    key: 'StyleThreePinAnchor',
     width: 24,
     height: 24,
     attributes: undefined,

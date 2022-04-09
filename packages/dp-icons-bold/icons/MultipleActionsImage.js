@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsImage',
+    name: 'multiple-actions-image',
+    key: 'MultipleActionsImage',
     width: 24,
     height: 24,
     attributes: undefined,

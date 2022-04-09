@@ -1,5 +1,6 @@
 export default {
-    name: 'PasswordDenied1',
+    name: 'password-denied-1',
+    key: 'PasswordDenied1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

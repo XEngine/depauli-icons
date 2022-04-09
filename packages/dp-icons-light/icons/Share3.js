@@ -1,5 +1,6 @@
 export default {
-    name: 'Share3',
+    name: 'share-3',
+    key: 'Share3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernTvChannelVan',
+    name: 'modern-tv-channel-van',
+    key: 'ModernTvChannelVan',
     width: 24,
     height: 24,
     attributes: undefined,

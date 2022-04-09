@@ -1,5 +1,6 @@
 export default {
-    name: 'FarmingSickle',
+    name: 'farming-sickle',
+    key: 'FarmingSickle',
     width: 24,
     height: 24,
     attributes: undefined,

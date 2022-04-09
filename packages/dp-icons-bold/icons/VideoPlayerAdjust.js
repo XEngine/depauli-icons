@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoPlayerAdjust',
+    name: 'video-player-adjust',
+    key: 'VideoPlayerAdjust',
     width: 24,
     height: 24,
     attributes: undefined,

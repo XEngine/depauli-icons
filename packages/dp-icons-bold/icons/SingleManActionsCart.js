@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsCart',
+    name: 'single-man-actions-cart',
+    key: 'SingleManActionsCart',
     width: 24,
     height: 24,
     attributes: undefined,

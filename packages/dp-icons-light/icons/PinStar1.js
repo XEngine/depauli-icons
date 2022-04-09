@@ -1,5 +1,6 @@
 export default {
-    name: 'PinStar1',
+    name: 'pin-star-1',
+    key: 'PinStar1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileDatabase',
+    name: 'file-database',
+    key: 'FileDatabase',
     width: 24,
     height: 24,
     attributes: undefined,

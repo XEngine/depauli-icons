@@ -1,5 +1,6 @@
 export default {
-    name: 'MarineMammalTurtle1',
+    name: 'marine-mammal-turtle-1',
+    key: 'MarineMammalTurtle1',
     width: 24,
     height: 24,
     attributes: undefined,

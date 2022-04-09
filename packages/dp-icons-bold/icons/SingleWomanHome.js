@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanHome',
+    name: 'single-woman-home',
+    key: 'SingleWomanHome',
     width: 24,
     height: 24,
     attributes: undefined,

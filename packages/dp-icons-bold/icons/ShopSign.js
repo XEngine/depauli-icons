@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopSign',
+    name: 'shop-sign',
+    key: 'ShopSign',
     width: 24,
     height: 24,
     attributes: undefined,

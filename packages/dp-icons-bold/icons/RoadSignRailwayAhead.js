@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignRailwayAhead',
+    name: 'road-sign-railway-ahead',
+    key: 'RoadSignRailwayAhead',
     width: 24,
     height: 24,
     attributes: undefined,

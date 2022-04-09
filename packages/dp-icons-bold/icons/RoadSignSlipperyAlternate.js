@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSlipperyAlternate',
+    name: 'road-sign-slippery-alternate',
+    key: 'RoadSignSlipperyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

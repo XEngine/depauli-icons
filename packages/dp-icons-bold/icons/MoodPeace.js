@@ -1,5 +1,6 @@
 export default {
-    name: 'MoodPeace',
+    name: 'mood-peace',
+    key: 'MoodPeace',
     width: 24,
     height: 24,
     attributes: undefined,

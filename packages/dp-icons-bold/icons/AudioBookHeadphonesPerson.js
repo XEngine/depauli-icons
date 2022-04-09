@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioBookHeadphonesPerson',
+    name: 'audio-book-headphones-person',
+    key: 'AudioBookHeadphonesPerson',
     width: 24,
     height: 24,
     attributes: undefined,

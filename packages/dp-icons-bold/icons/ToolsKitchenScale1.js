@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsKitchenScale1',
+    name: 'tools-kitchen-scale-1',
+    key: 'ToolsKitchenScale1',
     width: 24,
     height: 24,
     attributes: undefined,

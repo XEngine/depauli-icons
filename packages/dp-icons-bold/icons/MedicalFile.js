@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalFile',
+    name: 'medical-file',
+    key: 'MedicalFile',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkMesoamericanPyramid',
+    name: 'landmark-mesoamerican-pyramid',
+    key: 'LandmarkMesoamericanPyramid',
     width: 24,
     height: 24,
     attributes: undefined,

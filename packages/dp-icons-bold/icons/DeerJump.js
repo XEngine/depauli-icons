@@ -1,5 +1,6 @@
 export default {
-    name: 'DeerJump',
+    name: 'deer-jump',
+    key: 'DeerJump',
     width: 24,
     height: 24,
     attributes: undefined,

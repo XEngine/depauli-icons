@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderQuestionAlternate',
+    name: 'folder-question-alternate',
+    key: 'FolderQuestionAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

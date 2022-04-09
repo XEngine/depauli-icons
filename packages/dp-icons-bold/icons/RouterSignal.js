@@ -1,5 +1,6 @@
 export default {
-    name: 'RouterSignal',
+    name: 'router-signal',
+    key: 'RouterSignal',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingSliderVertical',
+    name: 'setting-slider-vertical',
+    key: 'SettingSliderVertical',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileEdit',
+    name: 'audio-file-edit',
+    key: 'AudioFileEdit',
     width: 24,
     height: 24,
     attributes: undefined,

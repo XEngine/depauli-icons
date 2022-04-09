@@ -1,5 +1,6 @@
 export default {
-    name: 'PerformanceUserGraph',
+    name: 'performance-user-graph',
+    key: 'PerformanceUserGraph',
     width: 24,
     height: 24,
     attributes: undefined,

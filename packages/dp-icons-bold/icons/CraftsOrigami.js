@@ -1,5 +1,6 @@
 export default {
-    name: 'CraftsOrigami',
+    name: 'crafts-origami',
+    key: 'CraftsOrigami',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreeStylePinEmpty',
+    name: 'style-three-style-pin-empty',
+    key: 'StyleThreeStylePinEmpty',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsSubtract',
+    name: 'multiple-actions-subtract',
+    key: 'MultipleActionsSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

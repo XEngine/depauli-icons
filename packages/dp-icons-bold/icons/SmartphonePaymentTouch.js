@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartphonePaymentTouch',
+    name: 'smartphone-payment-touch',
+    key: 'SmartphonePaymentTouch',
     width: 24,
     height: 24,
     attributes: undefined,

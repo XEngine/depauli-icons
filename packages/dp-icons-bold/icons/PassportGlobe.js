@@ -1,5 +1,6 @@
 export default {
-    name: 'PassportGlobe',
+    name: 'passport-globe',
+    key: 'PassportGlobe',
     width: 24,
     height: 24,
     attributes: undefined,

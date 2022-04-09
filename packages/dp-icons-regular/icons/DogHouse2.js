@@ -1,5 +1,6 @@
 export default {
-    name: 'DogHouse2',
+    name: 'dog-house-2',
+    key: 'DogHouse2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileRtf1',
+    name: 'office-file-rtf-1',
+    key: 'OfficeFileRtf1',
     width: 24,
     height: 24,
     attributes: undefined,

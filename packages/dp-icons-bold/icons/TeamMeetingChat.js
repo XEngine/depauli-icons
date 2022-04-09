@@ -1,5 +1,6 @@
 export default {
-    name: 'TeamMeetingChat',
+    name: 'team-meeting-chat',
+    key: 'TeamMeetingChat',
     width: 24,
     height: 24,
     attributes: undefined,

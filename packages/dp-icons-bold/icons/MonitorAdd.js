@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorAdd',
+    name: 'monitor-add',
+    key: 'MonitorAdd',
     width: 24,
     height: 24,
     attributes: undefined,

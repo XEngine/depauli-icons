@@ -1,5 +1,6 @@
 export default {
-    name: 'AmusementParkDisneyland',
+    name: 'amusement-park-disneyland',
+    key: 'AmusementParkDisneyland',
     width: 24,
     height: 24,
     attributes: undefined,

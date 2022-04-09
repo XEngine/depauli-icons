@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyChildTeeter',
+    name: 'family-child-teeter',
+    key: 'FamilyChildTeeter',
     width: 24,
     height: 24,
     attributes: undefined,

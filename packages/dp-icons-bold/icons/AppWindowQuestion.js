@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowQuestion',
+    name: 'app-window-question',
+    key: 'AppWindowQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

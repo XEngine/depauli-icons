@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateInsuranceDollarHand1',
+    name: 'real-estate-insurance-dollar-hand-1',
+    key: 'RealEstateInsuranceDollarHand1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

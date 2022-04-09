@@ -1,5 +1,6 @@
 export default {
-    name: 'UiPhoneSliderHorizontal',
+    name: 'ui-phone-slider-horizontal',
+    key: 'UiPhoneSliderHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

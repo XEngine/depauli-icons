@@ -1,5 +1,6 @@
 export default {
-    name: 'Delete2Alternate',
+    name: 'delete-2-alternate',
+    key: 'Delete2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

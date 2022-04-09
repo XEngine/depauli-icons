@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeDeskLamp',
+    name: 'office-desk-lamp',
+    key: 'OfficeDeskLamp',
     width: 24,
     height: 24,
     attributes: undefined,

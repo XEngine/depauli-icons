@@ -1,5 +1,6 @@
 export default {
-    name: 'PeacockFeathersUp1',
+    name: 'peacock-feathers-up-1',
+    key: 'PeacockFeathersUp1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningScissors',
+    name: 'gardening-scissors',
+    key: 'GardeningScissors',
     width: 24,
     height: 24,
     attributes: undefined,

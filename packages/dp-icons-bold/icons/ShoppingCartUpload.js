@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingCartUpload',
+    name: 'shopping-cart-upload',
+    key: 'ShoppingCartUpload',
     width: 24,
     height: 24,
     attributes: undefined,

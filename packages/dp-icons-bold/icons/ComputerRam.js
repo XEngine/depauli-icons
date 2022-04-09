@@ -1,5 +1,6 @@
 export default {
-    name: 'ComputerRam',
+    name: 'computer-ram',
+    key: 'ComputerRam',
     width: 24,
     height: 24,
     attributes: undefined,

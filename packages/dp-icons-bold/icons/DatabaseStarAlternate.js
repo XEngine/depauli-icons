@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseStarAlternate',
+    name: 'database-star-alternate',
+    key: 'DatabaseStarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

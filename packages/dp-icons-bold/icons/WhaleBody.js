@@ -1,5 +1,6 @@
 export default {
-    name: 'WhaleBody',
+    name: 'whale-body',
+    key: 'WhaleBody',
     width: 24,
     height: 24,
     attributes: undefined,

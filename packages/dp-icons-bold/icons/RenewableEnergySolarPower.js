@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergySolarPower',
+    name: 'renewable-energy-solar-power',
+    key: 'RenewableEnergySolarPower',
     width: 24,
     height: 24,
     attributes: undefined,

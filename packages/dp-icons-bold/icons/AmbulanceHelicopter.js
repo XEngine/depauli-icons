@@ -1,5 +1,6 @@
 export default {
-    name: 'AmbulanceHelicopter',
+    name: 'ambulance-helicopter',
+    key: 'AmbulanceHelicopter',
     width: 24,
     height: 24,
     attributes: undefined,

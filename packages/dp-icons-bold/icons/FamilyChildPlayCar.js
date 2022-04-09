@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyChildPlayCar',
+    name: 'family-child-play-car',
+    key: 'FamilyChildPlayCar',
     width: 24,
     height: 24,
     attributes: undefined,

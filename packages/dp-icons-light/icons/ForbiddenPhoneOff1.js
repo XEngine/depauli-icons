@@ -1,5 +1,6 @@
 export default {
-    name: 'ForbiddenPhoneOff1',
+    name: 'forbidden-phone-off-1',
+    key: 'ForbiddenPhoneOff1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

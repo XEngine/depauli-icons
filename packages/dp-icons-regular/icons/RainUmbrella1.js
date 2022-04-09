@@ -1,5 +1,6 @@
 export default {
-    name: 'RainUmbrella1',
+    name: 'rain-umbrella-1',
+    key: 'RainUmbrella1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

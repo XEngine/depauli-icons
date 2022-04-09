@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsKey',
+    name: 'multiple-actions-key',
+    key: 'MultipleActionsKey',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HospitalSignSquare',
+    name: 'hospital-sign-square',
+    key: 'HospitalSignSquare',
     width: 24,
     height: 24,
     attributes: undefined,

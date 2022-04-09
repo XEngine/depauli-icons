@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoXbox1',
+    name: 'video-game-logo-xbox-1',
+    key: 'VideoGameLogoXbox1',
     width: 24,
     height: 24,
     attributes: undefined,

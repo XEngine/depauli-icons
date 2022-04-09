@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowDisable',
+    name: 'app-window-disable',
+    key: 'AppWindowDisable',
     width: 24,
     height: 24,
     attributes: undefined,

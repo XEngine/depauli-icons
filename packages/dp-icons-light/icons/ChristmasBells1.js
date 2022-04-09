@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasBells1',
+    name: 'christmas-bells-1',
+    key: 'ChristmasBells1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

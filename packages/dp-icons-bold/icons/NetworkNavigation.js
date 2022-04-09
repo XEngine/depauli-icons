@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkNavigation',
+    name: 'network-navigation',
+    key: 'NetworkNavigation',
     width: 24,
     height: 24,
     attributes: undefined,

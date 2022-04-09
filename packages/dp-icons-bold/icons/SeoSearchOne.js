@@ -1,5 +1,6 @@
 export default {
-    name: 'SeoSearchOne',
+    name: 'seo-search-one',
+    key: 'SeoSearchOne',
     width: 24,
     height: 24,
     attributes: undefined,

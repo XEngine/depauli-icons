@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingHoldCode',
+    name: 'programming-hold-code',
+    key: 'ProgrammingHoldCode',
     width: 24,
     height: 24,
     attributes: undefined,

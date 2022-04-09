@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyKnee',
+    name: 'medical-specialty-knee',
+    key: 'MedicalSpecialtyKnee',
     width: 24,
     height: 24,
     attributes: undefined,

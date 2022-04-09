@@ -1,5 +1,6 @@
 export default {
-    name: 'AdvertisingMegaphone',
+    name: 'advertising-megaphone',
+    key: 'AdvertisingMegaphone',
     width: 24,
     height: 24,
     attributes: undefined,

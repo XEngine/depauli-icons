@@ -1,5 +1,6 @@
 export default {
-    name: 'VoiceIdSmartphone',
+    name: 'voice-id-smartphone',
+    key: 'VoiceIdSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

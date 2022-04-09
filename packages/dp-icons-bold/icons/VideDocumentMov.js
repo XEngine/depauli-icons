@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentMov',
+    name: 'vide-document-mov',
+    key: 'VideDocumentMov',
     width: 24,
     height: 24,
     attributes: undefined,

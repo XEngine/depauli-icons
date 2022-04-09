@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophonePodcastOnAir',
+    name: 'microphone-podcast-on-air',
+    key: 'MicrophonePodcastOnAir',
     width: 24,
     height: 24,
     attributes: undefined,

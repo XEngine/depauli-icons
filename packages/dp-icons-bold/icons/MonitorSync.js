@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorSync',
+    name: 'monitor-sync',
+    key: 'MonitorSync',
     width: 24,
     height: 24,
     attributes: undefined,

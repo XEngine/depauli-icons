@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconRemotePlane1',
+    name: 'beacon-remote-plane-1',
+    key: 'BeaconRemotePlane1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationRight3',
+    name: 'navigation-right-3',
+    key: 'NavigationRight3',
     width: 24,
     height: 24,
     attributes: undefined,

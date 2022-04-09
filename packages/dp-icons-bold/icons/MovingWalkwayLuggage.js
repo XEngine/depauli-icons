@@ -1,5 +1,6 @@
 export default {
-    name: 'MovingWalkwayLuggage',
+    name: 'moving-walkway-luggage',
+    key: 'MovingWalkwayLuggage',
     width: 24,
     height: 24,
     attributes: undefined,

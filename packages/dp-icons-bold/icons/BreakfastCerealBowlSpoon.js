@@ -1,5 +1,6 @@
 export default {
-    name: 'BreakfastCerealBowlSpoon',
+    name: 'breakfast-cereal-bowl-spoon',
+    key: 'BreakfastCerealBowlSpoon',
     width: 24,
     height: 24,
     attributes: undefined,

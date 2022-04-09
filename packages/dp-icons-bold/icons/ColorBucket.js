@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorBucket',
+    name: 'color-bucket',
+    key: 'ColorBucket',
     width: 24,
     height: 24,
     attributes: undefined,

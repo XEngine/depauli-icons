@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningSeedHand',
+    name: 'gardening-seed-hand',
+    key: 'GardeningSeedHand',
     width: 24,
     height: 24,
     attributes: undefined,

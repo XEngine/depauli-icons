@@ -1,5 +1,6 @@
 export default {
-    name: 'HeadphonesCable',
+    name: 'headphones-cable',
+    key: 'HeadphonesCable',
     width: 24,
     height: 24,
     attributes: undefined,

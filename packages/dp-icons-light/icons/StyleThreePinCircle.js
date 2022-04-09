@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCircle',
+    name: 'style-three-pin-circle',
+    key: 'StyleThreePinCircle',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileLandscapeAlternate',
+    name: 'image-file-landscape-alternate',
+    key: 'ImageFileLandscapeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderSettingsAlternate',
+    name: 'folder-settings-alternate',
+    key: 'FolderSettingsAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

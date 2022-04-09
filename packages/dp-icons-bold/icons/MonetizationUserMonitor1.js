@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationUserMonitor1',
+    name: 'monetization-user-monitor-1',
+    key: 'MonetizationUserMonitor1',
     width: 24,
     height: 24,
     attributes: undefined,

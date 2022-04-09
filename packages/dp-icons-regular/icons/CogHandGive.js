@@ -1,5 +1,6 @@
 export default {
-    name: 'CogHandGive',
+    name: 'cog-hand-give',
+    key: 'CogHandGive',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

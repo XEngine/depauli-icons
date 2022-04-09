@@ -1,5 +1,6 @@
 export default {
-    name: 'SecurityOfficerAnimal',
+    name: 'security-officer-animal',
+    key: 'SecurityOfficerAnimal',
     width: 24,
     height: 24,
     attributes: undefined,

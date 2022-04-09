@@ -1,5 +1,6 @@
 export default {
-    name: 'Moose',
+    name: 'moose',
+    key: 'Moose',
     width: 24,
     height: 24,
     attributes: undefined,

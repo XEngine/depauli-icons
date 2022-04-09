@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsEdit',
+    name: 'data-file-bars-edit',
+    key: 'DataFileBarsEdit',
     width: 24,
     height: 24,
     attributes: undefined,

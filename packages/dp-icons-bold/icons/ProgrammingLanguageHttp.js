@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingLanguageHttp',
+    name: 'programming-language-http',
+    key: 'ProgrammingLanguageHttp',
     width: 24,
     height: 24,
     attributes: undefined,

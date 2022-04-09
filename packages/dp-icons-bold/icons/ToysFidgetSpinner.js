@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysFidgetSpinner',
+    name: 'toys-fidget-spinner',
+    key: 'ToysFidgetSpinner',
     width: 24,
     height: 24,
     attributes: undefined,

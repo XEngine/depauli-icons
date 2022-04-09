@@ -1,5 +1,6 @@
 export default {
-    name: 'ClampPress1',
+    name: 'clamp-press-1',
+    key: 'ClampPress1',
     width: 24,
     height: 24,
     attributes: undefined,

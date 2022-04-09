@@ -1,5 +1,6 @@
 export default {
-    name: 'AgricultureMachineHarraw',
+    name: 'agriculture-machine-harraw',
+    key: 'AgricultureMachineHarraw',
     width: 24,
     height: 24,
     attributes: undefined,

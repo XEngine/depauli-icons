@@ -1,5 +1,6 @@
 export default {
-    name: 'StudyBook',
+    name: 'study-book',
+    key: 'StudyBook',
     width: 24,
     height: 24,
     attributes: undefined,

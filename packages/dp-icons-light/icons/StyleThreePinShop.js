@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinShop',
+    name: 'style-three-pin-shop',
+    key: 'StyleThreePinShop',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

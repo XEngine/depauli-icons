@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskFingerBandage',
+    name: 'task-finger-bandage',
+    key: 'TaskFingerBandage',
     width: 24,
     height: 24,
     attributes: undefined,

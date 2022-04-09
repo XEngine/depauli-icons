@@ -1,5 +1,6 @@
 export default {
-    name: 'CPlusPlus1',
+    name: 'c-plus-plus-1',
+    key: 'CPlusPlus1',
     width: 24,
     height: 24,
     attributes: undefined,

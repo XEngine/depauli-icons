@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesPeopleManBubbleCircle',
+    name: 'messages-people-man-bubble-circle',
+    key: 'MessagesPeopleManBubbleCircle',
     width: 24,
     height: 24,
     attributes: undefined,

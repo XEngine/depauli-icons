@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneBroken',
+    name: 'phone-broken',
+    key: 'PhoneBroken',
     width: 24,
     height: 24,
     attributes: undefined,

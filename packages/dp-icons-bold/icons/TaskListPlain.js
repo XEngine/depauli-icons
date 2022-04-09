@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListPlain',
+    name: 'task-list-plain',
+    key: 'TaskListPlain',
     width: 24,
     height: 24,
     attributes: undefined,

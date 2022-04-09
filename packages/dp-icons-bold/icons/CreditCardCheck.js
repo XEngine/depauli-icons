@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardCheck',
+    name: 'credit-card-check',
+    key: 'CreditCardCheck',
     width: 24,
     height: 24,
     attributes: undefined,

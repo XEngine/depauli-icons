@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkChinesePagoda2',
+    name: 'landmark-chinese-pagoda-2',
+    key: 'LandmarkChinesePagoda2',
     width: 24,
     height: 24,
     attributes: undefined,

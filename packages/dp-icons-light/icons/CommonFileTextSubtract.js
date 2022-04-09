@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextSubtract',
+    name: 'common-file-text-subtract',
+    key: 'CommonFileTextSubtract',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinVet',
+    name: 'style-three-pin-vet',
+    key: 'StyleThreePinVet',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

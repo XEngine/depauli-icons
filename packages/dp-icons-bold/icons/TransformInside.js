@@ -1,5 +1,6 @@
 export default {
-    name: 'TransformInside',
+    name: 'transform-inside',
+    key: 'TransformInside',
     width: 24,
     height: 24,
     attributes: undefined,

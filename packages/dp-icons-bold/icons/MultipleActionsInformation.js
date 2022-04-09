@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsInformation',
+    name: 'multiple-actions-information',
+    key: 'MultipleActionsInformation',
     width: 24,
     height: 24,
     attributes: undefined,

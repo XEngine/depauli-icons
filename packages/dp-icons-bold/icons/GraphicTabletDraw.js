@@ -1,5 +1,6 @@
 export default {
-    name: 'GraphicTabletDraw',
+    name: 'graphic-tablet-draw',
+    key: 'GraphicTabletDraw',
     width: 24,
     height: 24,
     attributes: undefined,

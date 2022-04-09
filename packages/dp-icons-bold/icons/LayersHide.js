@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersHide',
+    name: 'layers-hide',
+    key: 'LayersHide',
     width: 24,
     height: 24,
     attributes: undefined,

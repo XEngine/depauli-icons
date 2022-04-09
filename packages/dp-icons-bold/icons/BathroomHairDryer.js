@@ -1,5 +1,6 @@
 export default {
-    name: 'BathroomHairDryer',
+    name: 'bathroom-hair-dryer',
+    key: 'BathroomHairDryer',
     width: 24,
     height: 24,
     attributes: undefined,

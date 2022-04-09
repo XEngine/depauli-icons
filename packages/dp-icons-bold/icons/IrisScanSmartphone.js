@@ -1,5 +1,6 @@
 export default {
-    name: 'IrisScanSmartphone',
+    name: 'iris-scan-smartphone',
+    key: 'IrisScanSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

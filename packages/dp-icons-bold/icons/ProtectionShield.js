@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionShield',
+    name: 'protection-shield',
+    key: 'ProtectionShield',
     width: 24,
     height: 24,
     attributes: undefined,

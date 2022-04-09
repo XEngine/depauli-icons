@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinGasStation',
+    name: 'style-three-pin-gas-station',
+    key: 'StyleThreePinGasStation',
     width: 24,
     height: 24,
     attributes: undefined,

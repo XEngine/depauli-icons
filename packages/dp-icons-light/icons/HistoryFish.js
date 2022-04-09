@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryFish',
+    name: 'history-fish',
+    key: 'HistoryFish',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilter5',
+    name: 'paginate-filter-5',
+    key: 'PaginateFilter5',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

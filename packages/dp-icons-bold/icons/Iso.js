@@ -1,5 +1,6 @@
 export default {
-    name: 'Iso',
+    name: 'iso',
+    key: 'Iso',
     width: 24,
     height: 24,
     attributes: undefined,

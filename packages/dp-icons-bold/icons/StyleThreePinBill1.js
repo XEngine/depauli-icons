@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBill1',
+    name: 'style-three-pin-bill-1',
+    key: 'StyleThreePinBill1',
     width: 24,
     height: 24,
     attributes: undefined,

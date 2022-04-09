@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextSync',
+    name: 'common-file-text-sync',
+    key: 'CommonFileTextSync',
     width: 24,
     height: 24,
     attributes: undefined,

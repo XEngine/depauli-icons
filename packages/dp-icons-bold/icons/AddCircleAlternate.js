@@ -1,5 +1,6 @@
 export default {
-    name: 'AddCircleAlternate',
+    name: 'add-circle-alternate',
+    key: 'AddCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

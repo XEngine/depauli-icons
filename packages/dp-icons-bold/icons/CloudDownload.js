@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudDownload',
+    name: 'cloud-download',
+    key: 'CloudDownload',
     width: 24,
     height: 24,
     attributes: undefined,

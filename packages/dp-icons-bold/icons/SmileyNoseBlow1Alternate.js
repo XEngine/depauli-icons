@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyNoseBlow1Alternate',
+    name: 'smiley-nose-blow-1-alternate',
+    key: 'SmileyNoseBlow1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

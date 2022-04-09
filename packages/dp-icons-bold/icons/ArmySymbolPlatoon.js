@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmySymbolPlatoon',
+    name: 'army-symbol-platoon',
+    key: 'ArmySymbolPlatoon',
     width: 24,
     height: 24,
     attributes: undefined,

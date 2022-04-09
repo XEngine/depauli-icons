@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicClef',
+    name: 'music-clef',
+    key: 'MusicClef',
     width: 24,
     height: 24,
     attributes: undefined,

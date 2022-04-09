@@ -1,5 +1,6 @@
 export default {
-    name: 'ScaleHorizontal',
+    name: 'scale-horizontal',
+    key: 'ScaleHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

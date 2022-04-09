@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileSync',
+    name: 'audio-file-sync',
+    key: 'AudioFileSync',
     width: 24,
     height: 24,
     attributes: undefined,

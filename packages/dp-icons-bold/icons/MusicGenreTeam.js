@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreTeam',
+    name: 'music-genre-team',
+    key: 'MusicGenreTeam',
     width: 24,
     height: 24,
     attributes: undefined,

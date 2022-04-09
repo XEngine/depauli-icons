@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowHeart',
+    name: 'app-window-heart',
+    key: 'AppWindowHeart',
     width: 24,
     height: 24,
     attributes: undefined,

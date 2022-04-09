@@ -1,5 +1,6 @@
 export default {
-    name: 'DecorationBottle1',
+    name: 'decoration-bottle-1',
+    key: 'DecorationBottle1',
     width: 24,
     height: 24,
     attributes: undefined,

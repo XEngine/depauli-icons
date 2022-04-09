@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCsv',
+    name: 'file-csv',
+    key: 'FileCsv',
     width: 24,
     height: 24,
     attributes: undefined,

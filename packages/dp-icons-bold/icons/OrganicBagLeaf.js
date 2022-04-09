@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicBagLeaf',
+    name: 'organic-bag-leaf',
+    key: 'OrganicBagLeaf',
     width: 24,
     height: 24,
     attributes: undefined,

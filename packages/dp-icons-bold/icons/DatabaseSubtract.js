@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseSubtract',
+    name: 'database-subtract',
+    key: 'DatabaseSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SkiingCableCar',
+    name: 'skiing-cable-car',
+    key: 'SkiingCableCar',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HistorySphinx1',
+    name: 'history-sphinx-1',
+    key: 'HistorySphinx1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignBumpAheadAlternate',
+    name: 'road-sign-bump-ahead-alternate',
+    key: 'RoadSignBumpAheadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

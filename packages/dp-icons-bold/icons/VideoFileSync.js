@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileSync',
+    name: 'video-file-sync',
+    key: 'VideoFileSync',
     width: 24,
     height: 24,
     attributes: undefined,

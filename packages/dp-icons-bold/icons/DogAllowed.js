@@ -1,5 +1,6 @@
 export default {
-    name: 'DogAllowed',
+    name: 'dog-allowed',
+    key: 'DogAllowed',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BathroomRobeFemale',
+    name: 'bathroom-robe-female',
+    key: 'BathroomRobeFemale',
     width: 24,
     height: 24,
     attributes: undefined,

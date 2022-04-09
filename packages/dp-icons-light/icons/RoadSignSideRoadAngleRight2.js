@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSideRoadAngleRight2',
+    name: 'road-sign-side-road-angle-right-2',
+    key: 'RoadSignSideRoadAngleRight2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

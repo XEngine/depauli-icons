@@ -1,5 +1,6 @@
 export default {
-    name: 'FlagFlash',
+    name: 'flag-flash',
+    key: 'FlagFlash',
     width: 24,
     height: 24,
     attributes: undefined,

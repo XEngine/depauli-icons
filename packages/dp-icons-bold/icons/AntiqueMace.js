@@ -1,5 +1,6 @@
 export default {
-    name: 'AntiqueMace',
+    name: 'antique-mace',
+    key: 'AntiqueMace',
     width: 24,
     height: 24,
     attributes: undefined,

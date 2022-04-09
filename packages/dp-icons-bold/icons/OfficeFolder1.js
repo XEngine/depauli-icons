@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFolder1',
+    name: 'office-folder-1',
+    key: 'OfficeFolder1',
     width: 24,
     height: 24,
     attributes: undefined,

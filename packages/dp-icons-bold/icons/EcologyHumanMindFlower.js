@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyHumanMindFlower',
+    name: 'ecology-human-mind-flower',
+    key: 'EcologyHumanMindFlower',
     width: 24,
     height: 24,
     attributes: undefined,

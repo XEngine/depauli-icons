@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingSmartphoneHold',
+    name: 'meeting-smartphone-hold',
+    key: 'MeetingSmartphoneHold',
     width: 24,
     height: 24,
     attributes: undefined,

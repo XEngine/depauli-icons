@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseQuestionAlternate',
+    name: 'database-question-alternate',
+    key: 'DatabaseQuestionAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

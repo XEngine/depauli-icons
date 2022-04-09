@@ -1,5 +1,6 @@
 export default {
-    name: 'PoliceFootsteps',
+    name: 'police-footsteps',
+    key: 'PoliceFootsteps',
     width: 24,
     height: 24,
     attributes: undefined,

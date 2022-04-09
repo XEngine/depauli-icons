@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudRefresh',
+    name: 'cloud-refresh',
+    key: 'CloudRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

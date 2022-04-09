@@ -1,5 +1,6 @@
 export default {
-    name: 'PollutionFaucetWater',
+    name: 'pollution-faucet-water',
+    key: 'PollutionFaucetWater',
     width: 24,
     height: 24,
     attributes: undefined,

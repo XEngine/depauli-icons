@@ -1,5 +1,6 @@
 export default {
-    name: 'PicturePolaroidWoman',
+    name: 'picture-polaroid-woman',
+    key: 'PicturePolaroidWoman',
     width: 24,
     height: 24,
     attributes: undefined,

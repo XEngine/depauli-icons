@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasSnowGlobe',
+    name: 'christmas-snow-globe',
+    key: 'ChristmasSnowGlobe',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorDoubleClick2',
+    name: 'cursor-double-click-2',
+    key: 'CursorDoubleClick2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

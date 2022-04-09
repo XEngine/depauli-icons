@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraSmall',
+    name: 'camera-small',
+    key: 'CameraSmall',
     width: 24,
     height: 24,
     attributes: undefined,

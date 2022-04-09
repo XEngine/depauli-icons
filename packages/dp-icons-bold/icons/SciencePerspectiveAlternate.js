@@ -1,5 +1,6 @@
 export default {
-    name: 'SciencePerspectiveAlternate',
+    name: 'science-perspective-alternate',
+    key: 'SciencePerspectiveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

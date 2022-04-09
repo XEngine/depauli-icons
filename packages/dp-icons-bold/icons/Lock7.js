@@ -1,5 +1,6 @@
 export default {
-    name: 'Lock7',
+    name: 'lock-7',
+    key: 'Lock7',
     width: 24,
     height: 24,
     attributes: undefined,

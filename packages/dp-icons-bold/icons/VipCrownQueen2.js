@@ -1,5 +1,6 @@
 export default {
-    name: 'VipCrownQueen2',
+    name: 'vip-crown-queen-2',
+    key: 'VipCrownQueen2',
     width: 24,
     height: 24,
     attributes: undefined,

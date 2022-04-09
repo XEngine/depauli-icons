@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyNauseous1',
+    name: 'smiley-nauseous-1',
+    key: 'SmileyNauseous1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

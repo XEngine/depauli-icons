@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiStar',
+    name: 'wifi-star',
+    key: 'WifiStar',
     width: 24,
     height: 24,
     attributes: undefined,

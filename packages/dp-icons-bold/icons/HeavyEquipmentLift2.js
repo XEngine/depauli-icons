@@ -1,5 +1,6 @@
 export default {
-    name: 'HeavyEquipmentLift2',
+    name: 'heavy-equipment-lift-2',
+    key: 'HeavyEquipmentLift2',
     width: 24,
     height: 24,
     attributes: undefined,

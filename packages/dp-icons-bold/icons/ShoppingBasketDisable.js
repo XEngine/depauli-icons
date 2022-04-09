@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBasketDisable',
+    name: 'shopping-basket-disable',
+    key: 'ShoppingBasketDisable',
     width: 24,
     height: 24,
     attributes: undefined,

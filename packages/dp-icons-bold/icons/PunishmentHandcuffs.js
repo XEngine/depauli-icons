@@ -1,5 +1,6 @@
 export default {
-    name: 'PunishmentHandcuffs',
+    name: 'punishment-handcuffs',
+    key: 'PunishmentHandcuffs',
     width: 24,
     height: 24,
     attributes: undefined,

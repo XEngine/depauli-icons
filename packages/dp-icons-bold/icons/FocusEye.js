@@ -1,5 +1,6 @@
 export default {
-    name: 'FocusEye',
+    name: 'focus-eye',
+    key: 'FocusEye',
     width: 24,
     height: 24,
     attributes: undefined,

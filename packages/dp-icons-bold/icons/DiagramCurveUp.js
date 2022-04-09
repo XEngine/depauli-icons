@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramCurveUp',
+    name: 'diagram-curve-up',
+    key: 'DiagramCurveUp',
     width: 24,
     height: 24,
     attributes: undefined,

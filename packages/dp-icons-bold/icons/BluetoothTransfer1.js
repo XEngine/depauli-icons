@@ -1,5 +1,6 @@
 export default {
-    name: 'BluetoothTransfer1',
+    name: 'bluetooth-transfer-1',
+    key: 'BluetoothTransfer1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDealPayBuilding',
+    name: 'real-estate-deal-pay-building',
+    key: 'RealEstateDealPayBuilding',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionPlay',
+    name: 'email-action-play',
+    key: 'EmailActionPlay',
     width: 24,
     height: 24,
     attributes: undefined,

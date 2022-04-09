@@ -1,5 +1,6 @@
 export default {
-    name: 'SoccerGoalNet',
+    name: 'soccer-goal-net',
+    key: 'SoccerGoalNet',
     width: 24,
     height: 24,
     attributes: undefined,

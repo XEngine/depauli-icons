@@ -1,5 +1,6 @@
 export default {
-    name: 'StoveGasPot',
+    name: 'stove-gas-pot',
+    key: 'StoveGasPot',
     width: 24,
     height: 24,
     attributes: undefined,

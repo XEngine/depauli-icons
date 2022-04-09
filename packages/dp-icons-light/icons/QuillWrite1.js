@@ -1,5 +1,6 @@
 export default {
-    name: 'QuillWrite1',
+    name: 'quill-write-1',
+    key: 'QuillWrite1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

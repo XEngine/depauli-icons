@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesBusinessmanClock',
+    name: 'human-resources-businessman-clock',
+    key: 'HumanResourcesBusinessmanClock',
     width: 24,
     height: 24,
     attributes: undefined,

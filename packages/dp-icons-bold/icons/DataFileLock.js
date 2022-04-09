@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileLock',
+    name: 'data-file-lock',
+    key: 'DataFileLock',
     width: 24,
     height: 24,
     attributes: undefined,

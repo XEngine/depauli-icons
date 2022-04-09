@@ -1,5 +1,6 @@
 export default {
-    name: 'TreesChop',
+    name: 'trees-chop',
+    key: 'TreesChop',
     width: 24,
     height: 24,
     attributes: undefined,

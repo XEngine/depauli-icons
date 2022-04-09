@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItSettings',
+    name: 'love-it-settings',
+    key: 'LoveItSettings',
     width: 24,
     height: 24,
     attributes: undefined,

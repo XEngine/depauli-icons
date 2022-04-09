@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingTeamMonitor',
+    name: 'meeting-team-monitor',
+    key: 'MeetingTeamMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

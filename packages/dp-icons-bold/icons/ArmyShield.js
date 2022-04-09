@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmyShield',
+    name: 'army-shield',
+    key: 'ArmyShield',
     width: 24,
     height: 24,
     attributes: undefined,

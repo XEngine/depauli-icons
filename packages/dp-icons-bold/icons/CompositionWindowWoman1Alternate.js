@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionWindowWoman1Alternate',
+    name: 'composition-window-woman-1-alternate',
+    key: 'CompositionWindowWoman1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

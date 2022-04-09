@@ -1,5 +1,6 @@
 export default {
-    name: 'PartyConfettiWhistle',
+    name: 'party-confetti-whistle',
+    key: 'PartyConfettiWhistle',
     width: 24,
     height: 24,
     attributes: undefined,

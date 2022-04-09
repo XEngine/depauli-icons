@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyFever',
+    name: 'smiley-fever',
+    key: 'SmileyFever',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

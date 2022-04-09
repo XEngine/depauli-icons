@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingStarCheckAlternate',
+    name: 'rating-star-check-alternate',
+    key: 'RatingStarCheckAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

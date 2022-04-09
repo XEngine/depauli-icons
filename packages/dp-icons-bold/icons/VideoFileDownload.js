@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileDownload',
+    name: 'video-file-download',
+    key: 'VideoFileDownload',
     width: 24,
     height: 24,
     attributes: undefined,

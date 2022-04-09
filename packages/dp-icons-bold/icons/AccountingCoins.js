@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingCoins',
+    name: 'accounting-coins',
+    key: 'AccountingCoins',
     width: 24,
     height: 24,
     attributes: undefined,

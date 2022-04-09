@@ -1,5 +1,6 @@
 export default {
-    name: 'TripDestination',
+    name: 'trip-destination',
+    key: 'TripDestination',
     width: 24,
     height: 24,
     attributes: undefined,

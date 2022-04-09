@@ -1,5 +1,6 @@
 export default {
-    name: 'Lantern1',
+    name: 'lantern-1',
+    key: 'Lantern1',
     width: 24,
     height: 24,
     attributes: undefined,

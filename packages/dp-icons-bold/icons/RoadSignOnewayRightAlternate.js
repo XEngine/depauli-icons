@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignOnewayRightAlternate',
+    name: 'road-sign-oneway-right-alternate',
+    key: 'RoadSignOnewayRightAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

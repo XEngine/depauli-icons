@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentMov1',
+    name: 'vide-document-mov-1',
+    key: 'VideDocumentMov1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

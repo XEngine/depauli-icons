@@ -1,5 +1,6 @@
 export default {
-    name: 'LockCircle1',
+    name: 'lock-circle-1',
+    key: 'LockCircle1',
     width: 24,
     height: 24,
     attributes: undefined,

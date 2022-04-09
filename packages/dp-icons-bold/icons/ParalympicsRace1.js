@@ -1,5 +1,6 @@
 export default {
-    name: 'ParalympicsRace1',
+    name: 'paralympics-race-1',
+    key: 'ParalympicsRace1',
     width: 24,
     height: 24,
     attributes: undefined,

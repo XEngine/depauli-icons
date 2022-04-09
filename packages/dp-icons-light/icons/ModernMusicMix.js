@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernMusicMix',
+    name: 'modern-music-mix',
+    key: 'ModernMusicMix',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

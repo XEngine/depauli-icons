@@ -1,5 +1,6 @@
 export default {
-    name: 'ArchitectureWell',
+    name: 'architecture-well',
+    key: 'ArchitectureWell',
     width: 24,
     height: 24,
     attributes: undefined,

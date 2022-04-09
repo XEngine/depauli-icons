@@ -1,5 +1,6 @@
 export default {
-    name: 'MapsPin1',
+    name: 'maps-pin-1',
+    key: 'MapsPin1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VrPlayDevice',
+    name: 'vr-play-device',
+    key: 'VrPlayDevice',
     width: 24,
     height: 24,
     attributes: undefined,

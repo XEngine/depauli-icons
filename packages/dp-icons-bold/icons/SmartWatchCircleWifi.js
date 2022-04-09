@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleWifi',
+    name: 'smart-watch-circle-wifi',
+    key: 'SmartWatchCircleWifi',
     width: 24,
     height: 24,
     attributes: undefined,

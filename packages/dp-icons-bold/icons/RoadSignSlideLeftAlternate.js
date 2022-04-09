@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSlideLeftAlternate',
+    name: 'road-sign-slide-left-alternate',
+    key: 'RoadSignSlideLeftAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

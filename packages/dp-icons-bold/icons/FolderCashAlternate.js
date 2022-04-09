@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderCashAlternate',
+    name: 'folder-cash-alternate',
+    key: 'FolderCashAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

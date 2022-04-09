@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionWindowMan1Alternate',
+    name: 'composition-window-man-1-alternate',
+    key: 'CompositionWindowMan1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

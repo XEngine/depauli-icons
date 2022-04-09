@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolQuill1',
+    name: 'design-tool-quill-1',
+    key: 'DesignToolQuill1',
     width: 24,
     height: 24,
     attributes: undefined,

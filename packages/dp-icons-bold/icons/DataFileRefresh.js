@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileRefresh',
+    name: 'data-file-refresh',
+    key: 'DataFileRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

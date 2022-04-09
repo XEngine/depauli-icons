@@ -1,5 +1,6 @@
 export default {
-    name: 'Screen1Alternate',
+    name: 'screen-1-alternate',
+    key: 'Screen1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

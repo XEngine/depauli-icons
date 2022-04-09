@@ -1,5 +1,6 @@
 export default {
-    name: 'Flash',
+    name: 'flash',
+    key: 'Flash',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaGowalla1',
+    name: 'social-media-gowalla-1',
+    key: 'SocialMediaGowalla1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthModel2',
+    name: 'earth-model-2',
+    key: 'EarthModel2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignMudslideAlternate',
+    name: 'road-sign-mudslide-alternate',
+    key: 'RoadSignMudslideAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

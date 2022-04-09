@@ -1,5 +1,6 @@
 export default {
-    name: 'HistorySnakes',
+    name: 'history-snakes',
+    key: 'HistorySnakes',
     width: 24,
     height: 24,
     attributes: undefined,

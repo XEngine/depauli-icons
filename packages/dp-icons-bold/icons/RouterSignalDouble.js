@@ -1,5 +1,6 @@
 export default {
-    name: 'RouterSignalDouble',
+    name: 'router-signal-double',
+    key: 'RouterSignalDouble',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoomServiceCartFood',
+    name: 'room-service-cart-food',
+    key: 'RoomServiceCartFood',
     width: 24,
     height: 24,
     attributes: undefined,

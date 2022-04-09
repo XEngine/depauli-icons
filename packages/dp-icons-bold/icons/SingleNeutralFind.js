@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralFind',
+    name: 'single-neutral-find',
+    key: 'SingleNeutralFind',
     width: 24,
     height: 24,
     attributes: undefined,

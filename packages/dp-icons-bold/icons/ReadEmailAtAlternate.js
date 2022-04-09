@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadEmailAtAlternate',
+    name: 'read-email-at-alternate',
+    key: 'ReadEmailAtAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

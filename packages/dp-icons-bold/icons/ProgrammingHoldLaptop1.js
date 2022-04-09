@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingHoldLaptop1',
+    name: 'programming-hold-laptop-1',
+    key: 'ProgrammingHoldLaptop1',
     width: 24,
     height: 24,
     attributes: undefined,

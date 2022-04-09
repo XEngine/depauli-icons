@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationDown3',
+    name: 'navigation-down-3',
+    key: 'NavigationDown3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

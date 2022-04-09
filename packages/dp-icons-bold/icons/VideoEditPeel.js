@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditPeel',
+    name: 'video-edit-peel',
+    key: 'VideoEditPeel',
     width: 24,
     height: 24,
     attributes: undefined,

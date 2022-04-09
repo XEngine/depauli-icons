@@ -1,5 +1,6 @@
 export default {
-    name: 'FaceId6',
+    name: 'face-id-6',
+    key: 'FaceId6',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

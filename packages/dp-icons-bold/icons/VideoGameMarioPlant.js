@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameMarioPlant',
+    name: 'video-game-mario-plant',
+    key: 'VideoGameMarioPlant',
     width: 24,
     height: 24,
     attributes: undefined,

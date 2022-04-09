@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsTime',
+    name: 'single-woman-actions-time',
+    key: 'SingleWomanActionsTime',
     width: 24,
     height: 24,
     attributes: undefined,

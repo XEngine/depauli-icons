@@ -1,5 +1,6 @@
 export default {
-    name: 'Billboard',
+    name: 'billboard',
+    key: 'Billboard',
     width: 24,
     height: 24,
     attributes: undefined,

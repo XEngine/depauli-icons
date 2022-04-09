@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileMov1',
+    name: 'video-file-mov-1',
+    key: 'VideoFileMov1',
     width: 24,
     height: 24,
     attributes: undefined,

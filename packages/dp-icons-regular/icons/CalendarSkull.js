@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarSkull',
+    name: 'calendar-skull',
+    key: 'CalendarSkull',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

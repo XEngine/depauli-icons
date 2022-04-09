@@ -1,5 +1,6 @@
 export default {
-    name: 'DressingHanger',
+    name: 'dressing-hanger',
+    key: 'DressingHanger',
     width: 24,
     height: 24,
     attributes: undefined,

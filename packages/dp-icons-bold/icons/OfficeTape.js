@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeTape',
+    name: 'office-tape',
+    key: 'OfficeTape',
     width: 24,
     height: 24,
     attributes: undefined,

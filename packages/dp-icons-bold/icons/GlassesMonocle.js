@@ -1,5 +1,6 @@
 export default {
-    name: 'GlassesMonocle',
+    name: 'glasses-monocle',
+    key: 'GlassesMonocle',
     width: 24,
     height: 24,
     attributes: undefined,

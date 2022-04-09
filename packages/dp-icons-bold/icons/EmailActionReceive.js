@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionReceive',
+    name: 'email-action-receive',
+    key: 'EmailActionReceive',
     width: 24,
     height: 24,
     attributes: undefined,

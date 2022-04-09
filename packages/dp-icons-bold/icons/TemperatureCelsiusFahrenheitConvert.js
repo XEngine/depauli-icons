@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureCelsiusFahrenheitConvert',
+    name: 'temperature-celsius-fahrenheit-convert',
+    key: 'TemperatureCelsiusFahrenheitConvert',
     width: 24,
     height: 24,
     attributes: undefined,

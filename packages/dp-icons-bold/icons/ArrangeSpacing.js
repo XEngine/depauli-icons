@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrangeSpacing',
+    name: 'arrange-spacing',
+    key: 'ArrangeSpacing',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherCloudHurricane',
+    name: 'weather-cloud-hurricane',
+    key: 'WeatherCloudHurricane',
     width: 24,
     height: 24,
     attributes: undefined,

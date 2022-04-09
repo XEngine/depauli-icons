@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysRockingHorse1',
+    name: 'toys-rocking-horse-1',
+    key: 'ToysRockingHorse1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

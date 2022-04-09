@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralSetting',
+    name: 'single-neutral-setting',
+    key: 'SingleNeutralSetting',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

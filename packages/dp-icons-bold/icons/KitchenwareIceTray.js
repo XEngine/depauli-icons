@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareIceTray',
+    name: 'kitchenware-ice-tray',
+    key: 'KitchenwareIceTray',
     width: 24,
     height: 24,
     attributes: undefined,

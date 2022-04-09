@@ -1,5 +1,6 @@
 export default {
-    name: 'HarddriveDownload2',
+    name: 'harddrive-download-2',
+    key: 'HarddriveDownload2',
     width: 24,
     height: 24,
     attributes: undefined,

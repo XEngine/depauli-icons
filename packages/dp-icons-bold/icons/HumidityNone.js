@@ -1,5 +1,6 @@
 export default {
-    name: 'HumidityNone',
+    name: 'humidity-none',
+    key: 'HumidityNone',
     width: 24,
     height: 24,
     attributes: undefined,

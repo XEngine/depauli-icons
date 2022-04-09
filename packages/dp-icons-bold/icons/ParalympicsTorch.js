@@ -1,5 +1,6 @@
 export default {
-    name: 'ParalympicsTorch',
+    name: 'paralympics-torch',
+    key: 'ParalympicsTorch',
     width: 24,
     height: 24,
     attributes: undefined,

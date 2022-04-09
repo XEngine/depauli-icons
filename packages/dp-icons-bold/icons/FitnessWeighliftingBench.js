@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessWeighliftingBench',
+    name: 'fitness-weighlifting-bench',
+    key: 'FitnessWeighliftingBench',
     width: 24,
     height: 24,
     attributes: undefined,

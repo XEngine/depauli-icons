@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateMarketHouseDecrease',
+    name: 'real-estate-market-house-decrease',
+    key: 'RealEstateMarketHouseDecrease',
     width: 24,
     height: 24,
     attributes: undefined,

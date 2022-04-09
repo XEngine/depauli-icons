@@ -1,5 +1,6 @@
 export default {
-    name: 'SubtractBoldAlternate',
+    name: 'subtract-bold-alternate',
+    key: 'SubtractBoldAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

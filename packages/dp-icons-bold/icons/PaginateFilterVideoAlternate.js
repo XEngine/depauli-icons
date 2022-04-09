@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterVideoAlternate',
+    name: 'paginate-filter-video-alternate',
+    key: 'PaginateFilterVideoAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

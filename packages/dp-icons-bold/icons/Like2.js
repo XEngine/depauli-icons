@@ -1,5 +1,6 @@
 export default {
-    name: 'Like2',
+    name: 'like-2',
+    key: 'Like2',
     width: 24,
     height: 24,
     attributes: undefined,

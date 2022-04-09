@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareQuestionAlternate',
+    name: 'messages-bubble-square-question-alternate',
+    key: 'MessagesBubbleSquareQuestionAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

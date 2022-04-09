@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectricityPillar',
+    name: 'electricity-pillar',
+    key: 'ElectricityPillar',
     width: 24,
     height: 24,
     attributes: undefined,

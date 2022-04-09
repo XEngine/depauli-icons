@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleEdit1',
+    name: 'messages-bubble-edit-1',
+    key: 'MessagesBubbleEdit1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

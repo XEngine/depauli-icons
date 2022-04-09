@@ -1,5 +1,6 @@
 export default {
-    name: 'HairDressRoundBrush1',
+    name: 'hair-dress-round-brush-1',
+    key: 'HairDressRoundBrush1',
     width: 24,
     height: 24,
     attributes: undefined,

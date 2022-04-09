@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsGlueGun',
+    name: 'tools-glue-gun',
+    key: 'ToolsGlueGun',
     width: 24,
     height: 24,
     attributes: undefined,

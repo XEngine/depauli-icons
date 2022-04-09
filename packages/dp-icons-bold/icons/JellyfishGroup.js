@@ -1,5 +1,6 @@
 export default {
-    name: 'JellyfishGroup',
+    name: 'jellyfish-group',
+    key: 'JellyfishGroup',
     width: 24,
     height: 24,
     attributes: undefined,

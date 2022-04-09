@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadStraight',
+    name: 'road-straight',
+    key: 'RoadStraight',
     width: 24,
     height: 24,
     attributes: undefined,

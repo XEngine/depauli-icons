@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickRightBottomCorner3',
+    name: 'arrow-thick-right-bottom-corner-3',
+    key: 'ArrowThickRightBottomCorner3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

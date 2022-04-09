@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameControllerWifi',
+    name: 'video-game-controller-wifi',
+    key: 'VideoGameControllerWifi',
     width: 24,
     height: 24,
     attributes: undefined,

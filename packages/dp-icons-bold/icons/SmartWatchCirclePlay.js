@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCirclePlay',
+    name: 'smart-watch-circle-play',
+    key: 'SmartWatchCirclePlay',
     width: 24,
     height: 24,
     attributes: undefined,

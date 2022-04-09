@@ -1,5 +1,6 @@
 export default {
-    name: 'StairsPersonDecend1',
+    name: 'stairs-person-decend-1',
+    key: 'StairsPersonDecend1',
     width: 24,
     height: 24,
     attributes: undefined,

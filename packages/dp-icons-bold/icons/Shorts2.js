@@ -1,5 +1,6 @@
 export default {
-    name: 'Shorts2',
+    name: 'shorts-2',
+    key: 'Shorts2',
     width: 24,
     height: 24,
     attributes: undefined,

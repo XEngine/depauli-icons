@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramSplitVertical',
+    name: 'diagram-split-vertical',
+    key: 'DiagramSplitVertical',
     width: 24,
     height: 24,
     attributes: undefined,

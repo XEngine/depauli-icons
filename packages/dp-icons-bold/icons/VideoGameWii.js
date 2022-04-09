@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameWii',
+    name: 'video-game-wii',
+    key: 'VideoGameWii',
     width: 24,
     height: 24,
     attributes: undefined,

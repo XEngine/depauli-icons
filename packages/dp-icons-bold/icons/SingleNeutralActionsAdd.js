@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsAdd',
+    name: 'single-neutral-actions-add',
+    key: 'SingleNeutralActionsAdd',
     width: 24,
     height: 24,
     attributes: undefined,

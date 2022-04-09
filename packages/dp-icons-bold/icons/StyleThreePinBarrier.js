@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBarrier',
+    name: 'style-three-pin-barrier',
+    key: 'StyleThreePinBarrier',
     width: 24,
     height: 24,
     attributes: undefined,

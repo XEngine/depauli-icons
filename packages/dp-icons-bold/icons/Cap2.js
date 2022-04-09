@@ -1,5 +1,6 @@
 export default {
-    name: 'Cap2',
+    name: 'cap-2',
+    key: 'Cap2',
     width: 24,
     height: 24,
     attributes: undefined,

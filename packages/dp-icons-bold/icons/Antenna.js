@@ -1,5 +1,6 @@
 export default {
-    name: 'Antenna',
+    name: 'antenna',
+    key: 'Antenna',
     width: 24,
     height: 24,
     attributes: undefined,

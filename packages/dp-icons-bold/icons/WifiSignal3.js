@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiSignal3',
+    name: 'wifi-signal-3',
+    key: 'WifiSignal3',
     width: 24,
     height: 24,
     attributes: undefined,

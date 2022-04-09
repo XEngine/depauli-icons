@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinVet',
+    name: 'style-three-pin-vet',
+    key: 'StyleThreePinVet',
     width: 24,
     height: 24,
     attributes: undefined,

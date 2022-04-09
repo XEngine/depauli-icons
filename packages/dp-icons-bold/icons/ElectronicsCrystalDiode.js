@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsCrystalDiode',
+    name: 'electronics-crystal-diode',
+    key: 'ElectronicsCrystalDiode',
     width: 24,
     height: 24,
     attributes: undefined,

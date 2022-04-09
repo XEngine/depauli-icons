@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsLocation',
+    name: 'multiple-actions-location',
+    key: 'MultipleActionsLocation',
     width: 24,
     height: 24,
     attributes: undefined,

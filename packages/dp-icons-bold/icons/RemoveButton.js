@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveButton',
+    name: 'remove-button',
+    key: 'RemoveButton',
     width: 24,
     height: 24,
     attributes: undefined,

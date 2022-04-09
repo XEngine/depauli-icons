@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingHalfStarAlternate',
+    name: 'rating-half-star-alternate',
+    key: 'RatingHalfStarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

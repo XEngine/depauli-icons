@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsVariableCapacitor',
+    name: 'electronics-variable-capacitor',
+    key: 'ElectronicsVariableCapacitor',
     width: 24,
     height: 24,
     attributes: undefined,

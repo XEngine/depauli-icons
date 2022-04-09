@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthSetting',
+    name: 'earth-setting',
+    key: 'EarthSetting',
     width: 24,
     height: 24,
     attributes: undefined,

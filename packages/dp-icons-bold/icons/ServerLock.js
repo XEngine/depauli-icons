@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerLock',
+    name: 'server-lock',
+    key: 'ServerLock',
     width: 24,
     height: 24,
     attributes: undefined,

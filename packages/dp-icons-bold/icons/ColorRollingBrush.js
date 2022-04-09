@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorRollingBrush',
+    name: 'color-rolling-brush',
+    key: 'ColorRollingBrush',
     width: 24,
     height: 24,
     attributes: undefined,

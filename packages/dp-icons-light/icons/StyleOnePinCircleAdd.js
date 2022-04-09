@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinCircleAdd',
+    name: 'style-one-pin-circle-add',
+    key: 'StyleOnePinCircleAdd',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

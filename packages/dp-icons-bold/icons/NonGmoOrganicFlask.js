@@ -1,5 +1,6 @@
 export default {
-    name: 'NonGmoOrganicFlask',
+    name: 'non-gmo-organic-flask',
+    key: 'NonGmoOrganicFlask',
     width: 24,
     height: 24,
     attributes: undefined,

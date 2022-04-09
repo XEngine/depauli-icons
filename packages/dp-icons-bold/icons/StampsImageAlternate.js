@@ -1,5 +1,6 @@
 export default {
-    name: 'StampsImageAlternate',
+    name: 'stamps-image-alternate',
+    key: 'StampsImageAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

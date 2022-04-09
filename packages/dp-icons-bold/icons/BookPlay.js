@@ -1,5 +1,6 @@
 export default {
-    name: 'BookPlay',
+    name: 'book-play',
+    key: 'BookPlay',
     width: 24,
     height: 24,
     attributes: undefined,

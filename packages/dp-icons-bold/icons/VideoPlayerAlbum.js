@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoPlayerAlbum',
+    name: 'video-player-album',
+    key: 'VideoPlayerAlbum',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergySolarElectricity',
+    name: 'renewable-energy-solar-electricity',
+    key: 'RenewableEnergySolarElectricity',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

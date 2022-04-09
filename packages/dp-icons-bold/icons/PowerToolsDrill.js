@@ -1,5 +1,6 @@
 export default {
-    name: 'PowerToolsDrill',
+    name: 'power-tools-drill',
+    key: 'PowerToolsDrill',
     width: 24,
     height: 24,
     attributes: undefined,

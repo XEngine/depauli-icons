@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterProtectionFish',
+    name: 'water-protection-fish',
+    key: 'WaterProtectionFish',
     width: 24,
     height: 24,
     attributes: undefined,

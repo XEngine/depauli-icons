@@ -1,5 +1,6 @@
 export default {
-    name: 'IceCreamTruck',
+    name: 'ice-cream-truck',
+    key: 'IceCreamTruck',
     width: 24,
     height: 24,
     attributes: undefined,

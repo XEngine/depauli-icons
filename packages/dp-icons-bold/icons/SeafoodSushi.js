@@ -1,5 +1,6 @@
 export default {
-    name: 'SeafoodSushi',
+    name: 'seafood-sushi',
+    key: 'SeafoodSushi',
     width: 24,
     height: 24,
     attributes: undefined,

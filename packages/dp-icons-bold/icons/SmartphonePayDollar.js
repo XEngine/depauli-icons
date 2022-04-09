@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartphonePayDollar',
+    name: 'smartphone-pay-dollar',
+    key: 'SmartphonePayDollar',
     width: 24,
     height: 24,
     attributes: undefined,

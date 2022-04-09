@@ -1,5 +1,6 @@
 export default {
-    name: 'LensShade',
+    name: 'lens-shade',
+    key: 'LensShade',
     width: 24,
     height: 24,
     attributes: undefined,

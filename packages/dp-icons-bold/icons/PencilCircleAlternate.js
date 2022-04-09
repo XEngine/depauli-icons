@@ -1,5 +1,6 @@
 export default {
-    name: 'PencilCircleAlternate',
+    name: 'pencil-circle-alternate',
+    key: 'PencilCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

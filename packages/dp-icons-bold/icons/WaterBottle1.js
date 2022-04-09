@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterBottle1',
+    name: 'water-bottle-1',
+    key: 'WaterBottle1',
     width: 24,
     height: 24,
     attributes: undefined,

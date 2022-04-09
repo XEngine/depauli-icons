@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListClock',
+    name: 'task-list-clock',
+    key: 'TaskListClock',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

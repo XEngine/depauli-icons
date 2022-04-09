@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceFictionAlien1',
+    name: 'science-fiction-alien-1',
+    key: 'ScienceFictionAlien1',
     width: 24,
     height: 24,
     attributes: undefined,

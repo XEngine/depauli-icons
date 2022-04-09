@@ -1,5 +1,6 @@
 export default {
-    name: 'AllowancesNoFood',
+    name: 'allowances-no-food',
+    key: 'AllowancesNoFood',
     width: 24,
     height: 24,
     attributes: undefined,

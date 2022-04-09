@@ -1,5 +1,6 @@
 export default {
-    name: 'Knife',
+    name: 'knife',
+    key: 'Knife',
     width: 24,
     height: 24,
     attributes: undefined,

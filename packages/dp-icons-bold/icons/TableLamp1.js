@@ -1,5 +1,6 @@
 export default {
-    name: 'TableLamp1',
+    name: 'table-lamp-1',
+    key: 'TableLamp1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PregnancyEggs',
+    name: 'pregnancy-eggs',
+    key: 'PregnancyEggs',
     width: 24,
     height: 24,
     attributes: undefined,

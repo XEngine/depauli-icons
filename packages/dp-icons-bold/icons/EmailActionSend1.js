@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionSend1',
+    name: 'email-action-send-1',
+    key: 'EmailActionSend1',
     width: 24,
     height: 24,
     attributes: undefined,

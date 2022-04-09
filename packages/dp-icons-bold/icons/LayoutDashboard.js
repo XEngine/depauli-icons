@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutDashboard',
+    name: 'layout-dashboard',
+    key: 'LayoutDashboard',
     width: 24,
     height: 24,
     attributes: undefined,

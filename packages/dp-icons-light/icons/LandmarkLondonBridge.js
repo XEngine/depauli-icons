@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkLondonBridge',
+    name: 'landmark-london-bridge',
+    key: 'LandmarkLondonBridge',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

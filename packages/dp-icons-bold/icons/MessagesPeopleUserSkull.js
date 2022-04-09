@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesPeopleUserSkull',
+    name: 'messages-people-user-skull',
+    key: 'MessagesPeopleUserSkull',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TeaBottleHerbal',
+    name: 'tea-bottle-herbal',
+    key: 'TeaBottleHerbal',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

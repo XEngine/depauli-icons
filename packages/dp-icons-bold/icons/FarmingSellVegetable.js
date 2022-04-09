@@ -1,5 +1,6 @@
 export default {
-    name: 'FarmingSellVegetable',
+    name: 'farming-sell-vegetable',
+    key: 'FarmingSellVegetable',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Login1Alternate',
+    name: 'login-1-alternate',
+    key: 'Login1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

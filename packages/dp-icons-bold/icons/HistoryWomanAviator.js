@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryWomanAviator',
+    name: 'history-woman-aviator',
+    key: 'HistoryWomanAviator',
     width: 24,
     height: 24,
     attributes: undefined,

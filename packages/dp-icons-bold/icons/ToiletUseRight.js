@@ -1,5 +1,6 @@
 export default {
-    name: 'ToiletUseRight',
+    name: 'toilet-use-right',
+    key: 'ToiletUseRight',
     width: 24,
     height: 24,
     attributes: undefined,

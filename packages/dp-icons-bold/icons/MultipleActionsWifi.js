@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsWifi',
+    name: 'multiple-actions-wifi',
+    key: 'MultipleActionsWifi',
     width: 24,
     height: 24,
     attributes: undefined,

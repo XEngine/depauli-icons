@@ -1,5 +1,6 @@
 export default {
-    name: 'Shapes',
+    name: 'shapes',
+    key: 'Shapes',
     width: 24,
     height: 24,
     attributes: undefined,

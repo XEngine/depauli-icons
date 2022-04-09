@@ -1,5 +1,6 @@
 export default {
-    name: 'ParalympicsFlag',
+    name: 'paralympics-flag',
+    key: 'ParalympicsFlag',
     width: 24,
     height: 24,
     attributes: undefined,

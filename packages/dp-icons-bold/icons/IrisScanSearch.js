@@ -1,5 +1,6 @@
 export default {
-    name: 'IrisScanSearch',
+    name: 'iris-scan-search',
+    key: 'IrisScanSearch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Brightness1',
+    name: 'brightness-1',
+    key: 'Brightness1',
     width: 24,
     height: 24,
     attributes: undefined,

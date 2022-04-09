@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinRestaurant',
+    name: 'style-two-pin-restaurant',
+    key: 'StyleTwoPinRestaurant',
     width: 24,
     height: 24,
     attributes: undefined,

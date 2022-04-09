@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryEmpty1',
+    name: 'charging-battery-empty-1',
+    key: 'ChargingBatteryEmpty1',
     width: 24,
     height: 24,
     attributes: undefined,

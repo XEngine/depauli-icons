@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionChristianity',
+    name: 'religion-christianity',
+    key: 'ReligionChristianity',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsSound',
+    name: 'settings-sound',
+    key: 'SettingsSound',
     width: 24,
     height: 24,
     attributes: undefined,

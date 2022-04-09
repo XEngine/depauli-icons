@@ -1,5 +1,6 @@
 export default {
-    name: 'CandyJar',
+    name: 'candy-jar',
+    key: 'CandyJar',
     width: 24,
     height: 24,
     attributes: undefined,

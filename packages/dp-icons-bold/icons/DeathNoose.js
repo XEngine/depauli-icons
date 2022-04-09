@@ -1,5 +1,6 @@
 export default {
-    name: 'DeathNoose',
+    name: 'death-noose',
+    key: 'DeathNoose',
     width: 24,
     height: 24,
     attributes: undefined,

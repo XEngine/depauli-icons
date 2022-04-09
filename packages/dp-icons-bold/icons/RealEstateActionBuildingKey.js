@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingKey',
+    name: 'real-estate-action-building-key',
+    key: 'RealEstateActionBuildingKey',
     width: 24,
     height: 24,
     attributes: undefined,

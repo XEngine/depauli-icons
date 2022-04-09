@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseCashAlternate',
+    name: 'database-cash-alternate',
+    key: 'DatabaseCashAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

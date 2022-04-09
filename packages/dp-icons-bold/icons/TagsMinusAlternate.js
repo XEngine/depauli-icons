@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsMinusAlternate',
+    name: 'tags-minus-alternate',
+    key: 'TagsMinusAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

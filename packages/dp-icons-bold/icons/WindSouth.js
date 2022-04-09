@@ -1,5 +1,6 @@
 export default {
-    name: 'WindSouth',
+    name: 'wind-south',
+    key: 'WindSouth',
     width: 24,
     height: 24,
     attributes: undefined,

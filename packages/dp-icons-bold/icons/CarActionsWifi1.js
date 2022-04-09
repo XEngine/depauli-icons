@@ -1,5 +1,6 @@
 export default {
-    name: 'CarActionsWifi1',
+    name: 'car-actions-wifi-1',
+    key: 'CarActionsWifi1',
     width: 24,
     height: 24,
     attributes: undefined,

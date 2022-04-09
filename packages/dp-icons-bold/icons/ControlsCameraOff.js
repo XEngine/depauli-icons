@@ -1,5 +1,6 @@
 export default {
-    name: 'ControlsCameraOff',
+    name: 'controls-camera-off',
+    key: 'ControlsCameraOff',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTwoFingersExpandAll',
+    name: 'gesture-two-fingers-expand-all',
+    key: 'GestureTwoFingersExpandAll',
     width: 24,
     height: 24,
     attributes: undefined,

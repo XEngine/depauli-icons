@@ -1,5 +1,6 @@
 export default {
-    name: 'JobChooseCadidate1',
+    name: 'job-choose-cadidate-1',
+    key: 'JobChooseCadidate1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

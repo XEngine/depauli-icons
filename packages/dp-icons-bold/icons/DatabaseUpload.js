@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseUpload',
+    name: 'database-upload',
+    key: 'DatabaseUpload',
     width: 24,
     height: 24,
     attributes: undefined,

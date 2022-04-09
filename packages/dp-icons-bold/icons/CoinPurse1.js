@@ -1,5 +1,6 @@
 export default {
-    name: 'CoinPurse1',
+    name: 'coin-purse-1',
+    key: 'CoinPurse1',
     width: 24,
     height: 24,
     attributes: undefined,

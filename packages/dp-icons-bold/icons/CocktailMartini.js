@@ -1,5 +1,6 @@
 export default {
-    name: 'CocktailMartini',
+    name: 'cocktail-martini',
+    key: 'CocktailMartini',
     width: 24,
     height: 24,
     attributes: undefined,

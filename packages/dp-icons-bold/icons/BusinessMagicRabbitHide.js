@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessMagicRabbitHide',
+    name: 'business-magic-rabbit-hide',
+    key: 'BusinessMagicRabbitHide',
     width: 24,
     height: 24,
     attributes: undefined,

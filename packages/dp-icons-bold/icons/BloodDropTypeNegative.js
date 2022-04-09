@@ -1,5 +1,6 @@
 export default {
-    name: 'BloodDropTypeNegative',
+    name: 'blood-drop-type-negative',
+    key: 'BloodDropTypeNegative',
     width: 24,
     height: 24,
     attributes: undefined,

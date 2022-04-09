@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskStarAlternate',
+    name: 'mask-star-alternate',
+    key: 'MaskStarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

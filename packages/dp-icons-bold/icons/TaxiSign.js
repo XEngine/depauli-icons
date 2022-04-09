@@ -1,5 +1,6 @@
 export default {
-    name: 'TaxiSign',
+    name: 'taxi-sign',
+    key: 'TaxiSign',
     width: 24,
     height: 24,
     attributes: undefined,

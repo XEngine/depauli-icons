@@ -1,5 +1,6 @@
 export default {
-    name: 'HippoBody',
+    name: 'hippo-body',
+    key: 'HippoBody',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ChairRetro',
+    name: 'chair-retro',
+    key: 'ChairRetro',
     width: 24,
     height: 24,
     attributes: undefined,

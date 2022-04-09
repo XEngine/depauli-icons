@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingPiggyDollars',
+    name: 'saving-piggy-dollars',
+    key: 'SavingPiggyDollars',
     width: 24,
     height: 24,
     attributes: undefined,

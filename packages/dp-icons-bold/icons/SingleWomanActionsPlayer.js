@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsPlayer',
+    name: 'single-woman-actions-player',
+    key: 'SingleWomanActionsPlayer',
     width: 24,
     height: 24,
     attributes: undefined,

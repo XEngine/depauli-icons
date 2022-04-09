@@ -1,5 +1,6 @@
 export default {
-    name: 'PortablePlayer',
+    name: 'portable-player',
+    key: 'PortablePlayer',
     width: 24,
     height: 24,
     attributes: undefined,

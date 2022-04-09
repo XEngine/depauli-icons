@@ -1,5 +1,6 @@
 export default {
-    name: 'WildBirdOwlBody',
+    name: 'wild-bird-owl-body',
+    key: 'WildBirdOwlBody',
     width: 24,
     height: 24,
     attributes: undefined,

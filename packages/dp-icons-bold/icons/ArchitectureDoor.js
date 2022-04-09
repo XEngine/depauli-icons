@@ -1,5 +1,6 @@
 export default {
-    name: 'ArchitectureDoor',
+    name: 'architecture-door',
+    key: 'ArchitectureDoor',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentContrabass',
+    name: 'instrument-contrabass',
+    key: 'InstrumentContrabass',
     width: 24,
     height: 24,
     attributes: undefined,

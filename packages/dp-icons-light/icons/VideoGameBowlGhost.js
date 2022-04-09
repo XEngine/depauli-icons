@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameBowlGhost',
+    name: 'video-game-bowl-ghost',
+    key: 'VideoGameBowlGhost',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

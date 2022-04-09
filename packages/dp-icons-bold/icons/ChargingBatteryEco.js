@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryEco',
+    name: 'charging-battery-eco',
+    key: 'ChargingBatteryEco',
     width: 24,
     height: 24,
     attributes: undefined,

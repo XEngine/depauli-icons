@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionHandFrame',
+    name: 'composition-hand-frame',
+    key: 'CompositionHandFrame',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutContent',
+    name: 'layout-content',
+    key: 'LayoutContent',
     width: 24,
     height: 24,
     attributes: undefined,

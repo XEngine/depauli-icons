@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingDocument',
+    name: 'accounting-document',
+    key: 'AccountingDocument',
     width: 24,
     height: 24,
     attributes: undefined,

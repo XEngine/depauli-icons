@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyDropAlternate',
+    name: 'smiley-drop-alternate',
+    key: 'SmileyDropAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

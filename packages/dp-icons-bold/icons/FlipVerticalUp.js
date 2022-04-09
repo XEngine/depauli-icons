@@ -1,5 +1,6 @@
 export default {
-    name: 'FlipVerticalUp',
+    name: 'flip-vertical-up',
+    key: 'FlipVerticalUp',
     width: 24,
     height: 24,
     attributes: undefined,

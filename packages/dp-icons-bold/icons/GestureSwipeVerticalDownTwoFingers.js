@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureSwipeVerticalDownTwoFingers',
+    name: 'gesture-swipe-vertical-down-two-fingers',
+    key: 'GestureSwipeVerticalDownTwoFingers',
     width: 24,
     height: 24,
     attributes: undefined,

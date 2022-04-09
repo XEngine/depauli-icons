@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignHill1Alternate',
+    name: 'road-sign-hill-1-alternate',
+    key: 'RoadSignHill1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonPrevious',
+    name: 'button-previous',
+    key: 'ButtonPrevious',
     width: 24,
     height: 24,
     attributes: undefined,

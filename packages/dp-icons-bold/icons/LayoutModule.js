@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutModule',
+    name: 'layout-module',
+    key: 'LayoutModule',
     width: 24,
     height: 24,
     attributes: undefined,

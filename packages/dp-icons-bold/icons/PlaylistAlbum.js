@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistAlbum',
+    name: 'playlist-album',
+    key: 'PlaylistAlbum',
     width: 24,
     height: 24,
     attributes: undefined,

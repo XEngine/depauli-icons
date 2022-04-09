@@ -1,5 +1,6 @@
 export default {
-    name: 'ModuleHandPuzzle1',
+    name: 'module-hand-puzzle-1',
+    key: 'ModuleHandPuzzle1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

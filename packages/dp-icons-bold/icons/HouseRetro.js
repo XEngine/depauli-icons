@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseRetro',
+    name: 'house-retro',
+    key: 'HouseRetro',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationLeft2',
+    name: 'navigation-left-2',
+    key: 'NavigationLeft2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

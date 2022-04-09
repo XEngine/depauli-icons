@@ -1,5 +1,6 @@
 export default {
-    name: 'WildBirdFlock',
+    name: 'wild-bird-flock',
+    key: 'WildBirdFlock',
     width: 24,
     height: 24,
     attributes: {"fill":"none","fill-rule":"evenodd","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

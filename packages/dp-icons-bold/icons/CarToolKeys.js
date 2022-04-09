@@ -1,5 +1,6 @@
 export default {
-    name: 'CarToolKeys',
+    name: 'car-tool-keys',
+    key: 'CarToolKeys',
     width: 24,
     height: 24,
     attributes: undefined,

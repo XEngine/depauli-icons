@@ -1,5 +1,6 @@
 export default {
-    name: 'AircraftPropeller1',
+    name: 'aircraft-propeller-1',
+    key: 'AircraftPropeller1',
     width: 24,
     height: 24,
     attributes: undefined,

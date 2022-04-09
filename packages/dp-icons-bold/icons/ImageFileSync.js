@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileSync',
+    name: 'image-file-sync',
+    key: 'ImageFileSync',
     width: 24,
     height: 24,
     attributes: undefined,

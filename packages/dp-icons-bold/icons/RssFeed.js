@@ -1,5 +1,6 @@
 export default {
-    name: 'RssFeed',
+    name: 'rss-feed',
+    key: 'RssFeed',
     width: 24,
     height: 24,
     attributes: undefined,

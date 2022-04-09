@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentCash',
+    name: 'shipment-cash',
+    key: 'ShipmentCash',
     width: 24,
     height: 24,
     attributes: undefined,

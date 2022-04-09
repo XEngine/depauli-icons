@@ -1,5 +1,6 @@
 export default {
-    name: 'HospitalBuilding1',
+    name: 'hospital-building-1',
+    key: 'HospitalBuilding1',
     width: 24,
     height: 24,
     attributes: undefined,

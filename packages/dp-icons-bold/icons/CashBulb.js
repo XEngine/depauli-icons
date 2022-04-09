@@ -1,5 +1,6 @@
 export default {
-    name: 'CashBulb',
+    name: 'cash-bulb',
+    key: 'CashBulb',
     width: 24,
     height: 24,
     attributes: undefined,

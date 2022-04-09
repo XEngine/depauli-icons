@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramFallDown',
+    name: 'diagram-fall-down',
+    key: 'DiagramFallDown',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

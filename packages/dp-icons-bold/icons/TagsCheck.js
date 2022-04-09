@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsCheck',
+    name: 'tags-check',
+    key: 'TagsCheck',
     width: 24,
     height: 24,
     attributes: undefined,

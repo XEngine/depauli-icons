@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBin',
+    name: 'style-three-pin-bin',
+    key: 'StyleThreePinBin',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TaxiDriver',
+    name: 'taxi-driver',
+    key: 'TaxiDriver',
     width: 24,
     height: 24,
     attributes: undefined,

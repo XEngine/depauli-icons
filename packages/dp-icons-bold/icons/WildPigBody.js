@@ -1,5 +1,6 @@
 export default {
-    name: 'WildPigBody',
+    name: 'wild-pig-body',
+    key: 'WildPigBody',
     width: 24,
     height: 24,
     attributes: undefined,

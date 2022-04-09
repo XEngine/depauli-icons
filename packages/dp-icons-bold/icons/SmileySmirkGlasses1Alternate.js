@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileySmirkGlasses1Alternate',
+    name: 'smiley-smirk-glasses-1-alternate',
+    key: 'SmileySmirkGlasses1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

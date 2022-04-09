@@ -1,5 +1,6 @@
 export default {
-    name: 'LockPassword1',
+    name: 'lock-password-1',
+    key: 'LockPassword1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

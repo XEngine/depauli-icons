@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyChildJumpingRope',
+    name: 'family-child-jumping-rope',
+    key: 'FamilyChildJumpingRope',
     width: 24,
     height: 24,
     attributes: undefined,

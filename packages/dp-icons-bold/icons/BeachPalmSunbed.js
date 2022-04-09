@@ -1,5 +1,6 @@
 export default {
-    name: 'BeachPalmSunbed',
+    name: 'beach-palm-sunbed',
+    key: 'BeachPalmSunbed',
     width: 24,
     height: 24,
     attributes: undefined,

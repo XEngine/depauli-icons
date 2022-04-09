@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridSubtract',
+    name: 'layers-grid-subtract',
+    key: 'LayersGridSubtract',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

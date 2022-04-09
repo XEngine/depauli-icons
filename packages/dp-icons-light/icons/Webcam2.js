@@ -1,5 +1,6 @@
 export default {
-    name: 'Webcam2',
+    name: 'webcam-2',
+    key: 'Webcam2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

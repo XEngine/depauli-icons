@@ -1,5 +1,6 @@
 export default {
-    name: 'StudyBrain1',
+    name: 'study-brain-1',
+    key: 'StudyBrain1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

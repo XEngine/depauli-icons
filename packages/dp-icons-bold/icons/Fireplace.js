@@ -1,5 +1,6 @@
 export default {
-    name: 'Fireplace',
+    name: 'fireplace',
+    key: 'Fireplace',
     width: 24,
     height: 24,
     attributes: undefined,

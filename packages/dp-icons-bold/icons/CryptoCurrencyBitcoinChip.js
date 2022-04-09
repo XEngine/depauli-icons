@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinChip',
+    name: 'crypto-currency-bitcoin-chip',
+    key: 'CryptoCurrencyBitcoinChip',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ZoomOut',
+    name: 'zoom-out',
+    key: 'ZoomOut',
     width: 24,
     height: 24,
     attributes: undefined,

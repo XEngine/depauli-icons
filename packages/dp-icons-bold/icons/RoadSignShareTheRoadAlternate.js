@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignShareTheRoadAlternate',
+    name: 'road-sign-share-the-road-alternate',
+    key: 'RoadSignShareTheRoadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

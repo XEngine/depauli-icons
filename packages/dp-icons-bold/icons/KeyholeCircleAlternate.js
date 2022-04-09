@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyholeCircleAlternate',
+    name: 'keyhole-circle-alternate',
+    key: 'KeyholeCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

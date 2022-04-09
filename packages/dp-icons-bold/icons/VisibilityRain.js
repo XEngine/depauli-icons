@@ -1,5 +1,6 @@
 export default {
-    name: 'VisibilityRain',
+    name: 'visibility-rain',
+    key: 'VisibilityRain',
     width: 24,
     height: 24,
     attributes: undefined,

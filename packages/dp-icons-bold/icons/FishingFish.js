@@ -1,5 +1,6 @@
 export default {
-    name: 'FishingFish',
+    name: 'fishing-fish',
+    key: 'FishingFish',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Hourglass1',
+    name: 'hourglass-1',
+    key: 'Hourglass1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinGlobal',
+    name: 'style-one-pin-global',
+    key: 'StyleOnePinGlobal',
     width: 24,
     height: 24,
     attributes: undefined,

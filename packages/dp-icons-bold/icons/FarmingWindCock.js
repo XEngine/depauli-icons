@@ -1,5 +1,6 @@
 export default {
-    name: 'FarmingWindCock',
+    name: 'farming-wind-cock',
+    key: 'FarmingWindCock',
     width: 24,
     height: 24,
     attributes: undefined,

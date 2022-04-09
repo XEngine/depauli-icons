@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsPliers',
+    name: 'tools-pliers',
+    key: 'ToolsPliers',
     width: 24,
     height: 24,
     attributes: undefined,

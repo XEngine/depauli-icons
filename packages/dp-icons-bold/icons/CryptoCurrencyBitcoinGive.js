@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinGive',
+    name: 'crypto-currency-bitcoin-give',
+    key: 'CryptoCurrencyBitcoinGive',
     width: 24,
     height: 24,
     attributes: undefined,

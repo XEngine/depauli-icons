@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFile',
+    name: 'audio-file',
+    key: 'AudioFile',
     width: 24,
     height: 24,
     attributes: undefined,

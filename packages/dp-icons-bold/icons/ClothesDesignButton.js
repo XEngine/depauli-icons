@@ -1,5 +1,6 @@
 export default {
-    name: 'ClothesDesignButton',
+    name: 'clothes-design-button',
+    key: 'ClothesDesignButton',
     width: 24,
     height: 24,
     attributes: undefined,

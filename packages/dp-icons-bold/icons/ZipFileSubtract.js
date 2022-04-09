@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileSubtract',
+    name: 'zip-file-subtract',
+    key: 'ZipFileSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

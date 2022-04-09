@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileEdit',
+    name: 'zip-file-edit',
+    key: 'ZipFileEdit',
     width: 24,
     height: 24,
     attributes: undefined,

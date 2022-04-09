@@ -1,5 +1,6 @@
 export default {
-    name: 'InformationDeskPaper',
+    name: 'information-desk-paper',
+    key: 'InformationDeskPaper',
     width: 24,
     height: 24,
     attributes: undefined,

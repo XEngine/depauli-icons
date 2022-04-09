@@ -1,5 +1,6 @@
 export default {
-    name: 'StartupLaunch',
+    name: 'startup-launch',
+    key: 'StartupLaunch',
     width: 24,
     height: 24,
     attributes: undefined,

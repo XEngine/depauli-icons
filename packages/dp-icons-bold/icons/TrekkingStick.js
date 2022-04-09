@@ -1,5 +1,6 @@
 export default {
-    name: 'TrekkingStick',
+    name: 'trekking-stick',
+    key: 'TrekkingStick',
     width: 24,
     height: 24,
     attributes: undefined,

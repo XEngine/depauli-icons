@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessDealHandshakeCircleAlternate',
+    name: 'business-deal-handshake-circle-alternate',
+    key: 'BusinessDealHandshakeCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

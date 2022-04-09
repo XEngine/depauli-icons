@@ -1,5 +1,6 @@
 export default {
-    name: 'SurveillanceTarget',
+    name: 'surveillance-target',
+    key: 'SurveillanceTarget',
     width: 24,
     height: 24,
     attributes: undefined,

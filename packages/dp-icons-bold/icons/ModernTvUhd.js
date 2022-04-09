@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernTvUhd',
+    name: 'modern-tv-uhd',
+    key: 'ModernTvUhd',
     width: 24,
     height: 24,
     attributes: undefined,

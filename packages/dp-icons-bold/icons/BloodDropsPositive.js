@@ -1,5 +1,6 @@
 export default {
-    name: 'BloodDropsPositive',
+    name: 'blood-drops-positive',
+    key: 'BloodDropsPositive',
     width: 24,
     height: 24,
     attributes: undefined,

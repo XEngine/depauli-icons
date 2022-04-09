@@ -1,5 +1,6 @@
 export default {
-    name: 'DataTransferSquareHorizontalAlternate',
+    name: 'data-transfer-square-horizontal-alternate',
+    key: 'DataTransferSquareHorizontalAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

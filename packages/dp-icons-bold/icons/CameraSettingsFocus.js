@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraSettingsFocus',
+    name: 'camera-settings-focus',
+    key: 'CameraSettingsFocus',
     width: 24,
     height: 24,
     attributes: undefined,

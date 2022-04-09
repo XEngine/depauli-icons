@@ -1,5 +1,6 @@
 export default {
-    name: 'CashPaymentCoinStash',
+    name: 'cash-payment-coin-stash',
+    key: 'CashPaymentCoinStash',
     width: 24,
     height: 24,
     attributes: undefined,

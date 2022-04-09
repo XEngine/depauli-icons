@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopOpen',
+    name: 'shop-open',
+    key: 'ShopOpen',
     width: 24,
     height: 24,
     attributes: undefined,

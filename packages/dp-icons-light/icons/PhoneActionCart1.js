@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionCart1',
+    name: 'phone-action-cart-1',
+    key: 'PhoneActionCart1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

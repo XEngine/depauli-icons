@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramArrowDashDown1',
+    name: 'diagram-arrow-dash-down-1',
+    key: 'DiagramArrowDashDown1',
     width: 24,
     height: 24,
     attributes: undefined,

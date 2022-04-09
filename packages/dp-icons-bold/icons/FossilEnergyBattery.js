@@ -1,5 +1,6 @@
 export default {
-    name: 'FossilEnergyBattery',
+    name: 'fossil-energy-battery',
+    key: 'FossilEnergyBattery',
     width: 24,
     height: 24,
     attributes: undefined,

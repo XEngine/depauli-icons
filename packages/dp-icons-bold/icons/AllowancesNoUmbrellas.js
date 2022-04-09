@@ -1,5 +1,6 @@
 export default {
-    name: 'AllowancesNoUmbrellas',
+    name: 'allowances-no-umbrellas',
+    key: 'AllowancesNoUmbrellas',
     width: 24,
     height: 24,
     attributes: undefined,

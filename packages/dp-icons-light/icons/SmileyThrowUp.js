@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyThrowUp',
+    name: 'smiley-throw-up',
+    key: 'SmileyThrowUp',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

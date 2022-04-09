@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsEmail',
+    name: 'single-woman-actions-email',
+    key: 'SingleWomanActionsEmail',
     width: 24,
     height: 24,
     attributes: undefined,

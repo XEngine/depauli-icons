@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldAdd',
+    name: 'shield-add',
+    key: 'ShieldAdd',
     width: 24,
     height: 24,
     attributes: undefined,

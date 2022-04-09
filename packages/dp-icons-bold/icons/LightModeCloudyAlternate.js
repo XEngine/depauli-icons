@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeCloudyAlternate',
+    name: 'light-mode-cloudy-alternate',
+    key: 'LightModeCloudyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

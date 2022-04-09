@@ -1,5 +1,6 @@
 export default {
-    name: 'TeamExchangeChat',
+    name: 'team-exchange-chat',
+    key: 'TeamExchangeChat',
     width: 24,
     height: 24,
     attributes: undefined,

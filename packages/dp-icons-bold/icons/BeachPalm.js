@@ -1,5 +1,6 @@
 export default {
-    name: 'BeachPalm',
+    name: 'beach-palm',
+    key: 'BeachPalm',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareRemoveAlternate',
+    name: 'messages-bubble-square-remove-alternate',
+    key: 'MessagesBubbleSquareRemoveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

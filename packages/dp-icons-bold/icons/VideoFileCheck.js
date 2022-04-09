@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileCheck',
+    name: 'video-file-check',
+    key: 'VideoFileCheck',
     width: 24,
     height: 24,
     attributes: undefined,

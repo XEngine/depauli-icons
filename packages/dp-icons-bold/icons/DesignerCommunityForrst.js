@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignerCommunityForrst',
+    name: 'designer-community-forrst',
+    key: 'DesignerCommunityForrst',
     width: 24,
     height: 24,
     attributes: undefined,

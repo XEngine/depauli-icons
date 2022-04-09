@@ -1,5 +1,6 @@
 export default {
-    name: 'ReceptionDesk',
+    name: 'reception-desk',
+    key: 'ReceptionDesk',
     width: 24,
     height: 24,
     attributes: undefined,

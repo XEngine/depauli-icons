@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingAim',
+    name: 'messaging-aim',
+    key: 'MessagingAim',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsEmail',
+    name: 'multiple-actions-email',
+    key: 'MultipleActionsEmail',
     width: 24,
     height: 24,
     attributes: undefined,

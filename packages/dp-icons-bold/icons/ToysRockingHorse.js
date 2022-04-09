@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysRockingHorse',
+    name: 'toys-rocking-horse',
+    key: 'ToysRockingHorse',
     width: 24,
     height: 24,
     attributes: undefined,

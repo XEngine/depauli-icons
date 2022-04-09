@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsWheelUnscrew',
+    name: 'tools-wheel-unscrew',
+    key: 'ToolsWheelUnscrew',
     width: 24,
     height: 24,
     attributes: undefined,

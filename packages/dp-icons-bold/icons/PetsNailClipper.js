@@ -1,5 +1,6 @@
 export default {
-    name: 'PetsNailClipper',
+    name: 'pets-nail-clipper',
+    key: 'PetsNailClipper',
     width: 24,
     height: 24,
     attributes: undefined,

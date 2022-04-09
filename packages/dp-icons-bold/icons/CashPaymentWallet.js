@@ -1,5 +1,6 @@
 export default {
-    name: 'CashPaymentWallet',
+    name: 'cash-payment-wallet',
+    key: 'CashPaymentWallet',
     width: 24,
     height: 24,
     attributes: undefined,

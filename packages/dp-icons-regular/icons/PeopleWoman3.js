@@ -1,5 +1,6 @@
 export default {
-    name: 'PeopleWoman3',
+    name: 'people-woman-3',
+    key: 'PeopleWoman3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

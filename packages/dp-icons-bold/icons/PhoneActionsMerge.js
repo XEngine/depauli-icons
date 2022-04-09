@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsMerge',
+    name: 'phone-actions-merge',
+    key: 'PhoneActionsMerge',
     width: 24,
     height: 24,
     attributes: undefined,

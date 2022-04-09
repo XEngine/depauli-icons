@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsSliderAlternate',
+    name: 'settings-slider-alternate',
+    key: 'SettingsSliderAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

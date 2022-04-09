@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardButtonDirection',
+    name: 'keyboard-button-direction',
+    key: 'KeyboardButtonDirection',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

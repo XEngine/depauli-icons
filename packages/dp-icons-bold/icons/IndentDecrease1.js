@@ -1,5 +1,6 @@
 export default {
-    name: 'IndentDecrease1',
+    name: 'indent-decrease-1',
+    key: 'IndentDecrease1',
     width: 24,
     height: 24,
     attributes: undefined,

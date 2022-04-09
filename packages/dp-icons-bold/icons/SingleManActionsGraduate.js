@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsGraduate',
+    name: 'single-man-actions-graduate',
+    key: 'SingleManActionsGraduate',
     width: 24,
     height: 24,
     attributes: undefined,

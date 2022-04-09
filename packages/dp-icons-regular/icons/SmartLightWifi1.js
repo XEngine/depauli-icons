@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartLightWifi1',
+    name: 'smart-light-wifi-1',
+    key: 'SmartLightWifi1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

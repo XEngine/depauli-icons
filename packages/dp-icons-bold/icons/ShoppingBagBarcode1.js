@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBagBarcode1',
+    name: 'shopping-bag-barcode-1',
+    key: 'ShoppingBagBarcode1',
     width: 24,
     height: 24,
     attributes: undefined,

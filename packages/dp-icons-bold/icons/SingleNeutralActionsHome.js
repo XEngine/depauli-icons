@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsHome',
+    name: 'single-neutral-actions-home',
+    key: 'SingleNeutralActionsHome',
     width: 24,
     height: 24,
     attributes: undefined,

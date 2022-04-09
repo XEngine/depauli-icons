@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkWatPhraKaew',
+    name: 'landmark-wat-phra-kaew',
+    key: 'LandmarkWatPhraKaew',
     width: 24,
     height: 24,
     attributes: undefined,

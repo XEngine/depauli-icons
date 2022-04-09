@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardWarning',
+    name: 'sd-card-warning',
+    key: 'SdCardWarning',
     width: 24,
     height: 24,
     attributes: undefined,

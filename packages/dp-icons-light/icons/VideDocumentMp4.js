@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentMp4',
+    name: 'vide-document-mp4',
+    key: 'VideDocumentMp4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

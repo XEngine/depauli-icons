@@ -1,5 +1,6 @@
 export default {
-    name: 'BoardGameLudo1',
+    name: 'board-game-ludo-1',
+    key: 'BoardGameLudo1',
     width: 24,
     height: 24,
     attributes: undefined,

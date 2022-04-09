@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramArrowUpLeftCorner',
+    name: 'diagram-arrow-up-left-corner',
+    key: 'DiagramArrowUpLeftCorner',
     width: 24,
     height: 24,
     attributes: undefined,

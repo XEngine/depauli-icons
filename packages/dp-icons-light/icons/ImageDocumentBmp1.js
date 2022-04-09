@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageDocumentBmp1',
+    name: 'image-document-bmp-1',
+    key: 'ImageDocumentBmp1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

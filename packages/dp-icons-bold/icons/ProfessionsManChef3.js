@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsManChef3',
+    name: 'professions-man-chef-3',
+    key: 'ProfessionsManChef3',
     width: 24,
     height: 24,
     attributes: undefined,

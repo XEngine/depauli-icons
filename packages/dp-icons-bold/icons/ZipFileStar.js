@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileStar',
+    name: 'zip-file-star',
+    key: 'ZipFileStar',
     width: 24,
     height: 24,
     attributes: undefined,

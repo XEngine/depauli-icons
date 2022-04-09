@@ -1,5 +1,6 @@
 export default {
-    name: 'HairSkin',
+    name: 'hair-skin',
+    key: 'HairSkin',
     width: 24,
     height: 24,
     attributes: undefined,

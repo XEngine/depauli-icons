@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerCash',
+    name: 'server-cash',
+    key: 'ServerCash',
     width: 24,
     height: 24,
     attributes: undefined,

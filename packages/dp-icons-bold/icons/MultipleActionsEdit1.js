@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsEdit1',
+    name: 'multiple-actions-edit-1',
+    key: 'MultipleActionsEdit1',
     width: 24,
     height: 24,
     attributes: undefined,

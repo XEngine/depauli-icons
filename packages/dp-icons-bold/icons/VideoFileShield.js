@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileShield',
+    name: 'video-file-shield',
+    key: 'VideoFileShield',
     width: 24,
     height: 24,
     attributes: undefined,

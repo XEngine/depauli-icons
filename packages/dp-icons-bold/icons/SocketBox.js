@@ -1,5 +1,6 @@
 export default {
-    name: 'SocketBox',
+    name: 'socket-box',
+    key: 'SocketBox',
     width: 24,
     height: 24,
     attributes: undefined,

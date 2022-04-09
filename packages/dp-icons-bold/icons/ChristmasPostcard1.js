@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasPostcard1',
+    name: 'christmas-postcard-1',
+    key: 'ChristmasPostcard1',
     width: 24,
     height: 24,
     attributes: undefined,

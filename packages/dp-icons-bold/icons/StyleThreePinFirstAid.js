@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinFirstAid',
+    name: 'style-three-pin-first-aid',
+    key: 'StyleThreePinFirstAid',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherCloudSnow',
+    name: 'weather-cloud-snow',
+    key: 'WeatherCloudSnow',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareHoney',
+    name: 'kitchenware-honey',
+    key: 'KitchenwareHoney',
     width: 24,
     height: 24,
     attributes: undefined,

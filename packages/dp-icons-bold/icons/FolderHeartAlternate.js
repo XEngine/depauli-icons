@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderHeartAlternate',
+    name: 'folder-heart-alternate',
+    key: 'FolderHeartAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

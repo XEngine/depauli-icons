@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyDroolAlternate',
+    name: 'smiley-drool-alternate',
+    key: 'SmileyDroolAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

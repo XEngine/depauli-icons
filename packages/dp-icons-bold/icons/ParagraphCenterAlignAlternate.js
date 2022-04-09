@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphCenterAlignAlternate',
+    name: 'paragraph-center-align-alternate',
+    key: 'ParagraphCenterAlignAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

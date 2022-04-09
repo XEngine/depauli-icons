@@ -1,5 +1,6 @@
 export default {
-    name: 'VrController',
+    name: 'vr-controller',
+    key: 'VrController',
     width: 24,
     height: 24,
     attributes: undefined,

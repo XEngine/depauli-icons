@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeAlternative',
+    name: 'file-code-alternative',
+    key: 'FileCodeAlternative',
     width: 24,
     height: 24,
     attributes: undefined,

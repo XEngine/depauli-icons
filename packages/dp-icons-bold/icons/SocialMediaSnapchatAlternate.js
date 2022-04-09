@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaSnapchatAlternate',
+    name: 'social-media-snapchat-alternate',
+    key: 'SocialMediaSnapchatAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

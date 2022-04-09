@@ -1,5 +1,6 @@
 export default {
-    name: 'EquipmentLadder',
+    name: 'equipment-ladder',
+    key: 'EquipmentLadder',
     width: 24,
     height: 24,
     attributes: undefined,

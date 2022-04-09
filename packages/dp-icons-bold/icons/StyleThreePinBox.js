@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBox',
+    name: 'style-three-pin-box',
+    key: 'StyleThreePinBox',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FeedDigg',
+    name: 'feed-digg',
+    key: 'FeedDigg',
     width: 24,
     height: 24,
     attributes: undefined,

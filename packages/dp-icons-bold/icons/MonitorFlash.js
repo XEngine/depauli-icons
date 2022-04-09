@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorFlash',
+    name: 'monitor-flash',
+    key: 'MonitorFlash',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralShoppingBag',
+    name: 'single-neutral-shopping-bag',
+    key: 'SingleNeutralShoppingBag',
     width: 24,
     height: 24,
     attributes: undefined,

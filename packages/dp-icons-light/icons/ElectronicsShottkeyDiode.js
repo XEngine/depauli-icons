@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsShottkeyDiode',
+    name: 'electronics-shottkey-diode',
+    key: 'ElectronicsShottkeyDiode',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

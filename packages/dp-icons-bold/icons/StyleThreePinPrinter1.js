@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPrinter1',
+    name: 'style-three-pin-printer-1',
+    key: 'StyleThreePinPrinter1',
     width: 24,
     height: 24,
     attributes: undefined,

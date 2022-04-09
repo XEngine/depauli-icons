@@ -1,5 +1,6 @@
 export default {
-    name: 'PartyThrowUp',
+    name: 'party-throw-up',
+    key: 'PartyThrowUp',
     width: 24,
     height: 24,
     attributes: undefined,

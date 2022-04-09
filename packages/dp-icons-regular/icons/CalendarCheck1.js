@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarCheck1',
+    name: 'calendar-check-1',
+    key: 'CalendarCheck1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

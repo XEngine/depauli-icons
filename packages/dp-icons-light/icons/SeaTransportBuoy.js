@@ -1,5 +1,6 @@
 export default {
-    name: 'SeaTransportBuoy',
+    name: 'sea-transport-buoy',
+    key: 'SeaTransportBuoy',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

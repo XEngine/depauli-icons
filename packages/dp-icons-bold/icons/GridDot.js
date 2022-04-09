@@ -1,5 +1,6 @@
 export default {
-    name: 'GridDot',
+    name: 'grid-dot',
+    key: 'GridDot',
     width: 24,
     height: 24,
     attributes: undefined,

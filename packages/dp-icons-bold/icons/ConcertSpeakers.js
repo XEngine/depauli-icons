@@ -1,5 +1,6 @@
 export default {
-    name: 'ConcertSpeakers',
+    name: 'concert-speakers',
+    key: 'ConcertSpeakers',
     width: 24,
     height: 24,
     attributes: undefined,

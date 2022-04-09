@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeWorkWireless',
+    name: 'office-work-wireless',
+    key: 'OfficeWorkWireless',
     width: 24,
     height: 24,
     attributes: undefined,

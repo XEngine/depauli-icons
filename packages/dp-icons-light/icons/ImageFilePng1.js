@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFilePng1',
+    name: 'image-file-png-1',
+    key: 'ImageFilePng1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

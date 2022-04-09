@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingTeamMonitorMan',
+    name: 'meeting-team-monitor-man',
+    key: 'MeetingTeamMonitorMan',
     width: 24,
     height: 24,
     attributes: undefined,

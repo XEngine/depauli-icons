@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskCircleAlternate',
+    name: 'mask-circle-alternate',
+    key: 'MaskCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

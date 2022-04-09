@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridWarning',
+    name: 'layers-grid-warning',
+    key: 'LayersGridWarning',
     width: 24,
     height: 24,
     attributes: undefined,

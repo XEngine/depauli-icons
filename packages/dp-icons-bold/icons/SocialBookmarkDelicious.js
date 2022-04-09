@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialBookmarkDelicious',
+    name: 'social-bookmark-delicious',
+    key: 'SocialBookmarkDelicious',
     width: 24,
     height: 24,
     attributes: undefined,

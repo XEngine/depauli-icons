@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionMask1',
+    name: 'protection-mask-1',
+    key: 'ProtectionMask1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

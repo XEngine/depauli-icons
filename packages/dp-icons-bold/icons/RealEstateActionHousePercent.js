@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionHousePercent',
+    name: 'real-estate-action-house-percent',
+    key: 'RealEstateActionHousePercent',
     width: 24,
     height: 24,
     attributes: undefined,

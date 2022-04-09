@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderWarningAlternate',
+    name: 'folder-warning-alternate',
+    key: 'FolderWarningAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

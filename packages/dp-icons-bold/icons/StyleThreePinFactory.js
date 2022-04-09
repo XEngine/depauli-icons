@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinFactory',
+    name: 'style-three-pin-factory',
+    key: 'StyleThreePinFactory',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseBug',
+    name: 'database-bug',
+    key: 'DatabaseBug',
     width: 24,
     height: 24,
     attributes: undefined,

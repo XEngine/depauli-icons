@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialVideoYoutube',
+    name: 'social-video-youtube',
+    key: 'SocialVideoYoutube',
     width: 24,
     height: 24,
     attributes: undefined,

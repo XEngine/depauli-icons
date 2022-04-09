@@ -1,5 +1,6 @@
 export default {
-    name: 'DentistryToothMirror',
+    name: 'dentistry-tooth-mirror',
+    key: 'DentistryToothMirror',
     width: 24,
     height: 24,
     attributes: undefined,

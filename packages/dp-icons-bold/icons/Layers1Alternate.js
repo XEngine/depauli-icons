@@ -1,5 +1,6 @@
 export default {
-    name: 'Layers1Alternate',
+    name: 'layers-1-alternate',
+    key: 'Layers1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

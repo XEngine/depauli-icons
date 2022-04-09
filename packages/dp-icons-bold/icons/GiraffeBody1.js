@@ -1,5 +1,6 @@
 export default {
-    name: 'GiraffeBody1',
+    name: 'giraffe-body-1',
+    key: 'GiraffeBody1',
     width: 24,
     height: 24,
     attributes: undefined,

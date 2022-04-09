@@ -1,5 +1,6 @@
 export default {
-    name: 'BusTicket',
+    name: 'bus-ticket',
+    key: 'BusTicket',
     width: 24,
     height: 24,
     attributes: undefined,

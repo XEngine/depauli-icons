@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonFastForwardAlternate',
+    name: 'button-fast-forward-alternate',
+    key: 'ButtonFastForwardAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

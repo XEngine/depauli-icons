@@ -1,5 +1,6 @@
 export default {
-    name: 'Laptop1',
+    name: 'laptop-1',
+    key: 'Laptop1',
     width: 24,
     height: 24,
     attributes: undefined,

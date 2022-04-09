@@ -1,5 +1,6 @@
 export default {
-    name: 'ConcertDj',
+    name: 'concert-dj',
+    key: 'ConcertDj',
     width: 24,
     height: 24,
     attributes: undefined,

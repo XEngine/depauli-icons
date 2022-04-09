@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesRatingMan',
+    name: 'human-resources-rating-man',
+    key: 'HumanResourcesRatingMan',
     width: 24,
     height: 24,
     attributes: undefined,

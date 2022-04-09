@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityBraille',
+    name: 'disability-braille',
+    key: 'DisabilityBraille',
     width: 24,
     height: 24,
     attributes: undefined,

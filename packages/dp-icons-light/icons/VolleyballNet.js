@@ -1,5 +1,6 @@
 export default {
-    name: 'VolleyballNet',
+    name: 'volleyball-net',
+    key: 'VolleyballNet',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

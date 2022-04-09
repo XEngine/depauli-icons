@@ -1,5 +1,6 @@
 export default {
-    name: 'VolumeControlCheck1',
+    name: 'volume-control-check-1',
+    key: 'VolumeControlCheck1',
     width: 24,
     height: 24,
     attributes: undefined,

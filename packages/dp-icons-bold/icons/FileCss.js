@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCss',
+    name: 'file-css',
+    key: 'FileCss',
     width: 24,
     height: 24,
     attributes: undefined,

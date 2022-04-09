@@ -1,5 +1,6 @@
 export default {
-    name: 'AutoPilotCarSmartphone',
+    name: 'auto-pilot-car-smartphone',
+    key: 'AutoPilotCarSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

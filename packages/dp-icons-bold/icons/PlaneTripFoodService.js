@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneTripFoodService',
+    name: 'plane-trip-food-service',
+    key: 'PlaneTripFoodService',
     width: 24,
     height: 24,
     attributes: undefined,

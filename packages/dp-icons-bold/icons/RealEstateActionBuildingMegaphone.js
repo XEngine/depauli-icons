@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingMegaphone',
+    name: 'real-estate-action-building-megaphone',
+    key: 'RealEstateActionBuildingMegaphone',
     width: 24,
     height: 24,
     attributes: undefined,

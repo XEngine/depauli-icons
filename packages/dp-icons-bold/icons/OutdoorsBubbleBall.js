@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsBubbleBall',
+    name: 'outdoors-bubble-ball',
+    key: 'OutdoorsBubbleBall',
     width: 24,
     height: 24,
     attributes: undefined,

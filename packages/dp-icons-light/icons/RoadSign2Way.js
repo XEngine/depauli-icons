@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSign2Way',
+    name: 'road-sign-2-way',
+    key: 'RoadSign2Way',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

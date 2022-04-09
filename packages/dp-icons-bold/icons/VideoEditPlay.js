@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditPlay',
+    name: 'video-edit-play',
+    key: 'VideoEditPlay',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ConstructionBrick',
+    name: 'construction-brick',
+    key: 'ConstructionBrick',
     width: 24,
     height: 24,
     attributes: undefined,

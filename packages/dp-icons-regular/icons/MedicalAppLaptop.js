@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalAppLaptop',
+    name: 'medical-app-laptop',
+    key: 'MedicalAppLaptop',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

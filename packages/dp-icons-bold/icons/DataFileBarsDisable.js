@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsDisable',
+    name: 'data-file-bars-disable',
+    key: 'DataFileBarsDisable',
     width: 24,
     height: 24,
     attributes: undefined,

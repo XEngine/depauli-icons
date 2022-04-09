@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignBoardLeft',
+    name: 'road-sign-board-left',
+    key: 'RoadSignBoardLeft',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleStar1Alternate',
+    name: 'messages-bubble-star-1-alternate',
+    key: 'MessagesBubbleStar1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkRefresh',
+    name: 'network-refresh',
+    key: 'NetworkRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareSubtractAlternate',
+    name: 'messages-bubble-square-subtract-alternate',
+    key: 'MessagesBubbleSquareSubtractAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

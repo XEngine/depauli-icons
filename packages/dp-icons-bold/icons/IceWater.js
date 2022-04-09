@@ -1,5 +1,6 @@
 export default {
-    name: 'IceWater',
+    name: 'ice-water',
+    key: 'IceWater',
     width: 24,
     height: 24,
     attributes: undefined,

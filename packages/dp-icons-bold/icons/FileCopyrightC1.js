@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCopyrightC1',
+    name: 'file-copyright-c-1',
+    key: 'FileCopyrightC1',
     width: 24,
     height: 24,
     attributes: undefined,

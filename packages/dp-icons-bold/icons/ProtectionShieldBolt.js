@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionShieldBolt',
+    name: 'protection-shield-bolt',
+    key: 'ProtectionShieldBolt',
     width: 24,
     height: 24,
     attributes: undefined,

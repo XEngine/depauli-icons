@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListUpload',
+    name: 'task-list-upload',
+    key: 'TaskListUpload',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CogCircleAlternate',
+    name: 'cog-circle-alternate',
+    key: 'CogCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

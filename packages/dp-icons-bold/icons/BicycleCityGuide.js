@@ -1,5 +1,6 @@
 export default {
-    name: 'BicycleCityGuide',
+    name: 'bicycle-city-guide',
+    key: 'BicycleCityGuide',
     width: 24,
     height: 24,
     attributes: undefined,

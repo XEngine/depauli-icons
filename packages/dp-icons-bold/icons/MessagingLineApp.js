@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingLineApp',
+    name: 'messaging-line-app',
+    key: 'MessagingLineApp',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSearchAlternate',
+    name: 'messages-bubble-search-alternate',
+    key: 'MessagesBubbleSearchAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

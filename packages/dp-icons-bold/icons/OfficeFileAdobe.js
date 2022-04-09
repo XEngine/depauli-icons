@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileAdobe',
+    name: 'office-file-adobe',
+    key: 'OfficeFileAdobe',
     width: 24,
     height: 24,
     attributes: undefined,

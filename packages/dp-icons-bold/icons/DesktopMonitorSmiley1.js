@@ -1,5 +1,6 @@
 export default {
-    name: 'DesktopMonitorSmiley1',
+    name: 'desktop-monitor-smiley-1',
+    key: 'DesktopMonitorSmiley1',
     width: 24,
     height: 24,
     attributes: undefined,

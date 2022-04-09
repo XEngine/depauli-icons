@@ -1,5 +1,6 @@
 export default {
-    name: 'AbTestingSmartphones',
+    name: 'ab-testing-smartphones',
+    key: 'AbTestingSmartphones',
     width: 24,
     height: 24,
     attributes: undefined,

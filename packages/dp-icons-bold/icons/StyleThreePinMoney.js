@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinMoney',
+    name: 'style-three-pin-money',
+    key: 'StyleThreePinMoney',
     width: 24,
     height: 24,
     attributes: undefined,

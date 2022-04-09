@@ -1,5 +1,6 @@
 export default {
-    name: 'DayMorning',
+    name: 'day-morning',
+    key: 'DayMorning',
     width: 24,
     height: 24,
     attributes: undefined,

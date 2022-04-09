@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowDownload2',
+    name: 'app-window-download-2',
+    key: 'AppWindowDownload2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

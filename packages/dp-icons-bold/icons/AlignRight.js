@@ -1,5 +1,6 @@
 export default {
-    name: 'AlignRight',
+    name: 'align-right',
+    key: 'AlignRight',
     width: 24,
     height: 24,
     attributes: undefined,

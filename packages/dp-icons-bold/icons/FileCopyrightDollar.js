@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCopyrightDollar',
+    name: 'file-copyright-dollar',
+    key: 'FileCopyrightDollar',
     width: 24,
     height: 24,
     attributes: undefined,

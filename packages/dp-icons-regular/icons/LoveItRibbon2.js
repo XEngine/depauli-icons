@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItRibbon2',
+    name: 'love-it-ribbon-2',
+    key: 'LoveItRibbon2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

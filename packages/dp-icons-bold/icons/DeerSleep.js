@@ -1,5 +1,6 @@
 export default {
-    name: 'DeerSleep',
+    name: 'deer-sleep',
+    key: 'DeerSleep',
     width: 24,
     height: 24,
     attributes: undefined,

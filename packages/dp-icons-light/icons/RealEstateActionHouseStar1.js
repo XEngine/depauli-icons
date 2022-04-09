@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionHouseStar1',
+    name: 'real-estate-action-house-star-1',
+    key: 'RealEstateActionHouseStar1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

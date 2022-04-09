@@ -1,5 +1,6 @@
 export default {
-    name: 'Cursor',
+    name: 'cursor',
+    key: 'Cursor',
     width: 24,
     height: 24,
     attributes: undefined,

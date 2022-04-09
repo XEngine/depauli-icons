@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderDisable1Alternate',
+    name: 'folder-disable-1-alternate',
+    key: 'FolderDisable1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

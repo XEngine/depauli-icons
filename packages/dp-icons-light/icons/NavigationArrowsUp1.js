@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationArrowsUp1',
+    name: 'navigation-arrows-up-1',
+    key: 'NavigationArrowsUp1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingCar',
+    name: 'wedding-car',
+    key: 'WeddingCar',
     width: 24,
     height: 24,
     attributes: undefined,

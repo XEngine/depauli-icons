@@ -1,5 +1,6 @@
 export default {
-    name: 'AnimalProductsFriedEggPan',
+    name: 'animal-products-fried-egg-pan',
+    key: 'AnimalProductsFriedEggPan',
     width: 24,
     height: 24,
     attributes: undefined,

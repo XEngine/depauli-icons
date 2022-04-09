@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignStopAlternate',
+    name: 'road-sign-stop-alternate',
+    key: 'RoadSignStopAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorSelectCircle',
+    name: 'cursor-select-circle',
+    key: 'CursorSelectCircle',
     width: 24,
     height: 24,
     attributes: undefined,

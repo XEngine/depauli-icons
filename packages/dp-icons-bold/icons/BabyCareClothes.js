@@ -1,5 +1,6 @@
 export default {
-    name: 'BabyCareClothes',
+    name: 'baby-care-clothes',
+    key: 'BabyCareClothes',
     width: 24,
     height: 24,
     attributes: undefined,

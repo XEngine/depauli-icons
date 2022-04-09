@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinMinus',
+    name: 'style-three-pin-minus',
+    key: 'StyleThreePinMinus',
     width: 24,
     height: 24,
     attributes: undefined,

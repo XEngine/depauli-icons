@@ -1,5 +1,6 @@
 export default {
-    name: 'BirdCage',
+    name: 'bird-cage',
+    key: 'BirdCage',
     width: 24,
     height: 24,
     attributes: undefined,

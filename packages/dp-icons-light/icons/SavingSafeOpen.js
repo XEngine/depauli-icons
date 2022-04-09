@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingSafeOpen',
+    name: 'saving-safe-open',
+    key: 'SavingSafeOpen',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseShare1',
+    name: 'database-share-1',
+    key: 'DatabaseShare1',
     width: 24,
     height: 24,
     attributes: undefined,

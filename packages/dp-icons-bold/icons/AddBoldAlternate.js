@@ -1,5 +1,6 @@
 export default {
-    name: 'AddBoldAlternate',
+    name: 'add-bold-alternate',
+    key: 'AddBoldAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

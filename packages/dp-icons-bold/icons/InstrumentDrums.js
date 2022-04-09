@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentDrums',
+    name: 'instrument-drums',
+    key: 'InstrumentDrums',
     width: 24,
     height: 24,
     attributes: undefined,

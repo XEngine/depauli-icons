@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsCampFireGuitar',
+    name: 'outdoors-camp-fire-guitar',
+    key: 'OutdoorsCampFireGuitar',
     width: 24,
     height: 24,
     attributes: undefined,

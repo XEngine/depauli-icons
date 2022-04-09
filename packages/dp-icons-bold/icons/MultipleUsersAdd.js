@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleUsersAdd',
+    name: 'multiple-users-add',
+    key: 'MultipleUsersAdd',
     width: 24,
     height: 24,
     attributes: undefined,

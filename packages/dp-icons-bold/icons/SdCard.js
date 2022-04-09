@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCard',
+    name: 'sd-card',
+    key: 'SdCard',
     width: 24,
     height: 24,
     attributes: undefined,

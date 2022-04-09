@@ -1,5 +1,6 @@
 export default {
-    name: 'SimCard2',
+    name: 'sim-card-2',
+    key: 'SimCard2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

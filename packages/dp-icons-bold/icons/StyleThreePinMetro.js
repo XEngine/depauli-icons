@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinMetro',
+    name: 'style-three-pin-metro',
+    key: 'StyleThreePinMetro',
     width: 24,
     height: 24,
     attributes: undefined,

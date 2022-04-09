@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionDisable',
+    name: 'phone-action-disable',
+    key: 'PhoneActionDisable',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileLock',
+    name: 'video-file-lock',
+    key: 'VideoFileLock',
     width: 24,
     height: 24,
     attributes: undefined,

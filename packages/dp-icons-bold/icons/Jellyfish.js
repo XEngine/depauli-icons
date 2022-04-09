@@ -1,5 +1,6 @@
 export default {
-    name: 'Jellyfish',
+    name: 'jellyfish',
+    key: 'Jellyfish',
     width: 24,
     height: 24,
     attributes: undefined,

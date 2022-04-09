@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionSkull',
+    name: 'email-action-skull',
+    key: 'EmailActionSkull',
     width: 24,
     height: 24,
     attributes: undefined,

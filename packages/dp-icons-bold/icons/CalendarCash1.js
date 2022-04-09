@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarCash1',
+    name: 'calendar-cash-1',
+    key: 'CalendarCash1',
     width: 24,
     height: 24,
     attributes: undefined,

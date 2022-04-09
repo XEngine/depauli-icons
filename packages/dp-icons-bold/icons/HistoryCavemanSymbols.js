@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryCavemanSymbols',
+    name: 'history-caveman-symbols',
+    key: 'HistoryCavemanSymbols',
     width: 24,
     height: 24,
     attributes: undefined,

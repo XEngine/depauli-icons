@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningCultivator',
+    name: 'gardening-cultivator',
+    key: 'GardeningCultivator',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesSearchEmployees',
+    name: 'human-resources-search-employees',
+    key: 'HumanResourcesSearchEmployees',
     width: 24,
     height: 24,
     attributes: undefined,

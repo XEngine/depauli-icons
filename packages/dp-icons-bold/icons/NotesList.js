@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesList',
+    name: 'notes-list',
+    key: 'NotesList',
     width: 24,
     height: 24,
     attributes: undefined,

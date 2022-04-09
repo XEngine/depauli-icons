@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolExamAAlternate',
+    name: 'school-exam-a-alternate',
+    key: 'SchoolExamAAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

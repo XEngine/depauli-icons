@@ -1,5 +1,6 @@
 export default {
-    name: 'RotateFront',
+    name: 'rotate-front',
+    key: 'RotateFront',
     width: 24,
     height: 24,
     attributes: undefined,

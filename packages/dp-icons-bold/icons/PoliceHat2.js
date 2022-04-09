@@ -1,5 +1,6 @@
 export default {
-    name: 'PoliceHat2',
+    name: 'police-hat-2',
+    key: 'PoliceHat2',
     width: 24,
     height: 24,
     attributes: undefined,

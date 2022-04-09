@@ -1,5 +1,6 @@
 export default {
-    name: 'EqualizerStereo1',
+    name: 'equalizer-stereo-1',
+    key: 'EqualizerStereo1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

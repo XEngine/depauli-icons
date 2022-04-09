@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseDisableAlternate',
+    name: 'database-disable-alternate',
+    key: 'DatabaseDisableAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

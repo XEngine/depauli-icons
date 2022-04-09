@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsWarning',
+    name: 'single-woman-actions-warning',
+    key: 'SingleWomanActionsWarning',
     width: 24,
     height: 24,
     attributes: undefined,

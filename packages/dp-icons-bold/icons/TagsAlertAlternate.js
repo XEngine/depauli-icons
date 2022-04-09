@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsAlertAlternate',
+    name: 'tags-alert-alternate',
+    key: 'TagsAlertAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

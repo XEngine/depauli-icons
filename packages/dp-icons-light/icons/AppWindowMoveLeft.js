@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowMoveLeft',
+    name: 'app-window-move-left',
+    key: 'AppWindowMoveLeft',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchId3',
+    name: 'touch-id-3',
+    key: 'TouchId3',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsMoney',
+    name: 'multiple-actions-money',
+    key: 'MultipleActionsMoney',
     width: 24,
     height: 24,
     attributes: undefined,

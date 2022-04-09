@@ -1,5 +1,6 @@
 export default {
-    name: 'SeatFind',
+    name: 'seat-find',
+    key: 'SeatFind',
     width: 24,
     height: 24,
     attributes: undefined,

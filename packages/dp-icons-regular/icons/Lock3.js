@@ -1,5 +1,6 @@
 export default {
-    name: 'Lock3',
+    name: 'lock-3',
+    key: 'Lock3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-width":"1.5"},

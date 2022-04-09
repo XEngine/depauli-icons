@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionBible',
+    name: 'religion-bible',
+    key: 'ReligionBible',
     width: 24,
     height: 24,
     attributes: undefined,

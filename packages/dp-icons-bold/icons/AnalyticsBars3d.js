@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsBars3d',
+    name: 'analytics-bars-3d',
+    key: 'AnalyticsBars3d',
     width: 24,
     height: 24,
     attributes: undefined,

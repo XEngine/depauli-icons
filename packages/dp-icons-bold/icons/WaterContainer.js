@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterContainer',
+    name: 'water-container',
+    key: 'WaterContainer',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardDisable',
+    name: 'sd-card-disable',
+    key: 'SdCardDisable',
     width: 24,
     height: 24,
     attributes: undefined,

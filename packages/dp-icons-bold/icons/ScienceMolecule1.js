@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceMolecule1',
+    name: 'science-molecule-1',
+    key: 'ScienceMolecule1',
     width: 24,
     height: 24,
     attributes: undefined,

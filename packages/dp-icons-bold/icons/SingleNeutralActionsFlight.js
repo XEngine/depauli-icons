@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsFlight',
+    name: 'single-neutral-actions-flight',
+    key: 'SingleNeutralActionsFlight',
     width: 24,
     height: 24,
     attributes: undefined,

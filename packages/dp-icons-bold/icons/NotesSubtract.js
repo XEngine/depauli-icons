@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesSubtract',
+    name: 'notes-subtract',
+    key: 'NotesSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

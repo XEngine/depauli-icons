@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinWarning',
+    name: 'style-three-pin-warning',
+    key: 'StyleThreePinWarning',
     width: 24,
     height: 24,
     attributes: undefined,

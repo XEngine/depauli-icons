@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileAac',
+    name: 'audio-file-aac',
+    key: 'AudioFileAac',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

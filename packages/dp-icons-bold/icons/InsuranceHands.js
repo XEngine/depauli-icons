@@ -1,5 +1,6 @@
 export default {
-    name: 'InsuranceHands',
+    name: 'insurance-hands',
+    key: 'InsuranceHands',
     width: 24,
     height: 24,
     attributes: undefined,

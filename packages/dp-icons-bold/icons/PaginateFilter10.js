@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilter10',
+    name: 'paginate-filter-10',
+    key: 'PaginateFilter10',
     width: 24,
     height: 24,
     attributes: undefined,

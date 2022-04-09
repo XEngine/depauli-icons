@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsSettingsAlternate',
+    name: 'tags-settings-alternate',
+    key: 'TagsSettingsAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

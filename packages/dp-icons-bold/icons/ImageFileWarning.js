@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileWarning',
+    name: 'image-file-warning',
+    key: 'ImageFileWarning',
     width: 24,
     height: 24,
     attributes: undefined,

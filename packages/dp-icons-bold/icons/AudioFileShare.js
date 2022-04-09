@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileShare',
+    name: 'audio-file-share',
+    key: 'AudioFileShare',
     width: 24,
     height: 24,
     attributes: undefined,

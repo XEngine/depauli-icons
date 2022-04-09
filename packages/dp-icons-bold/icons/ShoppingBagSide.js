@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBagSide',
+    name: 'shopping-bag-side',
+    key: 'ShoppingBagSide',
     width: 24,
     height: 24,
     attributes: undefined,

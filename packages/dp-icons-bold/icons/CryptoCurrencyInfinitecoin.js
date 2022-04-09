@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyInfinitecoin',
+    name: 'crypto-currency-infinitecoin',
+    key: 'CryptoCurrencyInfinitecoin',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileQuestion',
+    name: 'zip-file-question',
+    key: 'ZipFileQuestion',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyChildHoldHand',
+    name: 'family-child-hold-hand',
+    key: 'FamilyChildHoldHand',
     width: 24,
     height: 24,
     attributes: undefined,

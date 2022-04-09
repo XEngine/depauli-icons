@@ -1,5 +1,6 @@
 export default {
-    name: 'CashToggle',
+    name: 'cash-toggle',
+    key: 'CashToggle',
     width: 24,
     height: 24,
     attributes: undefined,

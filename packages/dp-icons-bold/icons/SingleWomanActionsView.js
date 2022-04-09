@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsView',
+    name: 'single-woman-actions-view',
+    key: 'SingleWomanActionsView',
     width: 24,
     height: 24,
     attributes: undefined,

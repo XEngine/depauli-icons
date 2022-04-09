@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeSunnyManAlternate',
+    name: 'light-mode-sunny-man-alternate',
+    key: 'LightModeSunnyManAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

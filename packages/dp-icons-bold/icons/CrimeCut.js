@@ -1,5 +1,6 @@
 export default {
-    name: 'CrimeCut',
+    name: 'crime-cut',
+    key: 'CrimeCut',
     width: 24,
     height: 24,
     attributes: undefined,

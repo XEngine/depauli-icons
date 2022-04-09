@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsGasket1',
+    name: 'tools-gasket-1',
+    key: 'ToolsGasket1',
     width: 24,
     height: 24,
     attributes: undefined,

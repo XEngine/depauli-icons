@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowDotLeft',
+    name: 'arrow-dot-left',
+    key: 'ArrowDotLeft',
     width: 24,
     height: 24,
     attributes: undefined,

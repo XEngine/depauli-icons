@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernMusicCymbal',
+    name: 'modern-music-cymbal',
+    key: 'ModernMusicCymbal',
     width: 24,
     height: 24,
     attributes: undefined,

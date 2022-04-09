@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeHolePuncher',
+    name: 'office-hole-puncher',
+    key: 'OfficeHolePuncher',
     width: 24,
     height: 24,
     attributes: undefined,

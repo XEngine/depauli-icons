@@ -1,5 +1,6 @@
 export default {
-    name: 'Monitor',
+    name: 'monitor',
+    key: 'Monitor',
     width: 24,
     height: 24,
     attributes: undefined,

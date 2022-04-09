@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowModule',
+    name: 'app-window-module',
+    key: 'AppWindowModule',
     width: 24,
     height: 24,
     attributes: undefined,

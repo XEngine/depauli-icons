@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingCameraCircleAlternate',
+    name: 'meeting-camera-circle-alternate',
+    key: 'MeetingCameraCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

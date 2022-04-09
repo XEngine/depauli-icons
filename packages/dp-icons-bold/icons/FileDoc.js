@@ -1,5 +1,6 @@
 export default {
-    name: 'FileDoc',
+    name: 'file-doc',
+    key: 'FileDoc',
     width: 24,
     height: 24,
     attributes: undefined,

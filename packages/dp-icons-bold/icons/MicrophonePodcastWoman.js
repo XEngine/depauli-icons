@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophonePodcastWoman',
+    name: 'microphone-podcast-woman',
+    key: 'MicrophonePodcastWoman',
     width: 24,
     height: 24,
     attributes: undefined,

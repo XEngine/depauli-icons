@@ -1,5 +1,6 @@
 export default {
-    name: 'ResizeExpandCorner1',
+    name: 'resize-expand-corner-1',
+    key: 'ResizeExpandCorner1',
     width: 24,
     height: 24,
     attributes: undefined,

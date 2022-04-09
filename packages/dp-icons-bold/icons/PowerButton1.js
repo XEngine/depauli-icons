@@ -1,5 +1,6 @@
 export default {
-    name: 'PowerButton1',
+    name: 'power-button-1',
+    key: 'PowerButton1',
     width: 24,
     height: 24,
     attributes: undefined,

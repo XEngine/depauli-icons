@@ -1,5 +1,6 @@
 export default {
-    name: 'LikeChat',
+    name: 'like-chat',
+    key: 'LikeChat',
     width: 24,
     height: 24,
     attributes: undefined,

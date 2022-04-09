@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyWarningCliff',
+    name: 'safety-warning-cliff',
+    key: 'SafetyWarningCliff',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardRefresh',
+    name: 'sd-card-refresh',
+    key: 'SdCardRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

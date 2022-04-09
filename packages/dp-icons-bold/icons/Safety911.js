@@ -1,5 +1,6 @@
 export default {
-    name: 'Safety911',
+    name: 'safety-911',
+    key: 'Safety911',
     width: 24,
     height: 24,
     attributes: undefined,

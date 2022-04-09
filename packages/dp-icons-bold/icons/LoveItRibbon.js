@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItRibbon',
+    name: 'love-it-ribbon',
+    key: 'LoveItRibbon',
     width: 24,
     height: 24,
     attributes: undefined,

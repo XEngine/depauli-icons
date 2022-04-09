@@ -1,5 +1,6 @@
 export default {
-    name: 'DrawerHome',
+    name: 'drawer-home',
+    key: 'DrawerHome',
     width: 24,
     height: 24,
     attributes: undefined,

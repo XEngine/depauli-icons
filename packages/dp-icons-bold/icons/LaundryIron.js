@@ -1,5 +1,6 @@
 export default {
-    name: 'LaundryIron',
+    name: 'laundry-iron',
+    key: 'LaundryIron',
     width: 24,
     height: 24,
     attributes: undefined,

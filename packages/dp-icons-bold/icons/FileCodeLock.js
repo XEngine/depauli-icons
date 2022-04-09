@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeLock',
+    name: 'file-code-lock',
+    key: 'FileCodeLock',
     width: 24,
     height: 24,
     attributes: undefined,

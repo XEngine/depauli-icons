@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionPowerSwitch1',
+    name: 'phone-action-power-switch-1',
+    key: 'PhoneActionPowerSwitch1',
     width: 24,
     height: 24,
     attributes: undefined,

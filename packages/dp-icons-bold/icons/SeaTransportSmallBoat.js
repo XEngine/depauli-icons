@@ -1,5 +1,6 @@
 export default {
-    name: 'SeaTransportSmallBoat',
+    name: 'sea-transport-small-boat',
+    key: 'SeaTransportSmallBoat',
     width: 24,
     height: 24,
     attributes: undefined,

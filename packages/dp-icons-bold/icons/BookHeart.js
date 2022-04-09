@@ -1,5 +1,6 @@
 export default {
-    name: 'BookHeart',
+    name: 'book-heart',
+    key: 'BookHeart',
     width: 24,
     height: 24,
     attributes: undefined,

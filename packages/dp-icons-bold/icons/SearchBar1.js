@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchBar1',
+    name: 'search-bar-1',
+    key: 'SearchBar1',
     width: 24,
     height: 24,
     attributes: undefined,

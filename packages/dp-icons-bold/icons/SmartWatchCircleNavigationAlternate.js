@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleNavigationAlternate',
+    name: 'smart-watch-circle-navigation-alternate',
+    key: 'SmartWatchCircleNavigationAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

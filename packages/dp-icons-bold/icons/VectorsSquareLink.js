@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsSquareLink',
+    name: 'vectors-square-link',
+    key: 'VectorsSquareLink',
     width: 24,
     height: 24,
     attributes: undefined,

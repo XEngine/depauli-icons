@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeAdd1',
+    name: 'file-code-add-1',
+    key: 'FileCodeAdd1',
     width: 24,
     height: 24,
     attributes: undefined,

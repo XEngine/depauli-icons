@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileGiveHand2',
+    name: 'common-file-give-hand-2',
+    key: 'CommonFileGiveHand2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GamingTrophy5',
+    name: 'gaming-trophy-5',
+    key: 'GamingTrophy5',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

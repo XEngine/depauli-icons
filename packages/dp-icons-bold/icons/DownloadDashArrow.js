@@ -1,5 +1,6 @@
 export default {
-    name: 'DownloadDashArrow',
+    name: 'download-dash-arrow',
+    key: 'DownloadDashArrow',
     width: 24,
     height: 24,
     attributes: undefined,

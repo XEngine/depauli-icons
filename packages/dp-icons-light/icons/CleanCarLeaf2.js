@@ -1,5 +1,6 @@
 export default {
-    name: 'CleanCarLeaf2',
+    name: 'clean-car-leaf-2',
+    key: 'CleanCarLeaf2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

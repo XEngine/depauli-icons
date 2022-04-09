@@ -1,5 +1,6 @@
 export default {
-    name: 'ScrollHorizontal',
+    name: 'scroll-horizontal',
+    key: 'ScrollHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

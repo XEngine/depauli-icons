@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionOval',
+    name: 'composition-oval',
+    key: 'CompositionOval',
     width: 24,
     height: 24,
     attributes: undefined,

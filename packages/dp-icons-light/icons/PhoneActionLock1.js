@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionLock1',
+    name: 'phone-action-lock-1',
+    key: 'PhoneActionLock1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

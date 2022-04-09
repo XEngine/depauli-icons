@@ -1,5 +1,6 @@
 export default {
-    name: 'ViewSquareAlternate',
+    name: 'view-square-alternate',
+    key: 'ViewSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

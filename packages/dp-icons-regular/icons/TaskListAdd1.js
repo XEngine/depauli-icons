@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListAdd1',
+    name: 'task-list-add-1',
+    key: 'TaskListAdd1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

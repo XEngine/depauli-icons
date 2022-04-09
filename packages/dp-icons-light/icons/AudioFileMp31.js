@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileMp31',
+    name: 'audio-file-mp3-1',
+    key: 'AudioFileMp31',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

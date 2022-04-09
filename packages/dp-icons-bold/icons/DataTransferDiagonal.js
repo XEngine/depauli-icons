@@ -1,5 +1,6 @@
 export default {
-    name: 'DataTransferDiagonal',
+    name: 'data-transfer-diagonal',
+    key: 'DataTransferDiagonal',
     width: 24,
     height: 24,
     attributes: undefined,

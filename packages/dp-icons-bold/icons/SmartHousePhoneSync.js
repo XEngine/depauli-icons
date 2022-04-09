@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHousePhoneSync',
+    name: 'smart-house-phone-sync',
+    key: 'SmartHousePhoneSync',
     width: 24,
     height: 24,
     attributes: undefined,

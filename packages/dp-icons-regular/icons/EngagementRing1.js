@@ -1,5 +1,6 @@
 export default {
-    name: 'EngagementRing1',
+    name: 'engagement-ring-1',
+    key: 'EngagementRing1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

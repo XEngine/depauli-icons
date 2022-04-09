@@ -1,5 +1,6 @@
 export default {
-    name: 'AndroidDownload',
+    name: 'android-download',
+    key: 'AndroidDownload',
     width: 24,
     height: 24,
     attributes: undefined,

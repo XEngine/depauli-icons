@@ -1,5 +1,6 @@
 export default {
-    name: 'GolfCart',
+    name: 'golf-cart',
+    key: 'GolfCart',
     width: 24,
     height: 24,
     attributes: undefined,

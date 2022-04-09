@@ -1,5 +1,6 @@
 export default {
-    name: 'DownloadCircle',
+    name: 'download-circle',
+    key: 'DownloadCircle',
     width: 24,
     height: 24,
     attributes: undefined,

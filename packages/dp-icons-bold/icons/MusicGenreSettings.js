@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreSettings',
+    name: 'music-genre-settings',
+    key: 'MusicGenreSettings',
     width: 24,
     height: 24,
     attributes: undefined,

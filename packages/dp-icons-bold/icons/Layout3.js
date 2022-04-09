@@ -1,5 +1,6 @@
 export default {
-    name: 'Layout3',
+    name: 'layout-3',
+    key: 'Layout3',
     width: 24,
     height: 24,
     attributes: undefined,

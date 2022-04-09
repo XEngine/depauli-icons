@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonArrowCurve',
+    name: 'button-arrow-curve',
+    key: 'ButtonArrowCurve',
     width: 24,
     height: 24,
     attributes: undefined,

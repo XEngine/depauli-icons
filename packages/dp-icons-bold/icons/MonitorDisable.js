@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorDisable',
+    name: 'monitor-disable',
+    key: 'MonitorDisable',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreSmoke',
+    name: 'music-genre-smoke',
+    key: 'MusicGenreSmoke',
     width: 24,
     height: 24,
     attributes: undefined,

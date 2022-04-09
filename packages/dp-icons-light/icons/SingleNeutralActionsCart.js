@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsCart',
+    name: 'single-neutral-actions-cart',
+    key: 'SingleNeutralActionsCart',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

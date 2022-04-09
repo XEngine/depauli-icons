@@ -1,5 +1,6 @@
 export default {
-    name: 'RankingStarTop',
+    name: 'ranking-star-top',
+    key: 'RankingStarTop',
     width: 24,
     height: 24,
     attributes: undefined,

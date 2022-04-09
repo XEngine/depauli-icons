@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskChecklistWrite',
+    name: 'task-checklist-write',
+    key: 'TaskChecklistWrite',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

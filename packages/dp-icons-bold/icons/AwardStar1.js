@@ -1,5 +1,6 @@
 export default {
-    name: 'AwardStar1',
+    name: 'award-star-1',
+    key: 'AwardStar1',
     width: 24,
     height: 24,
     attributes: undefined,

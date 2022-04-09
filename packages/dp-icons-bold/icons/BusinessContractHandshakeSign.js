@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessContractHandshakeSign',
+    name: 'business-contract-handshake-sign',
+    key: 'BusinessContractHandshakeSign',
     width: 24,
     height: 24,
     attributes: undefined,

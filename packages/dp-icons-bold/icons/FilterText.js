@@ -1,5 +1,6 @@
 export default {
-    name: 'FilterText',
+    name: 'filter-text',
+    key: 'FilterText',
     width: 24,
     height: 24,
     attributes: undefined,

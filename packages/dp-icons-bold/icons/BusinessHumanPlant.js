@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessHumanPlant',
+    name: 'business-human-plant',
+    key: 'BusinessHumanPlant',
     width: 24,
     height: 24,
     attributes: undefined,

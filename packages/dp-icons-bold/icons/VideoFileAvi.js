@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileAvi',
+    name: 'video-file-avi',
+    key: 'VideoFileAvi',
     width: 24,
     height: 24,
     attributes: undefined,

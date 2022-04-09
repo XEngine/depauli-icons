@@ -1,5 +1,6 @@
 export default {
-    name: 'NonGmoLab',
+    name: 'non-gmo-lab',
+    key: 'NonGmoLab',
     width: 24,
     height: 24,
     attributes: undefined,

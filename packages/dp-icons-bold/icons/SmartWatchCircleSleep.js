@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleSleep',
+    name: 'smart-watch-circle-sleep',
+    key: 'SmartWatchCircleSleep',
     width: 24,
     height: 24,
     attributes: undefined,

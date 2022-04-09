@@ -1,5 +1,6 @@
 export default {
-    name: 'DownloadBox',
+    name: 'download-box',
+    key: 'DownloadBox',
     width: 24,
     height: 24,
     attributes: undefined,

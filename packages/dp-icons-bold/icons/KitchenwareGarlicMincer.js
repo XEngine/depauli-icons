@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareGarlicMincer',
+    name: 'kitchenware-garlic-mincer',
+    key: 'KitchenwareGarlicMincer',
     width: 24,
     height: 24,
     attributes: undefined,

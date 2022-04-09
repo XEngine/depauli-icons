@@ -1,5 +1,6 @@
 export default {
-    name: 'Igloo',
+    name: 'igloo',
+    key: 'Igloo',
     width: 24,
     height: 24,
     attributes: undefined,

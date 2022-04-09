@@ -1,5 +1,6 @@
 export default {
-    name: 'WhaleBody1',
+    name: 'whale-body-1',
+    key: 'WhaleBody1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

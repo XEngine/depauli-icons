@@ -1,5 +1,6 @@
 export default {
-    name: 'AstrologyAries1',
+    name: 'astrology-aries-1',
+    key: 'AstrologyAries1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

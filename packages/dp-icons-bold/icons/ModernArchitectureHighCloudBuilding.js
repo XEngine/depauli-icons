@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernArchitectureHighCloudBuilding',
+    name: 'modern-architecture-high-cloud-building',
+    key: 'ModernArchitectureHighCloudBuilding',
     width: 24,
     height: 24,
     attributes: undefined,

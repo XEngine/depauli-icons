@@ -1,5 +1,6 @@
 export default {
-    name: 'LaundryMachine',
+    name: 'laundry-machine',
+    key: 'LaundryMachine',
     width: 24,
     height: 24,
     attributes: undefined,

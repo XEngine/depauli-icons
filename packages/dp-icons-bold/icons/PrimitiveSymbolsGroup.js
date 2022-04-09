@@ -1,5 +1,6 @@
 export default {
-    name: 'PrimitiveSymbolsGroup',
+    name: 'primitive-symbols-group',
+    key: 'PrimitiveSymbolsGroup',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryThreeBars',
+    name: 'charging-battery-three-bars',
+    key: 'ChargingBatteryThreeBars',
     width: 24,
     height: 24,
     attributes: undefined,

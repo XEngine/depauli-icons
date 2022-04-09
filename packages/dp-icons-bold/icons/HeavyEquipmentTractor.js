@@ -1,5 +1,6 @@
 export default {
-    name: 'HeavyEquipmentTractor',
+    name: 'heavy-equipment-tractor',
+    key: 'HeavyEquipmentTractor',
     width: 24,
     height: 24,
     attributes: undefined,

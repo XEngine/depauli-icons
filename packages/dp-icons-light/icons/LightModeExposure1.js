@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeExposure1',
+    name: 'light-mode-exposure-1',
+    key: 'LightModeExposure1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

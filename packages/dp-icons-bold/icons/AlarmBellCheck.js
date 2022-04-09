@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmBellCheck',
+    name: 'alarm-bell-check',
+    key: 'AlarmBellCheck',
     width: 24,
     height: 24,
     attributes: undefined,

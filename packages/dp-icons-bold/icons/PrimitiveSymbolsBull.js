@@ -1,5 +1,6 @@
 export default {
-    name: 'PrimitiveSymbolsBull',
+    name: 'primitive-symbols-bull',
+    key: 'PrimitiveSymbolsBull',
     width: 24,
     height: 24,
     attributes: undefined,

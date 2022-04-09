@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeWarning1',
+    name: 'file-code-warning-1',
+    key: 'FileCodeWarning1',
     width: 24,
     height: 24,
     attributes: undefined,

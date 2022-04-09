@@ -1,5 +1,6 @@
 export default {
-    name: 'AmphibianFrogBody',
+    name: 'amphibian-frog-body',
+    key: 'AmphibianFrogBody',
     width: 24,
     height: 24,
     attributes: undefined,

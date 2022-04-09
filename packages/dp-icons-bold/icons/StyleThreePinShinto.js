@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinShinto',
+    name: 'style-three-pin-shinto',
+    key: 'StyleThreePinShinto',
     width: 24,
     height: 24,
     attributes: undefined,

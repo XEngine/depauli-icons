@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileStamp',
+    name: 'office-file-stamp',
+    key: 'OfficeFileStamp',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MovieCelebrity',
+    name: 'movie-celebrity',
+    key: 'MovieCelebrity',
     width: 24,
     height: 24,
     attributes: undefined,

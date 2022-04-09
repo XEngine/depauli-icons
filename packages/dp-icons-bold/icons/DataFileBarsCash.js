@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsCash',
+    name: 'data-file-bars-cash',
+    key: 'DataFileBarsCash',
     width: 24,
     height: 24,
     attributes: undefined,

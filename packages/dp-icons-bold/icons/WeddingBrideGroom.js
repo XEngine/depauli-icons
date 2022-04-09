@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingBrideGroom',
+    name: 'wedding-bride-groom',
+    key: 'WeddingBrideGroom',
     width: 24,
     height: 24,
     attributes: undefined,

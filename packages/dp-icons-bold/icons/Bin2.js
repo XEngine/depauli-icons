@@ -1,5 +1,6 @@
 export default {
-    name: 'Bin2',
+    name: 'bin-2',
+    key: 'Bin2',
     width: 24,
     height: 24,
     attributes: undefined,

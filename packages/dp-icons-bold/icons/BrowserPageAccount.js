@@ -1,5 +1,6 @@
 export default {
-    name: 'BrowserPageAccount',
+    name: 'browser-page-account',
+    key: 'BrowserPageAccount',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionalNetworkNomadList',
+    name: 'professional-network-nomad-list',
+    key: 'ProfessionalNetworkNomadList',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeRefresh',
+    name: 'file-code-refresh',
+    key: 'FileCodeRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

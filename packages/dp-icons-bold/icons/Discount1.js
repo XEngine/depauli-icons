@@ -1,5 +1,6 @@
 export default {
-    name: 'Discount1',
+    name: 'discount-1',
+    key: 'Discount1',
     width: 24,
     height: 24,
     attributes: undefined,

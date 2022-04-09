@@ -1,5 +1,6 @@
 export default {
-    name: 'TrendsHot',
+    name: 'trends-hot',
+    key: 'TrendsHot',
     width: 24,
     height: 24,
     attributes: undefined,

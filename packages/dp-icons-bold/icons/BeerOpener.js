@@ -1,5 +1,6 @@
 export default {
-    name: 'BeerOpener',
+    name: 'beer-opener',
+    key: 'BeerOpener',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsWatchHouse',
+    name: 'outdoors-watch-house',
+    key: 'OutdoorsWatchHouse',
     width: 24,
     height: 24,
     attributes: undefined,

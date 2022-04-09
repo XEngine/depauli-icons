@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingBadge',
+    name: 'real-estate-action-building-badge',
+    key: 'RealEstateActionBuildingBadge',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsRing',
+    name: 'phone-actions-ring',
+    key: 'PhoneActionsRing',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SkiingCrossCountry',
+    name: 'skiing-cross-country',
+    key: 'SkiingCrossCountry',
     width: 24,
     height: 24,
     attributes: undefined,

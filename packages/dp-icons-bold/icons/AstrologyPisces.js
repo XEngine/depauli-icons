@@ -1,5 +1,6 @@
 export default {
-    name: 'AstrologyPisces',
+    name: 'astrology-pisces',
+    key: 'AstrologyPisces',
     width: 24,
     height: 24,
     attributes: undefined,

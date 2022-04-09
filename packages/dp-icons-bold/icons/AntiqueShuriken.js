@@ -1,5 +1,6 @@
 export default {
-    name: 'AntiqueShuriken',
+    name: 'antique-shuriken',
+    key: 'AntiqueShuriken',
     width: 24,
     height: 24,
     attributes: undefined,

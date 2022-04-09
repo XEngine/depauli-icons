@@ -1,5 +1,6 @@
 export default {
-    name: 'DentistryToothJaws',
+    name: 'dentistry-tooth-jaws',
+    key: 'DentistryToothJaws',
     width: 24,
     height: 24,
     attributes: undefined,

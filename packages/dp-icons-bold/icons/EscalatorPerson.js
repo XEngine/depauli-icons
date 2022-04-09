@@ -1,5 +1,6 @@
 export default {
-    name: 'EscalatorPerson',
+    name: 'escalator-person',
+    key: 'EscalatorPerson',
     width: 24,
     height: 24,
     attributes: undefined,

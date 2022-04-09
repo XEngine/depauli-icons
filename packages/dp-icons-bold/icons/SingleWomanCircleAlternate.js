@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanCircleAlternate',
+    name: 'single-woman-circle-alternate',
+    key: 'SingleWomanCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

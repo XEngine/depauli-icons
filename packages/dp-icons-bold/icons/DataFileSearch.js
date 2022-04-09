@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileSearch',
+    name: 'data-file-search',
+    key: 'DataFileSearch',
     width: 24,
     height: 24,
     attributes: undefined,

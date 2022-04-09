@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionShield',
+    name: 'phone-action-shield',
+    key: 'PhoneActionShield',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

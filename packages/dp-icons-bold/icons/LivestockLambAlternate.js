@@ -1,5 +1,6 @@
 export default {
-    name: 'LivestockLambAlternate',
+    name: 'livestock-lamb-alternate',
+    key: 'LivestockLambAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

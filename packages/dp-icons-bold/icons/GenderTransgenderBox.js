@@ -1,5 +1,6 @@
 export default {
-    name: 'GenderTransgenderBox',
+    name: 'gender-transgender-box',
+    key: 'GenderTransgenderBox',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionPeace1',
+    name: 'religion-peace-1',
+    key: 'ReligionPeace1',
     width: 24,
     height: 24,
     attributes: undefined,

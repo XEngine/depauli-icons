@@ -1,5 +1,6 @@
 export default {
-    name: 'CocktailGlass',
+    name: 'cocktail-glass',
+    key: 'CocktailGlass',
     width: 24,
     height: 24,
     attributes: undefined,

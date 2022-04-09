@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationProjectorScreenClock',
+    name: 'presentation-projector-screen-clock',
+    key: 'PresentationProjectorScreenClock',
     width: 24,
     height: 24,
     attributes: undefined,

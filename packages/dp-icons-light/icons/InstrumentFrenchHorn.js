@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentFrenchHorn',
+    name: 'instrument-french-horn',
+    key: 'InstrumentFrenchHorn',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

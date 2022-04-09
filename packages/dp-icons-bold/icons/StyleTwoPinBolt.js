@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinBolt',
+    name: 'style-two-pin-bolt',
+    key: 'StyleTwoPinBolt',
     width: 24,
     height: 24,
     attributes: undefined,

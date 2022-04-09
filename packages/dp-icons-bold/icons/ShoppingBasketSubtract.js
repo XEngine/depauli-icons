@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBasketSubtract',
+    name: 'shopping-basket-subtract',
+    key: 'ShoppingBasketSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingHoldCode2',
+    name: 'programming-hold-code-2',
+    key: 'ProgrammingHoldCode2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

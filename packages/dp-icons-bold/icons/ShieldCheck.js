@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldCheck',
+    name: 'shield-check',
+    key: 'ShieldCheck',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmySymbolAirborneInfantry1',
+    name: 'army-symbol-airborne-infantry-1',
+    key: 'ArmySymbolAirborneInfantry1',
     width: 24,
     height: 24,
     attributes: undefined,

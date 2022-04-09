@@ -1,5 +1,6 @@
 export default {
-    name: 'JobSearch',
+    name: 'job-search',
+    key: 'JobSearch',
     width: 24,
     height: 24,
     attributes: undefined,

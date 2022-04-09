@@ -1,5 +1,6 @@
 export default {
-    name: 'Sql1',
+    name: 'sql-1',
+    key: 'Sql1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

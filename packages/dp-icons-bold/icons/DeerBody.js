@@ -1,5 +1,6 @@
 export default {
-    name: 'DeerBody',
+    name: 'deer-body',
+    key: 'DeerBody',
     width: 24,
     height: 24,
     attributes: undefined,

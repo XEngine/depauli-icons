@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleFlash',
+    name: 'smart-watch-circle-flash',
+    key: 'SmartWatchCircleFlash',
     width: 24,
     height: 24,
     attributes: undefined,

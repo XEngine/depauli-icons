@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionBin1',
+    name: 'phone-action-bin-1',
+    key: 'PhoneActionBin1',
     width: 24,
     height: 24,
     attributes: undefined,

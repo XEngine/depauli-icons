@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfileUserCashMessage',
+    name: 'profile-user-cash-message',
+    key: 'ProfileUserCashMessage',
     width: 24,
     height: 24,
     attributes: undefined,

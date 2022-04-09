@@ -1,5 +1,6 @@
 export default {
-    name: 'FlagQuestion',
+    name: 'flag-question',
+    key: 'FlagQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

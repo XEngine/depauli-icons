@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBasketWoman',
+    name: 'shopping-basket-woman',
+    key: 'ShoppingBasketWoman',
     width: 24,
     height: 24,
     attributes: undefined,

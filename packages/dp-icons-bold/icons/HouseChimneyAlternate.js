@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseChimneyAlternate',
+    name: 'house-chimney-alternate',
+    key: 'HouseChimneyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

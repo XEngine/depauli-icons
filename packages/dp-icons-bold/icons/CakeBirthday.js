@@ -1,5 +1,6 @@
 export default {
-    name: 'CakeBirthday',
+    name: 'cake-birthday',
+    key: 'CakeBirthday',
     width: 24,
     height: 24,
     attributes: undefined,

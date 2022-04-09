@@ -1,5 +1,6 @@
 export default {
-    name: 'EquipmentSafetyMask',
+    name: 'equipment-safety-mask',
+    key: 'EquipmentSafetyMask',
     width: 24,
     height: 24,
     attributes: undefined,

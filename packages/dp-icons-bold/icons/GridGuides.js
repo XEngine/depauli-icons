@@ -1,5 +1,6 @@
 export default {
-    name: 'GridGuides',
+    name: 'grid-guides',
+    key: 'GridGuides',
     width: 24,
     height: 24,
     attributes: undefined,

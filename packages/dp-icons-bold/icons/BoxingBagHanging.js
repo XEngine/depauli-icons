@@ -1,5 +1,6 @@
 export default {
-    name: 'BoxingBagHanging',
+    name: 'boxing-bag-hanging',
+    key: 'BoxingBagHanging',
     width: 24,
     height: 24,
     attributes: undefined,

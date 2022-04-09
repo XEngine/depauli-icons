@@ -1,5 +1,6 @@
 export default {
-    name: 'BloodDropElements',
+    name: 'blood-drop-elements',
+    key: 'BloodDropElements',
     width: 24,
     height: 24,
     attributes: undefined,

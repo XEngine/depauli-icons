@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingInvoiceMail',
+    name: 'accounting-invoice-mail',
+    key: 'AccountingInvoiceMail',
     width: 24,
     height: 24,
     attributes: undefined,

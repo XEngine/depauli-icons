@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkSydneyOperaHouse1',
+    name: 'landmark-sydney-opera-house-1',
+    key: 'LandmarkSydneyOperaHouse1',
     width: 24,
     height: 24,
     attributes: undefined,

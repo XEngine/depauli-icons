@@ -1,5 +1,6 @@
 export default {
-    name: 'PinLocation2',
+    name: 'pin-location-2',
+    key: 'PinLocation2',
     width: 24,
     height: 24,
     attributes: undefined,

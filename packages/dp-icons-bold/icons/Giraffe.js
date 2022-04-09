@@ -1,5 +1,6 @@
 export default {
-    name: 'Giraffe',
+    name: 'giraffe',
+    key: 'Giraffe',
     width: 24,
     height: 24,
     attributes: undefined,

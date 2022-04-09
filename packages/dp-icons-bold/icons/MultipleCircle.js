@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleCircle',
+    name: 'multiple-circle',
+    key: 'MultipleCircle',
     width: 24,
     height: 24,
     attributes: undefined,

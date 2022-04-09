@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentWeightKg',
+    name: 'shipment-weight-kg',
+    key: 'ShipmentWeightKg',
     width: 24,
     height: 24,
     attributes: undefined,

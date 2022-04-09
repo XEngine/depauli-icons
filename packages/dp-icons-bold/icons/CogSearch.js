@@ -1,5 +1,6 @@
 export default {
-    name: 'CogSearch',
+    name: 'cog-search',
+    key: 'CogSearch',
     width: 24,
     height: 24,
     attributes: undefined,

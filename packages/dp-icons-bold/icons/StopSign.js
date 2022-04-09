@@ -1,5 +1,6 @@
 export default {
-    name: 'StopSign',
+    name: 'stop-sign',
+    key: 'StopSign',
     width: 24,
     height: 24,
     attributes: undefined,

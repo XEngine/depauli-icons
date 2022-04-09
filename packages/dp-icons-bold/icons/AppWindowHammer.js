@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowHammer',
+    name: 'app-window-hammer',
+    key: 'AppWindowHammer',
     width: 24,
     height: 24,
     attributes: undefined,

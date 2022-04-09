@@ -1,5 +1,6 @@
 export default {
-    name: 'BeanieWinter1',
+    name: 'beanie-winter-1',
+    key: 'BeanieWinter1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinMonitorMining',
+    name: 'crypto-currency-bitcoin-monitor-mining',
+    key: 'CryptoCurrencyBitcoinMonitorMining',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

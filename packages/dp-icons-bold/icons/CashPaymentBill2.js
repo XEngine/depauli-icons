@@ -1,5 +1,6 @@
 export default {
-    name: 'CashPaymentBill2',
+    name: 'cash-payment-bill-2',
+    key: 'CashPaymentBill2',
     width: 24,
     height: 24,
     attributes: undefined,

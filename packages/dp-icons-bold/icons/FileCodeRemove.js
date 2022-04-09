@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeRemove',
+    name: 'file-code-remove',
+    key: 'FileCodeRemove',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDimensionsBuilding',
+    name: 'real-estate-dimensions-building',
+    key: 'RealEstateDimensionsBuilding',
     width: 24,
     height: 24,
     attributes: undefined,

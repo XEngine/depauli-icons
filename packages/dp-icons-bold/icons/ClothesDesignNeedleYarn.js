@@ -1,5 +1,6 @@
 export default {
-    name: 'ClothesDesignNeedleYarn',
+    name: 'clothes-design-needle-yarn',
+    key: 'ClothesDesignNeedleYarn',
     width: 24,
     height: 24,
     attributes: undefined,

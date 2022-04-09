@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistSearch',
+    name: 'playlist-search',
+    key: 'PlaylistSearch',
     width: 24,
     height: 24,
     attributes: undefined,

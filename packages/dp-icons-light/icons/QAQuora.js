@@ -1,5 +1,6 @@
 export default {
-    name: 'QAQuora',
+    name: 'q-a-quora',
+    key: 'QAQuora',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

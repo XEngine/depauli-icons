@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernTv4k',
+    name: 'modern-tv-4k',
+    key: 'ModernTv4k',
     width: 24,
     height: 24,
     attributes: undefined,

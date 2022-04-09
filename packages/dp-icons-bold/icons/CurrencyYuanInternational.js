@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyYuanInternational',
+    name: 'currency-yuan-international',
+    key: 'CurrencyYuanInternational',
     width: 24,
     height: 24,
     attributes: undefined,

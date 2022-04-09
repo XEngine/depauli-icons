@@ -1,5 +1,6 @@
 export default {
-    name: 'CakeFlour1',
+    name: 'cake-flour-1',
+    key: 'CakeFlour1',
     width: 24,
     height: 24,
     attributes: undefined,

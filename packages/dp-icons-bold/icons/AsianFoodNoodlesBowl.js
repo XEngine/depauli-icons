@@ -1,5 +1,6 @@
 export default {
-    name: 'AsianFoodNoodlesBowl',
+    name: 'asian-food-noodles-bowl',
+    key: 'AsianFoodNoodlesBowl',
     width: 24,
     height: 24,
     attributes: undefined,

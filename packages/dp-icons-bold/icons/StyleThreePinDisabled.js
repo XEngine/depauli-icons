@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinDisabled',
+    name: 'style-three-pin-disabled',
+    key: 'StyleThreePinDisabled',
     width: 24,
     height: 24,
     attributes: undefined,

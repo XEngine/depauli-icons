@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyGlobeMessage',
+    name: 'ecology-globe-message',
+    key: 'EcologyGlobeMessage',
     width: 24,
     height: 24,
     attributes: undefined,

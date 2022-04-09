@@ -1,5 +1,6 @@
 export default {
-    name: 'Lift',
+    name: 'lift',
+    key: 'Lift',
     width: 24,
     height: 24,
     attributes: undefined,

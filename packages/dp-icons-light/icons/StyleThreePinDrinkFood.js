@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinDrinkFood',
+    name: 'style-three-pin-drink-food',
+    key: 'StyleThreePinDrinkFood',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

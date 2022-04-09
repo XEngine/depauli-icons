@@ -1,5 +1,6 @@
 export default {
-    name: 'Js',
+    name: 'js',
+    key: 'Js',
     width: 24,
     height: 24,
     attributes: undefined,

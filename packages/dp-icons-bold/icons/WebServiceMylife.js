@@ -1,5 +1,6 @@
 export default {
-    name: 'WebServiceMylife',
+    name: 'web-service-mylife',
+    key: 'WebServiceMylife',
     width: 24,
     height: 24,
     attributes: undefined,

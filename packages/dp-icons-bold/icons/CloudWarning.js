@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudWarning',
+    name: 'cloud-warning',
+    key: 'CloudWarning',
     width: 24,
     height: 24,
     attributes: undefined,

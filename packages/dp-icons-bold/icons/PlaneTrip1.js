@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneTrip1',
+    name: 'plane-trip-1',
+    key: 'PlaneTrip1',
     width: 24,
     height: 24,
     attributes: undefined,

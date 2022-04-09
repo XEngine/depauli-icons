@@ -1,5 +1,6 @@
 export default {
-    name: 'DrawerSend',
+    name: 'drawer-send',
+    key: 'DrawerSend',
     width: 24,
     height: 24,
     attributes: undefined,

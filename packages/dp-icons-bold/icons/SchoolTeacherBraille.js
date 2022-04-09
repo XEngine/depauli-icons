@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolTeacherBraille',
+    name: 'school-teacher-braille',
+    key: 'SchoolTeacherBraille',
     width: 24,
     height: 24,
     attributes: undefined,

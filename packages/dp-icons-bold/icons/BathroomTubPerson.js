@@ -1,5 +1,6 @@
 export default {
-    name: 'BathroomTubPerson',
+    name: 'bathroom-tub-person',
+    key: 'BathroomTubPerson',
     width: 24,
     height: 24,
     attributes: undefined,

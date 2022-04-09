@@ -1,5 +1,6 @@
 export default {
-    name: 'AccessoriesTie',
+    name: 'accessories-tie',
+    key: 'AccessoriesTie',
     width: 24,
     height: 24,
     attributes: undefined,

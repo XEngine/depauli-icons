@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleStar1',
+    name: 'messages-bubble-star-1',
+    key: 'MessagesBubbleStar1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

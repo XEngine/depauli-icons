@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentDownload',
+    name: 'shipment-download',
+    key: 'ShipmentDownload',
     width: 24,
     height: 24,
     attributes: undefined,

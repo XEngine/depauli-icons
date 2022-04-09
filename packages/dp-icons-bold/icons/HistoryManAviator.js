@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryManAviator',
+    name: 'history-man-aviator',
+    key: 'HistoryManAviator',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LivestockBullFootstep',
+    name: 'livestock-bull-footstep',
+    key: 'LivestockBullFootstep',
     width: 24,
     height: 24,
     attributes: undefined,

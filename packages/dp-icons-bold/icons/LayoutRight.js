@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutRight',
+    name: 'layout-right',
+    key: 'LayoutRight',
     width: 24,
     height: 24,
     attributes: undefined,

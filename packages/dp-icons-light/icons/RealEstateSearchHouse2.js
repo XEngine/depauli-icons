@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateSearchHouse2',
+    name: 'real-estate-search-house-2',
+    key: 'RealEstateSearchHouse2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

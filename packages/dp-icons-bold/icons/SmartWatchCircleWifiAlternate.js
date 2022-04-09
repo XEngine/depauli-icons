@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleWifiAlternate',
+    name: 'smart-watch-circle-wifi-alternate',
+    key: 'SmartWatchCircleWifiAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessDealNegotiate',
+    name: 'business-deal-negotiate',
+    key: 'BusinessDealNegotiate',
     width: 24,
     height: 24,
     attributes: undefined,

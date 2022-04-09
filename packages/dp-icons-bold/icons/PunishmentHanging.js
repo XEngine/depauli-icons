@@ -1,5 +1,6 @@
 export default {
-    name: 'PunishmentHanging',
+    name: 'punishment-hanging',
+    key: 'PunishmentHanging',
     width: 24,
     height: 24,
     attributes: undefined,

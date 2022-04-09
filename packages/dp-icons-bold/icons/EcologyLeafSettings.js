@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyLeafSettings',
+    name: 'ecology-leaf-settings',
+    key: 'EcologyLeafSettings',
     width: 24,
     height: 24,
     attributes: undefined,

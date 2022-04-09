@@ -1,5 +1,6 @@
 export default {
-    name: 'ClothesDesignTapeMeasure',
+    name: 'clothes-design-tape-measure',
+    key: 'ClothesDesignTapeMeasure',
     width: 24,
     height: 24,
     attributes: undefined,

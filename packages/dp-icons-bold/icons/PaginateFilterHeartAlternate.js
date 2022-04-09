@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterHeartAlternate',
+    name: 'paginate-filter-heart-alternate',
+    key: 'PaginateFilterHeartAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

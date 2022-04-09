@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsRemove',
+    name: 'tags-remove',
+    key: 'TagsRemove',
     width: 24,
     height: 24,
     attributes: undefined,

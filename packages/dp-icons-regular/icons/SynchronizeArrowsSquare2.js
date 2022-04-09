@@ -1,5 +1,6 @@
 export default {
-    name: 'SynchronizeArrowsSquare2',
+    name: 'synchronize-arrows-square-2',
+    key: 'SynchronizeArrowsSquare2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

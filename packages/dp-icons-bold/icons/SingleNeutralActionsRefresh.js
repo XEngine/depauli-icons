@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsRefresh',
+    name: 'single-neutral-actions-refresh',
+    key: 'SingleNeutralActionsRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameControllerTeam',
+    name: 'video-game-controller-team',
+    key: 'VideoGameControllerTeam',
     width: 24,
     height: 24,
     attributes: undefined,

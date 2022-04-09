@@ -1,5 +1,6 @@
 export default {
-    name: 'Skull2',
+    name: 'skull-2',
+    key: 'Skull2',
     width: 24,
     height: 24,
     attributes: undefined,

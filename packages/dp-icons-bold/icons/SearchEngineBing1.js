@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchEngineBing1',
+    name: 'search-engine-bing-1',
+    key: 'SearchEngineBing1',
     width: 24,
     height: 24,
     attributes: undefined,

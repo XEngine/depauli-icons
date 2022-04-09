@@ -1,5 +1,6 @@
 export default {
-    name: 'AwardRibbonStar3',
+    name: 'award-ribbon-star-3',
+    key: 'AwardRibbonStar3',
     width: 24,
     height: 24,
     attributes: undefined,

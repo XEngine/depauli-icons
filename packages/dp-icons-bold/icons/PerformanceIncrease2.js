@@ -1,5 +1,6 @@
 export default {
-    name: 'PerformanceIncrease2',
+    name: 'performance-increase-2',
+    key: 'PerformanceIncrease2',
     width: 24,
     height: 24,
     attributes: undefined,

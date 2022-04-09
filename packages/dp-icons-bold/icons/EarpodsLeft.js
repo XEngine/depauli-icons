@@ -1,5 +1,6 @@
 export default {
-    name: 'EarpodsLeft',
+    name: 'earpods-left',
+    key: 'EarpodsLeft',
     width: 24,
     height: 24,
     attributes: undefined,

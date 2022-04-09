@@ -1,5 +1,6 @@
 export default {
-    name: 'ComputerShield',
+    name: 'computer-shield',
+    key: 'ComputerShield',
     width: 24,
     height: 24,
     attributes: undefined,

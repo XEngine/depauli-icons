@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderCodeAlternate',
+    name: 'folder-code-alternate',
+    key: 'FolderCodeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

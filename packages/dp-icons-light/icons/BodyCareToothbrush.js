@@ -1,5 +1,6 @@
 export default {
-    name: 'BodyCareToothbrush',
+    name: 'body-care-toothbrush',
+    key: 'BodyCareToothbrush',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

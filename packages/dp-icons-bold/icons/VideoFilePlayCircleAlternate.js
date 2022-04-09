@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFilePlayCircleAlternate',
+    name: 'video-file-play-circle-alternate',
+    key: 'VideoFilePlayCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

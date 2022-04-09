@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileShare',
+    name: 'common-file-share',
+    key: 'CommonFileShare',
     width: 24,
     height: 24,
     attributes: undefined,

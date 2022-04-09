@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarDisable1',
+    name: 'calendar-disable-1',
+    key: 'CalendarDisable1',
     width: 24,
     height: 24,
     attributes: undefined,

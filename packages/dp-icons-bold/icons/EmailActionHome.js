@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionHome',
+    name: 'email-action-home',
+    key: 'EmailActionHome',
     width: 24,
     height: 24,
     attributes: undefined,

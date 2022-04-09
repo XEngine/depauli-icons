@@ -1,5 +1,6 @@
 export default {
-    name: 'BodyCarePerfume',
+    name: 'body-care-perfume',
+    key: 'BodyCarePerfume',
     width: 24,
     height: 24,
     attributes: undefined,

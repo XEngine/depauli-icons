@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyBreathing',
+    name: 'medical-specialty-breathing',
+    key: 'MedicalSpecialtyBreathing',
     width: 24,
     height: 24,
     attributes: undefined,

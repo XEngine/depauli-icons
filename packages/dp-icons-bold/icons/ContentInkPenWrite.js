@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentInkPenWrite',
+    name: 'content-ink-pen-write',
+    key: 'ContentInkPenWrite',
     width: 24,
     height: 24,
     attributes: undefined,

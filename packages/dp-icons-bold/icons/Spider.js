@@ -1,5 +1,6 @@
 export default {
-    name: 'Spider',
+    name: 'spider',
+    key: 'Spider',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RetouchPatch',
+    name: 'retouch-patch',
+    key: 'RetouchPatch',
     width: 24,
     height: 24,
     attributes: undefined,

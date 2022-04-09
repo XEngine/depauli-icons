@@ -1,5 +1,6 @@
 export default {
-    name: 'WhaleTail',
+    name: 'whale-tail',
+    key: 'WhaleTail',
     width: 24,
     height: 24,
     attributes: undefined,

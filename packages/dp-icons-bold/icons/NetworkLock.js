@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkLock',
+    name: 'network-lock',
+    key: 'NetworkLock',
     width: 24,
     height: 24,
     attributes: undefined,

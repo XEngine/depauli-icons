@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingBearDecrease',
+    name: 'saving-bear-decrease',
+    key: 'SavingBearDecrease',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningLawnMower1',
+    name: 'gardening-lawn-mower-1',
+    key: 'GardeningLawnMower1',
     width: 24,
     height: 24,
     attributes: undefined,

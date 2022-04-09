@@ -1,5 +1,6 @@
 export default {
-    name: 'NaturalDisasterFloodHouseIndoor',
+    name: 'natural-disaster-flood-house-indoor',
+    key: 'NaturalDisasterFloodHouseIndoor',
     width: 24,
     height: 24,
     attributes: undefined,

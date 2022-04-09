@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileVolumeAlternate',
+    name: 'audio-file-volume-alternate',
+    key: 'AudioFileVolumeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

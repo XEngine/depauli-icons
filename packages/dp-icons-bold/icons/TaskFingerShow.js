@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskFingerShow',
+    name: 'task-finger-show',
+    key: 'TaskFingerShow',
     width: 24,
     height: 24,
     attributes: undefined,

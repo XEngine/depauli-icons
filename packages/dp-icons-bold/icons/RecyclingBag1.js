@@ -1,5 +1,6 @@
 export default {
-    name: 'RecyclingBag1',
+    name: 'recycling-bag-1',
+    key: 'RecyclingBag1',
     width: 24,
     height: 24,
     attributes: undefined,

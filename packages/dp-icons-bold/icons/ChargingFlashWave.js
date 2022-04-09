@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingFlashWave',
+    name: 'charging-flash-wave',
+    key: 'ChargingFlashWave',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeDisable1',
+    name: 'file-code-disable-1',
+    key: 'FileCodeDisable1',
     width: 24,
     height: 24,
     attributes: undefined,

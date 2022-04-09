@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseEditAlternate',
+    name: 'database-edit-alternate',
+    key: 'DatabaseEditAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

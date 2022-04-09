@@ -1,5 +1,6 @@
 export default {
-    name: 'AwardTrophyStar',
+    name: 'award-trophy-star',
+    key: 'AwardTrophyStar',
     width: 24,
     height: 24,
     attributes: undefined,

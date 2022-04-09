@@ -1,5 +1,6 @@
 export default {
-    name: 'PeacockHead',
+    name: 'peacock-head',
+    key: 'PeacockHead',
     width: 24,
     height: 24,
     attributes: undefined,

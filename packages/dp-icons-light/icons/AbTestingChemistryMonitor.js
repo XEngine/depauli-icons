@@ -1,5 +1,6 @@
 export default {
-    name: 'AbTestingChemistryMonitor',
+    name: 'ab-testing-chemistry-monitor',
+    key: 'AbTestingChemistryMonitor',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

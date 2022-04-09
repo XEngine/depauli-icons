@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsCheck1',
+    name: 'single-man-actions-check-1',
+    key: 'SingleManActionsCheck1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

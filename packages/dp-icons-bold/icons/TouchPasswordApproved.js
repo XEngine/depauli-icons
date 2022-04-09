@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchPasswordApproved',
+    name: 'touch-password-approved',
+    key: 'TouchPasswordApproved',
     width: 24,
     height: 24,
     attributes: undefined,

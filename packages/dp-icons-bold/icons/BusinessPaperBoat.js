@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessPaperBoat',
+    name: 'business-paper-boat',
+    key: 'BusinessPaperBoat',
     width: 24,
     height: 24,
     attributes: undefined,

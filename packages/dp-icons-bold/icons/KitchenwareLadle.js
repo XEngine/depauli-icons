@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareLadle',
+    name: 'kitchenware-ladle',
+    key: 'KitchenwareLadle',
     width: 24,
     height: 24,
     attributes: undefined,

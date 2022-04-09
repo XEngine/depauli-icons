@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleCheck',
+    name: 'messages-bubble-check',
+    key: 'MessagesBubbleCheck',
     width: 24,
     height: 24,
     attributes: undefined,

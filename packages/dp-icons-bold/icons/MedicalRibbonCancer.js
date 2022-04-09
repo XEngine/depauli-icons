@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalRibbonCancer',
+    name: 'medical-ribbon-cancer',
+    key: 'MedicalRibbonCancer',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ParkingRamp',
+    name: 'parking-ramp',
+    key: 'ParkingRamp',
     width: 24,
     height: 24,
     attributes: undefined,

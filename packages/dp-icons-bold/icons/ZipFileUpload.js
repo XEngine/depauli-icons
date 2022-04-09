@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileUpload',
+    name: 'zip-file-upload',
+    key: 'ZipFileUpload',
     width: 24,
     height: 24,
     attributes: undefined,

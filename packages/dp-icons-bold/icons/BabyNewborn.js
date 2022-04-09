@@ -1,5 +1,6 @@
 export default {
-    name: 'BabyNewborn',
+    name: 'baby-newborn',
+    key: 'BabyNewborn',
     width: 24,
     height: 24,
     attributes: undefined,

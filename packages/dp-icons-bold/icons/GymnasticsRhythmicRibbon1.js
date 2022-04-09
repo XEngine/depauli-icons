@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsRhythmicRibbon1',
+    name: 'gymnastics-rhythmic-ribbon-1',
+    key: 'GymnasticsRhythmicRibbon1',
     width: 24,
     height: 24,
     attributes: undefined,

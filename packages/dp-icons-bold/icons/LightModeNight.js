@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeNight',
+    name: 'light-mode-night',
+    key: 'LightModeNight',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateFavoriteHoldBuilding',
+    name: 'real-estate-favorite-hold-building',
+    key: 'RealEstateFavoriteHoldBuilding',
     width: 24,
     height: 24,
     attributes: undefined,

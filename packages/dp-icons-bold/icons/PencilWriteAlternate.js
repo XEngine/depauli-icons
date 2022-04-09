@@ -1,5 +1,6 @@
 export default {
-    name: 'PencilWriteAlternate',
+    name: 'pencil-write-alternate',
+    key: 'PencilWriteAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

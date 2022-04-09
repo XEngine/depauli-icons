@@ -1,5 +1,6 @@
 export default {
-    name: 'AmericanFootballScore',
+    name: 'american-football-score',
+    key: 'AmericanFootballScore',
     width: 24,
     height: 24,
     attributes: undefined,

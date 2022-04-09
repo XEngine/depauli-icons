@@ -1,5 +1,6 @@
 export default {
-    name: 'FastFoodWrap',
+    name: 'fast-food-wrap',
+    key: 'FastFoodWrap',
     width: 24,
     height: 24,
     attributes: undefined,

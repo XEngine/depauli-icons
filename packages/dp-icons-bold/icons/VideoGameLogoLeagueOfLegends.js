@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoLeagueOfLegends',
+    name: 'video-game-logo-league-of-legends',
+    key: 'VideoGameLogoLeagueOfLegends',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ProjectBlueprintBuildings',
+    name: 'project-blueprint-buildings',
+    key: 'ProjectBlueprintBuildings',
     width: 24,
     height: 24,
     attributes: undefined,

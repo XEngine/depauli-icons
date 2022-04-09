@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkNotreDame',
+    name: 'landmark-notre-dame',
+    key: 'LandmarkNotreDame',
     width: 24,
     height: 24,
     attributes: undefined,

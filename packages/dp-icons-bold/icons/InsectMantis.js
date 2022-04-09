@@ -1,5 +1,6 @@
 export default {
-    name: 'InsectMantis',
+    name: 'insect-mantis',
+    key: 'InsectMantis',
     width: 24,
     height: 24,
     attributes: undefined,

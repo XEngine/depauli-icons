@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchIdApproved1',
+    name: 'touch-id-approved-1',
+    key: 'TouchIdApproved1',
     width: 24,
     height: 24,
     attributes: undefined,

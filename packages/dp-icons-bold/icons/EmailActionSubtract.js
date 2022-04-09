@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionSubtract',
+    name: 'email-action-subtract',
+    key: 'EmailActionSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

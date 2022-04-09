@@ -1,5 +1,6 @@
 export default {
-    name: 'BoardGameJenga',
+    name: 'board-game-jenga',
+    key: 'BoardGameJenga',
     width: 24,
     height: 24,
     attributes: undefined,

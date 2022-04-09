@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionClock',
+    name: 'email-action-clock',
+    key: 'EmailActionClock',
     width: 24,
     height: 24,
     attributes: undefined,

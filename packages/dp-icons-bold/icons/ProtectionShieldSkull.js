@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionShieldSkull',
+    name: 'protection-shield-skull',
+    key: 'ProtectionShieldSkull',
     width: 24,
     height: 24,
     attributes: undefined,

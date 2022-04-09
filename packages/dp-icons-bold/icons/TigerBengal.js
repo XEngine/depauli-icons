@@ -1,5 +1,6 @@
 export default {
-    name: 'TigerBengal',
+    name: 'tiger-bengal',
+    key: 'TigerBengal',
     width: 24,
     height: 24,
     attributes: undefined,

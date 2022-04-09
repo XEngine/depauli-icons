@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaYammer',
+    name: 'social-media-yammer',
+    key: 'SocialMediaYammer',
     width: 24,
     height: 24,
     attributes: undefined,

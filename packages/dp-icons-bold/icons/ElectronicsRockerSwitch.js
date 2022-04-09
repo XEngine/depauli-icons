@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsRockerSwitch',
+    name: 'electronics-rocker-switch',
+    key: 'ElectronicsRockerSwitch',
     width: 24,
     height: 24,
     attributes: undefined,

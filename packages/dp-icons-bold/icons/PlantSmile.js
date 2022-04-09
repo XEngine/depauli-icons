@@ -1,5 +1,6 @@
 export default {
-    name: 'PlantSmile',
+    name: 'plant-smile',
+    key: 'PlantSmile',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyOutdoorsPlayhouseSwing',
+    name: 'family-outdoors-playhouse-swing',
+    key: 'FamilyOutdoorsPlayhouseSwing',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

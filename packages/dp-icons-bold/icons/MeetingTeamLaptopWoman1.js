@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingTeamLaptopWoman1',
+    name: 'meeting-team-laptop-woman-1',
+    key: 'MeetingTeamLaptopWoman1',
     width: 24,
     height: 24,
     attributes: undefined,

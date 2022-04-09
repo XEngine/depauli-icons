@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditBrightness',
+    name: 'video-edit-brightness',
+    key: 'VideoEditBrightness',
     width: 24,
     height: 24,
     attributes: undefined,

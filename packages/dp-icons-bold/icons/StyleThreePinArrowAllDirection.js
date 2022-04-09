@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinArrowAllDirection',
+    name: 'style-three-pin-arrow-all-direction',
+    key: 'StyleThreePinArrowAllDirection',
     width: 24,
     height: 24,
     attributes: undefined,

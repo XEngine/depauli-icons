@@ -1,5 +1,6 @@
 export default {
-    name: 'QuestionHelpMessageAlternate',
+    name: 'question-help-message-alternate',
+    key: 'QuestionHelpMessageAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

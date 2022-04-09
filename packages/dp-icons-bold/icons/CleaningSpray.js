@@ -1,5 +1,6 @@
 export default {
-    name: 'CleaningSpray',
+    name: 'cleaning-spray',
+    key: 'CleaningSpray',
     width: 24,
     height: 24,
     attributes: undefined,

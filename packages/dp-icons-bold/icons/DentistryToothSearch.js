@@ -1,5 +1,6 @@
 export default {
-    name: 'DentistryToothSearch',
+    name: 'dentistry-tooth-search',
+    key: 'DentistryToothSearch',
     width: 24,
     height: 24,
     attributes: undefined,

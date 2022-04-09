@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBottle',
+    name: 'style-three-pin-bottle',
+    key: 'StyleThreePinBottle',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

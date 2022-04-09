@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingWhatsapp',
+    name: 'messaging-whatsapp',
+    key: 'MessagingWhatsapp',
     width: 24,
     height: 24,
     attributes: undefined,

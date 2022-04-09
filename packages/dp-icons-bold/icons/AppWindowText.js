@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowText',
+    name: 'app-window-text',
+    key: 'AppWindowText',
     width: 24,
     height: 24,
     attributes: undefined,

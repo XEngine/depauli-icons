@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmySwordFight',
+    name: 'army-sword-fight',
+    key: 'ArmySwordFight',
     width: 24,
     height: 24,
     attributes: undefined,

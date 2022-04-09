@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBolt',
+    name: 'style-three-pin-bolt',
+    key: 'StyleThreePinBolt',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessTrophy',
+    name: 'business-trophy',
+    key: 'BusinessTrophy',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EqualizerStereo',
+    name: 'equalizer-stereo',
+    key: 'EqualizerStereo',
     width: 24,
     height: 24,
     attributes: undefined,

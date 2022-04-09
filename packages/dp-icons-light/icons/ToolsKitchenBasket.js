@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsKitchenBasket',
+    name: 'tools-kitchen-basket',
+    key: 'ToolsKitchenBasket',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

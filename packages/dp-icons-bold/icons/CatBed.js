@@ -1,5 +1,6 @@
 export default {
-    name: 'CatBed',
+    name: 'cat-bed',
+    key: 'CatBed',
     width: 24,
     height: 24,
     attributes: undefined,

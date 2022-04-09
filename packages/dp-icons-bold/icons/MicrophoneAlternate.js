@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophoneAlternate',
+    name: 'microphone-alternate',
+    key: 'MicrophoneAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

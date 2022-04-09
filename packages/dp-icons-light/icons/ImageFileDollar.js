@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileDollar',
+    name: 'image-file-dollar',
+    key: 'ImageFileDollar',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

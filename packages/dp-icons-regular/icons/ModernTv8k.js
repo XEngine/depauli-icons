@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernTv8k',
+    name: 'modern-tv-8k',
+    key: 'ModernTv8k',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

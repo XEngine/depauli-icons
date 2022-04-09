@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseRemove',
+    name: 'database-remove',
+    key: 'DatabaseRemove',
     width: 24,
     height: 24,
     attributes: undefined,

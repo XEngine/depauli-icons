@@ -1,5 +1,6 @@
 export default {
-    name: 'HalloweenGraveyard',
+    name: 'halloween-graveyard',
+    key: 'HalloweenGraveyard',
     width: 24,
     height: 24,
     attributes: undefined,

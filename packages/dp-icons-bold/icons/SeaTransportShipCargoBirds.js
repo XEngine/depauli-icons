@@ -1,5 +1,6 @@
 export default {
-    name: 'SeaTransportShipCargoBirds',
+    name: 'sea-transport-ship-cargo-birds',
+    key: 'SeaTransportShipCargoBirds',
     width: 24,
     height: 24,
     attributes: undefined,

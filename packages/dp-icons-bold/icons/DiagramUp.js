@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramUp',
+    name: 'diagram-up',
+    key: 'DiagramUp',
     width: 24,
     height: 24,
     attributes: undefined,

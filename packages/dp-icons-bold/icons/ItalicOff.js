@@ -1,5 +1,6 @@
 export default {
-    name: 'ItalicOff',
+    name: 'italic-off',
+    key: 'ItalicOff',
     width: 24,
     height: 24,
     attributes: undefined,

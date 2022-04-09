@@ -1,5 +1,6 @@
 export default {
-    name: 'Hierarchy9',
+    name: 'hierarchy-9',
+    key: 'Hierarchy9',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

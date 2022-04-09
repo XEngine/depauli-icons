@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageDocumentSvg',
+    name: 'image-document-svg',
+    key: 'ImageDocumentSvg',
     width: 24,
     height: 24,
     attributes: undefined,

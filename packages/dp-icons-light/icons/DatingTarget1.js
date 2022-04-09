@@ -1,5 +1,6 @@
 export default {
-    name: 'DatingTarget1',
+    name: 'dating-target-1',
+    key: 'DatingTarget1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

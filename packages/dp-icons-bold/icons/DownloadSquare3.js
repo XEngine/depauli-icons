@@ -1,5 +1,6 @@
 export default {
-    name: 'DownloadSquare3',
+    name: 'download-square-3',
+    key: 'DownloadSquare3',
     width: 24,
     height: 24,
     attributes: undefined,

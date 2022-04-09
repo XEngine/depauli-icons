@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyLeafSearch',
+    name: 'ecology-leaf-search',
+    key: 'EcologyLeafSearch',
     width: 24,
     height: 24,
     attributes: undefined,

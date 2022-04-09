@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadMusic',
+    name: 'read-music',
+    key: 'ReadMusic',
     width: 24,
     height: 24,
     attributes: undefined,

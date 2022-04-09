@@ -1,5 +1,6 @@
 export default {
-    name: 'RailroadLocomotive1',
+    name: 'railroad-locomotive-1',
+    key: 'RailroadLocomotive1',
     width: 24,
     height: 24,
     attributes: undefined,

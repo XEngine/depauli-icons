@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsPie2',
+    name: 'analytics-pie-2',
+    key: 'AnalyticsPie2',
     width: 24,
     height: 24,
     attributes: undefined,

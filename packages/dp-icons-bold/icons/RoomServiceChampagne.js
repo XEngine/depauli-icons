@@ -1,5 +1,6 @@
 export default {
-    name: 'RoomServiceChampagne',
+    name: 'room-service-champagne',
+    key: 'RoomServiceChampagne',
     width: 24,
     height: 24,
     attributes: undefined,

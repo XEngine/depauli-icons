@@ -1,5 +1,6 @@
 export default {
-    name: 'ChefGearDumplings',
+    name: 'chef-gear-dumplings',
+    key: 'ChefGearDumplings',
     width: 24,
     height: 24,
     attributes: undefined,

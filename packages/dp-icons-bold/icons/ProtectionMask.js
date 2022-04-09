@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionMask',
+    name: 'protection-mask',
+    key: 'ProtectionMask',
     width: 24,
     height: 24,
     attributes: undefined,

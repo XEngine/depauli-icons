@@ -1,5 +1,6 @@
 export default {
-    name: 'LivestockSheep',
+    name: 'livestock-sheep',
+    key: 'LivestockSheep',
     width: 24,
     height: 24,
     attributes: undefined,

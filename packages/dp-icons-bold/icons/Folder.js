@@ -1,5 +1,6 @@
 export default {
-    name: 'Folder',
+    name: 'folder',
+    key: 'Folder',
     width: 24,
     height: 24,
     attributes: undefined,

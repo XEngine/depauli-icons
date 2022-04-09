@@ -1,5 +1,6 @@
 export default {
-    name: 'AirportSignal',
+    name: 'airport-signal',
+    key: 'AirportSignal',
     width: 24,
     height: 24,
     attributes: undefined,

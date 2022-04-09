@@ -1,5 +1,6 @@
 export default {
-    name: 'PicturePolaroidLandscape',
+    name: 'picture-polaroid-landscape',
+    key: 'PicturePolaroidLandscape',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileDmg1',
+    name: 'file-dmg-1',
+    key: 'FileDmg1',
     width: 24,
     height: 24,
     attributes: undefined,

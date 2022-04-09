@@ -1,5 +1,6 @@
 export default {
-    name: 'AnimalProductsEggs',
+    name: 'animal-products-eggs',
+    key: 'AnimalProductsEggs',
     width: 24,
     height: 24,
     attributes: undefined,

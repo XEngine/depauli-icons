@@ -1,5 +1,6 @@
 export default {
-    name: 'HistorySpartanMask',
+    name: 'history-spartan-mask',
+    key: 'HistorySpartanMask',
     width: 24,
     height: 24,
     attributes: undefined,

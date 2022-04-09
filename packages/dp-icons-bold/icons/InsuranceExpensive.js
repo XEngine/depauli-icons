@@ -1,5 +1,6 @@
 export default {
-    name: 'InsuranceExpensive',
+    name: 'insurance-expensive',
+    key: 'InsuranceExpensive',
     width: 24,
     height: 24,
     attributes: undefined,

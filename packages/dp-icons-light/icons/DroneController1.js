@@ -1,5 +1,6 @@
 export default {
-    name: 'DroneController1',
+    name: 'drone-controller-1',
+    key: 'DroneController1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraStudio',
+    name: 'camera-studio',
+    key: 'CameraStudio',
     width: 24,
     height: 24,
     attributes: undefined,

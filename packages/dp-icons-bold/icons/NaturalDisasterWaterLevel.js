@@ -1,5 +1,6 @@
 export default {
-    name: 'NaturalDisasterWaterLevel',
+    name: 'natural-disaster-water-level',
+    key: 'NaturalDisasterWaterLevel',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WildlifeProtectionHold',
+    name: 'wildlife-protection-hold',
+    key: 'WildlifeProtectionHold',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

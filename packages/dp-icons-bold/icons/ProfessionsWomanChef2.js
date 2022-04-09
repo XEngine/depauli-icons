@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsWomanChef2',
+    name: 'professions-woman-chef-2',
+    key: 'ProfessionsWomanChef2',
     width: 24,
     height: 24,
     attributes: undefined,

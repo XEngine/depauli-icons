@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorQuestion',
+    name: 'monitor-question',
+    key: 'MonitorQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

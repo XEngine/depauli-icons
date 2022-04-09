@@ -1,5 +1,6 @@
 export default {
-    name: 'AthleticsTeamRunning',
+    name: 'athletics-team-running',
+    key: 'AthleticsTeamRunning',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

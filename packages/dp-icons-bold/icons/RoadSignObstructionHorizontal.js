@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignObstructionHorizontal',
+    name: 'road-sign-obstruction-horizontal',
+    key: 'RoadSignObstructionHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

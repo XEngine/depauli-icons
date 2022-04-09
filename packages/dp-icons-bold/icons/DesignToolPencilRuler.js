@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolPencilRuler',
+    name: 'design-tool-pencil-ruler',
+    key: 'DesignToolPencilRuler',
     width: 24,
     height: 24,
     attributes: undefined,

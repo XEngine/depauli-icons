@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopStreetSign',
+    name: 'shop-street-sign',
+    key: 'ShopStreetSign',
     width: 24,
     height: 24,
     attributes: undefined,

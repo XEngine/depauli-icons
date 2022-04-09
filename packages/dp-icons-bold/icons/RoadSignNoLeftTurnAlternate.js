@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignNoLeftTurnAlternate',
+    name: 'road-sign-no-left-turn-alternate',
+    key: 'RoadSignNoLeftTurnAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTapClock1',
+    name: 'gesture-tap-clock-1',
+    key: 'GestureTapClock1',
     width: 24,
     height: 24,
     attributes: undefined,

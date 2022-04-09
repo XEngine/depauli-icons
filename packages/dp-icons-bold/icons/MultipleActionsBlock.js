@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsBlock',
+    name: 'multiple-actions-block',
+    key: 'MultipleActionsBlock',
     width: 24,
     height: 24,
     attributes: undefined,

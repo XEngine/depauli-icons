@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingMonitorWebcam',
+    name: 'meeting-monitor-webcam',
+    key: 'MeetingMonitorWebcam',
     width: 24,
     height: 24,
     attributes: undefined,

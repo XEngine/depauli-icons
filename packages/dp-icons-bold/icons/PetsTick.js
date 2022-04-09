@@ -1,5 +1,6 @@
 export default {
-    name: 'PetsTick',
+    name: 'pets-tick',
+    key: 'PetsTick',
     width: 24,
     height: 24,
     attributes: undefined,

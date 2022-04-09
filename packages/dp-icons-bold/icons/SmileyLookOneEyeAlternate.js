@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyLookOneEyeAlternate',
+    name: 'smiley-look-one-eye-alternate',
+    key: 'SmileyLookOneEyeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

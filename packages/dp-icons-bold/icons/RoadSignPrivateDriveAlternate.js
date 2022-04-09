@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignPrivateDriveAlternate',
+    name: 'road-sign-private-drive-alternate',
+    key: 'RoadSignPrivateDriveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

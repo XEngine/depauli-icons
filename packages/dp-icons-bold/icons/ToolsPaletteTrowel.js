@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsPaletteTrowel',
+    name: 'tools-palette-trowel',
+    key: 'ToolsPaletteTrowel',
     width: 24,
     height: 24,
     attributes: undefined,

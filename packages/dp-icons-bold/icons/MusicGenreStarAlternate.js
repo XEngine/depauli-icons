@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreStarAlternate',
+    name: 'music-genre-star-alternate',
+    key: 'MusicGenreStarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

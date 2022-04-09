@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningWateringPipe',
+    name: 'gardening-watering-pipe',
+    key: 'GardeningWateringPipe',
     width: 24,
     height: 24,
     attributes: undefined,

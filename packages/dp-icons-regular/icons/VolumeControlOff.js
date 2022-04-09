@@ -1,5 +1,6 @@
 export default {
-    name: 'VolumeControlOff',
+    name: 'volume-control-off',
+    key: 'VolumeControlOff',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

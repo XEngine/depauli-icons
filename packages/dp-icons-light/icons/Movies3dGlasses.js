@@ -1,5 +1,6 @@
 export default {
-    name: 'Movies3dGlasses',
+    name: 'movies-3d-glasses',
+    key: 'Movies3dGlasses',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionShieldKnight',
+    name: 'protection-shield-knight',
+    key: 'ProtectionShieldKnight',
     width: 24,
     height: 24,
     attributes: undefined,

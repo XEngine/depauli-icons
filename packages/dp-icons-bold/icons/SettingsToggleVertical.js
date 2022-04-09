@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsToggleVertical',
+    name: 'settings-toggle-vertical',
+    key: 'SettingsToggleVertical',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Delete1',
+    name: 'delete-1',
+    key: 'Delete1',
     width: 24,
     height: 24,
     attributes: undefined,

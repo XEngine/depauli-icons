@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsRestaurant1',
+    name: 'phone-actions-restaurant-1',
+    key: 'PhoneActionsRestaurant1',
     width: 24,
     height: 24,
     attributes: undefined,

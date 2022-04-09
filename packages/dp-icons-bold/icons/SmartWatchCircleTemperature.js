@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleTemperature',
+    name: 'smart-watch-circle-temperature',
+    key: 'SmartWatchCircleTemperature',
     width: 24,
     height: 24,
     attributes: undefined,

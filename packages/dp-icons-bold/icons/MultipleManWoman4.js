@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleManWoman4',
+    name: 'multiple-man-woman-4',
+    key: 'MultipleManWoman4',
     width: 24,
     height: 24,
     attributes: undefined,

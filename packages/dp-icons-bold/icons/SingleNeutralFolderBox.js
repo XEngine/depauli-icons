@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralFolderBox',
+    name: 'single-neutral-folder-box',
+    key: 'SingleNeutralFolderBox',
     width: 24,
     height: 24,
     attributes: undefined,

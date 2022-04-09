@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinRadioVan',
+    name: 'style-three-pin-radio-van',
+    key: 'StyleThreePinRadioVan',
     width: 24,
     height: 24,
     attributes: undefined,

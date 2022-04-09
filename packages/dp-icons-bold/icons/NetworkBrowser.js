@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkBrowser',
+    name: 'network-browser',
+    key: 'NetworkBrowser',
     width: 24,
     height: 24,
     attributes: undefined,

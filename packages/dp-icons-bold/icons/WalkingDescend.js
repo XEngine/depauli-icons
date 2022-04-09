@@ -1,5 +1,6 @@
 export default {
-    name: 'WalkingDescend',
+    name: 'walking-descend',
+    key: 'WalkingDescend',
     width: 24,
     height: 24,
     attributes: undefined,

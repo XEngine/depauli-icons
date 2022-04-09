@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeDesk1',
+    name: 'office-desk-1',
+    key: 'OfficeDesk1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

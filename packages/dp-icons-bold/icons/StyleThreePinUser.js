@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinUser',
+    name: 'style-three-pin-user',
+    key: 'StyleThreePinUser',
     width: 24,
     height: 24,
     attributes: undefined,

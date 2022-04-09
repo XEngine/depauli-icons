@@ -1,5 +1,6 @@
 export default {
-    name: 'BloodDropTypeAb',
+    name: 'blood-drop-type-ab',
+    key: 'BloodDropTypeAb',
     width: 24,
     height: 24,
     attributes: undefined,

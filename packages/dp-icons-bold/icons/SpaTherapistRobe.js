@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaTherapistRobe',
+    name: 'spa-therapist-robe',
+    key: 'SpaTherapistRobe',
     width: 24,
     height: 24,
     attributes: undefined,

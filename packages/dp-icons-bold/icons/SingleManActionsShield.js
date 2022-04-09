@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsShield',
+    name: 'single-man-actions-shield',
+    key: 'SingleManActionsShield',
     width: 24,
     height: 24,
     attributes: undefined,

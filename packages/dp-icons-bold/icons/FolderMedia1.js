@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderMedia1',
+    name: 'folder-media-1',
+    key: 'FolderMedia1',
     width: 24,
     height: 24,
     attributes: undefined,

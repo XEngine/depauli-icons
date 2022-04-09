@@ -1,5 +1,6 @@
 export default {
-    name: 'CellBorderTop',
+    name: 'cell-border-top',
+    key: 'CellBorderTop',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignDeadend1',
+    name: 'road-sign-deadend-1',
+    key: 'RoadSignDeadend1',
     width: 24,
     height: 24,
     attributes: undefined,

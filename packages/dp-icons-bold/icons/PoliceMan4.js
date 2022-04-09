@@ -1,5 +1,6 @@
 export default {
-    name: 'PoliceMan4',
+    name: 'police-man-4',
+    key: 'PoliceMan4',
     width: 24,
     height: 24,
     attributes: undefined,

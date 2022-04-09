@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsUpload',
+    name: 'tags-upload',
+    key: 'TagsUpload',
     width: 24,
     height: 24,
     attributes: undefined,

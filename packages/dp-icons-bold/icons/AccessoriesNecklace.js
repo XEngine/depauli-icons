@@ -1,5 +1,6 @@
 export default {
-    name: 'AccessoriesNecklace',
+    name: 'accessories-necklace',
+    key: 'AccessoriesNecklace',
     width: 24,
     height: 24,
     attributes: undefined,

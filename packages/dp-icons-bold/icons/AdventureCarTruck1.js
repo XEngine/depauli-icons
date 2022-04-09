@@ -1,5 +1,6 @@
 export default {
-    name: 'AdventureCarTruck1',
+    name: 'adventure-car-truck-1',
+    key: 'AdventureCarTruck1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BrokenTabRemoveAlternate',
+    name: 'broken-tab-remove-alternate',
+    key: 'BrokenTabRemoveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

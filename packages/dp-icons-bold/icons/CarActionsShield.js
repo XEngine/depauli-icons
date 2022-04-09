@@ -1,5 +1,6 @@
 export default {
-    name: 'CarActionsShield',
+    name: 'car-actions-shield',
+    key: 'CarActionsShield',
     width: 24,
     height: 24,
     attributes: undefined,

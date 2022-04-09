@@ -1,5 +1,6 @@
 export default {
-    name: 'VinylRecordPlayer1',
+    name: 'vinyl-record-player-1',
+    key: 'VinylRecordPlayer1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FocusAutoAlternate',
+    name: 'focus-auto-alternate',
+    key: 'FocusAutoAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

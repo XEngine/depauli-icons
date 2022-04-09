@@ -1,5 +1,6 @@
 export default {
-    name: 'RainUmbrellaCase',
+    name: 'rain-umbrella-case',
+    key: 'RainUmbrellaCase',
     width: 24,
     height: 24,
     attributes: undefined,

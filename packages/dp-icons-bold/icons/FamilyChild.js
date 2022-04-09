@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyChild',
+    name: 'family-child',
+    key: 'FamilyChild',
     width: 24,
     height: 24,
     attributes: undefined,

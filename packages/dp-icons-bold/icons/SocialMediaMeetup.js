@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaMeetup',
+    name: 'social-media-meetup',
+    key: 'SocialMediaMeetup',
     width: 24,
     height: 24,
     attributes: undefined,

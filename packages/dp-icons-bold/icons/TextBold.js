@@ -1,5 +1,6 @@
 export default {
-    name: 'TextBold',
+    name: 'text-bold',
+    key: 'TextBold',
     width: 24,
     height: 24,
     attributes: undefined,

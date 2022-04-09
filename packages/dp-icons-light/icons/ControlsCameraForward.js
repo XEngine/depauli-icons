@@ -1,5 +1,6 @@
 export default {
-    name: 'ControlsCameraForward',
+    name: 'controls-camera-forward',
+    key: 'ControlsCameraForward',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

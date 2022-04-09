@@ -1,5 +1,6 @@
 export default {
-    name: 'CrimeManRiot2',
+    name: 'crime-man-riot-2',
+    key: 'CrimeManRiot2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCopyrightEqual',
+    name: 'file-copyright-equal',
+    key: 'FileCopyrightEqual',
     width: 24,
     height: 24,
     attributes: undefined,

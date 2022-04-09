@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveHeartHandsHold',
+    name: 'love-heart-hands-hold',
+    key: 'LoveHeartHandsHold',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

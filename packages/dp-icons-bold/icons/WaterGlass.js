@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterGlass',
+    name: 'water-glass',
+    key: 'WaterGlass',
     width: 24,
     height: 24,
     attributes: undefined,

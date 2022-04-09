@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryChineseDragon',
+    name: 'history-chinese-dragon',
+    key: 'HistoryChineseDragon',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Py1',
+    name: 'py-1',
+    key: 'Py1',
     width: 24,
     height: 24,
     attributes: undefined,

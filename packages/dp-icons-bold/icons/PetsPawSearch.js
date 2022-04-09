@@ -1,5 +1,6 @@
 export default {
-    name: 'PetsPawSearch',
+    name: 'pets-paw-search',
+    key: 'PetsPawSearch',
     width: 24,
     height: 24,
     attributes: undefined,

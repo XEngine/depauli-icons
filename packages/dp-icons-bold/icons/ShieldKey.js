@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldKey',
+    name: 'shield-key',
+    key: 'ShieldKey',
     width: 24,
     height: 24,
     attributes: undefined,

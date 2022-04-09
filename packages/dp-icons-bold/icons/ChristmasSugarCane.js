@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasSugarCane',
+    name: 'christmas-sugar-cane',
+    key: 'ChristmasSugarCane',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextCash',
+    name: 'common-file-text-cash',
+    key: 'CommonFileTextCash',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyPlantHand',
+    name: 'ecology-plant-hand',
+    key: 'EcologyPlantHand',
     width: 24,
     height: 24,
     attributes: undefined,

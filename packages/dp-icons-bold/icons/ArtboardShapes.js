@@ -1,5 +1,6 @@
 export default {
-    name: 'ArtboardShapes',
+    name: 'artboard-shapes',
+    key: 'ArtboardShapes',
     width: 24,
     height: 24,
     attributes: undefined,

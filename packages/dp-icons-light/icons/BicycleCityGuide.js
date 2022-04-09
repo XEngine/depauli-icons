@@ -1,5 +1,6 @@
 export default {
-    name: 'BicycleCityGuide',
+    name: 'bicycle-city-guide',
+    key: 'BicycleCityGuide',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

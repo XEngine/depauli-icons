@@ -1,5 +1,6 @@
 export default {
-    name: 'ShrinkVertical',
+    name: 'shrink-vertical',
+    key: 'ShrinkVertical',
     width: 24,
     height: 24,
     attributes: undefined,

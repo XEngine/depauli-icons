@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageDocumentTiff1',
+    name: 'image-document-tiff-1',
+    key: 'ImageDocumentTiff1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CarGarage2',
+    name: 'car-garage-2',
+    key: 'CarGarage2',
     width: 24,
     height: 24,
     attributes: undefined,

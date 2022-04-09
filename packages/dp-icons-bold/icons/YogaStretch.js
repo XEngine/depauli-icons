@@ -1,5 +1,6 @@
 export default {
-    name: 'YogaStretch',
+    name: 'yoga-stretch',
+    key: 'YogaStretch',
     width: 24,
     height: 24,
     attributes: undefined,

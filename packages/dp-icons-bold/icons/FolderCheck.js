@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderCheck',
+    name: 'folder-check',
+    key: 'FolderCheck',
     width: 24,
     height: 24,
     attributes: undefined,

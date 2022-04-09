@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveGiftFlowers',
+    name: 'love-gift-flowers',
+    key: 'LoveGiftFlowers',
     width: 24,
     height: 24,
     attributes: undefined,

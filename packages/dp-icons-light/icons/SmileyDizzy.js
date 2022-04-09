@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyDizzy',
+    name: 'smiley-dizzy',
+    key: 'SmileyDizzy',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterFlapjack',
+    name: 'famous-character-flapjack',
+    key: 'FamousCharacterFlapjack',
     width: 24,
     height: 24,
     attributes: undefined,

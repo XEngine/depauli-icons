@@ -1,5 +1,6 @@
 export default {
-    name: 'AstrologyLibra',
+    name: 'astrology-libra',
+    key: 'AstrologyLibra',
     width: 24,
     height: 24,
     attributes: undefined,

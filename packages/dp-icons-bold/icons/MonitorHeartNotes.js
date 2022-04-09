@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorHeartNotes',
+    name: 'monitor-heart-notes',
+    key: 'MonitorHeartNotes',
     width: 24,
     height: 24,
     attributes: undefined,

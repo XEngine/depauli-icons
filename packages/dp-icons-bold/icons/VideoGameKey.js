@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameKey',
+    name: 'video-game-key',
+    key: 'VideoGameKey',
     width: 24,
     height: 24,
     attributes: undefined,

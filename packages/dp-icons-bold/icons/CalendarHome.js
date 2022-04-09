@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarHome',
+    name: 'calendar-home',
+    key: 'CalendarHome',
     width: 24,
     height: 24,
     attributes: undefined,

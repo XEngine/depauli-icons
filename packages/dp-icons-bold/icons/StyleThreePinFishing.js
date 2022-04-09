@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinFishing',
+    name: 'style-three-pin-fishing',
+    key: 'StyleThreePinFishing',
     width: 24,
     height: 24,
     attributes: undefined,

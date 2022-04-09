@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsSubtract',
+    name: 'single-woman-actions-subtract',
+    key: 'SingleWomanActionsSubtract',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

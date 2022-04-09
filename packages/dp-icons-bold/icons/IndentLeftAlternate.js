@@ -1,5 +1,6 @@
 export default {
-    name: 'IndentLeftAlternate',
+    name: 'indent-left-alternate',
+    key: 'IndentLeftAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

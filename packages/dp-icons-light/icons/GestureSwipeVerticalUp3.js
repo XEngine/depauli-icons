@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureSwipeVerticalUp3',
+    name: 'gesture-swipe-vertical-up-3',
+    key: 'GestureSwipeVerticalUp3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

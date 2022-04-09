@@ -1,5 +1,6 @@
 export default {
-    name: 'LikePlusOneAlternate',
+    name: 'like-plus-one-alternate',
+    key: 'LikePlusOneAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

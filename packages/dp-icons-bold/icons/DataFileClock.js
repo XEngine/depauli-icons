@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileClock',
+    name: 'data-file-clock',
+    key: 'DataFileClock',
     width: 24,
     height: 24,
     attributes: undefined,

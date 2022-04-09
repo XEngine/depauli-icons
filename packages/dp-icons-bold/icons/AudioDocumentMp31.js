@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioDocumentMp31',
+    name: 'audio-document-mp3-1',
+    key: 'AudioDocumentMp31',
     width: 24,
     height: 24,
     attributes: undefined,

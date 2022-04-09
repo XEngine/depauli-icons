@@ -1,5 +1,6 @@
 export default {
-    name: 'CashEye',
+    name: 'cash-eye',
+    key: 'CashEye',
     width: 24,
     height: 24,
     attributes: undefined,

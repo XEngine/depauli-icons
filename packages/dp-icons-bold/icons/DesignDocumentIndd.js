@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDocumentIndd',
+    name: 'design-document-indd',
+    key: 'DesignDocumentIndd',
     width: 24,
     height: 24,
     attributes: undefined,

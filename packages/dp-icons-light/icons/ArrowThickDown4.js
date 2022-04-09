@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickDown4',
+    name: 'arrow-thick-down-4',
+    key: 'ArrowThickDown4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

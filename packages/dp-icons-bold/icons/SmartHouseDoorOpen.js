@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHouseDoorOpen',
+    name: 'smart-house-door-open',
+    key: 'SmartHouseDoorOpen',
     width: 24,
     height: 24,
     attributes: undefined,

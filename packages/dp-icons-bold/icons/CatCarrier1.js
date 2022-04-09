@@ -1,5 +1,6 @@
 export default {
-    name: 'CatCarrier1',
+    name: 'cat-carrier-1',
+    key: 'CatCarrier1',
     width: 24,
     height: 24,
     attributes: undefined,

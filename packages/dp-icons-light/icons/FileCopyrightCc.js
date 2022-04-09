@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCopyrightCc',
+    name: 'file-copyright-cc',
+    key: 'FileCopyrightCc',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

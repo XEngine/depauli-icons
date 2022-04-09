@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileRemove',
+    name: 'audio-file-remove',
+    key: 'AudioFileRemove',
     width: 24,
     height: 24,
     attributes: undefined,

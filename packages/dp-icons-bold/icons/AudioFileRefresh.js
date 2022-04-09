@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileRefresh',
+    name: 'audio-file-refresh',
+    key: 'AudioFileRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

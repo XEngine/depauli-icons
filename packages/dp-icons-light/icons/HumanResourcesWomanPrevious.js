@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesWomanPrevious',
+    name: 'human-resources-woman-previous',
+    key: 'HumanResourcesWomanPrevious',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'AddBold',
+    name: 'add-bold',
+    key: 'AddBold',
     width: 24,
     height: 24,
     attributes: undefined,

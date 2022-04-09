@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophonePodcastLaptop',
+    name: 'microphone-podcast-laptop',
+    key: 'MicrophonePodcastLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

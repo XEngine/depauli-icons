@@ -1,5 +1,6 @@
 export default {
-    name: 'AnimalPrint',
+    name: 'animal-print',
+    key: 'AnimalPrint',
     width: 24,
     height: 24,
     attributes: undefined,

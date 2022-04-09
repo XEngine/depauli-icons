@@ -1,5 +1,6 @@
 export default {
-    name: 'Rooster',
+    name: 'rooster',
+    key: 'Rooster',
     width: 24,
     height: 24,
     attributes: undefined,

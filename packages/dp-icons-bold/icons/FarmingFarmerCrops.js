@@ -1,5 +1,6 @@
 export default {
-    name: 'FarmingFarmerCrops',
+    name: 'farming-farmer-crops',
+    key: 'FarmingFarmerCrops',
     width: 24,
     height: 24,
     attributes: undefined,

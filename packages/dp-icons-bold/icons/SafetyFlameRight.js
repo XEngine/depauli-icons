@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyFlameRight',
+    name: 'safety-flame-right',
+    key: 'SafetyFlameRight',
     width: 24,
     height: 24,
     attributes: undefined,

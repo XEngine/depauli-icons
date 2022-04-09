@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaHandFlower1',
+    name: 'spa-hand-flower-1',
+    key: 'SpaHandFlower1',
     width: 24,
     height: 24,
     attributes: undefined,

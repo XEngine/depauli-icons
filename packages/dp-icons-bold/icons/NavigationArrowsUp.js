@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationArrowsUp',
+    name: 'navigation-arrows-up',
+    key: 'NavigationArrowsUp',
     width: 24,
     height: 24,
     attributes: undefined,

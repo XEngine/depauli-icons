@@ -1,5 +1,6 @@
 export default {
-    name: 'CogDouble3',
+    name: 'cog-double-3',
+    key: 'CogDouble3',
     width: 24,
     height: 24,
     attributes: undefined,

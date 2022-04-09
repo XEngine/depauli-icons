@@ -1,5 +1,6 @@
 export default {
-    name: 'Check1',
+    name: 'check-1',
+    key: 'Check1',
     width: 24,
     height: 24,
     attributes: undefined,

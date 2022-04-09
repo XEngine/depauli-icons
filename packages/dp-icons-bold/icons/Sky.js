@@ -1,5 +1,6 @@
 export default {
-    name: 'Sky',
+    name: 'sky',
+    key: 'Sky',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PasswordLock1',
+    name: 'password-lock-1',
+    key: 'PasswordLock1',
     width: 24,
     height: 24,
     attributes: undefined,

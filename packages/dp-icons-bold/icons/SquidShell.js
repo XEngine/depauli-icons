@@ -1,5 +1,6 @@
 export default {
-    name: 'SquidShell',
+    name: 'squid-shell',
+    key: 'SquidShell',
     width: 24,
     height: 24,
     attributes: undefined,

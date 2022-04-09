@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleWarningTriangle1',
+    name: 'messages-bubble-warning-triangle-1',
+    key: 'MessagesBubbleWarningTriangle1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

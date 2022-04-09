@@ -1,5 +1,6 @@
 export default {
-    name: 'PetsPawBubble',
+    name: 'pets-paw-bubble',
+    key: 'PetsPawBubble',
     width: 24,
     height: 24,
     attributes: undefined,

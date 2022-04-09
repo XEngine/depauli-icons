@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockHand1',
+    name: 'time-clock-hand-1',
+    key: 'TimeClockHand1',
     width: 24,
     height: 24,
     attributes: undefined,

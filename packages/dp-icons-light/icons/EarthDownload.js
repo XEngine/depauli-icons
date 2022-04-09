@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthDownload',
+    name: 'earth-download',
+    key: 'EarthDownload',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

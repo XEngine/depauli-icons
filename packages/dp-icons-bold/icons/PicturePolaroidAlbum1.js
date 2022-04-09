@@ -1,5 +1,6 @@
 export default {
-    name: 'PicturePolaroidAlbum1',
+    name: 'picture-polaroid-album-1',
+    key: 'PicturePolaroidAlbum1',
     width: 24,
     height: 24,
     attributes: undefined,

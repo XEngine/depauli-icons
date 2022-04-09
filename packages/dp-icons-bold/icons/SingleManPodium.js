@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManPodium',
+    name: 'single-man-podium',
+    key: 'SingleManPodium',
     width: 24,
     height: 24,
     attributes: undefined,

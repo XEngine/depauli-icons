@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoStreamplay',
+    name: 'video-game-logo-streamplay',
+    key: 'VideoGameLogoStreamplay',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

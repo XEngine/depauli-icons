@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateAppHouseMonitor',
+    name: 'real-estate-app-house-monitor',
+    key: 'RealEstateAppHouseMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

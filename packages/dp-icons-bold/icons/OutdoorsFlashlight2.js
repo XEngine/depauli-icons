@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsFlashlight2',
+    name: 'outdoors-flashlight-2',
+    key: 'OutdoorsFlashlight2',
     width: 24,
     height: 24,
     attributes: undefined,

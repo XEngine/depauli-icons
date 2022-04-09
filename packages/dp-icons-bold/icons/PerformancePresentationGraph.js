@@ -1,5 +1,6 @@
 export default {
-    name: 'PerformancePresentationGraph',
+    name: 'performance-presentation-graph',
+    key: 'PerformancePresentationGraph',
     width: 24,
     height: 24,
     attributes: undefined,

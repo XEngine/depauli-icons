@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseClock',
+    name: 'database-clock',
+    key: 'DatabaseClock',
     width: 24,
     height: 24,
     attributes: undefined,

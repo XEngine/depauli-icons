@@ -1,5 +1,6 @@
 export default {
-    name: 'CoffeeRead',
+    name: 'coffee-read',
+    key: 'CoffeeRead',
     width: 24,
     height: 24,
     attributes: undefined,

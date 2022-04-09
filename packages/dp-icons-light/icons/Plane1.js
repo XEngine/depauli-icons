@@ -1,5 +1,6 @@
 export default {
-    name: 'Plane1',
+    name: 'plane-1',
+    key: 'Plane1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

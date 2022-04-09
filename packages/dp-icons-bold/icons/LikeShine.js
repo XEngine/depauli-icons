@@ -1,5 +1,6 @@
 export default {
-    name: 'LikeShine',
+    name: 'like-shine',
+    key: 'LikeShine',
     width: 24,
     height: 24,
     attributes: undefined,

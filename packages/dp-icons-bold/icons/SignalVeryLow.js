@@ -1,5 +1,6 @@
 export default {
-    name: 'SignalVeryLow',
+    name: 'signal-very-low',
+    key: 'SignalVeryLow',
     width: 24,
     height: 24,
     attributes: undefined,

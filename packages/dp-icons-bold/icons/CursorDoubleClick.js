@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorDoubleClick',
+    name: 'cursor-double-click',
+    key: 'CursorDoubleClick',
     width: 24,
     height: 24,
     attributes: undefined,

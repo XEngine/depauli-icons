@@ -1,5 +1,6 @@
 export default {
-    name: 'BookImage',
+    name: 'book-image',
+    key: 'BookImage',
     width: 24,
     height: 24,
     attributes: undefined,

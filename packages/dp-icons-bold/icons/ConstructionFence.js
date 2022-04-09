@@ -1,5 +1,6 @@
 export default {
-    name: 'ConstructionFence',
+    name: 'construction-fence',
+    key: 'ConstructionFence',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignRoadNarrows',
+    name: 'road-sign-road-narrows',
+    key: 'RoadSignRoadNarrows',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveHeartHold',
+    name: 'love-heart-hold',
+    key: 'LoveHeartHold',
     width: 24,
     height: 24,
     attributes: undefined,

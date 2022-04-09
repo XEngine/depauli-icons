@@ -1,5 +1,6 @@
 export default {
-    name: 'TeaKettle',
+    name: 'tea-kettle',
+    key: 'TeaKettle',
     width: 24,
     height: 24,
     attributes: undefined,

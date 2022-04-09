@@ -1,5 +1,6 @@
 export default {
-    name: 'TruckRv',
+    name: 'truck-rv',
+    key: 'TruckRv',
     width: 24,
     height: 24,
     attributes: undefined,

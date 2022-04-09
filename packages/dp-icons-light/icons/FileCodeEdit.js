@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeEdit',
+    name: 'file-code-edit',
+    key: 'FileCodeEdit',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

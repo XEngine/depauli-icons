@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudSettings',
+    name: 'cloud-settings',
+    key: 'CloudSettings',
     width: 24,
     height: 24,
     attributes: undefined,

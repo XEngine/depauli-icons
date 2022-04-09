@@ -1,5 +1,6 @@
 export default {
-    name: 'RestaurantEatingSet',
+    name: 'restaurant-eating-set',
+    key: 'RestaurantEatingSet',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

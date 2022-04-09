@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoricalBuildingCastle1',
+    name: 'historical-building-castle-1',
+    key: 'HistoricalBuildingCastle1',
     width: 24,
     height: 24,
     attributes: undefined,

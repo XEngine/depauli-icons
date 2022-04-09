@@ -1,5 +1,6 @@
 export default {
-    name: 'DrawerDownload',
+    name: 'drawer-download',
+    key: 'DrawerDownload',
     width: 24,
     height: 24,
     attributes: undefined,

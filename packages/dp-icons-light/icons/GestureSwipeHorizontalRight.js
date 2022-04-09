@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureSwipeHorizontalRight',
+    name: 'gesture-swipe-horizontal-right',
+    key: 'GestureSwipeHorizontalRight',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

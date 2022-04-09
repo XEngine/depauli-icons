@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsMining',
+    name: 'outdoors-mining',
+    key: 'OutdoorsMining',
     width: 24,
     height: 24,
     attributes: undefined,

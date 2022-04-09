@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterStraw',
+    name: 'water-straw',
+    key: 'WaterStraw',
     width: 24,
     height: 24,
     attributes: undefined,

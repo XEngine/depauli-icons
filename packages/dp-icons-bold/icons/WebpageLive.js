@@ -1,5 +1,6 @@
 export default {
-    name: 'WebpageLive',
+    name: 'webpage-live',
+    key: 'WebpageLive',
     width: 24,
     height: 24,
     attributes: undefined,

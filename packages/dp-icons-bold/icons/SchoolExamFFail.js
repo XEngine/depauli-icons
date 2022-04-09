@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolExamFFail',
+    name: 'school-exam-f-fail',
+    key: 'SchoolExamFFail',
     width: 24,
     height: 24,
     attributes: undefined,

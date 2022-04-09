@@ -1,5 +1,6 @@
 export default {
-    name: 'RecyclingPaper',
+    name: 'recycling-paper',
+    key: 'RecyclingPaper',
     width: 24,
     height: 24,
     attributes: undefined,

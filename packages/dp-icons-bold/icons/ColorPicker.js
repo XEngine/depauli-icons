@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorPicker',
+    name: 'color-picker',
+    key: 'ColorPicker',
     width: 24,
     height: 24,
     attributes: undefined,

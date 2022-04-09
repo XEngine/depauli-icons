@@ -1,5 +1,6 @@
 export default {
-    name: 'DogBone',
+    name: 'dog-bone',
+    key: 'DogBone',
     width: 24,
     height: 24,
     attributes: undefined,

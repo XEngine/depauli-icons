@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseNature',
+    name: 'house-nature',
+    key: 'HouseNature',
     width: 24,
     height: 24,
     attributes: undefined,

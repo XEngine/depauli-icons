@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaLotus',
+    name: 'spa-lotus',
+    key: 'SpaLotus',
     width: 24,
     height: 24,
     attributes: undefined,

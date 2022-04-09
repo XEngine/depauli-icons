@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentCargoBoat',
+    name: 'shipment-cargo-boat',
+    key: 'ShipmentCargoBoat',
     width: 24,
     height: 24,
     attributes: undefined,

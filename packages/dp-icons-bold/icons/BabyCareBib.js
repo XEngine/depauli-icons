@@ -1,5 +1,6 @@
 export default {
-    name: 'BabyCareBib',
+    name: 'baby-care-bib',
+    key: 'BabyCareBib',
     width: 24,
     height: 24,
     attributes: undefined,

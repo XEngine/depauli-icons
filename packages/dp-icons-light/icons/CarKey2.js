@@ -1,5 +1,6 @@
 export default {
-    name: 'CarKey2',
+    name: 'car-key-2',
+    key: 'CarKey2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

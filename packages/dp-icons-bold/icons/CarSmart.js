@@ -1,5 +1,6 @@
 export default {
-    name: 'CarSmart',
+    name: 'car-smart',
+    key: 'CarSmart',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignTurnRight1Alternate',
+    name: 'road-sign-turn-right-1-alternate',
+    key: 'RoadSignTurnRight1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

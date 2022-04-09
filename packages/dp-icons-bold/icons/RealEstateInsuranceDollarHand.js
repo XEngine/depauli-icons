@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateInsuranceDollarHand',
+    name: 'real-estate-insurance-dollar-hand',
+    key: 'RealEstateInsuranceDollarHand',
     width: 24,
     height: 24,
     attributes: undefined,

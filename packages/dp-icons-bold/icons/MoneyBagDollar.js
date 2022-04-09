@@ -1,5 +1,6 @@
 export default {
-    name: 'MoneyBagDollar',
+    name: 'money-bag-dollar',
+    key: 'MoneyBagDollar',
     width: 24,
     height: 24,
     attributes: undefined,

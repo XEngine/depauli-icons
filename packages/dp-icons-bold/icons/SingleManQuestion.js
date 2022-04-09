@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManQuestion',
+    name: 'single-man-question',
+    key: 'SingleManQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

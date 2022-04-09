@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationNextAlternate',
+    name: 'navigation-next-alternate',
+    key: 'NavigationNextAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionReply',
+    name: 'email-action-reply',
+    key: 'EmailActionReply',
     width: 24,
     height: 24,
     attributes: undefined,

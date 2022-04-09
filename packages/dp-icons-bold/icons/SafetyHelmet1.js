@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyHelmet1',
+    name: 'safety-helmet-1',
+    key: 'SafetyHelmet1',
     width: 24,
     height: 24,
     attributes: undefined,

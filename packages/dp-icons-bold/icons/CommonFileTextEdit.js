@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextEdit',
+    name: 'common-file-text-edit',
+    key: 'CommonFileTextEdit',
     width: 24,
     height: 24,
     attributes: undefined,

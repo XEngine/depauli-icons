@@ -1,5 +1,6 @@
 export default {
-    name: 'DroneRestaurant',
+    name: 'drone-restaurant',
+    key: 'DroneRestaurant',
     width: 24,
     height: 24,
     attributes: undefined,

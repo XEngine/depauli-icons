@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorTransferFolder',
+    name: 'monitor-transfer-folder',
+    key: 'MonitorTransferFolder',
     width: 24,
     height: 24,
     attributes: undefined,

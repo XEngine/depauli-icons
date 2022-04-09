@@ -1,5 +1,6 @@
 export default {
-    name: 'LabWhiskCup',
+    name: 'lab-whisk-cup',
+    key: 'LabWhiskCup',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'IrisScanUser',
+    name: 'iris-scan-user',
+    key: 'IrisScanUser',
     width: 24,
     height: 24,
     attributes: undefined,

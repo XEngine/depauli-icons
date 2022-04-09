@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinTrainAlternate',
+    name: 'style-three-pin-train-alternate',
+    key: 'StyleThreePinTrainAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

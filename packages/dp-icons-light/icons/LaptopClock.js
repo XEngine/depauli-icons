@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopClock',
+    name: 'laptop-clock',
+    key: 'LaptopClock',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

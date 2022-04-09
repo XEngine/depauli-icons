@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSnowflake',
+    name: 'style-three-pin-snowflake',
+    key: 'StyleThreePinSnowflake',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchAlternate',
+    name: 'search-alternate',
+    key: 'SearchAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

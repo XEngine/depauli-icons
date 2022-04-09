@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMusicPodcast',
+    name: 'social-music-podcast',
+    key: 'SocialMusicPodcast',
     width: 24,
     height: 24,
     attributes: undefined,

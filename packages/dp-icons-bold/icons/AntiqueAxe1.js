@@ -1,5 +1,6 @@
 export default {
-    name: 'AntiqueAxe1',
+    name: 'antique-axe-1',
+    key: 'AntiqueAxe1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TableRestaurantBeach',
+    name: 'table-restaurant-beach',
+    key: 'TableRestaurantBeach',
     width: 24,
     height: 24,
     attributes: undefined,

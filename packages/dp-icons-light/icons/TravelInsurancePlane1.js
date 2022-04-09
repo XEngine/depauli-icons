@@ -1,5 +1,6 @@
 export default {
-    name: 'TravelInsurancePlane1',
+    name: 'travel-insurance-plane-1',
+    key: 'TravelInsurancePlane1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

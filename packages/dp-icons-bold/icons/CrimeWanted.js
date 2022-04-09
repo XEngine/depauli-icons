@@ -1,5 +1,6 @@
 export default {
-    name: 'CrimeWanted',
+    name: 'crime-wanted',
+    key: 'CrimeWanted',
     width: 24,
     height: 24,
     attributes: undefined,

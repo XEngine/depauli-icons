@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignPedestrianAlternate',
+    name: 'road-sign-pedestrian-alternate',
+    key: 'RoadSignPedestrianAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

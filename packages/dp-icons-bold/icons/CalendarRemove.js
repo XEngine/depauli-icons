@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarRemove',
+    name: 'calendar-remove',
+    key: 'CalendarRemove',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ConversationQuestionWarning1',
+    name: 'conversation-question-warning-1',
+    key: 'ConversationQuestionWarning1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

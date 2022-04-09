@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsManDoctor1',
+    name: 'professions-man-doctor-1',
+    key: 'ProfessionsManDoctor1',
     width: 24,
     height: 24,
     attributes: undefined,

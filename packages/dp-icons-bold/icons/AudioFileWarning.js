@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileWarning',
+    name: 'audio-file-warning',
+    key: 'AudioFileWarning',
     width: 24,
     height: 24,
     attributes: undefined,

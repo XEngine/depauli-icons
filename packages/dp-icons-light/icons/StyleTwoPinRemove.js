@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinRemove',
+    name: 'style-two-pin-remove',
+    key: 'StyleTwoPinRemove',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

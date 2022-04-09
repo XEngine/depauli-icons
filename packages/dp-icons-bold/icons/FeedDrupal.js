@@ -1,5 +1,6 @@
 export default {
-    name: 'FeedDrupal',
+    name: 'feed-drupal',
+    key: 'FeedDrupal',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesTasks',
+    name: 'notes-tasks',
+    key: 'NotesTasks',
     width: 24,
     height: 24,
     attributes: undefined,

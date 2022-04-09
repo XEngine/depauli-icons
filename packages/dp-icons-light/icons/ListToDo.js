@@ -1,5 +1,6 @@
 export default {
-    name: 'ListToDo',
+    name: 'list-to-do',
+    key: 'ListToDo',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

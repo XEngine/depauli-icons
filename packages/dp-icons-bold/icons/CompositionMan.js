@@ -1,5 +1,6 @@
 export default {
-    name: 'CompositionMan',
+    name: 'composition-man',
+    key: 'CompositionMan',
     width: 24,
     height: 24,
     attributes: undefined,

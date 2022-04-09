@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyHeadPatchAlternate',
+    name: 'smiley-head-patch-alternate',
+    key: 'SmileyHeadPatchAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

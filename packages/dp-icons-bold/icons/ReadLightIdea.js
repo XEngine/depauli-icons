@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadLightIdea',
+    name: 'read-light-idea',
+    key: 'ReadLightIdea',
     width: 24,
     height: 24,
     attributes: undefined,

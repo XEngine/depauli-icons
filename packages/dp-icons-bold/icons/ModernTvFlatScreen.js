@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernTvFlatScreen',
+    name: 'modern-tv-flat-screen',
+    key: 'ModernTvFlatScreen',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceGraph',
+    name: 'science-graph',
+    key: 'ScienceGraph',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

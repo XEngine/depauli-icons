@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManStatics2',
+    name: 'single-man-statics-2',
+    key: 'SingleManStatics2',
     width: 24,
     height: 24,
     attributes: undefined,

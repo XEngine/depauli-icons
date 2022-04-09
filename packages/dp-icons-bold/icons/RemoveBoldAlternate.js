@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveBoldAlternate',
+    name: 'remove-bold-alternate',
+    key: 'RemoveBoldAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsScrewdriver1',
+    name: 'tools-screwdriver-1',
+    key: 'ToolsScrewdriver1',
     width: 24,
     height: 24,
     attributes: undefined,

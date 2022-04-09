@@ -1,5 +1,6 @@
 export default {
-    name: 'LabFlaskExperiment',
+    name: 'lab-flask-experiment',
+    key: 'LabFlaskExperiment',
     width: 24,
     height: 24,
     attributes: undefined,

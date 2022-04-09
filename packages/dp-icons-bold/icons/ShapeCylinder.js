@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapeCylinder',
+    name: 'shape-cylinder',
+    key: 'ShapeCylinder',
     width: 24,
     height: 24,
     attributes: undefined,

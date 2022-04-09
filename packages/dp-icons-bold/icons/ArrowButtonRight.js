@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowButtonRight',
+    name: 'arrow-button-right',
+    key: 'ArrowButtonRight',
     width: 24,
     height: 24,
     attributes: undefined,

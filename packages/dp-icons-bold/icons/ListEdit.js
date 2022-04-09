@@ -1,5 +1,6 @@
 export default {
-    name: 'ListEdit',
+    name: 'list-edit',
+    key: 'ListEdit',
     width: 24,
     height: 24,
     attributes: undefined,

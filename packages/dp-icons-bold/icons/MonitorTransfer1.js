@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorTransfer1',
+    name: 'monitor-transfer-1',
+    key: 'MonitorTransfer1',
     width: 24,
     height: 24,
     attributes: undefined,

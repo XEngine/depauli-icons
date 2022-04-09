@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionShield',
+    name: 'religion-shield',
+    key: 'ReligionShield',
     width: 24,
     height: 24,
     attributes: undefined,

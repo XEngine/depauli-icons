@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalNotes',
+    name: 'medical-notes',
+    key: 'MedicalNotes',
     width: 24,
     height: 24,
     attributes: undefined,

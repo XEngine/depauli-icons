@@ -1,5 +1,6 @@
 export default {
-    name: 'EatVendingMachine',
+    name: 'eat-vending-machine',
+    key: 'EatVendingMachine',
     width: 24,
     height: 24,
     attributes: undefined,

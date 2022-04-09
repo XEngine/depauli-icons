@@ -1,5 +1,6 @@
 export default {
-    name: 'SwimmingDivingBoard',
+    name: 'swimming-diving-board',
+    key: 'SwimmingDivingBoard',
     width: 24,
     height: 24,
     attributes: undefined,

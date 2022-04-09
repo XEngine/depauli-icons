@@ -1,5 +1,6 @@
 export default {
-    name: 'SteampunkDecorationLamp',
+    name: 'steampunk-decoration-lamp',
+    key: 'SteampunkDecorationLamp',
     width: 24,
     height: 24,
     attributes: undefined,

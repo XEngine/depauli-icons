@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditAdd',
+    name: 'video-edit-add',
+    key: 'VideoEditAdd',
     width: 24,
     height: 24,
     attributes: undefined,

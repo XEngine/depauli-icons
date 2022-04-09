@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListSync',
+    name: 'task-list-sync',
+    key: 'TaskListSync',
     width: 24,
     height: 24,
     attributes: undefined,

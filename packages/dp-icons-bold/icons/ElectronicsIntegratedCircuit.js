@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsIntegratedCircuit',
+    name: 'electronics-integrated-circuit',
+    key: 'ElectronicsIntegratedCircuit',
     width: 24,
     height: 24,
     attributes: undefined,

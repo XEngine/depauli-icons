@@ -1,5 +1,6 @@
 export default {
-    name: 'OsSystemApple',
+    name: 'os-system-apple',
+    key: 'OsSystemApple',
     width: 24,
     height: 24,
     attributes: undefined,

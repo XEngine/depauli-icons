@@ -1,5 +1,6 @@
 export default {
-    name: 'PartyMusic',
+    name: 'party-music',
+    key: 'PartyMusic',
     width: 24,
     height: 24,
     attributes: undefined,

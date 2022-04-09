@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardGaming',
+    name: 'keyboard-gaming',
+    key: 'KeyboardGaming',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleNeutralCircle',
+    name: 'multiple-neutral-circle',
+    key: 'MultipleNeutralCircle',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoPlaystation',
+    name: 'video-game-logo-playstation',
+    key: 'VideoGameLogoPlaystation',
     width: 24,
     height: 24,
     attributes: undefined,

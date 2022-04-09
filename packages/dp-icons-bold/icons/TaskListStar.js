@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListStar',
+    name: 'task-list-star',
+    key: 'TaskListStar',
     width: 24,
     height: 24,
     attributes: undefined,

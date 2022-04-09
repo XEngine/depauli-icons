@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBagWomanCarry',
+    name: 'shopping-bag-woman-carry',
+    key: 'ShoppingBagWomanCarry',
     width: 24,
     height: 24,
     attributes: undefined,

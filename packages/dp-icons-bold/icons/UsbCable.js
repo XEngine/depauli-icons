@@ -1,5 +1,6 @@
 export default {
-    name: 'UsbCable',
+    name: 'usb-cable',
+    key: 'UsbCable',
     width: 24,
     height: 24,
     attributes: undefined,

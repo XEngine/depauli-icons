@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTapTwoFingersClock',
+    name: 'gesture-tap-two-fingers-clock',
+    key: 'GestureTapTwoFingersClock',
     width: 24,
     height: 24,
     attributes: undefined,

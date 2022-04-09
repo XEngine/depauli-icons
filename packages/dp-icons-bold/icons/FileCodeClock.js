@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeClock',
+    name: 'file-code-clock',
+    key: 'FileCodeClock',
     width: 24,
     height: 24,
     attributes: undefined,

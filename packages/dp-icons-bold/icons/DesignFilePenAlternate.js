@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFilePenAlternate',
+    name: 'design-file-pen-alternate',
+    key: 'DesignFilePenAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

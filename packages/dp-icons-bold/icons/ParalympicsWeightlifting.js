@@ -1,5 +1,6 @@
 export default {
-    name: 'ParalympicsWeightlifting',
+    name: 'paralympics-weightlifting',
+    key: 'ParalympicsWeightlifting',
     width: 24,
     height: 24,
     attributes: undefined,

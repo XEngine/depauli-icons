@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioDocumentAif1',
+    name: 'audio-document-aif-1',
+    key: 'AudioDocumentAif1',
     width: 24,
     height: 24,
     attributes: undefined,

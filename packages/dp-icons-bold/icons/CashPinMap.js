@@ -1,5 +1,6 @@
 export default {
-    name: 'CashPinMap',
+    name: 'cash-pin-map',
+    key: 'CashPinMap',
     width: 24,
     height: 24,
     attributes: undefined,

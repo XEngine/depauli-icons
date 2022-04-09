@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramFallRiseSteady',
+    name: 'diagram-fall-rise-steady',
+    key: 'DiagramFallRiseSteady',
     width: 24,
     height: 24,
     attributes: undefined,

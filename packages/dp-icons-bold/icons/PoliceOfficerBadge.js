@@ -1,5 +1,6 @@
 export default {
-    name: 'PoliceOfficerBadge',
+    name: 'police-officer-badge',
+    key: 'PoliceOfficerBadge',
     width: 24,
     height: 24,
     attributes: undefined,

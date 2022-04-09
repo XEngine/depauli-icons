@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameWiiMusic',
+    name: 'video-game-wii-music',
+    key: 'VideoGameWiiMusic',
     width: 24,
     height: 24,
     attributes: undefined,

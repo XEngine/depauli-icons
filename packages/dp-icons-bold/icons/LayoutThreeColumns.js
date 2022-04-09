@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutThreeColumns',
+    name: 'layout-three-columns',
+    key: 'LayoutThreeColumns',
     width: 24,
     height: 24,
     attributes: undefined,

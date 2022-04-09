@@ -1,5 +1,6 @@
 export default {
-    name: 'BookCloseBookmark',
+    name: 'book-close-bookmark',
+    key: 'BookCloseBookmark',
     width: 24,
     height: 24,
     attributes: undefined,

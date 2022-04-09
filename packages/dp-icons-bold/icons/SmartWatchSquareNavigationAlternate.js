@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareNavigationAlternate',
+    name: 'smart-watch-square-navigation-alternate',
+    key: 'SmartWatchSquareNavigationAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

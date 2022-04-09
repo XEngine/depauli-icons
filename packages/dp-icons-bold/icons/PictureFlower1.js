@@ -1,5 +1,6 @@
 export default {
-    name: 'PictureFlower1',
+    name: 'picture-flower-1',
+    key: 'PictureFlower1',
     width: 24,
     height: 24,
     attributes: undefined,

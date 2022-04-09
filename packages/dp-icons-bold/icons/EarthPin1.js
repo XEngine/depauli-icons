@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthPin1',
+    name: 'earth-pin-1',
+    key: 'EarthPin1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkPyramidSphinx',
+    name: 'landmark-pyramid-sphinx',
+    key: 'LandmarkPyramidSphinx',
     width: 24,
     height: 24,
     attributes: undefined,

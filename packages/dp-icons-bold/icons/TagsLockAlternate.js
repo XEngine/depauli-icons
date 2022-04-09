@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsLockAlternate',
+    name: 'tags-lock-alternate',
+    key: 'TagsLockAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

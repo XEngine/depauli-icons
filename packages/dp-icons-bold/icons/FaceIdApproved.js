@@ -1,5 +1,6 @@
 export default {
-    name: 'FaceIdApproved',
+    name: 'face-id-approved',
+    key: 'FaceIdApproved',
     width: 24,
     height: 24,
     attributes: undefined,

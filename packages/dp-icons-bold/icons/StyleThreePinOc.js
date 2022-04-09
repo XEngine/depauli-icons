@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinOc',
+    name: 'style-three-pin-oc',
+    key: 'StyleThreePinOc',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsWomanNurse1',
+    name: 'professions-woman-nurse-1',
+    key: 'ProfessionsWomanNurse1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopAnnouncement1',
+    name: 'laptop-announcement-1',
+    key: 'LaptopAnnouncement1',
     width: 24,
     height: 24,
     attributes: undefined,

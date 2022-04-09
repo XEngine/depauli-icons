@@ -1,5 +1,6 @@
 export default {
-    name: 'BookLibraryShelf',
+    name: 'book-library-shelf',
+    key: 'BookLibraryShelf',
     width: 24,
     height: 24,
     attributes: undefined,

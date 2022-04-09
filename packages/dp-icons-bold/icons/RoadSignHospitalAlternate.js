@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignHospitalAlternate',
+    name: 'road-sign-hospital-alternate',
+    key: 'RoadSignHospitalAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

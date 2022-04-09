@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCharging',
+    name: 'style-three-pin-charging',
+    key: 'StyleThreePinCharging',
     width: 24,
     height: 24,
     attributes: undefined,

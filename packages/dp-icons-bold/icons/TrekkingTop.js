@@ -1,5 +1,6 @@
 export default {
-    name: 'TrekkingTop',
+    name: 'trekking-top',
+    key: 'TrekkingTop',
     width: 24,
     height: 24,
     attributes: undefined,

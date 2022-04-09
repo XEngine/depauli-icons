@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsLock',
+    name: 'single-woman-actions-lock',
+    key: 'SingleWomanActionsLock',
     width: 24,
     height: 24,
     attributes: undefined,

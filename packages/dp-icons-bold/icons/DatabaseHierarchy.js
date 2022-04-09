@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseHierarchy',
+    name: 'database-hierarchy',
+    key: 'DatabaseHierarchy',
     width: 24,
     height: 24,
     attributes: undefined,

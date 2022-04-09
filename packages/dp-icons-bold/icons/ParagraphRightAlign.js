@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphRightAlign',
+    name: 'paragraph-right-align',
+    key: 'ParagraphRightAlign',
     width: 24,
     height: 24,
     attributes: undefined,

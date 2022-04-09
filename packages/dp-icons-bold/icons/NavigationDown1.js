@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationDown1',
+    name: 'navigation-down-1',
+    key: 'NavigationDown1',
     width: 24,
     height: 24,
     attributes: undefined,

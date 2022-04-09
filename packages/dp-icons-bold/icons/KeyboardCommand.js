@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardCommand',
+    name: 'keyboard-command',
+    key: 'KeyboardCommand',
     width: 24,
     height: 24,
     attributes: undefined,

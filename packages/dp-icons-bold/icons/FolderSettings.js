@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderSettings',
+    name: 'folder-settings',
+    key: 'FolderSettings',
     width: 24,
     height: 24,
     attributes: undefined,

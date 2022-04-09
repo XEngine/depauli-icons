@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingHeadphones3',
+    name: 'meeting-headphones-3',
+    key: 'MeetingHeadphones3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveGiftDiamond',
+    name: 'love-gift-diamond',
+    key: 'LoveGiftDiamond',
     width: 24,
     height: 24,
     attributes: undefined,

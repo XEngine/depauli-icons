@@ -1,5 +1,6 @@
 export default {
-    name: 'ProductsGiftTag',
+    name: 'products-gift-tag',
+    key: 'ProductsGiftTag',
     width: 24,
     height: 24,
     attributes: undefined,

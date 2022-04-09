@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessRabbitHat1',
+    name: 'business-rabbit-hat-1',
+    key: 'BusinessRabbitHat1',
     width: 24,
     height: 24,
     attributes: undefined,

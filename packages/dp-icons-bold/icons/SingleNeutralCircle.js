@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralCircle',
+    name: 'single-neutral-circle',
+    key: 'SingleNeutralCircle',
     width: 24,
     height: 24,
     attributes: undefined,

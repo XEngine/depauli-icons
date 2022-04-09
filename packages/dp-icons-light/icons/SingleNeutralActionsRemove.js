@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsRemove',
+    name: 'single-neutral-actions-remove',
+    key: 'SingleNeutralActionsRemove',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

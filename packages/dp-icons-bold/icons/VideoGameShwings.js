@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameShwings',
+    name: 'video-game-shwings',
+    key: 'VideoGameShwings',
     width: 24,
     height: 24,
     attributes: undefined,

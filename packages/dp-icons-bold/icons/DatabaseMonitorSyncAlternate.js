@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseMonitorSyncAlternate',
+    name: 'database-monitor-sync-alternate',
+    key: 'DatabaseMonitorSyncAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderFileLock',
+    name: 'folder-file-lock',
+    key: 'FolderFileLock',
     width: 24,
     height: 24,
     attributes: undefined,

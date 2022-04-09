@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPowerButton',
+    name: 'style-three-pin-power-button',
+    key: 'StyleThreePinPowerButton',
     width: 24,
     height: 24,
     attributes: undefined,

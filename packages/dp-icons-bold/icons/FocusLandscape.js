@@ -1,5 +1,6 @@
 export default {
-    name: 'FocusLandscape',
+    name: 'focus-landscape',
+    key: 'FocusLandscape',
     width: 24,
     height: 24,
     attributes: undefined,

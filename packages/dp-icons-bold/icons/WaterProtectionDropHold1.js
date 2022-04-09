@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterProtectionDropHold1',
+    name: 'water-protection-drop-hold-1',
+    key: 'WaterProtectionDropHold1',
     width: 24,
     height: 24,
     attributes: undefined,

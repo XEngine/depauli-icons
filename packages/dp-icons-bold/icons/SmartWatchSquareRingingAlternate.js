@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareRingingAlternate',
+    name: 'smart-watch-square-ringing-alternate',
+    key: 'SmartWatchSquareRingingAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

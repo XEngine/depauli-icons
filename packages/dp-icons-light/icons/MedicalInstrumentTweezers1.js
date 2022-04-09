@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalInstrumentTweezers1',
+    name: 'medical-instrument-tweezers-1',
+    key: 'MedicalInstrumentTweezers1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

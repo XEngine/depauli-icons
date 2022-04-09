@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingKik',
+    name: 'messaging-kik',
+    key: 'MessagingKik',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHouseCar',
+    name: 'smart-house-car',
+    key: 'SmartHouseCar',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesTeamSettings',
+    name: 'human-resources-team-settings',
+    key: 'HumanResourcesTeamSettings',
     width: 24,
     height: 24,
     attributes: undefined,

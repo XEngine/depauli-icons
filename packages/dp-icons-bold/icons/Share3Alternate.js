@@ -1,5 +1,6 @@
 export default {
-    name: 'Share3Alternate',
+    name: 'share-3-alternate',
+    key: 'Share3Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

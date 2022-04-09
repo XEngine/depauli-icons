@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManDecrease',
+    name: 'single-man-decrease',
+    key: 'SingleManDecrease',
     width: 24,
     height: 24,
     attributes: undefined,

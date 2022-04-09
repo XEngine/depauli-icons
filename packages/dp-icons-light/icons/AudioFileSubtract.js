@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileSubtract',
+    name: 'audio-file-subtract',
+    key: 'AudioFileSubtract',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

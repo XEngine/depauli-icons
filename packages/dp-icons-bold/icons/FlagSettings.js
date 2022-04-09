@@ -1,5 +1,6 @@
 export default {
-    name: 'FlagSettings',
+    name: 'flag-settings',
+    key: 'FlagSettings',
     width: 24,
     height: 24,
     attributes: undefined,

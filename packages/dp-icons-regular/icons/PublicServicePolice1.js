@@ -1,5 +1,6 @@
 export default {
-    name: 'PublicServicePolice1',
+    name: 'public-service-police-1',
+    key: 'PublicServicePolice1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

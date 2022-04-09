@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorGraphLine',
+    name: 'monitor-graph-line',
+    key: 'MonitorGraphLine',
     width: 24,
     height: 24,
     attributes: undefined,

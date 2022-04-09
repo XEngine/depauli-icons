@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyVertebra',
+    name: 'medical-specialty-vertebra',
+    key: 'MedicalSpecialtyVertebra',
     width: 24,
     height: 24,
     attributes: undefined,

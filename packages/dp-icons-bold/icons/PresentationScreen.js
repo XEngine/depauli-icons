@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationScreen',
+    name: 'presentation-screen',
+    key: 'PresentationScreen',
     width: 24,
     height: 24,
     attributes: undefined,

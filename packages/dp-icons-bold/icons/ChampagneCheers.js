@@ -1,5 +1,6 @@
 export default {
-    name: 'ChampagneCheers',
+    name: 'champagne-cheers',
+    key: 'ChampagneCheers',
     width: 24,
     height: 24,
     attributes: undefined,

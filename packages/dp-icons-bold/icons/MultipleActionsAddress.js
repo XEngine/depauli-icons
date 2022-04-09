@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsAddress',
+    name: 'multiple-actions-address',
+    key: 'MultipleActionsAddress',
     width: 24,
     height: 24,
     attributes: undefined,

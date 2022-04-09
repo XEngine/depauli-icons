@@ -1,5 +1,6 @@
 export default {
-    name: 'CheckCircle1Alternate',
+    name: 'check-circle-1-alternate',
+    key: 'CheckCircle1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

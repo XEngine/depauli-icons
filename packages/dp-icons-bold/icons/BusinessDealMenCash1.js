@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessDealMenCash1',
+    name: 'business-deal-men-cash-1',
+    key: 'BusinessDealMenCash1',
     width: 24,
     height: 24,
     attributes: undefined,

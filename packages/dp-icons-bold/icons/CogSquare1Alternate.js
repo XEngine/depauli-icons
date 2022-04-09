@@ -1,5 +1,6 @@
 export default {
-    name: 'CogSquare1Alternate',
+    name: 'cog-square-1-alternate',
+    key: 'CogSquare1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

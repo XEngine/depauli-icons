@@ -1,5 +1,6 @@
 export default {
-    name: 'DresserDrawers',
+    name: 'dresser-drawers',
+    key: 'DresserDrawers',
     width: 24,
     height: 24,
     attributes: undefined,

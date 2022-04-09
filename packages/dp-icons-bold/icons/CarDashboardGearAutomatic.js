@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardGearAutomatic',
+    name: 'car-dashboard-gear-automatic',
+    key: 'CarDashboardGearAutomatic',
     width: 24,
     height: 24,
     attributes: undefined,

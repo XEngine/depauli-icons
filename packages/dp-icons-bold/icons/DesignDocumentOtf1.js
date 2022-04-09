@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDocumentOtf1',
+    name: 'design-document-otf-1',
+    key: 'DesignDocumentOtf1',
     width: 24,
     height: 24,
     attributes: undefined,

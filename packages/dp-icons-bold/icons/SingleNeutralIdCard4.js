@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralIdCard4',
+    name: 'single-neutral-id-card-4',
+    key: 'SingleNeutralIdCard4',
     width: 24,
     height: 24,
     attributes: undefined,

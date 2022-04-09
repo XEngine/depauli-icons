@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignHairpinTurnLeft',
+    name: 'road-sign-hairpin-turn-left',
+    key: 'RoadSignHairpinTurnLeft',
     width: 24,
     height: 24,
     attributes: undefined,

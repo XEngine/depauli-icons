@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousPeopleManSteveJobs',
+    name: 'famous-people-man-steve-jobs',
+    key: 'FamousPeopleManSteveJobs',
     width: 24,
     height: 24,
     attributes: undefined,

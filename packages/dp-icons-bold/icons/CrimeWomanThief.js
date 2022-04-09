@@ -1,5 +1,6 @@
 export default {
-    name: 'CrimeWomanThief',
+    name: 'crime-woman-thief',
+    key: 'CrimeWomanThief',
     width: 24,
     height: 24,
     attributes: undefined,

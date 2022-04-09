@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysDinosaur',
+    name: 'toys-dinosaur',
+    key: 'ToysDinosaur',
     width: 24,
     height: 24,
     attributes: undefined,

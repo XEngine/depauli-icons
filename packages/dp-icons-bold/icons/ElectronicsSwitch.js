@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsSwitch',
+    name: 'electronics-switch',
+    key: 'ElectronicsSwitch',
     width: 24,
     height: 24,
     attributes: undefined,

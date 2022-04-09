@@ -1,5 +1,6 @@
 export default {
-    name: 'DroneAdd',
+    name: 'drone-add',
+    key: 'DroneAdd',
     width: 24,
     height: 24,
     attributes: undefined,

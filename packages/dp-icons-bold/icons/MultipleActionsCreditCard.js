@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsCreditCard',
+    name: 'multiple-actions-credit-card',
+    key: 'MultipleActionsCreditCard',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyGrandfather',
+    name: 'family-grandfather',
+    key: 'FamilyGrandfather',
     width: 24,
     height: 24,
     attributes: undefined,

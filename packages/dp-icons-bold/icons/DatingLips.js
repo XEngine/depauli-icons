@@ -1,5 +1,6 @@
 export default {
-    name: 'DatingLips',
+    name: 'dating-lips',
+    key: 'DatingLips',
     width: 24,
     height: 24,
     attributes: undefined,

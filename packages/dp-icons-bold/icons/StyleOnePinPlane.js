@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinPlane',
+    name: 'style-one-pin-plane',
+    key: 'StyleOnePinPlane',
     width: 24,
     height: 24,
     attributes: undefined,

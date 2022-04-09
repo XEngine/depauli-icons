@@ -1,5 +1,6 @@
 export default {
-    name: 'BathroomHanger',
+    name: 'bathroom-hanger',
+    key: 'BathroomHanger',
     width: 24,
     height: 24,
     attributes: undefined,

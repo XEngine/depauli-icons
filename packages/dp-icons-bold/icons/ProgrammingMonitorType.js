@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingMonitorType',
+    name: 'programming-monitor-type',
+    key: 'ProgrammingMonitorType',
     width: 24,
     height: 24,
     attributes: undefined,

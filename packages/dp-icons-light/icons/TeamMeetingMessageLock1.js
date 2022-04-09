@@ -1,5 +1,6 @@
 export default {
-    name: 'TeamMeetingMessageLock1',
+    name: 'team-meeting-message-lock-1',
+    key: 'TeamMeetingMessageLock1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

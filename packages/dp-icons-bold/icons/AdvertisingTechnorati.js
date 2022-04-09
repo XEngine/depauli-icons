@@ -1,5 +1,6 @@
 export default {
-    name: 'AdvertisingTechnorati',
+    name: 'advertising-technorati',
+    key: 'AdvertisingTechnorati',
     width: 24,
     height: 24,
     attributes: undefined,

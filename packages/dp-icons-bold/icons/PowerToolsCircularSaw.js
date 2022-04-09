@@ -1,5 +1,6 @@
 export default {
-    name: 'PowerToolsCircularSaw',
+    name: 'power-tools-circular-saw',
+    key: 'PowerToolsCircularSaw',
     width: 24,
     height: 24,
     attributes: undefined,

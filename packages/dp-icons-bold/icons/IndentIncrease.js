@@ -1,5 +1,6 @@
 export default {
-    name: 'IndentIncrease',
+    name: 'indent-increase',
+    key: 'IndentIncrease',
     width: 24,
     height: 24,
     attributes: undefined,

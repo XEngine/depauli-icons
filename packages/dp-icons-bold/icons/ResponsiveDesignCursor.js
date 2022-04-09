@@ -1,5 +1,6 @@
 export default {
-    name: 'ResponsiveDesignCursor',
+    name: 'responsive-design-cursor',
+    key: 'ResponsiveDesignCursor',
     width: 24,
     height: 24,
     attributes: undefined,

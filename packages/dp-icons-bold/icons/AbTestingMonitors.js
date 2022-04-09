@@ -1,5 +1,6 @@
 export default {
-    name: 'AbTestingMonitors',
+    name: 'ab-testing-monitors',
+    key: 'AbTestingMonitors',
     width: 24,
     height: 24,
     attributes: undefined,

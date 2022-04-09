@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthShare',
+    name: 'earth-share',
+    key: 'EarthShare',
     width: 24,
     height: 24,
     attributes: undefined,

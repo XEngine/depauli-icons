@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkTotemPole',
+    name: 'landmark-totem-pole',
+    key: 'LandmarkTotemPole',
     width: 24,
     height: 24,
     attributes: undefined,

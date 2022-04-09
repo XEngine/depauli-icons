@@ -1,5 +1,6 @@
 export default {
-    name: 'CatCatBall',
+    name: 'cat-cat-ball',
+    key: 'CatCatBall',
     width: 24,
     height: 24,
     attributes: undefined,

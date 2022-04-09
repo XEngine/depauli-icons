@@ -1,5 +1,6 @@
 export default {
-    name: 'DressingMirror1',
+    name: 'dressing-mirror-1',
+    key: 'DressingMirror1',
     width: 24,
     height: 24,
     attributes: undefined,

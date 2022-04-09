@@ -1,5 +1,6 @@
 export default {
-    name: 'StampsFamousAlternate',
+    name: 'stamps-famous-alternate',
+    key: 'StampsFamousAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

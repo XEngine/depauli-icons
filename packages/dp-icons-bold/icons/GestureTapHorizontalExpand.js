@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTapHorizontalExpand',
+    name: 'gesture-tap-horizontal-expand',
+    key: 'GestureTapHorizontalExpand',
     width: 24,
     height: 24,
     attributes: undefined,

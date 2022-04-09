@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentSignSmartphone',
+    name: 'shipment-sign-smartphone',
+    key: 'ShipmentSignSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BrowserGauge',
+    name: 'browser-gauge',
+    key: 'BrowserGauge',
     width: 24,
     height: 24,
     attributes: undefined,

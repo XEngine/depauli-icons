@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialPhotobucket',
+    name: 'social-photobucket',
+    key: 'SocialPhotobucket',
     width: 24,
     height: 24,
     attributes: undefined,

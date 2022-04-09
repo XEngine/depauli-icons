@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmySymbolSquad',
+    name: 'army-symbol-squad',
+    key: 'ArmySymbolSquad',
     width: 24,
     height: 24,
     attributes: undefined,

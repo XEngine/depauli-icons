@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignNoHornAlternate',
+    name: 'road-sign-no-horn-alternate',
+    key: 'RoadSignNoHornAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

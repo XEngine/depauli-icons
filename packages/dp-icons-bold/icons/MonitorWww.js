@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorWww',
+    name: 'monitor-www',
+    key: 'MonitorWww',
     width: 24,
     height: 24,
     attributes: undefined,

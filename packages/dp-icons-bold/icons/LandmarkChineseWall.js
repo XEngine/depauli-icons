@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkChineseWall',
+    name: 'landmark-chinese-wall',
+    key: 'LandmarkChineseWall',
     width: 24,
     height: 24,
     attributes: undefined,

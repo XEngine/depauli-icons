@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskBubbleAlternate',
+    name: 'mask-bubble-alternate',
+    key: 'MaskBubbleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

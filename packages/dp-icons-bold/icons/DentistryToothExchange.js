@@ -1,5 +1,6 @@
 export default {
-    name: 'DentistryToothExchange',
+    name: 'dentistry-tooth-exchange',
+    key: 'DentistryToothExchange',
     width: 24,
     height: 24,
     attributes: undefined,

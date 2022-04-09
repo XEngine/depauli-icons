@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolTeacherPhysicalEducation',
+    name: 'school-teacher-physical-education',
+    key: 'SchoolTeacherPhysicalEducation',
     width: 24,
     height: 24,
     attributes: undefined,

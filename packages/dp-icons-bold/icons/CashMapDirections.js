@@ -1,5 +1,6 @@
 export default {
-    name: 'CashMapDirections',
+    name: 'cash-map-directions',
+    key: 'CashMapDirections',
     width: 24,
     height: 24,
     attributes: undefined,

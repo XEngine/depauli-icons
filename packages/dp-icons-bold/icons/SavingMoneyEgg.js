@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingMoneyEgg',
+    name: 'saving-money-egg',
+    key: 'SavingMoneyEgg',
     width: 24,
     height: 24,
     attributes: undefined,

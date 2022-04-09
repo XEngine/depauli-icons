@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsMenu',
+    name: 'phone-actions-menu',
+    key: 'PhoneActionsMenu',
     width: 24,
     height: 24,
     attributes: undefined,

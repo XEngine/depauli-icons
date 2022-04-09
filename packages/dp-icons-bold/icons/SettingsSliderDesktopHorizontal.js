@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsSliderDesktopHorizontal',
+    name: 'settings-slider-desktop-horizontal',
+    key: 'SettingsSliderDesktopHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

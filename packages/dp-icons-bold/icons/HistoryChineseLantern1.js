@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryChineseLantern1',
+    name: 'history-chinese-lantern-1',
+    key: 'HistoryChineseLantern1',
     width: 24,
     height: 24,
     attributes: undefined,

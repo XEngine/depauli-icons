@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldWarning',
+    name: 'shield-warning',
+    key: 'ShieldWarning',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'BasketballBall',
+    name: 'basketball-ball',
+    key: 'BasketballBall',
     width: 24,
     height: 24,
     attributes: undefined,

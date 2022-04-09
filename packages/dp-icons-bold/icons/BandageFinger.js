@@ -1,5 +1,6 @@
 export default {
-    name: 'BandageFinger',
+    name: 'bandage-finger',
+    key: 'BandageFinger',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CoupleFrameImage',
+    name: 'couple-frame-image',
+    key: 'CoupleFrameImage',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyExitDoor',
+    name: 'safety-exit-door',
+    key: 'SafetyExitDoor',
     width: 24,
     height: 24,
     attributes: undefined,

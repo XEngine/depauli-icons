@@ -1,5 +1,6 @@
 export default {
-    name: 'FilePpt',
+    name: 'file-ppt',
+    key: 'FilePpt',
     width: 24,
     height: 24,
     attributes: undefined,

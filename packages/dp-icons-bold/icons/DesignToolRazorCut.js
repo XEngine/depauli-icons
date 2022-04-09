@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolRazorCut',
+    name: 'design-tool-razor-cut',
+    key: 'DesignToolRazorCut',
     width: 24,
     height: 24,
     attributes: undefined,

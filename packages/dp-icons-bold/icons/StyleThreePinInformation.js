@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinInformation',
+    name: 'style-three-pin-information',
+    key: 'StyleThreePinInformation',
     width: 24,
     height: 24,
     attributes: undefined,

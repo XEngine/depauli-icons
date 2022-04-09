@@ -1,5 +1,6 @@
 export default {
-    name: 'ScienceMoleculeStrucutre',
+    name: 'science-molecule-strucutre',
+    key: 'ScienceMoleculeStrucutre',
     width: 24,
     height: 24,
     attributes: undefined,

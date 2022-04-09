@@ -1,5 +1,6 @@
 export default {
-    name: 'AmusementParkSpeedMachine',
+    name: 'amusement-park-speed-machine',
+    key: 'AmusementParkSpeedMachine',
     width: 24,
     height: 24,
     attributes: undefined,

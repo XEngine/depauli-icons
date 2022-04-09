@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralAim',
+    name: 'single-neutral-aim',
+    key: 'SingleNeutralAim',
     width: 24,
     height: 24,
     attributes: undefined,

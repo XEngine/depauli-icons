@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileCheck',
+    name: 'zip-file-check',
+    key: 'ZipFileCheck',
     width: 24,
     height: 24,
     attributes: undefined,

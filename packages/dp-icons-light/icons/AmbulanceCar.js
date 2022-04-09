@@ -1,5 +1,6 @@
 export default {
-    name: 'AmbulanceCar',
+    name: 'ambulance-car',
+    key: 'AmbulanceCar',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

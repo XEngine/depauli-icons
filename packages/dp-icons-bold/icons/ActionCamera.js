@@ -1,5 +1,6 @@
 export default {
-    name: 'ActionCamera',
+    name: 'action-camera',
+    key: 'ActionCamera',
     width: 24,
     height: 24,
     attributes: undefined,

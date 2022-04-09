@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileShield',
+    name: 'audio-file-shield',
+    key: 'AudioFileShield',
     width: 24,
     height: 24,
     attributes: undefined,

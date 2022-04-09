@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSharpTurn',
+    name: 'road-sign-sharp-turn',
+    key: 'RoadSignSharpTurn',
     width: 24,
     height: 24,
     attributes: undefined,

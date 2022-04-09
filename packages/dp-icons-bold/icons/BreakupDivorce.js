@@ -1,5 +1,6 @@
 export default {
-    name: 'BreakupDivorce',
+    name: 'breakup-divorce',
+    key: 'BreakupDivorce',
     width: 24,
     height: 24,
     attributes: undefined,

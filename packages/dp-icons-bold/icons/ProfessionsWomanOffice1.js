@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsWomanOffice1',
+    name: 'professions-woman-office-1',
+    key: 'ProfessionsWomanOffice1',
     width: 24,
     height: 24,
     attributes: undefined,

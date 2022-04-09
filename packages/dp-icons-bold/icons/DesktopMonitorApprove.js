@@ -1,5 +1,6 @@
 export default {
-    name: 'DesktopMonitorApprove',
+    name: 'desktop-monitor-approve',
+    key: 'DesktopMonitorApprove',
     width: 24,
     height: 24,
     attributes: undefined,

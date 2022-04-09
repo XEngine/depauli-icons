@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkAngkorWat',
+    name: 'landmark-angkor-wat',
+    key: 'LandmarkAngkorWat',
     width: 24,
     height: 24,
     attributes: undefined,

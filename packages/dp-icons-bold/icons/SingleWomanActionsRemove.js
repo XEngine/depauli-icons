@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsRemove',
+    name: 'single-woman-actions-remove',
+    key: 'SingleWomanActionsRemove',
     width: 24,
     height: 24,
     attributes: undefined,

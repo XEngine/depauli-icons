@@ -1,5 +1,6 @@
 export default {
-    name: 'CompassDirections',
+    name: 'compass-directions',
+    key: 'CompassDirections',
     width: 24,
     height: 24,
     attributes: undefined,

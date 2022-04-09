@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateAppBuildingLaptop',
+    name: 'real-estate-app-building-laptop',
+    key: 'RealEstateAppBuildingLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

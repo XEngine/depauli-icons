@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarSetting',
+    name: 'calendar-setting',
+    key: 'CalendarSetting',
     width: 24,
     height: 24,
     attributes: undefined,

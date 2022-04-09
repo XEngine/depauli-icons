@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileTextAlternate',
+    name: 'design-file-text-alternate',
+    key: 'DesignFileTextAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

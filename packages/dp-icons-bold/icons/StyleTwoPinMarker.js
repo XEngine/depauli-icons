@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinMarker',
+    name: 'style-two-pin-marker',
+    key: 'StyleTwoPinMarker',
     width: 24,
     height: 24,
     attributes: undefined,

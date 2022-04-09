@@ -1,5 +1,6 @@
 export default {
-    name: 'PolicePolygraph',
+    name: 'police-polygraph',
+    key: 'PolicePolygraph',
     width: 24,
     height: 24,
     attributes: undefined,

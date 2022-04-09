@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManMail',
+    name: 'single-man-mail',
+    key: 'SingleManMail',
     width: 24,
     height: 24,
     attributes: undefined,

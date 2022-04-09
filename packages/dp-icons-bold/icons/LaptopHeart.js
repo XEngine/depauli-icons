@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopHeart',
+    name: 'laptop-heart',
+    key: 'LaptopHeart',
     width: 24,
     height: 24,
     attributes: undefined,

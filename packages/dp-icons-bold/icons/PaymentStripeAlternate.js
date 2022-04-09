@@ -1,5 +1,6 @@
 export default {
-    name: 'PaymentStripeAlternate',
+    name: 'payment-stripe-alternate',
+    key: 'PaymentStripeAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

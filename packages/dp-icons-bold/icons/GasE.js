@@ -1,5 +1,6 @@
 export default {
-    name: 'GasE',
+    name: 'gas-e',
+    key: 'GasE',
     width: 24,
     height: 24,
     attributes: undefined,

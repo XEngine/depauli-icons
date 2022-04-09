@@ -1,5 +1,6 @@
 export default {
-    name: 'DiscountParking',
+    name: 'discount-parking',
+    key: 'DiscountParking',
     width: 24,
     height: 24,
     attributes: undefined,

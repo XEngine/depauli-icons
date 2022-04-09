@@ -1,5 +1,6 @@
 export default {
-    name: 'Scanner',
+    name: 'scanner',
+    key: 'Scanner',
     width: 24,
     height: 24,
     attributes: undefined,

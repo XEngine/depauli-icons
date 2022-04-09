@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsSlipJointPliers',
+    name: 'tools-slip-joint-pliers',
+    key: 'ToolsSlipJointPliers',
     width: 24,
     height: 24,
     attributes: undefined,

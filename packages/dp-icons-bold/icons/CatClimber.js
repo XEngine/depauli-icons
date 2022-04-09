@@ -1,5 +1,6 @@
 export default {
-    name: 'CatClimber',
+    name: 'cat-climber',
+    key: 'CatClimber',
     width: 24,
     height: 24,
     attributes: undefined,

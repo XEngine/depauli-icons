@@ -1,5 +1,6 @@
 export default {
-    name: 'BikingHelmetPerson',
+    name: 'biking-helmet-person',
+    key: 'BikingHelmetPerson',
     width: 24,
     height: 24,
     attributes: undefined,

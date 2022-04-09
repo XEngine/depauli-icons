@@ -1,5 +1,6 @@
 export default {
-    name: 'ShelfDrawers',
+    name: 'shelf-drawers',
+    key: 'ShelfDrawers',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SeatChild',
+    name: 'seat-child',
+    key: 'SeatChild',
     width: 24,
     height: 24,
     attributes: undefined,

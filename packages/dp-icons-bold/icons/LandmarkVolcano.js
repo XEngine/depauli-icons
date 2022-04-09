@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkVolcano',
+    name: 'landmark-volcano',
+    key: 'LandmarkVolcano',
     width: 24,
     height: 24,
     attributes: undefined,

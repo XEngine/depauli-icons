@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingCartFull',
+    name: 'shopping-cart-full',
+    key: 'ShoppingCartFull',
     width: 24,
     height: 24,
     attributes: undefined,

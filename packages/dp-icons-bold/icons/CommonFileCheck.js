@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileCheck',
+    name: 'common-file-check',
+    key: 'CommonFileCheck',
     width: 24,
     height: 24,
     attributes: undefined,

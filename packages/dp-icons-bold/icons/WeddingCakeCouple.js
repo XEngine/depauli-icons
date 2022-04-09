@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingCakeCouple',
+    name: 'wedding-cake-couple',
+    key: 'WeddingCakeCouple',
     width: 24,
     height: 24,
     attributes: undefined,

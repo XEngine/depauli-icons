@@ -1,5 +1,6 @@
 export default {
-    name: 'RestaurantForkSpoon',
+    name: 'restaurant-fork-spoon',
+    key: 'RestaurantForkSpoon',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'AgricultureMachineSeeder3',
+    name: 'agriculture-machine-seeder-3',
+    key: 'AgricultureMachineSeeder3',
     width: 24,
     height: 24,
     attributes: undefined,

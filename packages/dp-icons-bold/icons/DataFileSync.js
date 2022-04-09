@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileSync',
+    name: 'data-file-sync',
+    key: 'DataFileSync',
     width: 24,
     height: 24,
     attributes: undefined,

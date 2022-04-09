@@ -1,5 +1,6 @@
 export default {
-    name: 'HairDressChair',
+    name: 'hair-dress-chair',
+    key: 'HairDressChair',
     width: 24,
     height: 24,
     attributes: undefined,

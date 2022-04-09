@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarUpload',
+    name: 'calendar-upload',
+    key: 'CalendarUpload',
     width: 24,
     height: 24,
     attributes: undefined,

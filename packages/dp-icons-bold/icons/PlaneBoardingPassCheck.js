@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneBoardingPassCheck',
+    name: 'plane-boarding-pass-check',
+    key: 'PlaneBoardingPassCheck',
     width: 24,
     height: 24,
     attributes: undefined,

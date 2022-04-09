@@ -1,5 +1,6 @@
 export default {
-    name: 'GlobalWarmingGlobeFire',
+    name: 'global-warming-globe-fire',
+    key: 'GlobalWarmingGlobeFire',
     width: 24,
     height: 24,
     attributes: undefined,

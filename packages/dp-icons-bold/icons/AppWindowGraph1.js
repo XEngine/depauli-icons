@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowGraph1',
+    name: 'app-window-graph-1',
+    key: 'AppWindowGraph1',
     width: 24,
     height: 24,
     attributes: undefined,

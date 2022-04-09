@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotographyEquipmentFilm',
+    name: 'photography-equipment-film',
+    key: 'PhotographyEquipmentFilm',
     width: 24,
     height: 24,
     attributes: undefined,

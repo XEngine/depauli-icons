@@ -1,5 +1,6 @@
 export default {
-    name: 'ProtectionSandBag1',
+    name: 'protection-sand-bag-1',
+    key: 'ProtectionSandBag1',
     width: 24,
     height: 24,
     attributes: undefined,

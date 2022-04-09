@@ -1,5 +1,6 @@
 export default {
-    name: 'PencilWrite3',
+    name: 'pencil-write-3',
+    key: 'PencilWrite3',
     width: 24,
     height: 24,
     attributes: undefined,

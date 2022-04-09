@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardArrowBottomRight',
+    name: 'keyboard-arrow-bottom-right',
+    key: 'KeyboardArrowBottomRight',
     width: 24,
     height: 24,
     attributes: undefined,

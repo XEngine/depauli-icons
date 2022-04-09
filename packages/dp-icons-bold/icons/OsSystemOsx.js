@@ -1,5 +1,6 @@
 export default {
-    name: 'OsSystemOsx',
+    name: 'os-system-osx',
+    key: 'OsSystemOsx',
     width: 24,
     height: 24,
     attributes: undefined,

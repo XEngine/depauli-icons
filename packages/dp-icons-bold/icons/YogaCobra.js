@@ -1,5 +1,6 @@
 export default {
-    name: 'YogaCobra',
+    name: 'yoga-cobra',
+    key: 'YogaCobra',
     width: 24,
     height: 24,
     attributes: undefined,

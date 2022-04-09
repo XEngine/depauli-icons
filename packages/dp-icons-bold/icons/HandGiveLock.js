@@ -1,5 +1,6 @@
 export default {
-    name: 'HandGiveLock',
+    name: 'hand-give-lock',
+    key: 'HandGiveLock',
     width: 24,
     height: 24,
     attributes: undefined,

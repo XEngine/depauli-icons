@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileRefresh',
+    name: 'image-file-refresh',
+    key: 'ImageFileRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

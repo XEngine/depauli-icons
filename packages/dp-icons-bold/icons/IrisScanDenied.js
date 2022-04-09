@@ -1,5 +1,6 @@
 export default {
-    name: 'IrisScanDenied',
+    name: 'iris-scan-denied',
+    key: 'IrisScanDenied',
     width: 24,
     height: 24,
     attributes: undefined,

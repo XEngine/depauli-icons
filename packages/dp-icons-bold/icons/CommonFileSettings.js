@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileSettings',
+    name: 'common-file-settings',
+    key: 'CommonFileSettings',
     width: 24,
     height: 24,
     attributes: undefined,

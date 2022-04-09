@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManSetting',
+    name: 'single-man-setting',
+    key: 'SingleManSetting',
     width: 24,
     height: 24,
     attributes: undefined,

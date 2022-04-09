@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyHelmetMine',
+    name: 'safety-helmet-mine',
+    key: 'SafetyHelmetMine',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Timer',
+    name: 'timer',
+    key: 'Timer',
     width: 24,
     height: 24,
     attributes: undefined,

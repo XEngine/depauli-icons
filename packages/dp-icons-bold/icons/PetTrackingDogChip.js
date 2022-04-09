@@ -1,5 +1,6 @@
 export default {
-    name: 'PetTrackingDogChip',
+    name: 'pet-tracking-dog-chip',
+    key: 'PetTrackingDogChip',
     width: 24,
     height: 24,
     attributes: undefined,

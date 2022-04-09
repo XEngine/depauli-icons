@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryEmpire',
+    name: 'history-empire',
+    key: 'HistoryEmpire',
     width: 24,
     height: 24,
     attributes: undefined,

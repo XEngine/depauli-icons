@@ -1,5 +1,6 @@
 export default {
-    name: 'Skunk',
+    name: 'skunk',
+    key: 'Skunk',
     width: 24,
     height: 24,
     attributes: undefined,

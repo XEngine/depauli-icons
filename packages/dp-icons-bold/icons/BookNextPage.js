@@ -1,5 +1,6 @@
 export default {
-    name: 'BookNextPage',
+    name: 'book-next-page',
+    key: 'BookNextPage',
     width: 24,
     height: 24,
     attributes: undefined,

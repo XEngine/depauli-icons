@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalConditionHeadPain',
+    name: 'medical-condition-head-pain',
+    key: 'MedicalConditionHeadPain',
     width: 24,
     height: 24,
     attributes: undefined,

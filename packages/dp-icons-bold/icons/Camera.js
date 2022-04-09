@@ -1,5 +1,6 @@
 export default {
-    name: 'Camera',
+    name: 'camera',
+    key: 'Camera',
     width: 24,
     height: 24,
     attributes: undefined,

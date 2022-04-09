@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterUzumakiNaruto',
+    name: 'famous-character-uzumaki-naruto',
+    key: 'FamousCharacterUzumakiNaruto',
     width: 24,
     height: 24,
     attributes: undefined,

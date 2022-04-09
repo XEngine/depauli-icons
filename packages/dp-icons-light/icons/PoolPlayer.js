@@ -1,5 +1,6 @@
 export default {
-    name: 'PoolPlayer',
+    name: 'pool-player',
+    key: 'PoolPlayer',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

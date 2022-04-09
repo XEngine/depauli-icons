@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchUp',
+    name: 'touch-up',
+    key: 'TouchUp',
     width: 24,
     height: 24,
     attributes: undefined,

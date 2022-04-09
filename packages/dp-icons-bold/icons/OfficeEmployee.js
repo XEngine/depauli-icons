@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeEmployee',
+    name: 'office-employee',
+    key: 'OfficeEmployee',
     width: 24,
     height: 24,
     attributes: undefined,

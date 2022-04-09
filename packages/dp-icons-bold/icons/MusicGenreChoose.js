@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreChoose',
+    name: 'music-genre-choose',
+    key: 'MusicGenreChoose',
     width: 24,
     height: 24,
     attributes: undefined,

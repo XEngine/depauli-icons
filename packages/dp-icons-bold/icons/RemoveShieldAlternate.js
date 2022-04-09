@@ -1,5 +1,6 @@
 export default {
-    name: 'RemoveShieldAlternate',
+    name: 'remove-shield-alternate',
+    key: 'RemoveShieldAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

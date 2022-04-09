@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmBellRing1',
+    name: 'alarm-bell-ring-1',
+    key: 'AlarmBellRing1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

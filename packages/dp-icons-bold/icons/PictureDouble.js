@@ -1,5 +1,6 @@
 export default {
-    name: 'PictureDouble',
+    name: 'picture-double',
+    key: 'PictureDouble',
     width: 24,
     height: 24,
     attributes: undefined,

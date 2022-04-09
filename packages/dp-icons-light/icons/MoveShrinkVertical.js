@@ -1,5 +1,6 @@
 export default {
-    name: 'MoveShrinkVertical',
+    name: 'move-shrink-vertical',
+    key: 'MoveShrinkVertical',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

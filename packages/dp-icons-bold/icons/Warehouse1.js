@@ -1,5 +1,6 @@
 export default {
-    name: 'Warehouse1',
+    name: 'warehouse-1',
+    key: 'Warehouse1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsFavoriteStarAlternate',
+    name: 'tags-favorite-star-alternate',
+    key: 'TagsFavoriteStarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

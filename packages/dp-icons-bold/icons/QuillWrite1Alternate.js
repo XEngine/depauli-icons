@@ -1,5 +1,6 @@
 export default {
-    name: 'QuillWrite1Alternate',
+    name: 'quill-write-1-alternate',
+    key: 'QuillWrite1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

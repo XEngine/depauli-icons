@@ -1,5 +1,6 @@
 export default {
-    name: 'SignBadgeCircleAlternate',
+    name: 'sign-badge-circle-alternate',
+    key: 'SignBadgeCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

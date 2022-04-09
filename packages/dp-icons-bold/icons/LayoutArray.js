@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutArray',
+    name: 'layout-array',
+    key: 'LayoutArray',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialProfileAvatarAlternate',
+    name: 'social-profile-avatar-alternate',
+    key: 'SocialProfileAvatarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

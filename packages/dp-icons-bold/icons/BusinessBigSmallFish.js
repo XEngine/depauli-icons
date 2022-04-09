@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessBigSmallFish',
+    name: 'business-big-small-fish',
+    key: 'BusinessBigSmallFish',
     width: 24,
     height: 24,
     attributes: undefined,

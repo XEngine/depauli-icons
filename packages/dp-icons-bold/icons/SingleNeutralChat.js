@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralChat',
+    name: 'single-neutral-chat',
+    key: 'SingleNeutralChat',
     width: 24,
     height: 24,
     attributes: undefined,

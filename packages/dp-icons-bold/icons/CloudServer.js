@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudServer',
+    name: 'cloud-server',
+    key: 'CloudServer',
     width: 24,
     height: 24,
     attributes: undefined,

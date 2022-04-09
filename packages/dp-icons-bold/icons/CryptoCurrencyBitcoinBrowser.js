@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinBrowser',
+    name: 'crypto-currency-bitcoin-browser',
+    key: 'CryptoCurrencyBitcoinBrowser',
     width: 24,
     height: 24,
     attributes: undefined,

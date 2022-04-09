@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionSync',
+    name: 'phone-action-sync',
+    key: 'PhoneActionSync',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureSnowflake',
+    name: 'temperature-snowflake',
+    key: 'TemperatureSnowflake',
     width: 24,
     height: 24,
     attributes: undefined,

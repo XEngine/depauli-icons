@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileSubtract',
+    name: 'data-file-subtract',
+    key: 'DataFileSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

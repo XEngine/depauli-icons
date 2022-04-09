@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseSyncAlternate',
+    name: 'database-sync-alternate',
+    key: 'DatabaseSyncAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

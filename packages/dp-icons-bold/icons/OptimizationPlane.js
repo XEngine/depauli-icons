@@ -1,5 +1,6 @@
 export default {
-    name: 'OptimizationPlane',
+    name: 'optimization-plane',
+    key: 'OptimizationPlane',
     width: 24,
     height: 24,
     attributes: undefined,

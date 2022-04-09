@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureThermometerDown',
+    name: 'temperature-thermometer-down',
+    key: 'TemperatureThermometerDown',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

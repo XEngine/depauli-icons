@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderRemoveAlternate',
+    name: 'folder-remove-alternate',
+    key: 'FolderRemoveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

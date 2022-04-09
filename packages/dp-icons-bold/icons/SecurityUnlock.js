@@ -1,5 +1,6 @@
 export default {
-    name: 'SecurityUnlock',
+    name: 'security-unlock',
+    key: 'SecurityUnlock',
     width: 24,
     height: 24,
     attributes: undefined,

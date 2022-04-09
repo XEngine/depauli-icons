@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDocumentMax1',
+    name: 'design-document-max-1',
+    key: 'DesignDocumentMax1',
     width: 24,
     height: 24,
     attributes: undefined,

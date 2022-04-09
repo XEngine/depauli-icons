@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsAdd',
+    name: 'multiple-actions-add',
+    key: 'MultipleActionsAdd',
     width: 24,
     height: 24,
     attributes: undefined,

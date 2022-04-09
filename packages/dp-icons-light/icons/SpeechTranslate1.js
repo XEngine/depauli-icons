@@ -1,5 +1,6 @@
 export default {
-    name: 'SpeechTranslate1',
+    name: 'speech-translate-1',
+    key: 'SpeechTranslate1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

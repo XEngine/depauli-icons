@@ -1,5 +1,6 @@
 export default {
-    name: 'FossilEnergyPlantAlternate',
+    name: 'fossil-energy-plant-alternate',
+    key: 'FossilEnergyPlantAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Login1',
+    name: 'login-1',
+    key: 'Login1',
     width: 24,
     height: 24,
     attributes: undefined,

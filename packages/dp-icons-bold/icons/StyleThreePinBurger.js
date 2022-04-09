@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBurger',
+    name: 'style-three-pin-burger',
+    key: 'StyleThreePinBurger',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesEmployeePrevious',
+    name: 'human-resources-employee-previous',
+    key: 'HumanResourcesEmployeePrevious',
     width: 24,
     height: 24,
     attributes: undefined,

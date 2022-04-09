@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListRemove',
+    name: 'task-list-remove',
+    key: 'TaskListRemove',
     width: 24,
     height: 24,
     attributes: undefined,

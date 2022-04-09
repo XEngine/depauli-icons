@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileEqualizer',
+    name: 'audio-file-equalizer',
+    key: 'AudioFileEqualizer',
     width: 24,
     height: 24,
     attributes: undefined,

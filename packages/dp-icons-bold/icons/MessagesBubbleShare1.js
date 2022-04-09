@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleShare1',
+    name: 'messages-bubble-share-1',
+    key: 'MessagesBubbleShare1',
     width: 24,
     height: 24,
     attributes: undefined,

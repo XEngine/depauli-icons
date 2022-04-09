@@ -1,5 +1,6 @@
 export default {
-    name: 'MilkCarton',
+    name: 'milk-carton',
+    key: 'MilkCarton',
     width: 24,
     height: 24,
     attributes: undefined,

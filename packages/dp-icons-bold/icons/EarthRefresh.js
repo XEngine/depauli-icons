@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthRefresh',
+    name: 'earth-refresh',
+    key: 'EarthRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

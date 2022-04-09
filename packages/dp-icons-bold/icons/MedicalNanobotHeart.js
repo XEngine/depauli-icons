@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalNanobotHeart',
+    name: 'medical-nanobot-heart',
+    key: 'MedicalNanobotHeart',
     width: 24,
     height: 24,
     attributes: undefined,

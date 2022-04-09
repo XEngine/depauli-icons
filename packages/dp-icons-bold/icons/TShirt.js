@@ -1,5 +1,6 @@
 export default {
-    name: 'TShirt',
+    name: 't-shirt',
+    key: 'TShirt',
     width: 24,
     height: 24,
     attributes: undefined,

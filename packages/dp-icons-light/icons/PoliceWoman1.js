@@ -1,5 +1,6 @@
 export default {
-    name: 'PoliceWoman1',
+    name: 'police-woman-1',
+    key: 'PoliceWoman1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

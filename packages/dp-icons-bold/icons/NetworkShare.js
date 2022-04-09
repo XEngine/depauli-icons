@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkShare',
+    name: 'network-share',
+    key: 'NetworkShare',
     width: 24,
     height: 24,
     attributes: undefined,

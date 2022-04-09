@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanStatics3',
+    name: 'single-woman-statics-3',
+    key: 'SingleWomanStatics3',
     width: 24,
     height: 24,
     attributes: undefined,

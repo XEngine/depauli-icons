@@ -1,5 +1,6 @@
 export default {
-    name: 'BookUpload',
+    name: 'book-upload',
+    key: 'BookUpload',
     width: 24,
     height: 24,
     attributes: undefined,

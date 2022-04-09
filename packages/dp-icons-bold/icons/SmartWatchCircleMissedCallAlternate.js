@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleMissedCallAlternate',
+    name: 'smart-watch-circle-missed-call-alternate',
+    key: 'SmartWatchCircleMissedCallAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

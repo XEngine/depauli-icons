@@ -1,5 +1,6 @@
 export default {
-    name: 'CleanCarCableCharge',
+    name: 'clean-car-cable-charge',
+    key: 'CleanCarCableCharge',
     width: 24,
     height: 24,
     attributes: undefined,

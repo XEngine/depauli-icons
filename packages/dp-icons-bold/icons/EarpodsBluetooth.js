@@ -1,5 +1,6 @@
 export default {
-    name: 'EarpodsBluetooth',
+    name: 'earpods-bluetooth',
+    key: 'EarpodsBluetooth',
     width: 24,
     height: 24,
     attributes: undefined,

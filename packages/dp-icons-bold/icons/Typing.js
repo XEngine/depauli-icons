@@ -1,5 +1,6 @@
 export default {
-    name: 'Typing',
+    name: 'typing',
+    key: 'Typing',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralMail',
+    name: 'single-neutral-mail',
+    key: 'SingleNeutralMail',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

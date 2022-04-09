@@ -1,5 +1,6 @@
 export default {
-    name: 'MoviesSetEquipment',
+    name: 'movies-set-equipment',
+    key: 'MoviesSetEquipment',
     width: 24,
     height: 24,
     attributes: undefined,

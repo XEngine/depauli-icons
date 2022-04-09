@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsAlarm',
+    name: 'multiple-actions-alarm',
+    key: 'MultipleActionsAlarm',
     width: 24,
     height: 24,
     attributes: undefined,

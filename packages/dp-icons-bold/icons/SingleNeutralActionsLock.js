@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsLock',
+    name: 'single-neutral-actions-lock',
+    key: 'SingleNeutralActionsLock',
     width: 24,
     height: 24,
     attributes: undefined,

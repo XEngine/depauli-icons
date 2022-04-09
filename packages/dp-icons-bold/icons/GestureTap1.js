@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTap1',
+    name: 'gesture-tap-1',
+    key: 'GestureTap1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AstronomyEarthRotation',
+    name: 'astronomy-earth-rotation',
+    key: 'AstronomyEarthRotation',
     width: 24,
     height: 24,
     attributes: undefined,

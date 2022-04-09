@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinIncrease',
+    name: 'crypto-currency-bitcoin-increase',
+    key: 'CryptoCurrencyBitcoinIncrease',
     width: 24,
     height: 24,
     attributes: undefined,

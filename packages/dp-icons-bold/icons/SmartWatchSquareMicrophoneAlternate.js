@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareMicrophoneAlternate',
+    name: 'smart-watch-square-microphone-alternate',
+    key: 'SmartWatchSquareMicrophoneAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

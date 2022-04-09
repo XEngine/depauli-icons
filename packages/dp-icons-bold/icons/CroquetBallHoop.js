@@ -1,5 +1,6 @@
 export default {
-    name: 'CroquetBallHoop',
+    name: 'croquet-ball-hoop',
+    key: 'CroquetBallHoop',
     width: 24,
     height: 24,
     attributes: undefined,

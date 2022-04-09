@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinPull',
+    name: 'style-three-pin-pull',
+    key: 'StyleThreePinPull',
     width: 24,
     height: 24,
     attributes: undefined,

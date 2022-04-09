@@ -1,5 +1,6 @@
 export default {
-    name: 'BoxingBoxer',
+    name: 'boxing-boxer',
+    key: 'BoxingBoxer',
     width: 24,
     height: 24,
     attributes: undefined,

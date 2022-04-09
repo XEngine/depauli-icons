@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsShield',
+    name: 'multiple-actions-shield',
+    key: 'MultipleActionsShield',
     width: 24,
     height: 24,
     attributes: undefined,

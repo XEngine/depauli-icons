@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmySymbolCavalry',
+    name: 'army-symbol-cavalry',
+    key: 'ArmySymbolCavalry',
     width: 24,
     height: 24,
     attributes: undefined,

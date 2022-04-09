@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsKiteFlying',
+    name: 'outdoors-kite-flying',
+    key: 'OutdoorsKiteFlying',
     width: 24,
     height: 24,
     attributes: undefined,

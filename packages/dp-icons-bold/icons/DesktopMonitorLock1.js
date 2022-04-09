@@ -1,5 +1,6 @@
 export default {
-    name: 'DesktopMonitorLock1',
+    name: 'desktop-monitor-lock-1',
+    key: 'DesktopMonitorLock1',
     width: 24,
     height: 24,
     attributes: undefined,

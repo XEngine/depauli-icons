@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyWarningRadioactiveAlternate',
+    name: 'safety-warning-radioactive-alternate',
+    key: 'SafetyWarningRadioactiveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

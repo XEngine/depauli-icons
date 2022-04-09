@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowMoveUp',
+    name: 'app-window-move-up',
+    key: 'AppWindowMoveUp',
     width: 24,
     height: 24,
     attributes: undefined,

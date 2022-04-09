@@ -1,5 +1,6 @@
 export default {
-    name: 'DatingSmartphoneChat',
+    name: 'dating-smartphone-chat',
+    key: 'DatingSmartphoneChat',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernArchitecture',
+    name: 'modern-architecture',
+    key: 'ModernArchitecture',
     width: 24,
     height: 24,
     attributes: undefined,

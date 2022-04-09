@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneOffAlternate',
+    name: 'phone-off-alternate',
+    key: 'PhoneOffAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowMusic',
+    name: 'app-window-music',
+    key: 'AppWindowMusic',
     width: 24,
     height: 24,
     attributes: undefined,

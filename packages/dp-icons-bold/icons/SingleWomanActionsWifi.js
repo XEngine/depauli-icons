@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsWifi',
+    name: 'single-woman-actions-wifi',
+    key: 'SingleWomanActionsWifi',
     width: 24,
     height: 24,
     attributes: undefined,

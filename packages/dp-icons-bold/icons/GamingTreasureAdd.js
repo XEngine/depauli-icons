@@ -1,5 +1,6 @@
 export default {
-    name: 'GamingTreasureAdd',
+    name: 'gaming-treasure-add',
+    key: 'GamingTreasureAdd',
     width: 24,
     height: 24,
     attributes: undefined,

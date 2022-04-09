@@ -1,5 +1,6 @@
 export default {
-    name: 'StairsDescend',
+    name: 'stairs-descend',
+    key: 'StairsDescend',
     width: 24,
     height: 24,
     attributes: undefined,

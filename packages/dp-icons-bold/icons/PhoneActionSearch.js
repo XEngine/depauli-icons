@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionSearch',
+    name: 'phone-action-search',
+    key: 'PhoneActionSearch',
     width: 24,
     height: 24,
     attributes: undefined,

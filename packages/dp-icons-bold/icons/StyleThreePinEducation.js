@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinEducation',
+    name: 'style-three-pin-education',
+    key: 'StyleThreePinEducation',
     width: 24,
     height: 24,
     attributes: undefined,

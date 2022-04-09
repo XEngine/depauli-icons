@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinMining',
+    name: 'crypto-currency-bitcoin-mining',
+    key: 'CryptoCurrencyBitcoinMining',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CatSitting',
+    name: 'cat-sitting',
+    key: 'CatSitting',
     width: 24,
     height: 24,
     attributes: undefined,

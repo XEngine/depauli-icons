@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorDropPick',
+    name: 'color-drop-pick',
+    key: 'ColorDropPick',
     width: 24,
     height: 24,
     attributes: undefined,

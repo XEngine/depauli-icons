@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingLaptopType',
+    name: 'programming-laptop-type',
+    key: 'ProgrammingLaptopType',
     width: 24,
     height: 24,
     attributes: undefined,

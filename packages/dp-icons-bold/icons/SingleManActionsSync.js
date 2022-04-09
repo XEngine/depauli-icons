@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsSync',
+    name: 'single-man-actions-sync',
+    key: 'SingleManActionsSync',
     width: 24,
     height: 24,
     attributes: undefined,

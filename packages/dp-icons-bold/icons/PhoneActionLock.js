@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionLock',
+    name: 'phone-action-lock',
+    key: 'PhoneActionLock',
     width: 24,
     height: 24,
     attributes: undefined,

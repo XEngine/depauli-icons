@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsSubtract1',
+    name: 'phone-actions-subtract-1',
+    key: 'PhoneActionsSubtract1',
     width: 24,
     height: 24,
     attributes: undefined,

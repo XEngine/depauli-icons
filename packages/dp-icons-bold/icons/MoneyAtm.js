@@ -1,5 +1,6 @@
 export default {
-    name: 'MoneyAtm',
+    name: 'money-atm',
+    key: 'MoneyAtm',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareTemperatureAlternate',
+    name: 'smart-watch-square-temperature-alternate',
+    key: 'SmartWatchSquareTemperatureAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

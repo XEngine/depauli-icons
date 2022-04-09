@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignBirdLife',
+    name: 'road-sign-bird-life',
+    key: 'RoadSignBirdLife',
     width: 24,
     height: 24,
     attributes: undefined,

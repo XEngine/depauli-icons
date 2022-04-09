@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorBrushPaint',
+    name: 'color-brush-paint',
+    key: 'ColorBrushPaint',
     width: 24,
     height: 24,
     attributes: undefined,

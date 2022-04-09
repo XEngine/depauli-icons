@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextLock',
+    name: 'common-file-text-lock',
+    key: 'CommonFileTextLock',
     width: 24,
     height: 24,
     attributes: undefined,

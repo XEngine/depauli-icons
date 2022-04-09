@@ -1,5 +1,6 @@
 export default {
-    name: 'PasswordType',
+    name: 'password-type',
+    key: 'PasswordType',
     width: 24,
     height: 24,
     attributes: undefined,

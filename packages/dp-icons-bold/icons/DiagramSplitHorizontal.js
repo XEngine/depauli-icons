@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramSplitHorizontal',
+    name: 'diagram-split-horizontal',
+    key: 'DiagramSplitHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

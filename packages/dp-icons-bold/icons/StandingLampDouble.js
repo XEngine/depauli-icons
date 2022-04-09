@@ -1,5 +1,6 @@
 export default {
-    name: 'StandingLampDouble',
+    name: 'standing-lamp-double',
+    key: 'StandingLampDouble',
     width: 24,
     height: 24,
     attributes: undefined,

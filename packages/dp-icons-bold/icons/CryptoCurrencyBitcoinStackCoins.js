@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinStackCoins',
+    name: 'crypto-currency-bitcoin-stack-coins',
+    key: 'CryptoCurrencyBitcoinStackCoins',
     width: 24,
     height: 24,
     attributes: undefined,

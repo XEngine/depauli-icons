@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeHdrOff',
+    name: 'light-mode-hdr-off',
+    key: 'LightModeHdrOff',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'InsectCatch',
+    name: 'insect-catch',
+    key: 'InsectCatch',
     width: 24,
     height: 24,
     attributes: undefined,

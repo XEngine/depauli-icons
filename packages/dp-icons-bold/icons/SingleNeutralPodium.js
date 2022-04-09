@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralPodium',
+    name: 'single-neutral-podium',
+    key: 'SingleNeutralPodium',
     width: 24,
     height: 24,
     attributes: undefined,

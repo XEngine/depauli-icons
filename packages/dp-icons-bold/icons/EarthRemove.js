@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthRemove',
+    name: 'earth-remove',
+    key: 'EarthRemove',
     width: 24,
     height: 24,
     attributes: undefined,

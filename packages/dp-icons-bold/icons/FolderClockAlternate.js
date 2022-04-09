@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderClockAlternate',
+    name: 'folder-clock-alternate',
+    key: 'FolderClockAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

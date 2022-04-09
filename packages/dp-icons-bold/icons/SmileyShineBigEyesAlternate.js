@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyShineBigEyesAlternate',
+    name: 'smiley-shine-big-eyes-alternate',
+    key: 'SmileyShineBigEyesAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

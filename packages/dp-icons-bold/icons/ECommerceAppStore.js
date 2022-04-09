@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceAppStore',
+    name: 'e-commerce-app-store',
+    key: 'ECommerceAppStore',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Layout2',
+    name: 'layout-2',
+    key: 'Layout2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

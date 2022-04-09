@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareHouseAlternate',
+    name: 'smart-watch-square-house-alternate',
+    key: 'SmartWatchSquareHouseAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MatchFire',
+    name: 'match-fire',
+    key: 'MatchFire',
     width: 24,
     height: 24,
     attributes: undefined,

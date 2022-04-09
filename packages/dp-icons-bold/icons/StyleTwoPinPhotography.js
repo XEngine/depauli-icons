@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinPhotography',
+    name: 'style-two-pin-photography',
+    key: 'StyleTwoPinPhotography',
     width: 24,
     height: 24,
     attributes: undefined,

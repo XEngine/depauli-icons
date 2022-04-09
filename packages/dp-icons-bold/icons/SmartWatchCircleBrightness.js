@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleBrightness',
+    name: 'smart-watch-circle-brightness',
+    key: 'SmartWatchCircleBrightness',
     width: 24,
     height: 24,
     attributes: undefined,

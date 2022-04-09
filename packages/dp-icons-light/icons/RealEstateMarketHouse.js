@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateMarketHouse',
+    name: 'real-estate-market-house',
+    key: 'RealEstateMarketHouse',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

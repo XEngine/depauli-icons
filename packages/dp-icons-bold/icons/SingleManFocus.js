@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManFocus',
+    name: 'single-man-focus',
+    key: 'SingleManFocus',
     width: 24,
     height: 24,
     attributes: undefined,

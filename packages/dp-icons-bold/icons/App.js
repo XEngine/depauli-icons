@@ -1,5 +1,6 @@
 export default {
-    name: 'App',
+    name: 'app',
+    key: 'App',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VrGlobe',
+    name: 'vr-globe',
+    key: 'VrGlobe',
     width: 24,
     height: 24,
     attributes: undefined,

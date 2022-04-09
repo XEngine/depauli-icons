@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowExpand',
+    name: 'app-window-expand',
+    key: 'AppWindowExpand',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeRazor',
+    name: 'office-razor',
+    key: 'OfficeRazor',
     width: 24,
     height: 24,
     attributes: undefined,

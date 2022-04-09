@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseKeyAlternate',
+    name: 'database-key-alternate',
+    key: 'DatabaseKeyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

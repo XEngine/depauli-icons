@@ -1,5 +1,6 @@
 export default {
-    name: 'ResizeExpandSides',
+    name: 'resize-expand-sides',
+    key: 'ResizeExpandSides',
     width: 24,
     height: 24,
     attributes: undefined,

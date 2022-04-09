@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaIrcGalleria',
+    name: 'social-media-irc-galleria',
+    key: 'SocialMediaIrcGalleria',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SendEmail3',
+    name: 'send-email-3',
+    key: 'SendEmail3',
     width: 24,
     height: 24,
     attributes: undefined,

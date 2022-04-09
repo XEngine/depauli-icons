@@ -1,5 +1,6 @@
 export default {
-    name: 'BodyCareMask',
+    name: 'body-care-mask',
+    key: 'BodyCareMask',
     width: 24,
     height: 24,
     attributes: undefined,

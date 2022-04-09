@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingBankInternational',
+    name: 'saving-bank-international',
+    key: 'SavingBankInternational',
     width: 24,
     height: 24,
     attributes: undefined,

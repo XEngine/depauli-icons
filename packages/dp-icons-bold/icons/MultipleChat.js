@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleChat',
+    name: 'multiple-chat',
+    key: 'MultipleChat',
     width: 24,
     height: 24,
     attributes: undefined,

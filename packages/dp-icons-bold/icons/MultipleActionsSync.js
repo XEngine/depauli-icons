@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsSync',
+    name: 'multiple-actions-sync',
+    key: 'MultipleActionsSync',
     width: 24,
     height: 24,
     attributes: undefined,

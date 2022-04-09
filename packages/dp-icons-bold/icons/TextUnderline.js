@@ -1,5 +1,6 @@
 export default {
-    name: 'TextUnderline',
+    name: 'text-underline',
+    key: 'TextUnderline',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManVintageTv',
+    name: 'single-man-vintage-tv',
+    key: 'SingleManVintageTv',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

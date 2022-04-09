@@ -1,5 +1,6 @@
 export default {
-    name: 'ReceiptRegisterPrint',
+    name: 'receipt-register-print',
+    key: 'ReceiptRegisterPrint',
     width: 24,
     height: 24,
     attributes: undefined,

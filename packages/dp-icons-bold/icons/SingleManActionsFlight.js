@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsFlight',
+    name: 'single-man-actions-flight',
+    key: 'SingleManActionsFlight',
     width: 24,
     height: 24,
     attributes: undefined,

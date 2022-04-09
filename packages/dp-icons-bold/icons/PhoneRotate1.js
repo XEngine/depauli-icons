@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneRotate1',
+    name: 'phone-rotate-1',
+    key: 'PhoneRotate1',
     width: 24,
     height: 24,
     attributes: undefined,

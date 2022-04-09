@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyLolSideAlternate',
+    name: 'smiley-lol-side-alternate',
+    key: 'SmileyLolSideAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

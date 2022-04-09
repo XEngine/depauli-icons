@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsDownload',
+    name: 'single-woman-actions-download',
+    key: 'SingleWomanActionsDownload',
     width: 24,
     height: 24,
     attributes: undefined,

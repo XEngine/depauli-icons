@@ -1,5 +1,6 @@
 export default {
-    name: 'CircusTent1',
+    name: 'circus-tent-1',
+    key: 'CircusTent1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

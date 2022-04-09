@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorShare',
+    name: 'monitor-share',
+    key: 'MonitorShare',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

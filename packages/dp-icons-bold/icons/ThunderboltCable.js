@@ -1,5 +1,6 @@
 export default {
-    name: 'ThunderboltCable',
+    name: 'thunderbolt-cable',
+    key: 'ThunderboltCable',
     width: 24,
     height: 24,
     attributes: undefined,

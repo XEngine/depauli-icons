@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileRefresh',
+    name: 'common-file-refresh',
+    key: 'CommonFileRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

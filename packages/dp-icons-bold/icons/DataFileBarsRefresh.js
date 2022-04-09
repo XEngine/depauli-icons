@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsRefresh',
+    name: 'data-file-bars-refresh',
+    key: 'DataFileBarsRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

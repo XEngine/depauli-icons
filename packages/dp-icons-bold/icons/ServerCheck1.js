@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerCheck1',
+    name: 'server-check-1',
+    key: 'ServerCheck1',
     width: 24,
     height: 24,
     attributes: undefined,

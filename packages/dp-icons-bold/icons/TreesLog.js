@@ -1,5 +1,6 @@
 export default {
-    name: 'TreesLog',
+    name: 'trees-log',
+    key: 'TreesLog',
     width: 24,
     height: 24,
     attributes: undefined,

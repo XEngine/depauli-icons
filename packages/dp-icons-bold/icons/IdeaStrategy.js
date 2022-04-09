@@ -1,5 +1,6 @@
 export default {
-    name: 'IdeaStrategy',
+    name: 'idea-strategy',
+    key: 'IdeaStrategy',
     width: 24,
     height: 24,
     attributes: undefined,

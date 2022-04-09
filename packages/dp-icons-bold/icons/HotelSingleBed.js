@@ -1,5 +1,6 @@
 export default {
-    name: 'HotelSingleBed',
+    name: 'hotel-single-bed',
+    key: 'HotelSingleBed',
     width: 24,
     height: 24,
     attributes: undefined,

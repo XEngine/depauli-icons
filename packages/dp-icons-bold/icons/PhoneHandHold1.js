@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneHandHold1',
+    name: 'phone-hand-hold-1',
+    key: 'PhoneHandHold1',
     width: 24,
     height: 24,
     attributes: undefined,

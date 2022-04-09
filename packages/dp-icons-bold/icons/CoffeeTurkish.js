@@ -1,5 +1,6 @@
 export default {
-    name: 'CoffeeTurkish',
+    name: 'coffee-turkish',
+    key: 'CoffeeTurkish',
     width: 24,
     height: 24,
     attributes: undefined,

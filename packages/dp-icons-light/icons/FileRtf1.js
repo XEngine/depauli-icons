@@ -1,5 +1,6 @@
 export default {
-    name: 'FileRtf1',
+    name: 'file-rtf-1',
+    key: 'FileRtf1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

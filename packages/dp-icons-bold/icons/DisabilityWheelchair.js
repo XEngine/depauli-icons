@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityWheelchair',
+    name: 'disability-wheelchair',
+    key: 'DisabilityWheelchair',
     width: 24,
     height: 24,
     attributes: undefined,

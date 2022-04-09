@@ -1,5 +1,6 @@
 export default {
-    name: 'CheckBadge',
+    name: 'check-badge',
+    key: 'CheckBadge',
     width: 24,
     height: 24,
     attributes: undefined,

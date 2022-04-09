@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignTunnelAhead',
+    name: 'road-sign-tunnel-ahead',
+    key: 'RoadSignTunnelAhead',
     width: 24,
     height: 24,
     attributes: undefined,

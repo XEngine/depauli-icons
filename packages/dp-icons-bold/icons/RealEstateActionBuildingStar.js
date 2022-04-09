@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingStar',
+    name: 'real-estate-action-building-star',
+    key: 'RealEstateActionBuildingStar',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBook1',
+    name: 'style-three-pin-book-1',
+    key: 'StyleThreePinBook1',
     width: 24,
     height: 24,
     attributes: undefined,

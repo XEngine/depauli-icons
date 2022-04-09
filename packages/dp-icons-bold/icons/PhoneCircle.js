@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneCircle',
+    name: 'phone-circle',
+    key: 'PhoneCircle',
     width: 24,
     height: 24,
     attributes: undefined,

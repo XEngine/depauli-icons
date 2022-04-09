@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameMagicWand',
+    name: 'video-game-magic-wand',
+    key: 'VideoGameMagicWand',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

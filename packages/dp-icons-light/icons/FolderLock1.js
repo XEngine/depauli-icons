@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderLock1',
+    name: 'folder-lock-1',
+    key: 'FolderLock1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

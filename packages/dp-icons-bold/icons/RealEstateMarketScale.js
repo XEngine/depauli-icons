@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateMarketScale',
+    name: 'real-estate-market-scale',
+    key: 'RealEstateMarketScale',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TeamMeetingMessageMenLock',
+    name: 'team-meeting-message-men-lock',
+    key: 'TeamMeetingMessageMenLock',
     width: 24,
     height: 24,
     attributes: undefined,

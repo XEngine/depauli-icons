@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesTextFlip',
+    name: 'notes-text-flip',
+    key: 'NotesTextFlip',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterBlackLightning',
+    name: 'famous-character-black-lightning',
+    key: 'FamousCharacterBlackLightning',
     width: 24,
     height: 24,
     attributes: undefined,

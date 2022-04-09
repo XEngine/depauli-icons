@@ -1,5 +1,6 @@
 export default {
-    name: 'GraphStatsSquareAlternate',
+    name: 'graph-stats-square-alternate',
+    key: 'GraphStatsSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinWallet',
+    name: 'crypto-currency-bitcoin-wallet',
+    key: 'CryptoCurrencyBitcoinWallet',
     width: 24,
     height: 24,
     attributes: undefined,

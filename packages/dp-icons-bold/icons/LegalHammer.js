@@ -1,5 +1,6 @@
 export default {
-    name: 'LegalHammer',
+    name: 'legal-hammer',
+    key: 'LegalHammer',
     width: 24,
     height: 24,
     attributes: undefined,

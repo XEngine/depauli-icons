@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionCash',
+    name: 'phone-action-cash',
+    key: 'PhoneActionCash',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

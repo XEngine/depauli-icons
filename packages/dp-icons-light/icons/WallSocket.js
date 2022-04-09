@@ -1,5 +1,6 @@
 export default {
-    name: 'WallSocket',
+    name: 'wall-socket',
+    key: 'WallSocket',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

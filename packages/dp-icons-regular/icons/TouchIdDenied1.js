@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchIdDenied1',
+    name: 'touch-id-denied-1',
+    key: 'TouchIdDenied1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

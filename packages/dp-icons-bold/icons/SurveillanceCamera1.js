@@ -1,5 +1,6 @@
 export default {
-    name: 'SurveillanceCamera1',
+    name: 'surveillance-camera-1',
+    key: 'SurveillanceCamera1',
     width: 24,
     height: 24,
     attributes: undefined,

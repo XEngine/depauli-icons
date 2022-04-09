@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyFireExit',
+    name: 'safety-fire-exit',
+    key: 'SafetyFireExit',
     width: 24,
     height: 24,
     attributes: undefined,

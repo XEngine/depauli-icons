@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsDownload',
+    name: 'data-file-bars-download',
+    key: 'DataFileBarsDownload',
     width: 24,
     height: 24,
     attributes: undefined,

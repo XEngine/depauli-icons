@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameFlowerEnemy',
+    name: 'video-game-flower-enemy',
+    key: 'VideoGameFlowerEnemy',
     width: 24,
     height: 24,
     attributes: undefined,

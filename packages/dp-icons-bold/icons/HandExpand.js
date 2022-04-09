@@ -1,5 +1,6 @@
 export default {
-    name: 'HandExpand',
+    name: 'hand-expand',
+    key: 'HandExpand',
     width: 24,
     height: 24,
     attributes: undefined,

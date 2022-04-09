@@ -1,5 +1,6 @@
 export default {
-    name: 'Subscript',
+    name: 'subscript',
+    key: 'Subscript',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CampingRv',
+    name: 'camping-rv',
+    key: 'CampingRv',
     width: 24,
     height: 24,
     attributes: undefined,

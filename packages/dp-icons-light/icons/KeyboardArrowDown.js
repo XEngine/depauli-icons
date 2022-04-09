@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardArrowDown',
+    name: 'keyboard-arrow-down',
+    key: 'KeyboardArrowDown',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

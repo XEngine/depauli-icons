@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsManBellboy',
+    name: 'professions-man-bellboy',
+    key: 'ProfessionsManBellboy',
     width: 24,
     height: 24,
     attributes: undefined,

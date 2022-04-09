@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsVideo',
+    name: 'multiple-actions-video',
+    key: 'MultipleActionsVideo',
     width: 24,
     height: 24,
     attributes: undefined,

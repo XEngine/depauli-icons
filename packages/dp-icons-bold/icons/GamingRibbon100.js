@@ -1,5 +1,6 @@
 export default {
-    name: 'GamingRibbon100',
+    name: 'gaming-ribbon-100',
+    key: 'GamingRibbon100',
     width: 24,
     height: 24,
     attributes: undefined,

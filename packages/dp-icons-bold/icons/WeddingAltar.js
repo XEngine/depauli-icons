@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingAltar',
+    name: 'wedding-altar',
+    key: 'WeddingAltar',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ParalympicsArchery',
+    name: 'paralympics-archery',
+    key: 'ParalympicsArchery',
     width: 24,
     height: 24,
     attributes: undefined,

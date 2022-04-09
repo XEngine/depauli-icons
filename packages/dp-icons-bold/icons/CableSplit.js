@@ -1,5 +1,6 @@
 export default {
-    name: 'CableSplit',
+    name: 'cable-split',
+    key: 'CableSplit',
     width: 24,
     height: 24,
     attributes: undefined,

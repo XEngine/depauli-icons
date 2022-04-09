@@ -1,5 +1,6 @@
 export default {
-    name: 'ExoticFoodRolls',
+    name: 'exotic-food-rolls',
+    key: 'ExoticFoodRolls',
     width: 24,
     height: 24,
     attributes: undefined,

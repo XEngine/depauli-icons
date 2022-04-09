@@ -1,5 +1,6 @@
 export default {
-    name: 'CarWagon',
+    name: 'car-wagon',
+    key: 'CarWagon',
     width: 24,
     height: 24,
     attributes: undefined,

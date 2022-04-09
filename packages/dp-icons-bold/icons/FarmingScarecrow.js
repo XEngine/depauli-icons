@@ -1,5 +1,6 @@
 export default {
-    name: 'FarmingScarecrow',
+    name: 'farming-scarecrow',
+    key: 'FarmingScarecrow',
     width: 24,
     height: 24,
     attributes: undefined,

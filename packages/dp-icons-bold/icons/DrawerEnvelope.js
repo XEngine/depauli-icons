@@ -1,5 +1,6 @@
 export default {
-    name: 'DrawerEnvelope',
+    name: 'drawer-envelope',
+    key: 'DrawerEnvelope',
     width: 24,
     height: 24,
     attributes: undefined,

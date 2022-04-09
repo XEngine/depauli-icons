@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionCash',
+    name: 'email-action-cash',
+    key: 'EmailActionCash',
     width: 24,
     height: 24,
     attributes: undefined,

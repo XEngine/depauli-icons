@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsLocation',
+    name: 'single-woman-actions-location',
+    key: 'SingleWomanActionsLocation',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

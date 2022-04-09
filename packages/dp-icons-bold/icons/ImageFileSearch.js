@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileSearch',
+    name: 'image-file-search',
+    key: 'ImageFileSearch',
     width: 24,
     height: 24,
     attributes: undefined,

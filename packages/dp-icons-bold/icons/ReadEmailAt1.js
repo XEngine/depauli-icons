@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadEmailAt1',
+    name: 'read-email-at-1',
+    key: 'ReadEmailAt1',
     width: 24,
     height: 24,
     attributes: undefined,

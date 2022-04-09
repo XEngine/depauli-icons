@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileDollar',
+    name: 'video-file-dollar',
+    key: 'VideoFileDollar',
     width: 24,
     height: 24,
     attributes: undefined,

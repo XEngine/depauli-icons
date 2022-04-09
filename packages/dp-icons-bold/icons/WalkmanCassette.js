@@ -1,5 +1,6 @@
 export default {
-    name: 'WalkmanCassette',
+    name: 'walkman-cassette',
+    key: 'WalkmanCassette',
     width: 24,
     height: 24,
     attributes: undefined,

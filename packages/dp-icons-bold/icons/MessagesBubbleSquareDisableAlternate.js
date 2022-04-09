@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareDisableAlternate',
+    name: 'messages-bubble-square-disable-alternate',
+    key: 'MessagesBubbleSquareDisableAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Tux',
+    name: 'tux',
+    key: 'Tux',
     width: 24,
     height: 24,
     attributes: undefined,

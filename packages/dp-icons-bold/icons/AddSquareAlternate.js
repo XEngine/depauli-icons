@@ -1,5 +1,6 @@
 export default {
-    name: 'AddSquareAlternate',
+    name: 'add-square-alternate',
+    key: 'AddSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CdAlbum',
+    name: 'cd-album',
+    key: 'CdAlbum',
     width: 24,
     height: 24,
     attributes: undefined,

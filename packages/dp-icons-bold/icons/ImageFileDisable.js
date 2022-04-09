@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileDisable',
+    name: 'image-file-disable',
+    key: 'ImageFileDisable',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CocktailShaker',
+    name: 'cocktail-shaker',
+    key: 'CocktailShaker',
     width: 24,
     height: 24,
     attributes: undefined,

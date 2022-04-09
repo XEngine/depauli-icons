@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickDotLeft',
+    name: 'arrow-thick-dot-left',
+    key: 'ArrowThickDotLeft',
     width: 24,
     height: 24,
     attributes: undefined,

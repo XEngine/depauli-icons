@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmBellSleep1',
+    name: 'alarm-bell-sleep-1',
+    key: 'AlarmBellSleep1',
     width: 24,
     height: 24,
     attributes: undefined,

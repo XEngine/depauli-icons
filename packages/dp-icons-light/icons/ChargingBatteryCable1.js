@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryCable1',
+    name: 'charging-battery-cable-1',
+    key: 'ChargingBatteryCable1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

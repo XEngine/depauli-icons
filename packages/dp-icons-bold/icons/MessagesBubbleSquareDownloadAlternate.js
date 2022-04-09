@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareDownloadAlternate',
+    name: 'messages-bubble-square-download-alternate',
+    key: 'MessagesBubbleSquareDownloadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

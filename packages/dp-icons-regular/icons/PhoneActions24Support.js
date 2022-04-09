@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActions24Support',
+    name: 'phone-actions-24-support',
+    key: 'PhoneActions24Support',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

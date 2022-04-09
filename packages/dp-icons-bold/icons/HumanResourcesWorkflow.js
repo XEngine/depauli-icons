@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesWorkflow',
+    name: 'human-resources-workflow',
+    key: 'HumanResourcesWorkflow',
     width: 24,
     height: 24,
     attributes: undefined,

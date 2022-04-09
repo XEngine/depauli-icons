@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsAxe',
+    name: 'tools-axe',
+    key: 'ToolsAxe',
     width: 24,
     height: 24,
     attributes: undefined,

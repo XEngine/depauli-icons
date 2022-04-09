@@ -1,5 +1,6 @@
 export default {
-    name: 'RhinoBody',
+    name: 'rhino-body',
+    key: 'RhinoBody',
     width: 24,
     height: 24,
     attributes: undefined,

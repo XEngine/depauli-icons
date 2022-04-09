@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialBookmarkFfffound',
+    name: 'social-bookmark-ffffound',
+    key: 'SocialBookmarkFfffound',
     width: 24,
     height: 24,
     attributes: undefined,

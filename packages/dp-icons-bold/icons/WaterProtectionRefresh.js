@@ -1,5 +1,6 @@
 export default {
-    name: 'WaterProtectionRefresh',
+    name: 'water-protection-refresh',
+    key: 'WaterProtectionRefresh',
     width: 24,
     height: 24,
     attributes: undefined,

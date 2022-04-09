@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalPersonnelNurse',
+    name: 'medical-personnel-nurse',
+    key: 'MedicalPersonnelNurse',
     width: 24,
     height: 24,
     attributes: undefined,

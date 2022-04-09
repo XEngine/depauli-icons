@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileBookmarkAlternate',
+    name: 'common-file-bookmark-alternate',
+    key: 'CommonFileBookmarkAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

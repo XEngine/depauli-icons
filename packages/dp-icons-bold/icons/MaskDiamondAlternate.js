@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskDiamondAlternate',
+    name: 'mask-diamond-alternate',
+    key: 'MaskDiamondAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

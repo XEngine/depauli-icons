@@ -1,5 +1,6 @@
 export default {
-    name: 'HalloweenSpider',
+    name: 'halloween-spider',
+    key: 'HalloweenSpider',
     width: 24,
     height: 24,
     attributes: undefined,

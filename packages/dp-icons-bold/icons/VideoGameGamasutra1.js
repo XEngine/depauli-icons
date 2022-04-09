@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameGamasutra1',
+    name: 'video-game-gamasutra-1',
+    key: 'VideoGameGamasutra1',
     width: 24,
     height: 24,
     attributes: undefined,

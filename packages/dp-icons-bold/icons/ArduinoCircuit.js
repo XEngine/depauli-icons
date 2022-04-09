@@ -1,5 +1,6 @@
 export default {
-    name: 'ArduinoCircuit',
+    name: 'arduino-circuit',
+    key: 'ArduinoCircuit',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileJs1',
+    name: 'file-js-1',
+    key: 'FileJs1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

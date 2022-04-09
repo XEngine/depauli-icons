@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignerCommunityDesignFloat',
+    name: 'designer-community-design-float',
+    key: 'DesignerCommunityDesignFloat',
     width: 24,
     height: 24,
     attributes: undefined,

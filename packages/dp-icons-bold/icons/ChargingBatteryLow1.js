@@ -1,5 +1,6 @@
 export default {
-    name: 'ChargingBatteryLow1',
+    name: 'charging-battery-low-1',
+    key: 'ChargingBatteryLow1',
     width: 24,
     height: 24,
     attributes: undefined,

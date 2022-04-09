@@ -1,5 +1,6 @@
 export default {
-    name: 'BarcodeTag',
+    name: 'barcode-tag',
+    key: 'BarcodeTag',
     width: 24,
     height: 24,
     attributes: undefined,

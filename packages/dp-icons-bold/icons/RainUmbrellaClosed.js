@@ -1,5 +1,6 @@
 export default {
-    name: 'RainUmbrellaClosed',
+    name: 'rain-umbrella-closed',
+    key: 'RainUmbrellaClosed',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessShaker',
+    name: 'fitness-shaker',
+    key: 'FitnessShaker',
     width: 24,
     height: 24,
     attributes: undefined,

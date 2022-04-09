@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsShare1',
+    name: 'single-woman-actions-share-1',
+    key: 'SingleWomanActionsShare1',
     width: 24,
     height: 24,
     attributes: undefined,

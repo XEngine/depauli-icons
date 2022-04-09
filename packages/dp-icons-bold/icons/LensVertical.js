@@ -1,5 +1,6 @@
 export default {
-    name: 'LensVertical',
+    name: 'lens-vertical',
+    key: 'LensVertical',
     width: 24,
     height: 24,
     attributes: undefined,

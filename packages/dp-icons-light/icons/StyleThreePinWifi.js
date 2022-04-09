@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinWifi',
+    name: 'style-three-pin-wifi',
+    key: 'StyleThreePinWifi',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

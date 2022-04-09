@@ -1,5 +1,6 @@
 export default {
-    name: 'WaitingRoomCouple',
+    name: 'waiting-room-couple',
+    key: 'WaitingRoomCouple',
     width: 24,
     height: 24,
     attributes: undefined,

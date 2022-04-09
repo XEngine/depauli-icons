@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasFlowerAlternate',
+    name: 'christmas-flower-alternate',
+    key: 'ChristmasFlowerAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

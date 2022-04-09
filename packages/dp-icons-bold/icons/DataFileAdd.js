@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileAdd',
+    name: 'data-file-add',
+    key: 'DataFileAdd',
     width: 24,
     height: 24,
     attributes: undefined,

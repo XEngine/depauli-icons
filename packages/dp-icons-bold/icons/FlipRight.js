@@ -1,5 +1,6 @@
 export default {
-    name: 'FlipRight',
+    name: 'flip-right',
+    key: 'FlipRight',
     width: 24,
     height: 24,
     attributes: undefined,

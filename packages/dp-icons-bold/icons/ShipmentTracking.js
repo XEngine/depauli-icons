@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentTracking',
+    name: 'shipment-tracking',
+    key: 'ShipmentTracking',
     width: 24,
     height: 24,
     attributes: undefined,

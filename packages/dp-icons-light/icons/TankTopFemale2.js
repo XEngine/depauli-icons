@@ -1,5 +1,6 @@
 export default {
-    name: 'TankTopFemale2',
+    name: 'tank-top-female-2',
+    key: 'TankTopFemale2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

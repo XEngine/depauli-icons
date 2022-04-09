@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairTire',
+    name: 'car-repair-tire',
+    key: 'CarRepairTire',
     width: 24,
     height: 24,
     attributes: undefined,

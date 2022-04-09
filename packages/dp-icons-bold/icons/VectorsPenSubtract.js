@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsPenSubtract',
+    name: 'vectors-pen-subtract',
+    key: 'VectorsPenSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHouseUnlock',
+    name: 'smart-house-unlock',
+    key: 'SmartHouseUnlock',
     width: 24,
     height: 24,
     attributes: undefined,

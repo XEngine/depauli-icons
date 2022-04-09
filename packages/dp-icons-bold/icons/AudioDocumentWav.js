@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioDocumentWav',
+    name: 'audio-document-wav',
+    key: 'AudioDocumentWav',
     width: 24,
     height: 24,
     attributes: undefined,

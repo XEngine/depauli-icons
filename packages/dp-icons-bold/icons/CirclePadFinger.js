@@ -1,5 +1,6 @@
 export default {
-    name: 'CirclePadFinger',
+    name: 'circle-pad-finger',
+    key: 'CirclePadFinger',
     width: 24,
     height: 24,
     attributes: undefined,

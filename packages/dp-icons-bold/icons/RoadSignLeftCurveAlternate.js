@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignLeftCurveAlternate',
+    name: 'road-sign-left-curve-alternate',
+    key: 'RoadSignLeftCurveAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

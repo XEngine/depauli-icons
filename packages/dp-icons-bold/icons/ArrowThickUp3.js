@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowThickUp3',
+    name: 'arrow-thick-up-3',
+    key: 'ArrowThickUp3',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignKeepLeftAlternate',
+    name: 'road-sign-keep-left-alternate',
+    key: 'RoadSignKeepLeftAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SciencePhysicsLaw',
+    name: 'science-physics-law',
+    key: 'SciencePhysicsLaw',
     width: 24,
     height: 24,
     attributes: undefined,

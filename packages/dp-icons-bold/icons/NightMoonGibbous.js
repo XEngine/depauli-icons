@@ -1,5 +1,6 @@
 export default {
-    name: 'NightMoonGibbous',
+    name: 'night-moon-gibbous',
+    key: 'NightMoonGibbous',
     width: 24,
     height: 24,
     attributes: undefined,

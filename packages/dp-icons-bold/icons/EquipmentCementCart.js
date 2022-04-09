@@ -1,5 +1,6 @@
 export default {
-    name: 'EquipmentCementCart',
+    name: 'equipment-cement-cart',
+    key: 'EquipmentCementCart',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LivestockRam1',
+    name: 'livestock-ram-1',
+    key: 'LivestockRam1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

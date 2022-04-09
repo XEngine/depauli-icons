@@ -1,5 +1,6 @@
 export default {
-    name: 'Bulb1Alternate',
+    name: 'bulb-1-alternate',
+    key: 'Bulb1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

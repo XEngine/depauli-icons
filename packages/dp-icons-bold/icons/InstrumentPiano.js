@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentPiano',
+    name: 'instrument-piano',
+    key: 'InstrumentPiano',
     width: 24,
     height: 24,
     attributes: undefined,

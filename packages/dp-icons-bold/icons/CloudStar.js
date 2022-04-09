@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudStar',
+    name: 'cloud-star',
+    key: 'CloudStar',
     width: 24,
     height: 24,
     attributes: undefined,

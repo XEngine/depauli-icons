@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsBlock',
+    name: 'tags-block',
+    key: 'TagsBlock',
     width: 24,
     height: 24,
     attributes: undefined,

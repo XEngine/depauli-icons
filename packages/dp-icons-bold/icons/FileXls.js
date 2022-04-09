@@ -1,5 +1,6 @@
 export default {
-    name: 'FileXls',
+    name: 'file-xls',
+    key: 'FileXls',
     width: 24,
     height: 24,
     attributes: undefined,

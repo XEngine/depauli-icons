@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleText',
+    name: 'smart-watch-circle-text',
+    key: 'SmartWatchCircleText',
     width: 24,
     height: 24,
     attributes: undefined,

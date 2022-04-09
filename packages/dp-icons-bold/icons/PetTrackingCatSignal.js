@@ -1,5 +1,6 @@
 export default {
-    name: 'PetTrackingCatSignal',
+    name: 'pet-tracking-cat-signal',
+    key: 'PetTrackingCatSignal',
     width: 24,
     height: 24,
     attributes: undefined,

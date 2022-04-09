@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsSearch',
+    name: 'data-file-bars-search',
+    key: 'DataFileBarsSearch',
     width: 24,
     height: 24,
     attributes: undefined,

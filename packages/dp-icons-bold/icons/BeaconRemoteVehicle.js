@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconRemoteVehicle',
+    name: 'beacon-remote-vehicle',
+    key: 'BeaconRemoteVehicle',
     width: 24,
     height: 24,
     attributes: undefined,

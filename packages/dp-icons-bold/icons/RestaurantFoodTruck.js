@@ -1,5 +1,6 @@
 export default {
-    name: 'RestaurantFoodTruck',
+    name: 'restaurant-food-truck',
+    key: 'RestaurantFoodTruck',
     width: 24,
     height: 24,
     attributes: undefined,

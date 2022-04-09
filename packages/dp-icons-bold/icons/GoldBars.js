@@ -1,5 +1,6 @@
 export default {
-    name: 'GoldBars',
+    name: 'gold-bars',
+    key: 'GoldBars',
     width: 24,
     height: 24,
     attributes: undefined,

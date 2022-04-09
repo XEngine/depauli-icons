@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManIdCard',
+    name: 'single-man-id-card',
+    key: 'SingleManIdCard',
     width: 24,
     height: 24,
     attributes: undefined,

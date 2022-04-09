@@ -1,5 +1,6 @@
 export default {
-    name: 'AdvertisingBillboardHouse',
+    name: 'advertising-billboard-house',
+    key: 'AdvertisingBillboardHouse',
     width: 24,
     height: 24,
     attributes: undefined,

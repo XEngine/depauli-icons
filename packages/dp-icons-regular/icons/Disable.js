@@ -1,5 +1,6 @@
 export default {
-    name: 'Disable',
+    name: 'disable',
+    key: 'Disable',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

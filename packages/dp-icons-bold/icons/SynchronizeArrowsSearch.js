@@ -1,5 +1,6 @@
 export default {
-    name: 'SynchronizeArrowsSearch',
+    name: 'synchronize-arrows-search',
+    key: 'SynchronizeArrowsSearch',
     width: 24,
     height: 24,
     attributes: undefined,

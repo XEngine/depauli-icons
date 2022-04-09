@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopIdea',
+    name: 'laptop-idea',
+    key: 'LaptopIdea',
     width: 24,
     height: 24,
     attributes: undefined,

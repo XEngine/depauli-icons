@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaFoursquare',
+    name: 'social-media-foursquare',
+    key: 'SocialMediaFoursquare',
     width: 24,
     height: 24,
     attributes: undefined,

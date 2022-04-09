@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentTypingMachine',
+    name: 'content-typing-machine',
+    key: 'ContentTypingMachine',
     width: 24,
     height: 24,
     attributes: undefined,

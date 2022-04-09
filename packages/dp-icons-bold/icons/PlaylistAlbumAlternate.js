@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistAlbumAlternate',
+    name: 'playlist-album-alternate',
+    key: 'PlaylistAlbumAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

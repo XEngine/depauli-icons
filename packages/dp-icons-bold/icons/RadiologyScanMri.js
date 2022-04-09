@@ -1,5 +1,6 @@
 export default {
-    name: 'RadiologyScanMri',
+    name: 'radiology-scan-mri',
+    key: 'RadiologyScanMri',
     width: 24,
     height: 24,
     attributes: undefined,

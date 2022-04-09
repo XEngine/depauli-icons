@@ -1,5 +1,6 @@
 export default {
-    name: 'CellBorderNone',
+    name: 'cell-border-none',
+    key: 'CellBorderNone',
     width: 24,
     height: 24,
     attributes: undefined,

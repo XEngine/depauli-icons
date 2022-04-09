@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveGiftCoupleBox',
+    name: 'love-gift-couple-box',
+    key: 'LoveGiftCoupleBox',
     width: 24,
     height: 24,
     attributes: undefined,

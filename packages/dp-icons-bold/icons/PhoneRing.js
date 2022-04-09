@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneRing',
+    name: 'phone-ring',
+    key: 'PhoneRing',
     width: 24,
     height: 24,
     attributes: undefined,

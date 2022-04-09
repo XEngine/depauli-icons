@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeHdr',
+    name: 'light-mode-hdr',
+    key: 'LightModeHdr',
     width: 24,
     height: 24,
     attributes: undefined,

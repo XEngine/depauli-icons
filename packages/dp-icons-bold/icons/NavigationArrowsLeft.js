@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationArrowsLeft',
+    name: 'navigation-arrows-left',
+    key: 'NavigationArrowsLeft',
     width: 24,
     height: 24,
     attributes: undefined,

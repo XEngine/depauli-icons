@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergyAccumulator',
+    name: 'renewable-energy-accumulator',
+    key: 'RenewableEnergyAccumulator',
     width: 24,
     height: 24,
     attributes: undefined,

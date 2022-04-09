@@ -1,5 +1,6 @@
 export default {
-    name: 'FileRar',
+    name: 'file-rar',
+    key: 'FileRar',
     width: 24,
     height: 24,
     attributes: undefined,

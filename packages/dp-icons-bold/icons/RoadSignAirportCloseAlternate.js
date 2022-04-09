@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignAirportCloseAlternate',
+    name: 'road-sign-airport-close-alternate',
+    key: 'RoadSignAirportCloseAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

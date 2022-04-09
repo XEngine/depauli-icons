@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapePyramidAlternate',
+    name: 'shape-pyramid-alternate',
+    key: 'ShapePyramidAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CeilingBallChandelierRetro',
+    name: 'ceiling-ball-chandelier-retro',
+    key: 'CeilingBallChandelierRetro',
     width: 24,
     height: 24,
     attributes: undefined,

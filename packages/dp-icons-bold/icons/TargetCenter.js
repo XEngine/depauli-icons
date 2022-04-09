@@ -1,5 +1,6 @@
 export default {
-    name: 'TargetCenter',
+    name: 'target-center',
+    key: 'TargetCenter',
     width: 24,
     height: 24,
     attributes: undefined,

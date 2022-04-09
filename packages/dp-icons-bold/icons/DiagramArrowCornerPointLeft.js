@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramArrowCornerPointLeft',
+    name: 'diagram-arrow-corner-point-left',
+    key: 'DiagramArrowCornerPointLeft',
     width: 24,
     height: 24,
     attributes: undefined,

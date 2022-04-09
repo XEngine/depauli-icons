@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkEmpireState',
+    name: 'landmark-empire-state',
+    key: 'LandmarkEmpireState',
     width: 24,
     height: 24,
     attributes: undefined,

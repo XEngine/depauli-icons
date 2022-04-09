@@ -1,5 +1,6 @@
 export default {
-    name: 'FootwearHeels1',
+    name: 'footwear-heels-1',
+    key: 'FootwearHeels1',
     width: 24,
     height: 24,
     attributes: undefined,

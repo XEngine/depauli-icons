@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTapSwipeLeft',
+    name: 'gesture-tap-swipe-left',
+    key: 'GestureTapSwipeLeft',
     width: 24,
     height: 24,
     attributes: undefined,

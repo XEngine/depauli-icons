@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileSettings',
+    name: 'data-file-settings',
+    key: 'DataFileSettings',
     width: 24,
     height: 24,
     attributes: undefined,

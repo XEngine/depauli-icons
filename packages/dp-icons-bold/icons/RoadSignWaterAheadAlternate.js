@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignWaterAheadAlternate',
+    name: 'road-sign-water-ahead-alternate',
+    key: 'RoadSignWaterAheadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

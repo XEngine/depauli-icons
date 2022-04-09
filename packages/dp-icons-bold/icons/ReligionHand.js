@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionHand',
+    name: 'religion-hand',
+    key: 'ReligionHand',
     width: 24,
     height: 24,
     attributes: undefined,

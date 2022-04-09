@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerRemove',
+    name: 'server-remove',
+    key: 'ServerRemove',
     width: 24,
     height: 24,
     attributes: undefined,

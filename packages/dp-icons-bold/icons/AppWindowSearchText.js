@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowSearchText',
+    name: 'app-window-search-text',
+    key: 'AppWindowSearchText',
     width: 24,
     height: 24,
     attributes: undefined,

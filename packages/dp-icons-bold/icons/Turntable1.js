@@ -1,5 +1,6 @@
 export default {
-    name: 'Turntable1',
+    name: 'turntable-1',
+    key: 'Turntable1',
     width: 24,
     height: 24,
     attributes: undefined,

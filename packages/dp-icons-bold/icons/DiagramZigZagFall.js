@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramZigZagFall',
+    name: 'diagram-zig-zag-fall',
+    key: 'DiagramZigZagFall',
     width: 24,
     height: 24,
     attributes: undefined,

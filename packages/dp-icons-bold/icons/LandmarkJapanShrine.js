@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkJapanShrine',
+    name: 'landmark-japan-shrine',
+    key: 'LandmarkJapanShrine',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryVase',
+    name: 'history-vase',
+    key: 'HistoryVase',
     width: 24,
     height: 24,
     attributes: undefined,

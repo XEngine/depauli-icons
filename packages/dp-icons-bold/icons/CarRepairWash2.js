@@ -1,5 +1,6 @@
 export default {
-    name: 'CarRepairWash2',
+    name: 'car-repair-wash-2',
+    key: 'CarRepairWash2',
     width: 24,
     height: 24,
     attributes: undefined,

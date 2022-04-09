@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListPin1',
+    name: 'task-list-pin-1',
+    key: 'TaskListPin1',
     width: 24,
     height: 24,
     attributes: undefined,

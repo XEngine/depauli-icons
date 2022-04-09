@@ -1,5 +1,6 @@
 export default {
-    name: 'TransformShrink',
+    name: 'transform-shrink',
+    key: 'TransformShrink',
     width: 24,
     height: 24,
     attributes: undefined,

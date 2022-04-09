@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowRectangleLeft2',
+    name: 'arrow-rectangle-left-2',
+    key: 'ArrowRectangleLeft2',
     width: 24,
     height: 24,
     attributes: undefined,

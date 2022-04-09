@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationUserLaptop',
+    name: 'monetization-user-laptop',
+    key: 'MonetizationUserLaptop',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

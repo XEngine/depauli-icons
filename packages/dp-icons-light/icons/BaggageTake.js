@@ -1,5 +1,6 @@
 export default {
-    name: 'BaggageTake',
+    name: 'baggage-take',
+    key: 'BaggageTake',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

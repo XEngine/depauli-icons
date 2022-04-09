@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophoneOff',
+    name: 'microphone-off',
+    key: 'MicrophoneOff',
     width: 24,
     height: 24,
     attributes: undefined,

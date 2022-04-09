@@ -1,5 +1,6 @@
 export default {
-    name: 'CleaningSign',
+    name: 'cleaning-sign',
+    key: 'CleaningSign',
     width: 24,
     height: 24,
     attributes: undefined,

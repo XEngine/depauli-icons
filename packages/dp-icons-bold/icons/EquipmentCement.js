@@ -1,5 +1,6 @@
 export default {
-    name: 'EquipmentCement',
+    name: 'equipment-cement',
+    key: 'EquipmentCement',
     width: 24,
     height: 24,
     attributes: undefined,

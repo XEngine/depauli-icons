@@ -1,5 +1,6 @@
 export default {
-    name: 'PartyConfetti',
+    name: 'party-confetti',
+    key: 'PartyConfetti',
     width: 24,
     height: 24,
     attributes: undefined,

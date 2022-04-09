@@ -1,5 +1,6 @@
 export default {
-    name: 'IndentLeft',
+    name: 'indent-left',
+    key: 'IndentLeft',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseBugAlternate',
+    name: 'database-bug-alternate',
+    key: 'DatabaseBugAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

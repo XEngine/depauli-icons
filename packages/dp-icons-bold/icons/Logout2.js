@@ -1,5 +1,6 @@
 export default {
-    name: 'Logout2',
+    name: 'logout-2',
+    key: 'Logout2',
     width: 24,
     height: 24,
     attributes: undefined,

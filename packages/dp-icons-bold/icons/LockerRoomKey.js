@@ -1,5 +1,6 @@
 export default {
-    name: 'LockerRoomKey',
+    name: 'locker-room-key',
+    key: 'LockerRoomKey',
     width: 24,
     height: 24,
     attributes: undefined,

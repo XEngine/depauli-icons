@@ -1,5 +1,6 @@
 export default {
-    name: 'SdCardSubtract',
+    name: 'sd-card-subtract',
+    key: 'SdCardSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

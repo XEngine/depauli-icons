@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeCheck',
+    name: 'file-code-check',
+    key: 'FileCodeCheck',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BarcodeSearch',
+    name: 'barcode-search',
+    key: 'BarcodeSearch',
     width: 24,
     height: 24,
     attributes: undefined,

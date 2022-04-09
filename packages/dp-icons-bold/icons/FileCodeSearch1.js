@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeSearch1',
+    name: 'file-code-search-1',
+    key: 'FileCodeSearch1',
     width: 24,
     height: 24,
     attributes: undefined,

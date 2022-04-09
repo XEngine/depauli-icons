@@ -1,5 +1,6 @@
 export default {
-    name: 'DeliveryParachute',
+    name: 'delivery-parachute',
+    key: 'DeliveryParachute',
     width: 24,
     height: 24,
     attributes: undefined,

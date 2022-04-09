@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalInstrumentAmbulanceBed1',
+    name: 'medical-instrument-ambulance-bed-1',
+    key: 'MedicalInstrumentAmbulanceBed1',
     width: 24,
     height: 24,
     attributes: undefined,

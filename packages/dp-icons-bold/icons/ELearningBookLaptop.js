@@ -1,5 +1,6 @@
 export default {
-    name: 'ELearningBookLaptop',
+    name: 'e-learning-book-laptop',
+    key: 'ELearningBookLaptop',
     width: 24,
     height: 24,
     attributes: undefined,

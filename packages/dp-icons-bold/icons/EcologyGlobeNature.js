@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyGlobeNature',
+    name: 'ecology-globe-nature',
+    key: 'EcologyGlobeNature',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TripPinMultiple',
+    name: 'trip-pin-multiple',
+    key: 'TripPinMultiple',
     width: 24,
     height: 24,
     attributes: undefined,

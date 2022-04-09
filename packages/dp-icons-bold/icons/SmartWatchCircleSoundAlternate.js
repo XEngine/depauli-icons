@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleSoundAlternate',
+    name: 'smart-watch-circle-sound-alternate',
+    key: 'SmartWatchCircleSoundAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

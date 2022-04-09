@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeShield',
+    name: 'file-code-shield',
+    key: 'FileCodeShield',
     width: 24,
     height: 24,
     attributes: undefined,

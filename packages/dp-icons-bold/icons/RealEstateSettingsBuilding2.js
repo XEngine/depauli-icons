@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateSettingsBuilding2',
+    name: 'real-estate-settings-building-2',
+    key: 'RealEstateSettingsBuilding2',
     width: 24,
     height: 24,
     attributes: undefined,

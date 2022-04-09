@@ -1,5 +1,6 @@
 export default {
-    name: 'CatHead',
+    name: 'cat-head',
+    key: 'CatHead',
     width: 24,
     height: 24,
     attributes: undefined,

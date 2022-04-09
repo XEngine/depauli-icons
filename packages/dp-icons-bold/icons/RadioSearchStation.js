@@ -1,5 +1,6 @@
 export default {
-    name: 'RadioSearchStation',
+    name: 'radio-search-station',
+    key: 'RadioSearchStation',
     width: 24,
     height: 24,
     attributes: undefined,

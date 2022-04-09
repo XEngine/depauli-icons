@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationSmartphoneMessage',
+    name: 'navigation-smartphone-message',
+    key: 'NavigationSmartphoneMessage',
     width: 24,
     height: 24,
     attributes: undefined,

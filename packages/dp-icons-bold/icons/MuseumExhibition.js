@@ -1,5 +1,6 @@
 export default {
-    name: 'MuseumExhibition',
+    name: 'museum-exhibition',
+    key: 'MuseumExhibition',
     width: 24,
     height: 24,
     attributes: undefined,

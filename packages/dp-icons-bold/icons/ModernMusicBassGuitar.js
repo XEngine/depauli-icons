@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernMusicBassGuitar',
+    name: 'modern-music-bass-guitar',
+    key: 'ModernMusicBassGuitar',
     width: 24,
     height: 24,
     attributes: undefined,

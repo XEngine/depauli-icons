@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileShare',
+    name: 'data-file-share',
+    key: 'DataFileShare',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseLock',
+    name: 'database-lock',
+    key: 'DatabaseLock',
     width: 24,
     height: 24,
     attributes: undefined,

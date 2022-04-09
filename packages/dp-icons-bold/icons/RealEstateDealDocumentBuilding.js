@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDealDocumentBuilding',
+    name: 'real-estate-deal-document-building',
+    key: 'RealEstateDealDocumentBuilding',
     width: 24,
     height: 24,
     attributes: undefined,

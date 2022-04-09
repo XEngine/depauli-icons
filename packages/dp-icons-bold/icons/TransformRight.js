@@ -1,5 +1,6 @@
 export default {
-    name: 'TransformRight',
+    name: 'transform-right',
+    key: 'TransformRight',
     width: 24,
     height: 24,
     attributes: undefined,

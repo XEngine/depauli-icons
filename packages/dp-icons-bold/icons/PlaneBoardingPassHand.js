@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneBoardingPassHand',
+    name: 'plane-boarding-pass-hand',
+    key: 'PlaneBoardingPassHand',
     width: 24,
     height: 24,
     attributes: undefined,

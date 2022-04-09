@@ -1,5 +1,6 @@
 export default {
-    name: 'FileIso1',
+    name: 'file-iso-1',
+    key: 'FileIso1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

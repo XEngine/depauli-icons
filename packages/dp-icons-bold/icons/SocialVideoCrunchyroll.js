@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialVideoCrunchyroll',
+    name: 'social-video-crunchyroll',
+    key: 'SocialVideoCrunchyroll',
     width: 24,
     height: 24,
     attributes: undefined,

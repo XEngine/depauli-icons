@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignNoParkingAlternate',
+    name: 'road-sign-no-parking-alternate',
+    key: 'RoadSignNoParkingAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

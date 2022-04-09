@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentCheck',
+    name: 'shipment-check',
+    key: 'ShipmentCheck',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ModulePhonePuzzle1',
+    name: 'module-phone-puzzle-1',
+    key: 'ModulePhonePuzzle1',
     width: 24,
     height: 24,
     attributes: undefined,

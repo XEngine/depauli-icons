@@ -1,5 +1,6 @@
 export default {
-    name: 'CogHandGive1',
+    name: 'cog-hand-give-1',
+    key: 'CogHandGive1',
     width: 24,
     height: 24,
     attributes: undefined,

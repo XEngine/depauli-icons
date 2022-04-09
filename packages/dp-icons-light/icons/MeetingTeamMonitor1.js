@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingTeamMonitor1',
+    name: 'meeting-team-monitor-1',
+    key: 'MeetingTeamMonitor1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

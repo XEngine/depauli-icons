@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherSnow',
+    name: 'weather-snow',
+    key: 'WeatherSnow',
     width: 24,
     height: 24,
     attributes: undefined,

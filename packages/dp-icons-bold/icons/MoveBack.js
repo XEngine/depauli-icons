@@ -1,5 +1,6 @@
 export default {
-    name: 'MoveBack',
+    name: 'move-back',
+    key: 'MoveBack',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'UploadButtonAlternate',
+    name: 'upload-button-alternate',
+    key: 'UploadButtonAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

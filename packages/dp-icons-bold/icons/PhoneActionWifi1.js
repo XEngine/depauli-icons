@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionWifi1',
+    name: 'phone-action-wifi-1',
+    key: 'PhoneActionWifi1',
     width: 24,
     height: 24,
     attributes: undefined,

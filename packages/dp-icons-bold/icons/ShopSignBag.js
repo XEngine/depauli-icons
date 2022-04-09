@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopSignBag',
+    name: 'shop-sign-bag',
+    key: 'ShopSignBag',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconBluetooth',
+    name: 'beacon-bluetooth',
+    key: 'BeaconBluetooth',
     width: 24,
     height: 24,
     attributes: undefined,

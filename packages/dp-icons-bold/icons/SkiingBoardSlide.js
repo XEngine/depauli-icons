@@ -1,5 +1,6 @@
 export default {
-    name: 'SkiingBoardSlide',
+    name: 'skiing-board-slide',
+    key: 'SkiingBoardSlide',
     width: 24,
     height: 24,
     attributes: undefined,

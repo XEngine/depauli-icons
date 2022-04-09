@@ -1,5 +1,6 @@
 export default {
-    name: 'EcologyGlobeHand1',
+    name: 'ecology-globe-hand-1',
+    key: 'EcologyGlobeHand1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CardGameDiamond',
+    name: 'card-game-diamond',
+    key: 'CardGameDiamond',
     width: 24,
     height: 24,
     attributes: undefined,

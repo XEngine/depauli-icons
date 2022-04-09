@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutAgenda',
+    name: 'layout-agenda',
+    key: 'LayoutAgenda',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TableLampRetro',
+    name: 'table-lamp-retro',
+    key: 'TableLampRetro',
     width: 24,
     height: 24,
     attributes: undefined,

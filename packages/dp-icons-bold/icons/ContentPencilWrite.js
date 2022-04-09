@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentPencilWrite',
+    name: 'content-pencil-write',
+    key: 'ContentPencilWrite',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleLocationAlternate',
+    name: 'smart-watch-circle-location-alternate',
+    key: 'SmartWatchCircleLocationAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorPicker4',
+    name: 'color-picker-4',
+    key: 'ColorPicker4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileModuleAlternate',
+    name: 'common-file-module-alternate',
+    key: 'CommonFileModuleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

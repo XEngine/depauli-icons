@@ -1,5 +1,6 @@
 export default {
-    name: 'CraftsBottleArtShip',
+    name: 'crafts-bottle-art-ship',
+    key: 'CraftsBottleArtShip',
     width: 24,
     height: 24,
     attributes: undefined,

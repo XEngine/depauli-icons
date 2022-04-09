@@ -1,5 +1,6 @@
 export default {
-    name: 'AngleBrackets',
+    name: 'angle-brackets',
+    key: 'AngleBrackets',
     width: 24,
     height: 24,
     attributes: undefined,

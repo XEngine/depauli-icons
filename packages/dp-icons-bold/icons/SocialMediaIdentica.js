@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaIdentica',
+    name: 'social-media-identica',
+    key: 'SocialMediaIdentica',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TankTopPattern',
+    name: 'tank-top-pattern',
+    key: 'TankTopPattern',
     width: 24,
     height: 24,
     attributes: undefined,

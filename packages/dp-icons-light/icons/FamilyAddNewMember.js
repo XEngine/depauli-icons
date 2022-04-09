@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyAddNewMember',
+    name: 'family-add-new-member',
+    key: 'FamilyAddNewMember',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

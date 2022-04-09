@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridRemove',
+    name: 'layers-grid-remove',
+    key: 'LayersGridRemove',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

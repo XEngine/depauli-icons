@@ -1,5 +1,6 @@
 export default {
-    name: 'InstrumentTuba',
+    name: 'instrument-tuba',
+    key: 'InstrumentTuba',
     width: 24,
     height: 24,
     attributes: undefined,

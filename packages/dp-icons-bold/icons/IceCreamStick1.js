@@ -1,5 +1,6 @@
 export default {
-    name: 'IceCreamStick1',
+    name: 'ice-cream-stick-1',
+    key: 'IceCreamStick1',
     width: 24,
     height: 24,
     attributes: undefined,

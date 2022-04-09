@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaceTruckSatelite',
+    name: 'space-truck-satelite',
+    key: 'SpaceTruckSatelite',
     width: 24,
     height: 24,
     attributes: undefined,

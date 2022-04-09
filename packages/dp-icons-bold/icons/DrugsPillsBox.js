@@ -1,5 +1,6 @@
 export default {
-    name: 'DrugsPillsBox',
+    name: 'drugs-pills-box',
+    key: 'DrugsPillsBox',
     width: 24,
     height: 24,
     attributes: undefined,

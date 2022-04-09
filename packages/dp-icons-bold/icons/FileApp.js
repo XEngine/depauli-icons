@@ -1,5 +1,6 @@
 export default {
-    name: 'FileApp',
+    name: 'file-app',
+    key: 'FileApp',
     width: 24,
     height: 24,
     attributes: undefined,

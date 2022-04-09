@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSign2_5mHigh_1Alternate',
+    name: 'road-sign-2-5m-high-1-alternate',
+    key: 'RoadSign2_5mHigh_1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

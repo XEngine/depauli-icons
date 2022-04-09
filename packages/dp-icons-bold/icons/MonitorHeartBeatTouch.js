@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorHeartBeatTouch',
+    name: 'monitor-heart-beat-touch',
+    key: 'MonitorHeartBeatTouch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstatePersonSearchHouse1',
+    name: 'real-estate-person-search-house-1',
+    key: 'RealEstatePersonSearchHouse1',
     width: 24,
     height: 24,
     attributes: undefined,

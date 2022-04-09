@@ -1,5 +1,6 @@
 export default {
-    name: 'AppliancesBlender',
+    name: 'appliances-blender',
+    key: 'AppliancesBlender',
     width: 24,
     height: 24,
     attributes: undefined,

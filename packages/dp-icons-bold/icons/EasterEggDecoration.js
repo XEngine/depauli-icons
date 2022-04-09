@@ -1,5 +1,6 @@
 export default {
-    name: 'EasterEggDecoration',
+    name: 'easter-egg-decoration',
+    key: 'EasterEggDecoration',
     width: 24,
     height: 24,
     attributes: undefined,

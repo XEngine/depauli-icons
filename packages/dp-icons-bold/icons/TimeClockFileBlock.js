@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileBlock',
+    name: 'time-clock-file-block',
+    key: 'TimeClockFileBlock',
     width: 24,
     height: 24,
     attributes: undefined,

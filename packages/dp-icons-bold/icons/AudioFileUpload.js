@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileUpload',
+    name: 'audio-file-upload',
+    key: 'AudioFileUpload',
     width: 24,
     height: 24,
     attributes: undefined,

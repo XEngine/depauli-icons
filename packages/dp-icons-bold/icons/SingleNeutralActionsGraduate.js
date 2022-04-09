@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsGraduate',
+    name: 'single-neutral-actions-graduate',
+    key: 'SingleNeutralActionsGraduate',
     width: 24,
     height: 24,
     attributes: undefined,

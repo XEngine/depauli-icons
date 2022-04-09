@@ -1,5 +1,6 @@
 export default {
-    name: 'MovieCinema',
+    name: 'movie-cinema',
+    key: 'MovieCinema',
     width: 24,
     height: 24,
     attributes: undefined,

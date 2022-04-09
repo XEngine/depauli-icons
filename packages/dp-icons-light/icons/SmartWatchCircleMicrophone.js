@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleMicrophone',
+    name: 'smart-watch-circle-microphone',
+    key: 'SmartWatchCircleMicrophone',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

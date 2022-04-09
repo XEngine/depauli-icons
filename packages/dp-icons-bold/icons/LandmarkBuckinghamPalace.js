@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkBuckinghamPalace',
+    name: 'landmark-buckingham-palace',
+    key: 'LandmarkBuckinghamPalace',
     width: 24,
     height: 24,
     attributes: undefined,

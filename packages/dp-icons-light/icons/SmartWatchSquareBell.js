@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareBell',
+    name: 'smart-watch-square-bell',
+    key: 'SmartWatchSquareBell',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

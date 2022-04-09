@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionsManOffice2',
+    name: 'professions-man-office-2',
+    key: 'ProfessionsManOffice2',
     width: 24,
     height: 24,
     attributes: undefined,

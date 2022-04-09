@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignCattleAlternate',
+    name: 'road-sign-cattle-alternate',
+    key: 'RoadSignCattleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

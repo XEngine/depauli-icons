@@ -1,5 +1,6 @@
 export default {
-    name: 'ListQuill',
+    name: 'list-quill',
+    key: 'ListQuill',
     width: 24,
     height: 24,
     attributes: undefined,

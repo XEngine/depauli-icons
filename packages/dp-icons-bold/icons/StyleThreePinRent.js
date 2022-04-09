@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinRent',
+    name: 'style-three-pin-rent',
+    key: 'StyleThreePinRent',
     width: 24,
     height: 24,
     attributes: undefined,

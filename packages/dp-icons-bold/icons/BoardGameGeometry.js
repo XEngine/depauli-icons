@@ -1,5 +1,6 @@
 export default {
-    name: 'BoardGameGeometry',
+    name: 'board-game-geometry',
+    key: 'BoardGameGeometry',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileInfo',
+    name: 'image-file-info',
+    key: 'ImageFileInfo',
     width: 24,
     height: 24,
     attributes: undefined,

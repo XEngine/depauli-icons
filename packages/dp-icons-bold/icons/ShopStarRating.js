@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopStarRating',
+    name: 'shop-star-rating',
+    key: 'ShopStarRating',
     width: 24,
     height: 24,
     attributes: undefined,

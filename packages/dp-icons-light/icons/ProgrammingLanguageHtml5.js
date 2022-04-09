@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingLanguageHtml5',
+    name: 'programming-language-html-5',
+    key: 'ProgrammingLanguageHtml5',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditCc',
+    name: 'video-edit-cc',
+    key: 'VideoEditCc',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BookBookPages',
+    name: 'book-book-pages',
+    key: 'BookBookPages',
     width: 24,
     height: 24,
     attributes: undefined,

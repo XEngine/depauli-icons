@@ -1,5 +1,6 @@
 export default {
-    name: 'ForceTouchPress',
+    name: 'force-touch-press',
+    key: 'ForceTouchPress',
     width: 24,
     height: 24,
     attributes: undefined,

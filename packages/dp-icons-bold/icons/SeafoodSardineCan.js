@@ -1,5 +1,6 @@
 export default {
-    name: 'SeafoodSardineCan',
+    name: 'seafood-sardine-can',
+    key: 'SeafoodSardineCan',
     width: 24,
     height: 24,
     attributes: undefined,

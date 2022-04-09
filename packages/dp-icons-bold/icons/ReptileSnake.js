@@ -1,5 +1,6 @@
 export default {
-    name: 'ReptileSnake',
+    name: 'reptile-snake',
+    key: 'ReptileSnake',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BreadWheat',
+    name: 'bread-wheat',
+    key: 'BreadWheat',
     width: 24,
     height: 24,
     attributes: undefined,

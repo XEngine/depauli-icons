@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorTriangle',
+    name: 'color-triangle',
+    key: 'ColorTriangle',
     width: 24,
     height: 24,
     attributes: undefined,

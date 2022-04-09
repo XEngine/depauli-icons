@@ -1,5 +1,6 @@
 export default {
-    name: 'ArmyArrowShield',
+    name: 'army-arrow-shield',
+    key: 'ArmyArrowShield',
     width: 24,
     height: 24,
     attributes: undefined,

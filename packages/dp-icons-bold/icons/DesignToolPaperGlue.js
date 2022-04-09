@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolPaperGlue',
+    name: 'design-tool-paper-glue',
+    key: 'DesignToolPaperGlue',
     width: 24,
     height: 24,
     attributes: undefined,

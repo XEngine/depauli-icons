@@ -1,5 +1,6 @@
 export default {
-    name: 'HeavyEquipmentWood',
+    name: 'heavy-equipment-wood',
+    key: 'HeavyEquipmentWood',
     width: 24,
     height: 24,
     attributes: undefined,

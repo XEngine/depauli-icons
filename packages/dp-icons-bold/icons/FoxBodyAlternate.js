@@ -1,5 +1,6 @@
 export default {
-    name: 'FoxBodyAlternate',
+    name: 'fox-body-alternate',
+    key: 'FoxBodyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

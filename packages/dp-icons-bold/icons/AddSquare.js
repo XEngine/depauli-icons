@@ -1,5 +1,6 @@
 export default {
-    name: 'AddSquare',
+    name: 'add-square',
+    key: 'AddSquare',
     width: 24,
     height: 24,
     attributes: undefined,

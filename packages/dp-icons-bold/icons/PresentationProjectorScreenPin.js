@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationProjectorScreenPin',
+    name: 'presentation-projector-screen-pin',
+    key: 'PresentationProjectorScreenPin',
     width: 24,
     height: 24,
     attributes: undefined,

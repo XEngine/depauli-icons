@@ -1,5 +1,6 @@
 export default {
-    name: 'FileKey1',
+    name: 'file-key-1',
+    key: 'FileKey1',
     width: 24,
     height: 24,
     attributes: undefined,

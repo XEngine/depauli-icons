@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsRemove',
+    name: 'data-file-bars-remove',
+    key: 'DataFileBarsRemove',
     width: 24,
     height: 24,
     attributes: undefined,

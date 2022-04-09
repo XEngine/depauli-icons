@@ -1,5 +1,6 @@
 export default {
-    name: 'IdeaSettings1',
+    name: 'idea-settings-1',
+    key: 'IdeaSettings1',
     width: 24,
     height: 24,
     attributes: undefined,

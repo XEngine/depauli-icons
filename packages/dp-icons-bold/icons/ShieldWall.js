@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldWall',
+    name: 'shield-wall',
+    key: 'ShieldWall',
     width: 24,
     height: 24,
     attributes: undefined,

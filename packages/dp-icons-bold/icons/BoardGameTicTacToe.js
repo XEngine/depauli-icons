@@ -1,5 +1,6 @@
 export default {
-    name: 'BoardGameTicTacToe',
+    name: 'board-game-tic-tac-toe',
+    key: 'BoardGameTicTacToe',
     width: 24,
     height: 24,
     attributes: undefined,

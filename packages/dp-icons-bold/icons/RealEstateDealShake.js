@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateDealShake',
+    name: 'real-estate-deal-shake',
+    key: 'RealEstateDealShake',
     width: 24,
     height: 24,
     attributes: undefined,

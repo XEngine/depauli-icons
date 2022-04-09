@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileAac1',
+    name: 'audio-file-aac-1',
+    key: 'AudioFileAac1',
     width: 24,
     height: 24,
     attributes: undefined,

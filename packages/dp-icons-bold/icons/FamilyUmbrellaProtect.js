@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyUmbrellaProtect',
+    name: 'family-umbrella-protect',
+    key: 'FamilyUmbrellaProtect',
     width: 24,
     height: 24,
     attributes: undefined,

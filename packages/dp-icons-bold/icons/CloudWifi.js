@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudWifi',
+    name: 'cloud-wifi',
+    key: 'CloudWifi',
     width: 24,
     height: 24,
     attributes: undefined,

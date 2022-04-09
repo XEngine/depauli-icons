@@ -1,5 +1,6 @@
 export default {
-    name: 'Equalizer1',
+    name: 'equalizer-1',
+    key: 'Equalizer1',
     width: 24,
     height: 24,
     attributes: undefined,

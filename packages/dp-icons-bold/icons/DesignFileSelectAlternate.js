@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileSelectAlternate',
+    name: 'design-file-select-alternate',
+    key: 'DesignFileSelectAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

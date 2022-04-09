@@ -1,5 +1,6 @@
 export default {
-    name: 'TagEuro',
+    name: 'tag-euro',
+    key: 'TagEuro',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingWithdraw',
+    name: 'accounting-withdraw',
+    key: 'AccountingWithdraw',
     width: 24,
     height: 24,
     attributes: undefined,

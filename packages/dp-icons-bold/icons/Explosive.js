@@ -1,5 +1,6 @@
 export default {
-    name: 'Explosive',
+    name: 'explosive',
+    key: 'Explosive',
     width: 24,
     height: 24,
     attributes: undefined,

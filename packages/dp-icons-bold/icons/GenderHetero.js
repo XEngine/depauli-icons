@@ -1,5 +1,6 @@
 export default {
-    name: 'GenderHetero',
+    name: 'gender-hetero',
+    key: 'GenderHetero',
     width: 24,
     height: 24,
     attributes: undefined,

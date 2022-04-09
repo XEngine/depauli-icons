@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionIslam',
+    name: 'religion-islam',
+    key: 'ReligionIslam',
     width: 24,
     height: 24,
     attributes: undefined,

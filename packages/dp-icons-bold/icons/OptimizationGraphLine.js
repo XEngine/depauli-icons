@@ -1,5 +1,6 @@
 export default {
-    name: 'OptimizationGraphLine',
+    name: 'optimization-graph-line',
+    key: 'OptimizationGraphLine',
     width: 24,
     height: 24,
     attributes: undefined,

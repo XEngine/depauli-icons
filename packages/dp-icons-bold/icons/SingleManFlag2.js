@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManFlag2',
+    name: 'single-man-flag-2',
+    key: 'SingleManFlag2',
     width: 24,
     height: 24,
     attributes: undefined,

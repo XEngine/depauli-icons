@@ -1,5 +1,6 @@
 export default {
-    name: 'BreadBaguette',
+    name: 'bread-baguette',
+    key: 'BreadBaguette',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

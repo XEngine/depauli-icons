@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraGlasses',
+    name: 'camera-glasses',
+    key: 'CameraGlasses',
     width: 24,
     height: 24,
     attributes: undefined,

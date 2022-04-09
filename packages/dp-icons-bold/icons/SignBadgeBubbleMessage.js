@@ -1,5 +1,6 @@
 export default {
-    name: 'SignBadgeBubbleMessage',
+    name: 'sign-badge-bubble-message',
+    key: 'SignBadgeBubbleMessage',
     width: 24,
     height: 24,
     attributes: undefined,

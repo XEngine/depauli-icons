@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveHeartHandsHold2',
+    name: 'love-heart-hands-hold-2',
+    key: 'LoveHeartHandsHold2',
     width: 24,
     height: 24,
     attributes: undefined,

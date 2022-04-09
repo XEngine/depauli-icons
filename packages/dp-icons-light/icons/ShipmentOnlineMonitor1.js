@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentOnlineMonitor1',
+    name: 'shipment-online-monitor-1',
+    key: 'ShipmentOnlineMonitor1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

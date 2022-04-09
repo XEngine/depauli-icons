@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinTarget',
+    name: 'style-one-pin-target',
+    key: 'StyleOnePinTarget',
     width: 24,
     height: 24,
     attributes: undefined,

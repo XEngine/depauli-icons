@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistDownload',
+    name: 'playlist-download',
+    key: 'PlaylistDownload',
     width: 24,
     height: 24,
     attributes: undefined,

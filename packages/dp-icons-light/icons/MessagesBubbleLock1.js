@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleLock1',
+    name: 'messages-bubble-lock-1',
+    key: 'MessagesBubbleLock1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

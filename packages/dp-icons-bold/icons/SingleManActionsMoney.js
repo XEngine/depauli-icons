@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsMoney',
+    name: 'single-man-actions-money',
+    key: 'SingleManActionsMoney',
     width: 24,
     height: 24,
     attributes: undefined,

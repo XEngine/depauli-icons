@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryAfrica',
+    name: 'history-africa',
+    key: 'HistoryAfrica',
     width: 24,
     height: 24,
     attributes: undefined,

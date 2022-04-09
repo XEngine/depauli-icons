@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneDial',
+    name: 'phone-dial',
+    key: 'PhoneDial',
     width: 24,
     height: 24,
     attributes: undefined,

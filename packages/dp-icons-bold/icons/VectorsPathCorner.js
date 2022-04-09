@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsPathCorner',
+    name: 'vectors-path-corner',
+    key: 'VectorsPathCorner',
     width: 24,
     height: 24,
     attributes: undefined,

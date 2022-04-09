@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinTomb',
+    name: 'style-three-pin-tomb',
+    key: 'StyleThreePinTomb',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

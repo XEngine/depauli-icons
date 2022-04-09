@@ -1,5 +1,6 @@
 export default {
-    name: 'Robot1',
+    name: 'robot-1',
+    key: 'Robot1',
     width: 24,
     height: 24,
     attributes: undefined,

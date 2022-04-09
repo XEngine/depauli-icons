@@ -1,5 +1,6 @@
 export default {
-    name: 'CeilingLampDouble',
+    name: 'ceiling-lamp-double',
+    key: 'CeilingLampDouble',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationTablet',
+    name: 'monetization-tablet',
+    key: 'MonetizationTablet',
     width: 24,
     height: 24,
     attributes: undefined,

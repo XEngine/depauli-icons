@@ -1,5 +1,6 @@
 export default {
-    name: 'HelpQuestionNetwork',
+    name: 'help-question-network',
+    key: 'HelpQuestionNetwork',
     width: 24,
     height: 24,
     attributes: undefined,

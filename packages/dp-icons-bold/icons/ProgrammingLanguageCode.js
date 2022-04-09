@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingLanguageCode',
+    name: 'programming-language-code',
+    key: 'ProgrammingLanguageCode',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'IrisScanApproved1',
+    name: 'iris-scan-approved-1',
+    key: 'IrisScanApproved1',
     width: 24,
     height: 24,
     attributes: undefined,

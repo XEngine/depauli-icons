@@ -1,5 +1,6 @@
 export default {
-    name: 'UnderwearBoxers',
+    name: 'underwear-boxers',
+    key: 'UnderwearBoxers',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

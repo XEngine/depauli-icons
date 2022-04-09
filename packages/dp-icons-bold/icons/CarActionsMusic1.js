@@ -1,5 +1,6 @@
 export default {
-    name: 'CarActionsMusic1',
+    name: 'car-actions-music-1',
+    key: 'CarActionsMusic1',
     width: 24,
     height: 24,
     attributes: undefined,

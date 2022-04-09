@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicBookNote',
+    name: 'music-book-note',
+    key: 'MusicBookNote',
     width: 24,
     height: 24,
     attributes: undefined,

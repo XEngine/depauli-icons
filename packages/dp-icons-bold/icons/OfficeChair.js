@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeChair',
+    name: 'office-chair',
+    key: 'OfficeChair',
     width: 24,
     height: 24,
     attributes: undefined,

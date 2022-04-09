@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinNotes',
+    name: 'style-three-pin-notes',
+    key: 'StyleThreePinNotes',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FaceId2',
+    name: 'face-id-2',
+    key: 'FaceId2',
     width: 24,
     height: 24,
     attributes: undefined,

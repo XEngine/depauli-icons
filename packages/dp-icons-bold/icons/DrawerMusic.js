@@ -1,5 +1,6 @@
 export default {
-    name: 'DrawerMusic',
+    name: 'drawer-music',
+    key: 'DrawerMusic',
     width: 24,
     height: 24,
     attributes: undefined,

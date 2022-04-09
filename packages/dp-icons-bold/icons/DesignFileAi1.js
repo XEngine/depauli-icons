@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileAi1',
+    name: 'design-file-ai-1',
+    key: 'DesignFileAi1',
     width: 24,
     height: 24,
     attributes: undefined,

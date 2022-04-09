@@ -1,5 +1,6 @@
 export default {
-    name: 'Camera2',
+    name: 'camera-2',
+    key: 'Camera2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'GridPerspective',
+    name: 'grid-perspective',
+    key: 'GridPerspective',
     width: 24,
     height: 24,
     attributes: undefined,

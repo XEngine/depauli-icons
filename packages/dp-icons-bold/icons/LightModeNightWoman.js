@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeNightWoman',
+    name: 'light-mode-night-woman',
+    key: 'LightModeNightWoman',
     width: 24,
     height: 24,
     attributes: undefined,

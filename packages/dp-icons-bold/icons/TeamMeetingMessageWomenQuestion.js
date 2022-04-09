@@ -1,5 +1,6 @@
 export default {
-    name: 'TeamMeetingMessageWomenQuestion',
+    name: 'team-meeting-message-women-question',
+    key: 'TeamMeetingMessageWomenQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

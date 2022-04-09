@@ -1,5 +1,6 @@
 export default {
-    name: 'SignBadgeBadge1',
+    name: 'sign-badge-badge-1',
+    key: 'SignBadgeBadge1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LensCircle',
+    name: 'lens-circle',
+    key: 'LensCircle',
     width: 24,
     height: 24,
     attributes: undefined,

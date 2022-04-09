@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentQuillPen',
+    name: 'content-quill-pen',
+    key: 'ContentQuillPen',
     width: 24,
     height: 24,
     attributes: undefined,

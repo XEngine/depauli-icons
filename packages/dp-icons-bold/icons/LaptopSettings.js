@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopSettings',
+    name: 'laptop-settings',
+    key: 'LaptopSettings',
     width: 24,
     height: 24,
     attributes: undefined,

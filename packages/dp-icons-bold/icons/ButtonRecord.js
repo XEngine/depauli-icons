@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonRecord',
+    name: 'button-record',
+    key: 'ButtonRecord',
     width: 24,
     height: 24,
     attributes: undefined,

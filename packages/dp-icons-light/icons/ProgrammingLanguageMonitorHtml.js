@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingLanguageMonitorHtml',
+    name: 'programming-language-monitor-html',
+    key: 'ProgrammingLanguageMonitorHtml',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

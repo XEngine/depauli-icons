@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareText',
+    name: 'smart-watch-square-text',
+    key: 'SmartWatchSquareText',
     width: 24,
     height: 24,
     attributes: undefined,

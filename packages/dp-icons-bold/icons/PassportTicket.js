@@ -1,5 +1,6 @@
 export default {
-    name: 'PassportTicket',
+    name: 'passport-ticket',
+    key: 'PassportTicket',
     width: 24,
     height: 24,
     attributes: undefined,

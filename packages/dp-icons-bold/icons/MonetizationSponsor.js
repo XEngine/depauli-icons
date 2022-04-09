@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationSponsor',
+    name: 'monetization-sponsor',
+    key: 'MonetizationSponsor',
     width: 24,
     height: 24,
     attributes: undefined,

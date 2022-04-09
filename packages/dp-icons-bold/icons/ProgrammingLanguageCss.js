@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingLanguageCss',
+    name: 'programming-language-css',
+    key: 'ProgrammingLanguageCss',
     width: 24,
     height: 24,
     attributes: undefined,

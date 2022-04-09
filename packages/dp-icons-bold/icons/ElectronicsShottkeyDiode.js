@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectronicsShottkeyDiode',
+    name: 'electronics-shottkey-diode',
+    key: 'ElectronicsShottkeyDiode',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryTriangle',
+    name: 'history-triangle',
+    key: 'HistoryTriangle',
     width: 24,
     height: 24,
     attributes: undefined,

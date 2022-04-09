@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextHome',
+    name: 'common-file-text-home',
+    key: 'CommonFileTextHome',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

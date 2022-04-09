@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageDocumentGif1',
+    name: 'image-document-gif-1',
+    key: 'ImageDocumentGif1',
     width: 24,
     height: 24,
     attributes: undefined,

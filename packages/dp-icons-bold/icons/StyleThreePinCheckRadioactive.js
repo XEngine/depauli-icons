@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCheckRadioactive',
+    name: 'style-three-pin-check-radioactive',
+    key: 'StyleThreePinCheckRadioactive',
     width: 24,
     height: 24,
     attributes: undefined,

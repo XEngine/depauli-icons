@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaMrWong',
+    name: 'social-media-mr-wong',
+    key: 'SocialMediaMrWong',
     width: 24,
     height: 24,
     attributes: undefined,

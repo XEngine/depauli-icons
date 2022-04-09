@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralMegaphone',
+    name: 'single-neutral-megaphone',
+    key: 'SingleNeutralMegaphone',
     width: 24,
     height: 24,
     attributes: undefined,

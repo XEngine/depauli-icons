@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsMachete',
+    name: 'outdoors-machete',
+    key: 'OutdoorsMachete',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleDumbbellAlternate',
+    name: 'smart-watch-circle-dumbbell-alternate',
+    key: 'SmartWatchCircleDumbbellAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

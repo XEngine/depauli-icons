@@ -1,5 +1,6 @@
 export default {
-    name: 'DatingChatMan',
+    name: 'dating-chat-man',
+    key: 'DatingChatMan',
     width: 24,
     height: 24,
     attributes: undefined,

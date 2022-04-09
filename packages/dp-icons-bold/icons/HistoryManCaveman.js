@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryManCaveman',
+    name: 'history-man-caveman',
+    key: 'HistoryManCaveman',
     width: 24,
     height: 24,
     attributes: undefined,

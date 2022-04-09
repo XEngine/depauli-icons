@@ -1,5 +1,6 @@
 export default {
-    name: 'HeadphonesCustomerSupportHuman1',
+    name: 'headphones-customer-support-human-1',
+    key: 'HeadphonesCustomerSupportHuman1',
     width: 24,
     height: 24,
     attributes: undefined,

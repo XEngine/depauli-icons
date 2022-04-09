@@ -1,5 +1,6 @@
 export default {
-    name: 'AnimalPrintBird3',
+    name: 'animal-print-bird-3',
+    key: 'AnimalPrintBird3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

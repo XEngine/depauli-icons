@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileModuleEdit',
+    name: 'office-file-module-edit',
+    key: 'OfficeFileModuleEdit',
     width: 24,
     height: 24,
     attributes: undefined,

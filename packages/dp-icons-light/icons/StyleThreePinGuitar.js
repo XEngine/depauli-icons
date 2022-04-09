@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinGuitar',
+    name: 'style-three-pin-guitar',
+    key: 'StyleThreePinGuitar',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

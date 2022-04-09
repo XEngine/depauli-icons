@@ -1,5 +1,6 @@
 export default {
-    name: 'TravelManLuggage',
+    name: 'travel-man-luggage',
+    key: 'TravelManLuggage',
     width: 24,
     height: 24,
     attributes: undefined,

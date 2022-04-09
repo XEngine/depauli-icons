@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkUsers',
+    name: 'network-users',
+    key: 'NetworkUsers',
     width: 24,
     height: 24,
     attributes: undefined,

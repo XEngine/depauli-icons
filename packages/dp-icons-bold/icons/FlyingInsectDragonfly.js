@@ -1,5 +1,6 @@
 export default {
-    name: 'FlyingInsectDragonfly',
+    name: 'flying-insect-dragonfly',
+    key: 'FlyingInsectDragonfly',
     width: 24,
     height: 24,
     attributes: undefined,

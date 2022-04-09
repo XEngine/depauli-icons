@@ -1,5 +1,6 @@
 export default {
-    name: 'ShowHatCards',
+    name: 'show-hat-cards',
+    key: 'ShowHatCards',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

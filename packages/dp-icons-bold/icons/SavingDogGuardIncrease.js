@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingDogGuardIncrease',
+    name: 'saving-dog-guard-increase',
+    key: 'SavingDogGuardIncrease',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionHouseRibbon',
+    name: 'real-estate-action-house-ribbon',
+    key: 'RealEstateActionHouseRibbon',
     width: 24,
     height: 24,
     attributes: undefined,

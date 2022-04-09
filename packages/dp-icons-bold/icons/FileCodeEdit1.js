@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeEdit1',
+    name: 'file-code-edit-1',
+    key: 'FileCodeEdit1',
     width: 24,
     height: 24,
     attributes: undefined,

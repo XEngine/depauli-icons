@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinCross',
+    name: 'style-two-pin-cross',
+    key: 'StyleTwoPinCross',
     width: 24,
     height: 24,
     attributes: undefined,

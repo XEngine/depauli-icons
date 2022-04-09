@@ -1,5 +1,6 @@
 export default {
-    name: 'SqueezeSides',
+    name: 'squeeze-sides',
+    key: 'SqueezeSides',
     width: 24,
     height: 24,
     attributes: undefined,

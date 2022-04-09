@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionGrave',
+    name: 'religion-grave',
+    key: 'ReligionGrave',
     width: 24,
     height: 24,
     attributes: undefined,

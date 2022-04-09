@@ -1,5 +1,6 @@
 export default {
-    name: 'HarddriveUpload2',
+    name: 'harddrive-upload-2',
+    key: 'HarddriveUpload2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinWaterScooter1',
+    name: 'style-three-pin-water-scooter-1',
+    key: 'StyleThreePinWaterScooter1',
     width: 24,
     height: 24,
     attributes: undefined,

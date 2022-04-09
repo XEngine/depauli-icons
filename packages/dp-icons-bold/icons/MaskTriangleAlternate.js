@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskTriangleAlternate',
+    name: 'mask-triangle-alternate',
+    key: 'MaskTriangleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

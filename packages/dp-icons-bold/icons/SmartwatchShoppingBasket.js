@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartwatchShoppingBasket',
+    name: 'smartwatch-shopping-basket',
+    key: 'SmartwatchShoppingBasket',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DivingDiver',
+    name: 'diving-diver',
+    key: 'DivingDiver',
     width: 24,
     height: 24,
     attributes: undefined,

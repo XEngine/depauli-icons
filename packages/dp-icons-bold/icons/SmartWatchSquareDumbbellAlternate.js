@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareDumbbellAlternate',
+    name: 'smart-watch-square-dumbbell-alternate',
+    key: 'SmartWatchSquareDumbbellAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

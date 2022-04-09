@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessBicycle',
+    name: 'fitness-bicycle',
+    key: 'FitnessBicycle',
     width: 24,
     height: 24,
     attributes: undefined,

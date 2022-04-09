@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchWrist',
+    name: 'smart-watch-wrist',
+    key: 'SmartWatchWrist',
     width: 24,
     height: 24,
     attributes: undefined,

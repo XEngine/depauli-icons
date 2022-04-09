@@ -1,5 +1,6 @@
 export default {
-    name: 'Redo',
+    name: 'redo',
+    key: 'Redo',
     width: 24,
     height: 24,
     attributes: undefined,

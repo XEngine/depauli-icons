@@ -1,5 +1,6 @@
 export default {
-    name: 'PowerAdapter',
+    name: 'power-adapter',
+    key: 'PowerAdapter',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

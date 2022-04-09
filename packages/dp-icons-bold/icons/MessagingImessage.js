@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingImessage',
+    name: 'messaging-imessage',
+    key: 'MessagingImessage',
     width: 24,
     height: 24,
     attributes: undefined,

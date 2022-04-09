@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyEuroDollarExchange',
+    name: 'currency-euro-dollar-exchange',
+    key: 'CurrencyEuroDollarExchange',
     width: 24,
     height: 24,
     attributes: undefined,

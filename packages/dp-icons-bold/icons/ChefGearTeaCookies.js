@@ -1,5 +1,6 @@
 export default {
-    name: 'ChefGearTeaCookies',
+    name: 'chef-gear-tea-cookies',
+    key: 'ChefGearTeaCookies',
     width: 24,
     height: 24,
     attributes: undefined,

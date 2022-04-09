@@ -1,5 +1,6 @@
 export default {
-    name: 'Cog1',
+    name: 'cog-1',
+    key: 'Cog1',
     width: 24,
     height: 24,
     attributes: undefined,

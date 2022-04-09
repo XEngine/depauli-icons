@@ -1,5 +1,6 @@
 export default {
-    name: 'MobileShoppingCartExchange',
+    name: 'mobile-shopping-cart-exchange',
+    key: 'MobileShoppingCartExchange',
     width: 24,
     height: 24,
     attributes: undefined,

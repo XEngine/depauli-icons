@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerSearch',
+    name: 'server-search',
+    key: 'ServerSearch',
     width: 24,
     height: 24,
     attributes: undefined,

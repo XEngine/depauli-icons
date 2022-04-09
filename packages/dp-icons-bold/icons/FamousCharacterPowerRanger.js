@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterPowerRanger',
+    name: 'famous-character-power-ranger',
+    key: 'FamousCharacterPowerRanger',
     width: 24,
     height: 24,
     attributes: undefined,

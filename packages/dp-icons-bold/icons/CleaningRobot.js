@@ -1,5 +1,6 @@
 export default {
-    name: 'CleaningRobot',
+    name: 'cleaning-robot',
+    key: 'CleaningRobot',
     width: 24,
     height: 24,
     attributes: undefined,

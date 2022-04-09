@@ -1,5 +1,6 @@
 export default {
-    name: 'AllowancesNoSkates',
+    name: 'allowances-no-skates',
+    key: 'AllowancesNoSkates',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoEditCameraArchive',
+    name: 'video-edit-camera-archive',
+    key: 'VideoEditCameraArchive',
     width: 24,
     height: 24,
     attributes: undefined,

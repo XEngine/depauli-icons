@@ -1,5 +1,6 @@
 export default {
-    name: 'PeopleManBeanie1',
+    name: 'people-man-beanie-1',
+    key: 'PeopleManBeanie1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

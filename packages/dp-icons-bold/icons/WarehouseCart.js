@@ -1,5 +1,6 @@
 export default {
-    name: 'WarehouseCart',
+    name: 'warehouse-cart',
+    key: 'WarehouseCart',
     width: 24,
     height: 24,
     attributes: undefined,

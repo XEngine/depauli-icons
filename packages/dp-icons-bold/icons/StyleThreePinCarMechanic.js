@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCarMechanic',
+    name: 'style-three-pin-car-mechanic',
+    key: 'StyleThreePinCarMechanic',
     width: 24,
     height: 24,
     attributes: undefined,

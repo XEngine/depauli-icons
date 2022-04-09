@@ -1,5 +1,6 @@
 export default {
-    name: 'DatingLipstick',
+    name: 'dating-lipstick',
+    key: 'DatingLipstick',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileTextImageAlternate',
+    name: 'design-file-text-image-alternate',
+    key: 'DesignFileTextImageAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

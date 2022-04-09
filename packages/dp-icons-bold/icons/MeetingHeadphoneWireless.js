@@ -1,5 +1,6 @@
 export default {
-    name: 'MeetingHeadphoneWireless',
+    name: 'meeting-headphone-wireless',
+    key: 'MeetingHeadphoneWireless',
     width: 24,
     height: 24,
     attributes: undefined,

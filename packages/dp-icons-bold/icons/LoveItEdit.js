@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItEdit',
+    name: 'love-it-edit',
+    key: 'LoveItEdit',
     width: 24,
     height: 24,
     attributes: undefined,

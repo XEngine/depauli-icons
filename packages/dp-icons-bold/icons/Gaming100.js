@@ -1,5 +1,6 @@
 export default {
-    name: 'Gaming100',
+    name: 'gaming-100',
+    key: 'Gaming100',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ChecklistAlternate',
+    name: 'checklist-alternate',
+    key: 'ChecklistAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

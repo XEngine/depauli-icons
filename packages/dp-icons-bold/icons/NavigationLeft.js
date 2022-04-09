@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationLeft',
+    name: 'navigation-left',
+    key: 'NavigationLeft',
     width: 24,
     height: 24,
     attributes: undefined,

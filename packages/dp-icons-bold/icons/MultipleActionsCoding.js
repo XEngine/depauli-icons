@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsCoding',
+    name: 'multiple-actions-coding',
+    key: 'MultipleActionsCoding',
     width: 24,
     height: 24,
     attributes: undefined,

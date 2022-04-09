@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleAlternate',
+    name: 'messages-bubble-alternate',
+    key: 'MessagesBubbleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

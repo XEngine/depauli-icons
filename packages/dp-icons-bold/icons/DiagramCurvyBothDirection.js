@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramCurvyBothDirection',
+    name: 'diagram-curvy-both-direction',
+    key: 'DiagramCurvyBothDirection',
     width: 24,
     height: 24,
     attributes: undefined,

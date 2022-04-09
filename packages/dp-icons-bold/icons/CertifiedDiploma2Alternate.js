@@ -1,5 +1,6 @@
 export default {
-    name: 'CertifiedDiploma2Alternate',
+    name: 'certified-diploma-2-alternate',
+    key: 'CertifiedDiploma2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

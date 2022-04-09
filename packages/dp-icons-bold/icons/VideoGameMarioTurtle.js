@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameMarioTurtle',
+    name: 'video-game-mario-turtle',
+    key: 'VideoGameMarioTurtle',
     width: 24,
     height: 24,
     attributes: undefined,

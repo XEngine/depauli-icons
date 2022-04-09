@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFileGraph',
+    name: 'office-file-graph',
+    key: 'OfficeFileGraph',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LivestockRam2',
+    name: 'livestock-ram-2',
+    key: 'LivestockRam2',
     width: 24,
     height: 24,
     attributes: undefined,

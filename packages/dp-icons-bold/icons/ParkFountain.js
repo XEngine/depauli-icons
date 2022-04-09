@@ -1,5 +1,6 @@
 export default {
-    name: 'ParkFountain',
+    name: 'park-fountain',
+    key: 'ParkFountain',
     width: 24,
     height: 24,
     attributes: undefined,

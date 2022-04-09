@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignShapeMonitor',
+    name: 'design-shape-monitor',
+    key: 'DesignShapeMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

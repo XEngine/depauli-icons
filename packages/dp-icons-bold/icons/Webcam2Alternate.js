@@ -1,5 +1,6 @@
 export default {
-    name: 'Webcam2Alternate',
+    name: 'webcam-2-alternate',
+    key: 'Webcam2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningGlove',
+    name: 'gardening-glove',
+    key: 'GardeningGlove',
     width: 24,
     height: 24,
     attributes: undefined,

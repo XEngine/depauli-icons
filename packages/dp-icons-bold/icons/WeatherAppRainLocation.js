@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherAppRainLocation',
+    name: 'weather-app-rain-location',
+    key: 'WeatherAppRainLocation',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalPersonnelHat',
+    name: 'medical-personnel-hat',
+    key: 'MedicalPersonnelHat',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ConcertRock1',
+    name: 'concert-rock-1',
+    key: 'ConcertRock1',
     width: 24,
     height: 24,
     attributes: undefined,

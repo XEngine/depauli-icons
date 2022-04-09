@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationSpeaker',
+    name: 'presentation-speaker',
+    key: 'PresentationSpeaker',
     width: 24,
     height: 24,
     attributes: undefined,

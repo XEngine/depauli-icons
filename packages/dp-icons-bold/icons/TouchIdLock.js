@@ -1,5 +1,6 @@
 export default {
-    name: 'TouchIdLock',
+    name: 'touch-id-lock',
+    key: 'TouchIdLock',
     width: 24,
     height: 24,
     attributes: undefined,

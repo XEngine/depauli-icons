@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsShare2',
+    name: 'multiple-actions-share-2',
+    key: 'MultipleActionsShare2',
     width: 24,
     height: 24,
     attributes: undefined,

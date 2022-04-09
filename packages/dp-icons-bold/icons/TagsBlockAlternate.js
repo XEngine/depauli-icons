@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsBlockAlternate',
+    name: 'tags-block-alternate',
+    key: 'TagsBlockAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

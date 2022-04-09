@@ -1,5 +1,6 @@
 export default {
-    name: 'CloseQuote',
+    name: 'close-quote',
+    key: 'CloseQuote',
     width: 24,
     height: 24,
     attributes: undefined,

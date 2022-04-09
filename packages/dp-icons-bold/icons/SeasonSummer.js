@@ -1,5 +1,6 @@
 export default {
-    name: 'SeasonSummer',
+    name: 'season-summer',
+    key: 'SeasonSummer',
     width: 24,
     height: 24,
     attributes: undefined,

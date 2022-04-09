@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseFlashAlternate',
+    name: 'database-flash-alternate',
+    key: 'DatabaseFlashAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

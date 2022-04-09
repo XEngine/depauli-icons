@@ -1,5 +1,6 @@
 export default {
-    name: 'Xml',
+    name: 'xml',
+    key: 'Xml',
     width: 24,
     height: 24,
     attributes: undefined,

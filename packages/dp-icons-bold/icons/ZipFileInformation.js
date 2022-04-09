@@ -1,5 +1,6 @@
 export default {
-    name: 'ZipFileInformation',
+    name: 'zip-file-information',
+    key: 'ZipFileInformation',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernWeaponTankMachineGun',
+    name: 'modern-weapon-tank-machine-gun',
+    key: 'ModernWeaponTankMachineGun',
     width: 24,
     height: 24,
     attributes: undefined,

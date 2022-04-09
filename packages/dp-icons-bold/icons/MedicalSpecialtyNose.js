@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyNose',
+    name: 'medical-specialty-nose',
+    key: 'MedicalSpecialtyNose',
     width: 24,
     height: 24,
     attributes: undefined,

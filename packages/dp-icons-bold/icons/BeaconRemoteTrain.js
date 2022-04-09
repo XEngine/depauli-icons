@@ -1,5 +1,6 @@
 export default {
-    name: 'BeaconRemoteTrain',
+    name: 'beacon-remote-train',
+    key: 'BeaconRemoteTrain',
     width: 24,
     height: 24,
     attributes: undefined,

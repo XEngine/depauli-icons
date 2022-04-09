@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingBill',
+    name: 'accounting-bill',
+    key: 'AccountingBill',
     width: 24,
     height: 24,
     attributes: undefined,

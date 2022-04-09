@@ -1,5 +1,6 @@
 export default {
-    name: 'BabyStork',
+    name: 'baby-stork',
+    key: 'BabyStork',
     width: 24,
     height: 24,
     attributes: undefined,

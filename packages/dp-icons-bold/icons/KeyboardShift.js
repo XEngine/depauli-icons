@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardShift',
+    name: 'keyboard-shift',
+    key: 'KeyboardShift',
     width: 24,
     height: 24,
     attributes: undefined,

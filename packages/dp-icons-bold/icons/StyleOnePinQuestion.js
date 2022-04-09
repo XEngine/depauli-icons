@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinQuestion',
+    name: 'style-one-pin-question',
+    key: 'StyleOnePinQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CellBorderBottom',
+    name: 'cell-border-bottom',
+    key: 'CellBorderBottom',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherNightSnowThunder',
+    name: 'weather-night-snow-thunder',
+    key: 'WeatherNightSnowThunder',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

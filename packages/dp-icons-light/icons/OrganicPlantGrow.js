@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicPlantGrow',
+    name: 'organic-plant-grow',
+    key: 'OrganicPlantGrow',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

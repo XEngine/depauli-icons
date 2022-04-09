@@ -1,5 +1,6 @@
 export default {
-    name: 'VrUserBox',
+    name: 'vr-user-box',
+    key: 'VrUserBox',
     width: 24,
     height: 24,
     attributes: undefined,

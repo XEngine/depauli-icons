@@ -1,5 +1,6 @@
 export default {
-    name: 'SignalFlags1',
+    name: 'signal-flags-1',
+    key: 'SignalFlags1',
     width: 24,
     height: 24,
     attributes: undefined,

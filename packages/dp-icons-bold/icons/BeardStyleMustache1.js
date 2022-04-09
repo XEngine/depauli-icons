@@ -1,5 +1,6 @@
 export default {
-    name: 'BeardStyleMustache1',
+    name: 'beard-style-mustache-1',
+    key: 'BeardStyleMustache1',
     width: 24,
     height: 24,
     attributes: undefined,

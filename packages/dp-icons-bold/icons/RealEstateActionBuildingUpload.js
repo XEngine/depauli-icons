@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingUpload',
+    name: 'real-estate-action-building-upload',
+    key: 'RealEstateActionBuildingUpload',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'YogaBridge',
+    name: 'yoga-bridge',
+    key: 'YogaBridge',
     width: 24,
     height: 24,
     attributes: undefined,

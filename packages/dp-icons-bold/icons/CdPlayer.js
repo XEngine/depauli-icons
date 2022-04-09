@@ -1,5 +1,6 @@
 export default {
-    name: 'CdPlayer',
+    name: 'cd-player',
+    key: 'CdPlayer',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Lama',
+    name: 'lama',
+    key: 'Lama',
     width: 24,
     height: 24,
     attributes: undefined,

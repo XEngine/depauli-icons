@@ -1,5 +1,6 @@
 export default {
-    name: 'DesktopMonitorDownload',
+    name: 'desktop-monitor-download',
+    key: 'DesktopMonitorDownload',
     width: 24,
     height: 24,
     attributes: undefined,

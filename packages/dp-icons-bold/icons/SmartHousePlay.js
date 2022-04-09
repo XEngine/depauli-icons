@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartHousePlay',
+    name: 'smart-house-play',
+    key: 'SmartHousePlay',
     width: 24,
     height: 24,
     attributes: undefined,

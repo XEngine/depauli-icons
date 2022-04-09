@@ -1,5 +1,6 @@
 export default {
-    name: 'RoomServiceBringPlate',
+    name: 'room-service-bring-plate',
+    key: 'RoomServiceBringPlate',
     width: 24,
     height: 24,
     attributes: undefined,

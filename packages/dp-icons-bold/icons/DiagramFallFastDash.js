@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramFallFastDash',
+    name: 'diagram-fall-fast-dash',
+    key: 'DiagramFallFastDash',
     width: 24,
     height: 24,
     attributes: undefined,

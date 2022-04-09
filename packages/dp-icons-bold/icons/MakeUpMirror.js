@@ -1,5 +1,6 @@
 export default {
-    name: 'MakeUpMirror',
+    name: 'make-up-mirror',
+    key: 'MakeUpMirror',
     width: 24,
     height: 24,
     attributes: undefined,

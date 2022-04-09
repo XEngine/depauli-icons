@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkChandiBorobudur',
+    name: 'landmark-chandi-borobudur',
+    key: 'LandmarkChandiBorobudur',
     width: 24,
     height: 24,
     attributes: undefined,

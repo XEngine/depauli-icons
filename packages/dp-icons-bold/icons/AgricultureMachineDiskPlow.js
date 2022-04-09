@@ -1,5 +1,6 @@
 export default {
-    name: 'AgricultureMachineDiskPlow',
+    name: 'agriculture-machine-disk-plow',
+    key: 'AgricultureMachineDiskPlow',
     width: 24,
     height: 24,
     attributes: undefined,

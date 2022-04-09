@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationLeftCircle1Alternate',
+    name: 'navigation-left-circle-1-alternate',
+    key: 'NavigationLeftCircle1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

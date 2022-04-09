@@ -1,5 +1,6 @@
 export default {
-    name: 'FeedDailybooth',
+    name: 'feed-dailybooth',
+    key: 'FeedDailybooth',
     width: 24,
     height: 24,
     attributes: undefined,

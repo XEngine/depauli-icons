@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceMonitorKeyboardBasket',
+    name: 'e-commerce-monitor-keyboard-basket',
+    key: 'ECommerceMonitorKeyboardBasket',
     width: 24,
     height: 24,
     attributes: undefined,

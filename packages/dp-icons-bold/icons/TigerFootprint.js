@@ -1,5 +1,6 @@
 export default {
-    name: 'TigerFootprint',
+    name: 'tiger-footprint',
+    key: 'TigerFootprint',
     width: 24,
     height: 24,
     attributes: undefined,

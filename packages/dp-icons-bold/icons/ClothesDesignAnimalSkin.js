@@ -1,5 +1,6 @@
 export default {
-    name: 'ClothesDesignAnimalSkin',
+    name: 'clothes-design-animal-skin',
+    key: 'ClothesDesignAnimalSkin',
     width: 24,
     height: 24,
     attributes: undefined,

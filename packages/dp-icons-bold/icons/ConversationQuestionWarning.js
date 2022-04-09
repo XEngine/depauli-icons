@@ -1,5 +1,6 @@
 export default {
-    name: 'ConversationQuestionWarning',
+    name: 'conversation-question-warning',
+    key: 'ConversationQuestionWarning',
     width: 24,
     height: 24,
     attributes: undefined,

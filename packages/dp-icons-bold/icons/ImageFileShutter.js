@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileShutter',
+    name: 'image-file-shutter',
+    key: 'ImageFileShutter',
     width: 24,
     height: 24,
     attributes: undefined,

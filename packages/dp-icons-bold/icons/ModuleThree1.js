@@ -1,5 +1,6 @@
 export default {
-    name: 'ModuleThree1',
+    name: 'module-three-1',
+    key: 'ModuleThree1',
     width: 24,
     height: 24,
     attributes: undefined,

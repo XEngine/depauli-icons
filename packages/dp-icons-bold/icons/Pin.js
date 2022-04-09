@@ -1,5 +1,6 @@
 export default {
-    name: 'Pin',
+    name: 'pin',
+    key: 'Pin',
     width: 24,
     height: 24,
     attributes: undefined,

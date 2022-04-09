@@ -1,5 +1,6 @@
 export default {
-    name: 'SurveillanceLocation',
+    name: 'surveillance-location',
+    key: 'SurveillanceLocation',
     width: 24,
     height: 24,
     attributes: undefined,

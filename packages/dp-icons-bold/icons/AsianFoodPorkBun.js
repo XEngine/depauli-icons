@@ -1,5 +1,6 @@
 export default {
-    name: 'AsianFoodPorkBun',
+    name: 'asian-food-pork-bun',
+    key: 'AsianFoodPorkBun',
     width: 24,
     height: 24,
     attributes: undefined,

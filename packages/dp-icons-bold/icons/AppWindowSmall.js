@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowSmall',
+    name: 'app-window-small',
+    key: 'AppWindowSmall',
     width: 24,
     height: 24,
     attributes: undefined,

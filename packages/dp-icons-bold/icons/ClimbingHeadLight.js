@@ -1,5 +1,6 @@
 export default {
-    name: 'ClimbingHeadLight',
+    name: 'climbing-head-light',
+    key: 'ClimbingHeadLight',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ArchiveLocker',
+    name: 'archive-locker',
+    key: 'ArchiveLocker',
     width: 24,
     height: 24,
     attributes: undefined,

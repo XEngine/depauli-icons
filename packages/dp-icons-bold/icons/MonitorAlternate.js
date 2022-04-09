@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorAlternate',
+    name: 'monitor-alternate',
+    key: 'MonitorAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

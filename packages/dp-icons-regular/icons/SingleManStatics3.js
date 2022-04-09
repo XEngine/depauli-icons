@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManStatics3',
+    name: 'single-man-statics-3',
+    key: 'SingleManStatics3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignStopArrowAlternate',
+    name: 'road-sign-stop-arrow-alternate',
+    key: 'RoadSignStopArrowAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

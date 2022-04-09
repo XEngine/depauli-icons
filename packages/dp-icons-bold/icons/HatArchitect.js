@@ -1,5 +1,6 @@
 export default {
-    name: 'HatArchitect',
+    name: 'hat-architect',
+    key: 'HatArchitect',
     width: 24,
     height: 24,
     attributes: undefined,

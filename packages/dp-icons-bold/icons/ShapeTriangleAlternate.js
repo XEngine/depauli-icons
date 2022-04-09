@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapeTriangleAlternate',
+    name: 'shape-triangle-alternate',
+    key: 'ShapeTriangleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

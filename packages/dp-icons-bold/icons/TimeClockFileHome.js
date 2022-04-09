@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileHome',
+    name: 'time-clock-file-home',
+    key: 'TimeClockFileHome',
     width: 24,
     height: 24,
     attributes: undefined,

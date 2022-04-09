@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsBarsHorizontal',
+    name: 'analytics-bars-horizontal',
+    key: 'AnalyticsBarsHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

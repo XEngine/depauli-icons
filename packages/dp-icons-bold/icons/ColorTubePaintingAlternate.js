@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorTubePaintingAlternate',
+    name: 'color-tube-painting-alternate',
+    key: 'ColorTubePaintingAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

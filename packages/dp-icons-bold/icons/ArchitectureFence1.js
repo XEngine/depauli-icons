@@ -1,5 +1,6 @@
 export default {
-    name: 'ArchitectureFence1',
+    name: 'architecture-fence-1',
+    key: 'ArchitectureFence1',
     width: 24,
     height: 24,
     attributes: undefined,

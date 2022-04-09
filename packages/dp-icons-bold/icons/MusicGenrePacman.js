@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenrePacman',
+    name: 'music-genre-pacman',
+    key: 'MusicGenrePacman',
     width: 24,
     height: 24,
     attributes: undefined,

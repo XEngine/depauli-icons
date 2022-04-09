@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesModule',
+    name: 'notes-module',
+    key: 'NotesModule',
     width: 24,
     height: 24,
     attributes: undefined,

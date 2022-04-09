@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveItHandGive',
+    name: 'love-it-hand-give',
+    key: 'LoveItHandGive',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

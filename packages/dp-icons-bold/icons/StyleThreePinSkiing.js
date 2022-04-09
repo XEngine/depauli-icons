@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSkiing',
+    name: 'style-three-pin-skiing',
+    key: 'StyleThreePinSkiing',
     width: 24,
     height: 24,
     attributes: undefined,

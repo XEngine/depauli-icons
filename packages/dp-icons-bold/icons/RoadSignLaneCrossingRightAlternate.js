@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignLaneCrossingRightAlternate',
+    name: 'road-sign-lane-crossing-right-alternate',
+    key: 'RoadSignLaneCrossingRightAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

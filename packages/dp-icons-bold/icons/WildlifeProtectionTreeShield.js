@@ -1,5 +1,6 @@
 export default {
-    name: 'WildlifeProtectionTreeShield',
+    name: 'wildlife-protection-tree-shield',
+    key: 'WildlifeProtectionTreeShield',
     width: 24,
     height: 24,
     attributes: undefined,

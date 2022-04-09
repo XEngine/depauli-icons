@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBasketHandle1',
+    name: 'shopping-basket-handle-1',
+    key: 'ShoppingBasketHandle1',
     width: 24,
     height: 24,
     attributes: undefined,

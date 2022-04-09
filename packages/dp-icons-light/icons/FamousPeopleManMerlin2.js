@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousPeopleManMerlin2',
+    name: 'famous-people-man-merlin-2',
+    key: 'FamousPeopleManMerlin2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

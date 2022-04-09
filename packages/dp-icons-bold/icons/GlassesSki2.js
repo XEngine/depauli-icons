@@ -1,5 +1,6 @@
 export default {
-    name: 'GlassesSki2',
+    name: 'glasses-ski-2',
+    key: 'GlassesSki2',
     width: 24,
     height: 24,
     attributes: undefined,

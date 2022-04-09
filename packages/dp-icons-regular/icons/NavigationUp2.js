@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationUp2',
+    name: 'navigation-up-2',
+    key: 'NavigationUp2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

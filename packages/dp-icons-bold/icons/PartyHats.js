@@ -1,5 +1,6 @@
 export default {
-    name: 'PartyHats',
+    name: 'party-hats',
+    key: 'PartyHats',
     width: 24,
     height: 24,
     attributes: undefined,

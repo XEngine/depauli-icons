@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherCloudWind4',
+    name: 'weather-cloud-wind-4',
+    key: 'WeatherCloudWind4',
     width: 24,
     height: 24,
     attributes: undefined,

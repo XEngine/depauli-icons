@@ -1,5 +1,6 @@
 export default {
-    name: 'Heater1',
+    name: 'heater-1',
+    key: 'Heater1',
     width: 24,
     height: 24,
     attributes: undefined,

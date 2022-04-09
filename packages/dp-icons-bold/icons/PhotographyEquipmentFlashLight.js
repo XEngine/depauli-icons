@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotographyEquipmentFlashLight',
+    name: 'photography-equipment-flash-light',
+    key: 'PhotographyEquipmentFlashLight',
     width: 24,
     height: 24,
     attributes: undefined,

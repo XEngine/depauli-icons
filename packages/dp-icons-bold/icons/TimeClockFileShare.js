@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockFileShare',
+    name: 'time-clock-file-share',
+    key: 'TimeClockFileShare',
     width: 24,
     height: 24,
     attributes: undefined,

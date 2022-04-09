@@ -1,5 +1,6 @@
 export default {
-    name: 'PeoplemanMoustache2',
+    name: 'peopleman-moustache-2',
+    key: 'PeoplemanMoustache2',
     width: 24,
     height: 24,
     attributes: undefined,

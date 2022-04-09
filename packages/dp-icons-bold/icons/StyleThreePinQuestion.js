@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinQuestion',
+    name: 'style-three-pin-question',
+    key: 'StyleThreePinQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

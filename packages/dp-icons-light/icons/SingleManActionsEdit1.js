@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsEdit1',
+    name: 'single-man-actions-edit-1',
+    key: 'SingleManActionsEdit1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

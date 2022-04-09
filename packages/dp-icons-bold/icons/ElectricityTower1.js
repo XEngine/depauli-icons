@@ -1,5 +1,6 @@
 export default {
-    name: 'ElectricityTower1',
+    name: 'electricity-tower-1',
+    key: 'ElectricityTower1',
     width: 24,
     height: 24,
     attributes: undefined,

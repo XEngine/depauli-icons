@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowShare',
+    name: 'app-window-share',
+    key: 'AppWindowShare',
     width: 24,
     height: 24,
     attributes: undefined,

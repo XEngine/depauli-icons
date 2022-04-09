@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingStarBadge',
+    name: 'rating-star-badge',
+    key: 'RatingStarBadge',
     width: 24,
     height: 24,
     attributes: undefined,

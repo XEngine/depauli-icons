@@ -1,5 +1,6 @@
 export default {
-    name: 'PstyleTwoInCart',
+    name: 'pstyle-two-in-cart',
+    key: 'PstyleTwoInCart',
     width: 24,
     height: 24,
     attributes: undefined,

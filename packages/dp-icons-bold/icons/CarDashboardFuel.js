@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardFuel',
+    name: 'car-dashboard-fuel',
+    key: 'CarDashboardFuel',
     width: 24,
     height: 24,
     attributes: undefined,

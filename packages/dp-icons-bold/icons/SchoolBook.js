@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolBook',
+    name: 'school-book',
+    key: 'SchoolBook',
     width: 24,
     height: 24,
     attributes: undefined,

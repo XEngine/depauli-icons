@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFilePyramidAlternate',
+    name: 'design-file-pyramid-alternate',
+    key: 'DesignFilePyramidAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

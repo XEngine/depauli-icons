@@ -1,5 +1,6 @@
 export default {
-    name: 'GmoFoodChickenLeg',
+    name: 'gmo-food-chicken-leg',
+    key: 'GmoFoodChickenLeg',
     width: 24,
     height: 24,
     attributes: undefined,

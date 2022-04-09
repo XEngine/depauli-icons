@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleNeutral1',
+    name: 'multiple-neutral-1',
+    key: 'MultipleNeutral1',
     width: 24,
     height: 24,
     attributes: undefined,

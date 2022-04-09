@@ -1,5 +1,6 @@
 export default {
-    name: 'MovieCinemaClock',
+    name: 'movie-cinema-clock',
+    key: 'MovieCinemaClock',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSpeedLimit20_1Alternate',
+    name: 'road-sign-speed-limit-20-1-alternate',
+    key: 'RoadSignSpeedLimit20_1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

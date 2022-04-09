@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceTouchBuy',
+    name: 'e-commerce-touch-buy',
+    key: 'ECommerceTouchBuy',
     width: 24,
     height: 24,
     attributes: undefined,

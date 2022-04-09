@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasTreeOrnaments1',
+    name: 'christmas-tree-ornaments-1',
+    key: 'ChristmasTreeOrnaments1',
     width: 24,
     height: 24,
     attributes: undefined,

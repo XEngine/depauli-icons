@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingBagUserMessage',
+    name: 'shopping-bag-user-message',
+    key: 'ShoppingBagUserMessage',
     width: 24,
     height: 24,
     attributes: undefined,

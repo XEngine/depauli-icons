@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsPenNewAnchor',
+    name: 'vectors-pen-new-anchor',
+    key: 'VectorsPenNewAnchor',
     width: 24,
     height: 24,
     attributes: undefined,

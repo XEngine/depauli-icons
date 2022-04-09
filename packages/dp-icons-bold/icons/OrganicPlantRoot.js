@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicPlantRoot',
+    name: 'organic-plant-root',
+    key: 'OrganicPlantRoot',
     width: 24,
     height: 24,
     attributes: undefined,

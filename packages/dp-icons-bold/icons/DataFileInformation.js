@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileInformation',
+    name: 'data-file-information',
+    key: 'DataFileInformation',
     width: 24,
     height: 24,
     attributes: undefined,

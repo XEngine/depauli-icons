@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyCryingRainbowAlternate',
+    name: 'smiley-crying-rainbow-alternate',
+    key: 'SmileyCryingRainbowAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

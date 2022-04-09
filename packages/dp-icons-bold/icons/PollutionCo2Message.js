@@ -1,5 +1,6 @@
 export default {
-    name: 'PollutionCo2Message',
+    name: 'pollution-co2-message',
+    key: 'PollutionCo2Message',
     width: 24,
     height: 24,
     attributes: undefined,

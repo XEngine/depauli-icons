@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileSearch',
+    name: 'audio-file-search',
+    key: 'AudioFileSearch',
     width: 24,
     height: 24,
     attributes: undefined,

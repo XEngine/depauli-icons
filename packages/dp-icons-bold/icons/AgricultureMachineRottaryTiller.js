@@ -1,5 +1,6 @@
 export default {
-    name: 'AgricultureMachineRottaryTiller',
+    name: 'agriculture-machine-rottary-tiller',
+    key: 'AgricultureMachineRottaryTiller',
     width: 24,
     height: 24,
     attributes: undefined,

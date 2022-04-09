@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareUploadAlternate',
+    name: 'messages-bubble-square-upload-alternate',
+    key: 'MessagesBubbleSquareUploadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ExoticFoodOyster',
+    name: 'exotic-food-oyster',
+    key: 'ExoticFoodOyster',
     width: 24,
     height: 24,
     attributes: undefined,

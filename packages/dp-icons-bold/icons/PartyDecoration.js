@@ -1,5 +1,6 @@
 export default {
-    name: 'PartyDecoration',
+    name: 'party-decoration',
+    key: 'PartyDecoration',
     width: 24,
     height: 24,
     attributes: undefined,

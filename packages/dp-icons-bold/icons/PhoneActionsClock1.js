@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsClock1',
+    name: 'phone-actions-clock-1',
+    key: 'PhoneActionsClock1',
     width: 24,
     height: 24,
     attributes: undefined,

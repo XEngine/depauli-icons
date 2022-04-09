@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralMoney',
+    name: 'single-neutral-money',
+    key: 'SingleNeutralMoney',
     width: 24,
     height: 24,
     attributes: undefined,

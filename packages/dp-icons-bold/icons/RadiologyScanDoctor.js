@@ -1,5 +1,6 @@
 export default {
-    name: 'RadiologyScanDoctor',
+    name: 'radiology-scan-doctor',
+    key: 'RadiologyScanDoctor',
     width: 24,
     height: 24,
     attributes: undefined,

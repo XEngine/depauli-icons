@@ -1,5 +1,6 @@
 export default {
-    name: 'ProjectNotesBuildings',
+    name: 'project-notes-buildings',
+    key: 'ProjectNotesBuildings',
     width: 24,
     height: 24,
     attributes: undefined,

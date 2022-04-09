@@ -1,5 +1,6 @@
 export default {
-    name: 'VirtualBox',
+    name: 'virtual-box',
+    key: 'VirtualBox',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

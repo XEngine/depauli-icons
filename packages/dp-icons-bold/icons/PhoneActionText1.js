@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionText1',
+    name: 'phone-action-text-1',
+    key: 'PhoneActionText1',
     width: 24,
     height: 24,
     attributes: undefined,

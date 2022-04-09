@@ -1,5 +1,6 @@
 export default {
-    name: 'VrHeadphones',
+    name: 'vr-headphones',
+    key: 'VrHeadphones',
     width: 24,
     height: 24,
     attributes: undefined,

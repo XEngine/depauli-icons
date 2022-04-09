@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionHeart',
+    name: 'phone-action-heart',
+    key: 'PhoneActionHeart',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

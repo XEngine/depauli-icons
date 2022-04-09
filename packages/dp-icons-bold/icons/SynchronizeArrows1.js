@@ -1,5 +1,6 @@
 export default {
-    name: 'SynchronizeArrows1',
+    name: 'synchronize-arrows-1',
+    key: 'SynchronizeArrows1',
     width: 24,
     height: 24,
     attributes: undefined,

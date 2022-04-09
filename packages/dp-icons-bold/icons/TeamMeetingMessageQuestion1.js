@@ -1,5 +1,6 @@
 export default {
-    name: 'TeamMeetingMessageQuestion1',
+    name: 'team-meeting-message-question-1',
+    key: 'TeamMeetingMessageQuestion1',
     width: 24,
     height: 24,
     attributes: undefined,

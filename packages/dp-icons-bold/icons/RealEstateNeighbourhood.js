@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateNeighbourhood',
+    name: 'real-estate-neighbourhood',
+    key: 'RealEstateNeighbourhood',
     width: 24,
     height: 24,
     attributes: undefined,

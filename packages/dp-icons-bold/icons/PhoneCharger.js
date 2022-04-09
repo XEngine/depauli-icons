@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneCharger',
+    name: 'phone-charger',
+    key: 'PhoneCharger',
     width: 24,
     height: 24,
     attributes: undefined,

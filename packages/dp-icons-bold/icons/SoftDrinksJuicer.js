@@ -1,5 +1,6 @@
 export default {
-    name: 'SoftDrinksJuicer',
+    name: 'soft-drinks-juicer',
+    key: 'SoftDrinksJuicer',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionNavigationPin',
+    name: 'phone-action-navigation-pin',
+    key: 'PhoneActionNavigationPin',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

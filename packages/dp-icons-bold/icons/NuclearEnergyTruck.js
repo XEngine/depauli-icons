@@ -1,5 +1,6 @@
 export default {
-    name: 'NuclearEnergyTruck',
+    name: 'nuclear-energy-truck',
+    key: 'NuclearEnergyTruck',
     width: 24,
     height: 24,
     attributes: undefined,

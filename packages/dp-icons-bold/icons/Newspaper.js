@@ -1,5 +1,6 @@
 export default {
-    name: 'Newspaper',
+    name: 'newspaper',
+    key: 'Newspaper',
     width: 24,
     height: 24,
     attributes: undefined,

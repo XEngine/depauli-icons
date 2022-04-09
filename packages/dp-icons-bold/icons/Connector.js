@@ -1,5 +1,6 @@
 export default {
-    name: 'Connector',
+    name: 'connector',
+    key: 'Connector',
     width: 24,
     height: 24,
     attributes: undefined,

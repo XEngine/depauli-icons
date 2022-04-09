@@ -1,5 +1,6 @@
 export default {
-    name: 'AthleticsJavelinThrowing',
+    name: 'athletics-javelin-throwing',
+    key: 'AthleticsJavelinThrowing',
     width: 24,
     height: 24,
     attributes: undefined,

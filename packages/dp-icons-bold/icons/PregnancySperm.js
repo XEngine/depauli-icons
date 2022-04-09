@@ -1,5 +1,6 @@
 export default {
-    name: 'PregnancySperm',
+    name: 'pregnancy-sperm',
+    key: 'PregnancySperm',
     width: 24,
     height: 24,
     attributes: undefined,

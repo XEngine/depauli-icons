@@ -1,5 +1,6 @@
 export default {
-    name: 'DownloadSquare3',
+    name: 'download-square-3',
+    key: 'DownloadSquare3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysFurby',
+    name: 'toys-furby',
+    key: 'ToysFurby',
     width: 24,
     height: 24,
     attributes: undefined,

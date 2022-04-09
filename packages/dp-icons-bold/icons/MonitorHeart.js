@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorHeart',
+    name: 'monitor-heart',
+    key: 'MonitorHeart',
     width: 24,
     height: 24,
     attributes: undefined,

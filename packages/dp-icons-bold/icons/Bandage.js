@@ -1,5 +1,6 @@
 export default {
-    name: 'Bandage',
+    name: 'bandage',
+    key: 'Bandage',
     width: 24,
     height: 24,
     attributes: undefined,

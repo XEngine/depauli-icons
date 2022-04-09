@@ -1,5 +1,6 @@
 export default {
-    name: 'AlignLeft',
+    name: 'align-left',
+    key: 'AlignLeft',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SofaDoubleModern',
+    name: 'sofa-double-modern',
+    key: 'SofaDoubleModern',
     width: 24,
     height: 24,
     attributes: undefined,

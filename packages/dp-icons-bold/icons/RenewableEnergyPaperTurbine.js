@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergyPaperTurbine',
+    name: 'renewable-energy-paper-turbine',
+    key: 'RenewableEnergyPaperTurbine',
     width: 24,
     height: 24,
     attributes: undefined,

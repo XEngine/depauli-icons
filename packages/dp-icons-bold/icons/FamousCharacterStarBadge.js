@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterStarBadge',
+    name: 'famous-character-star-badge',
+    key: 'FamousCharacterStarBadge',
     width: 24,
     height: 24,
     attributes: undefined,

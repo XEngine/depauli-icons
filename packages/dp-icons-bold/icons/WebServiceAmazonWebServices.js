@@ -1,5 +1,6 @@
 export default {
-    name: 'WebServiceAmazonWebServices',
+    name: 'web-service-amazon-web-services',
+    key: 'WebServiceAmazonWebServices',
     width: 24,
     height: 24,
     attributes: undefined,

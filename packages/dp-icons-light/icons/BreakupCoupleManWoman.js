@@ -1,5 +1,6 @@
 export default {
-    name: 'BreakupCoupleManWoman',
+    name: 'breakup-couple-man-woman',
+    key: 'BreakupCoupleManWoman',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

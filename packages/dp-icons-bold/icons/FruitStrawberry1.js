@@ -1,5 +1,6 @@
 export default {
-    name: 'FruitStrawberry1',
+    name: 'fruit-strawberry-1',
+    key: 'FruitStrawberry1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'IrisScan2',
+    name: 'iris-scan-2',
+    key: 'IrisScan2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-width":"1.5"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'AdventureCarConvertible',
+    name: 'adventure-car-convertible',
+    key: 'AdventureCarConvertible',
     width: 24,
     height: 24,
     attributes: undefined,

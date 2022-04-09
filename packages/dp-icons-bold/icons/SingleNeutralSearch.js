@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralSearch',
+    name: 'single-neutral-search',
+    key: 'SingleNeutralSearch',
     width: 24,
     height: 24,
     attributes: undefined,

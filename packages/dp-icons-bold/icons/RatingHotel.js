@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingHotel',
+    name: 'rating-hotel',
+    key: 'RatingHotel',
     width: 24,
     height: 24,
     attributes: undefined,

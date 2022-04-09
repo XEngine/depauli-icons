@@ -1,5 +1,6 @@
 export default {
-    name: 'PetsPawHeart',
+    name: 'pets-paw-heart',
+    key: 'PetsPawHeart',
     width: 24,
     height: 24,
     attributes: undefined,

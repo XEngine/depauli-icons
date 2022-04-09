@@ -1,5 +1,6 @@
 export default {
-    name: 'CloudUpload',
+    name: 'cloud-upload',
+    key: 'CloudUpload',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicTree',
+    name: 'organic-tree',
+    key: 'OrganicTree',
     width: 24,
     height: 24,
     attributes: undefined,

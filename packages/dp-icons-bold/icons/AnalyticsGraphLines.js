@@ -1,5 +1,6 @@
 export default {
-    name: 'AnalyticsGraphLines',
+    name: 'analytics-graph-lines',
+    key: 'AnalyticsGraphLines',
     width: 24,
     height: 24,
     attributes: undefined,

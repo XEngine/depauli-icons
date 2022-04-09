@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinArrowDiagonal',
+    name: 'style-three-pin-arrow-diagonal',
+    key: 'StyleThreePinArrowDiagonal',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

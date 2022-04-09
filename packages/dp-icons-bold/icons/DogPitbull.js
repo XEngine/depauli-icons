@@ -1,5 +1,6 @@
 export default {
-    name: 'DogPitbull',
+    name: 'dog-pitbull',
+    key: 'DogPitbull',
     width: 24,
     height: 24,
     attributes: undefined,

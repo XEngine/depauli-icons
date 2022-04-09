@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseEntranceAlternate',
+    name: 'house-entrance-alternate',
+    key: 'HouseEntranceAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

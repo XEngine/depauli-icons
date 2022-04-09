@@ -1,5 +1,6 @@
 export default {
-    name: 'QuestionHelpCircle',
+    name: 'question-help-circle',
+    key: 'QuestionHelpCircle',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

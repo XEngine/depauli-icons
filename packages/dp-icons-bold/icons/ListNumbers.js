@@ -1,5 +1,6 @@
 export default {
-    name: 'ListNumbers',
+    name: 'list-numbers',
+    key: 'ListNumbers',
     width: 24,
     height: 24,
     attributes: undefined,

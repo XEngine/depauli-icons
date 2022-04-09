@@ -1,5 +1,6 @@
 export default {
-    name: 'VegetablesBeet1',
+    name: 'vegetables-beet-1',
+    key: 'VegetablesBeet1',
     width: 24,
     height: 24,
     attributes: undefined,

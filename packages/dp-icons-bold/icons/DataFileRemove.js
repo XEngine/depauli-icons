@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileRemove',
+    name: 'data-file-remove',
+    key: 'DataFileRemove',
     width: 24,
     height: 24,
     attributes: undefined,

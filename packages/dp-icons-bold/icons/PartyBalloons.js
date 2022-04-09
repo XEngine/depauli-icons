@@ -1,5 +1,6 @@
 export default {
-    name: 'PartyBalloons',
+    name: 'party-balloons',
+    key: 'PartyBalloons',
     width: 24,
     height: 24,
     attributes: undefined,

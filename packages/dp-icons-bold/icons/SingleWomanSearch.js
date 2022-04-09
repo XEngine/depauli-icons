@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanSearch',
+    name: 'single-woman-search',
+    key: 'SingleWomanSearch',
     width: 24,
     height: 24,
     attributes: undefined,

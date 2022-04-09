@@ -1,5 +1,6 @@
 export default {
-    name: 'AmusementParkFerrisWheelPerson',
+    name: 'amusement-park-ferris-wheel-person',
+    key: 'AmusementParkFerrisWheelPerson',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

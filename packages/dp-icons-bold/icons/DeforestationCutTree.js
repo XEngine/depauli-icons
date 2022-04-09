@@ -1,5 +1,6 @@
 export default {
-    name: 'DeforestationCutTree',
+    name: 'deforestation-cut-tree',
+    key: 'DeforestationCutTree',
     width: 24,
     height: 24,
     attributes: undefined,

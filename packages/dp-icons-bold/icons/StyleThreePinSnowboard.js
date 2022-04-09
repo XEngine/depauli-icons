@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSnowboard',
+    name: 'style-three-pin-snowboard',
+    key: 'StyleThreePinSnowboard',
     width: 24,
     height: 24,
     attributes: undefined,

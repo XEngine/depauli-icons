@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignerCommunityDesignBump',
+    name: 'designer-community-design-bump',
+    key: 'DesignerCommunityDesignBump',
     width: 24,
     height: 24,
     attributes: undefined,

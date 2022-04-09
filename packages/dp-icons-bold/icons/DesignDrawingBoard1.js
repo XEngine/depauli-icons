@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignDrawingBoard1',
+    name: 'design-drawing-board-1',
+    key: 'DesignDrawingBoard1',
     width: 24,
     height: 24,
     attributes: undefined,

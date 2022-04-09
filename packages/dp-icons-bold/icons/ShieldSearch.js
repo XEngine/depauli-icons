@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldSearch',
+    name: 'shield-search',
+    key: 'ShieldSearch',
     width: 24,
     height: 24,
     attributes: undefined,

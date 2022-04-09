@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentM4v',
+    name: 'vide-document-m4v',
+    key: 'VideDocumentM4v',
     width: 24,
     height: 24,
     attributes: undefined,

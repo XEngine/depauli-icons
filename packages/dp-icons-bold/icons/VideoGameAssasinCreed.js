@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameAssasinCreed',
+    name: 'video-game-assasin-creed',
+    key: 'VideoGameAssasinCreed',
     width: 24,
     height: 24,
     attributes: undefined,

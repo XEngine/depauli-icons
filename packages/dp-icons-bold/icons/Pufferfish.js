@@ -1,5 +1,6 @@
 export default {
-    name: 'Pufferfish',
+    name: 'pufferfish',
+    key: 'Pufferfish',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HandHold3dBox',
+    name: 'hand-hold-3d-box',
+    key: 'HandHold3dBox',
     width: 24,
     height: 24,
     attributes: undefined,

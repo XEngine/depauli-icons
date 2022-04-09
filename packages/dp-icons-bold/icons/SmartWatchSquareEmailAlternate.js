@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareEmailAlternate',
+    name: 'smart-watch-square-email-alternate',
+    key: 'SmartWatchSquareEmailAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

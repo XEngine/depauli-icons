@@ -1,5 +1,6 @@
 export default {
-    name: 'EmailActionLock',
+    name: 'email-action-lock',
+    key: 'EmailActionLock',
     width: 24,
     height: 24,
     attributes: undefined,

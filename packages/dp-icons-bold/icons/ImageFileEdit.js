@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileEdit',
+    name: 'image-file-edit',
+    key: 'ImageFileEdit',
     width: 24,
     height: 24,
     attributes: undefined,

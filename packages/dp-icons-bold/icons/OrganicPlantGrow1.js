@@ -1,5 +1,6 @@
 export default {
-    name: 'OrganicPlantGrow1',
+    name: 'organic-plant-grow-1',
+    key: 'OrganicPlantGrow1',
     width: 24,
     height: 24,
     attributes: undefined,

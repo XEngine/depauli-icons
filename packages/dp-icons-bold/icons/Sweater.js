@@ -1,5 +1,6 @@
 export default {
-    name: 'Sweater',
+    name: 'sweater',
+    key: 'Sweater',
     width: 24,
     height: 24,
     attributes: undefined,

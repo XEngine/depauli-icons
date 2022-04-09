@@ -1,5 +1,6 @@
 export default {
-    name: 'HalloweenFigure1',
+    name: 'halloween-figure-1',
+    key: 'HalloweenFigure1',
     width: 24,
     height: 24,
     attributes: undefined,

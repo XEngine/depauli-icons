@@ -1,5 +1,6 @@
 export default {
-    name: 'SkiingSkiis',
+    name: 'skiing-skiis',
+    key: 'SkiingSkiis',
     width: 24,
     height: 24,
     attributes: undefined,

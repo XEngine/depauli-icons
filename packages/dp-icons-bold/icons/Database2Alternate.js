@@ -1,5 +1,6 @@
 export default {
-    name: 'Database2Alternate',
+    name: 'database-2-alternate',
+    key: 'Database2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

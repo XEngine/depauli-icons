@@ -1,5 +1,6 @@
 export default {
-    name: 'ViewCircleAlternate',
+    name: 'view-circle-alternate',
+    key: 'ViewCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

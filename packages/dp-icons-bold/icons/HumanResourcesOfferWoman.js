@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesOfferWoman',
+    name: 'human-resources-offer-woman',
+    key: 'HumanResourcesOfferWoman',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'KnivesSet',
+    name: 'knives-set',
+    key: 'KnivesSet',
     width: 24,
     height: 24,
     attributes: undefined,

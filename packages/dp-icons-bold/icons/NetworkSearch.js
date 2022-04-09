@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkSearch',
+    name: 'network-search',
+    key: 'NetworkSearch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseClockAlternate',
+    name: 'database-clock-alternate',
+    key: 'DatabaseClockAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

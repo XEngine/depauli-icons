@@ -1,5 +1,6 @@
 export default {
-    name: 'Webcam',
+    name: 'webcam',
+    key: 'Webcam',
     width: 24,
     height: 24,
     attributes: undefined,

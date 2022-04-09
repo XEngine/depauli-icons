@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGamePacman',
+    name: 'video-game-pacman',
+    key: 'VideoGamePacman',
     width: 24,
     height: 24,
     attributes: undefined,

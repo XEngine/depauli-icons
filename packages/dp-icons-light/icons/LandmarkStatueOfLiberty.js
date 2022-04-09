@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkStatueOfLiberty',
+    name: 'landmark-statue-of-liberty',
+    key: 'LandmarkStatueOfLiberty',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

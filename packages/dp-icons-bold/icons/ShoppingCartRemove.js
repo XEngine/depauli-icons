@@ -1,5 +1,6 @@
 export default {
-    name: 'ShoppingCartRemove',
+    name: 'shopping-cart-remove',
+    key: 'ShoppingCartRemove',
     width: 24,
     height: 24,
     attributes: undefined,

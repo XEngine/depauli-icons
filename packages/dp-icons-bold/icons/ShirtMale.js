@@ -1,5 +1,6 @@
 export default {
-    name: 'ShirtMale',
+    name: 'shirt-male',
+    key: 'ShirtMale',
     width: 24,
     height: 24,
     attributes: undefined,

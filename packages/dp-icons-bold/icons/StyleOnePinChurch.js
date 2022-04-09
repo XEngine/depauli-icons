@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinChurch',
+    name: 'style-one-pin-church',
+    key: 'StyleOnePinChurch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeStar',
+    name: 'file-code-star',
+    key: 'FileCodeStar',
     width: 24,
     height: 24,
     attributes: undefined,

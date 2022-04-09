@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramAllDirectionExpand',
+    name: 'diagram-all-direction-expand',
+    key: 'DiagramAllDirectionExpand',
     width: 24,
     height: 24,
     attributes: undefined,

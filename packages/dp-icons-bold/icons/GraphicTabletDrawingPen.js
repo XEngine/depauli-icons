@@ -1,5 +1,6 @@
 export default {
-    name: 'GraphicTabletDrawingPen',
+    name: 'graphic-tablet-drawing-pen',
+    key: 'GraphicTabletDrawingPen',
     width: 24,
     height: 24,
     attributes: undefined,

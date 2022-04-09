@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleRinging',
+    name: 'smart-watch-circle-ringing',
+    key: 'SmartWatchCircleRinging',
     width: 24,
     height: 24,
     attributes: undefined,

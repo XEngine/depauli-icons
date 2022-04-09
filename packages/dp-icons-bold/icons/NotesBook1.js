@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesBook1',
+    name: 'notes-book-1',
+    key: 'NotesBook1',
     width: 24,
     height: 24,
     attributes: undefined,

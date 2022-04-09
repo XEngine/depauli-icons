@@ -1,5 +1,6 @@
 export default {
-    name: 'FocusClose',
+    name: 'focus-close',
+    key: 'FocusClose',
     width: 24,
     height: 24,
     attributes: undefined,

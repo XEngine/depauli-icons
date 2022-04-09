@@ -1,5 +1,6 @@
 export default {
-    name: 'VipCircle',
+    name: 'vip-circle',
+    key: 'VipCircle',
     width: 24,
     height: 24,
     attributes: undefined,

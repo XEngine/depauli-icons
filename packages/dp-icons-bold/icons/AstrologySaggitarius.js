@@ -1,5 +1,6 @@
 export default {
-    name: 'AstrologySaggitarius',
+    name: 'astrology-saggitarius',
+    key: 'AstrologySaggitarius',
     width: 24,
     height: 24,
     attributes: undefined,

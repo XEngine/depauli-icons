@@ -1,5 +1,6 @@
 export default {
-    name: 'Truck1',
+    name: 'truck-1',
+    key: 'Truck1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

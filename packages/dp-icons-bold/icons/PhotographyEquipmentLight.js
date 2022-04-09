@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotographyEquipmentLight',
+    name: 'photography-equipment-light',
+    key: 'PhotographyEquipmentLight',
     width: 24,
     height: 24,
     attributes: undefined,

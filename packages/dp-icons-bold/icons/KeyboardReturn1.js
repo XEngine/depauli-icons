@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardReturn1',
+    name: 'keyboard-return-1',
+    key: 'KeyboardReturn1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarShare',
+    name: 'calendar-share',
+    key: 'CalendarShare',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

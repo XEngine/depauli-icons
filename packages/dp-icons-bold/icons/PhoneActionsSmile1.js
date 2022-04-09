@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsSmile1',
+    name: 'phone-actions-smile-1',
+    key: 'PhoneActionsSmile1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFilePps1',
+    name: 'office-file-pps-1',
+    key: 'OfficeFilePps1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CleanCarGas',
+    name: 'clean-car-gas',
+    key: 'CleanCarGas',
     width: 24,
     height: 24,
     attributes: undefined,

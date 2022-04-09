@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesHome',
+    name: 'notes-home',
+    key: 'NotesHome',
     width: 24,
     height: 24,
     attributes: undefined,

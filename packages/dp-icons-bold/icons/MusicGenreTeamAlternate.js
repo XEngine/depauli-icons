@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreTeamAlternate',
+    name: 'music-genre-team-alternate',
+    key: 'MusicGenreTeamAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

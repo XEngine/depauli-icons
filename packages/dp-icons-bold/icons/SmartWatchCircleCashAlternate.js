@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleCashAlternate',
+    name: 'smart-watch-circle-cash-alternate',
+    key: 'SmartWatchCircleCashAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VrLaptop1',
+    name: 'vr-laptop-1',
+    key: 'VrLaptop1',
     width: 24,
     height: 24,
     attributes: undefined,

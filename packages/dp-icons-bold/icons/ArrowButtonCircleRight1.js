@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowButtonCircleRight1',
+    name: 'arrow-button-circle-right-1',
+    key: 'ArrowButtonCircleRight1',
     width: 24,
     height: 24,
     attributes: undefined,

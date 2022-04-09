@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCirclePowerAlternate',
+    name: 'smart-watch-circle-power-alternate',
+    key: 'SmartWatchCirclePowerAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionHousePin',
+    name: 'real-estate-action-house-pin',
+    key: 'RealEstateActionHousePin',
     width: 24,
     height: 24,
     attributes: undefined,

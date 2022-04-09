@@ -1,5 +1,6 @@
 export default {
-    name: 'ConcertSing',
+    name: 'concert-sing',
+    key: 'ConcertSing',
     width: 24,
     height: 24,
     attributes: undefined,

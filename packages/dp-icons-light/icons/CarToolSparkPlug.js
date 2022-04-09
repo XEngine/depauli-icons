@@ -1,5 +1,6 @@
 export default {
-    name: 'CarToolSparkPlug',
+    name: 'car-tool-spark-plug',
+    key: 'CarToolSparkPlug',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileBarsClock',
+    name: 'data-file-bars-clock',
+    key: 'DataFileBarsClock',
     width: 24,
     height: 24,
     attributes: undefined,

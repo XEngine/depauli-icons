@@ -1,5 +1,6 @@
 export default {
-    name: 'FeedMedium',
+    name: 'feed-medium',
+    key: 'FeedMedium',
     width: 24,
     height: 24,
     attributes: undefined,

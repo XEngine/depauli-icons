@@ -1,5 +1,6 @@
 export default {
-    name: 'ShellSeaGrass',
+    name: 'shell-sea-grass',
+    key: 'ShellSeaGrass',
     width: 24,
     height: 24,
     attributes: undefined,

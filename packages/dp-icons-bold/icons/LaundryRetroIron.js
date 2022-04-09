@@ -1,5 +1,6 @@
 export default {
-    name: 'LaundryRetroIron',
+    name: 'laundry-retro-iron',
+    key: 'LaundryRetroIron',
     width: 24,
     height: 24,
     attributes: undefined,

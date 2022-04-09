@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalSpecialtyHearing1',
+    name: 'medical-specialty-hearing-1',
+    key: 'MedicalSpecialtyHearing1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleTyping',
+    name: 'messages-bubble-typing',
+    key: 'MessagesBubbleTyping',
     width: 24,
     height: 24,
     attributes: undefined,

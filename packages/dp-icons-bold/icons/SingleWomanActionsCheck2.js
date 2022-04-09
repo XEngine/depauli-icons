@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsCheck2',
+    name: 'single-woman-actions-check-2',
+    key: 'SingleWomanActionsCheck2',
     width: 24,
     height: 24,
     attributes: undefined,

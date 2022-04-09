@@ -1,5 +1,6 @@
 export default {
-    name: 'RssFeedSquare',
+    name: 'rss-feed-square',
+    key: 'RssFeedSquare',
     width: 24,
     height: 24,
     attributes: undefined,

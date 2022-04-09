@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingUpload',
+    name: 'real-estate-action-building-upload',
+    key: 'RealEstateActionBuildingUpload',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

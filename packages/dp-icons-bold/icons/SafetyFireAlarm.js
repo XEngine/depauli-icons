@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyFireAlarm',
+    name: 'safety-fire-alarm',
+    key: 'SafetyFireAlarm',
     width: 24,
     height: 24,
     attributes: undefined,

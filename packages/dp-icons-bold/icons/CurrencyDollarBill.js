@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyDollarBill',
+    name: 'currency-dollar-bill',
+    key: 'CurrencyDollarBill',
     width: 24,
     height: 24,
     attributes: undefined,

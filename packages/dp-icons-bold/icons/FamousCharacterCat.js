@@ -1,5 +1,6 @@
 export default {
-    name: 'FamousCharacterCat',
+    name: 'famous-character-cat',
+    key: 'FamousCharacterCat',
     width: 24,
     height: 24,
     attributes: undefined,

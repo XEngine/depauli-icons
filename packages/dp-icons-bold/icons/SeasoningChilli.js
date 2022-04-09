@@ -1,5 +1,6 @@
 export default {
-    name: 'SeasoningChilli',
+    name: 'seasoning-chilli',
+    key: 'SeasoningChilli',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VipRoyalAlternate',
+    name: 'vip-royal-alternate',
+    key: 'VipRoyalAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

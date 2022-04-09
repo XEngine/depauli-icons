@@ -1,5 +1,6 @@
 export default {
-    name: 'FocusEAlternate',
+    name: 'focus-e-alternate',
+    key: 'FocusEAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

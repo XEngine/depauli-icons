@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopPin',
+    name: 'shop-pin',
+    key: 'ShopPin',
     width: 24,
     height: 24,
     attributes: undefined,

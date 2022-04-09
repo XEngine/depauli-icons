@@ -1,5 +1,6 @@
 export default {
-    name: 'Module',
+    name: 'module',
+    key: 'Module',
     width: 24,
     height: 24,
     attributes: undefined,

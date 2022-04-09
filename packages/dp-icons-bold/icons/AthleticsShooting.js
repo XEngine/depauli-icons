@@ -1,5 +1,6 @@
 export default {
-    name: 'AthleticsShooting',
+    name: 'athletics-shooting',
+    key: 'AthleticsShooting',
     width: 24,
     height: 24,
     attributes: undefined,

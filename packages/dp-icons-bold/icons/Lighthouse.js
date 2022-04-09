@@ -1,5 +1,6 @@
 export default {
-    name: 'Lighthouse',
+    name: 'lighthouse',
+    key: 'Lighthouse',
     width: 24,
     height: 24,
     attributes: undefined,

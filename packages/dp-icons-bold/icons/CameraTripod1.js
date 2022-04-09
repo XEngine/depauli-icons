@@ -1,5 +1,6 @@
 export default {
-    name: 'CameraTripod1',
+    name: 'camera-tripod-1',
+    key: 'CameraTripod1',
     width: 24,
     height: 24,
     attributes: undefined,

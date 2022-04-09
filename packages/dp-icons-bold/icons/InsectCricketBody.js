@@ -1,5 +1,6 @@
 export default {
-    name: 'InsectCricketBody',
+    name: 'insect-cricket-body',
+    key: 'InsectCricketBody',
     width: 24,
     height: 24,
     attributes: undefined,

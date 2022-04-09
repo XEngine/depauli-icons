@@ -1,5 +1,6 @@
 export default {
-    name: 'SubtractTabAlternate',
+    name: 'subtract-tab-alternate',
+    key: 'SubtractTabAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

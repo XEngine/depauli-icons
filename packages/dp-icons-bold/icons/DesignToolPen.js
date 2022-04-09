@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignToolPen',
+    name: 'design-tool-pen',
+    key: 'DesignToolPen',
     width: 24,
     height: 24,
     attributes: undefined,

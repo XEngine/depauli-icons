@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsFlash',
+    name: 'single-man-actions-flash',
+    key: 'SingleManActionsFlash',
     width: 24,
     height: 24,
     attributes: undefined,

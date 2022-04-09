@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileRotate',
+    name: 'common-file-rotate',
+    key: 'CommonFileRotate',
     width: 24,
     height: 24,
     attributes: undefined,

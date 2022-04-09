@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionEdit',
+    name: 'phone-action-edit',
+    key: 'PhoneActionEdit',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

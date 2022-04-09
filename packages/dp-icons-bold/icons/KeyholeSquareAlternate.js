@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyholeSquareAlternate',
+    name: 'keyhole-square-alternate',
+    key: 'KeyholeSquareAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

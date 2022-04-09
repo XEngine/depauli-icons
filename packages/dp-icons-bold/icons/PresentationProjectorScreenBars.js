@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationProjectorScreenBars',
+    name: 'presentation-projector-screen-bars',
+    key: 'PresentationProjectorScreenBars',
     width: 24,
     height: 24,
     attributes: undefined,

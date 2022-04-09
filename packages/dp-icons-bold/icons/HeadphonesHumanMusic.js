@@ -1,5 +1,6 @@
 export default {
-    name: 'HeadphonesHumanMusic',
+    name: 'headphones-human-music',
+    key: 'HeadphonesHumanMusic',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinCamera',
+    name: 'style-three-pin-camera',
+    key: 'StyleThreePinCamera',
     width: 24,
     height: 24,
     attributes: undefined,

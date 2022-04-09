@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentPensPocket',
+    name: 'content-pens-pocket',
+    key: 'ContentPensPocket',
     width: 24,
     height: 24,
     attributes: undefined,

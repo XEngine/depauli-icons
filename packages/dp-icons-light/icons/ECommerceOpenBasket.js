@@ -1,5 +1,6 @@
 export default {
-    name: 'ECommerceOpenBasket',
+    name: 'e-commerce-open-basket',
+    key: 'ECommerceOpenBasket',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'MealCan',
+    name: 'meal-can',
+    key: 'MealCan',
     width: 24,
     height: 24,
     attributes: undefined,

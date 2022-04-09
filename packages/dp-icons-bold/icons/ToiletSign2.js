@@ -1,5 +1,6 @@
 export default {
-    name: 'ToiletSign2',
+    name: 'toilet-sign-2',
+    key: 'ToiletSign2',
     width: 24,
     height: 24,
     attributes: undefined,

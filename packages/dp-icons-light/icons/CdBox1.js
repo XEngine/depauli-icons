@@ -1,5 +1,6 @@
 export default {
-    name: 'CdBox1',
+    name: 'cd-box-1',
+    key: 'CdBox1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterPicture',
+    name: 'paginate-filter-picture',
+    key: 'PaginateFilterPicture',
     width: 24,
     height: 24,
     attributes: undefined,

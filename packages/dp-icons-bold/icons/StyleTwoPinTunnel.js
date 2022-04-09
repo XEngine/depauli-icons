@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinTunnel',
+    name: 'style-two-pin-tunnel',
+    key: 'StyleTwoPinTunnel',
     width: 24,
     height: 24,
     attributes: undefined,

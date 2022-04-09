@@ -1,5 +1,6 @@
 export default {
-    name: 'GlassesRetro',
+    name: 'glasses-retro',
+    key: 'GlassesRetro',
     width: 24,
     height: 24,
     attributes: undefined,

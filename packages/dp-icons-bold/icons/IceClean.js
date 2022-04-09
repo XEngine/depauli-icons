@@ -1,5 +1,6 @@
 export default {
-    name: 'IceClean',
+    name: 'ice-clean',
+    key: 'IceClean',
     width: 24,
     height: 24,
     attributes: undefined,

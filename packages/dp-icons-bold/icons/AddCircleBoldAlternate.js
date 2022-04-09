@@ -1,5 +1,6 @@
 export default {
-    name: 'AddCircleBoldAlternate',
+    name: 'add-circle-bold-alternate',
+    key: 'AddCircleBoldAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

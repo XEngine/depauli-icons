@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeCash1',
+    name: 'file-code-cash-1',
+    key: 'FileCodeCash1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

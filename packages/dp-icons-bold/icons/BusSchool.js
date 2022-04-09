@@ -1,5 +1,6 @@
 export default {
-    name: 'BusSchool',
+    name: 'bus-school',
+    key: 'BusSchool',
     width: 24,
     height: 24,
     attributes: undefined,

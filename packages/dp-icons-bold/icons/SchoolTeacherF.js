@@ -1,5 +1,6 @@
 export default {
-    name: 'SchoolTeacherF',
+    name: 'school-teacher-f',
+    key: 'SchoolTeacherF',
     width: 24,
     height: 24,
     attributes: undefined,

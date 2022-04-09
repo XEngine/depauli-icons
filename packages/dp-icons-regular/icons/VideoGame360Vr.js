@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGame360Vr',
+    name: 'video-game-360-vr',
+    key: 'VideoGame360Vr',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

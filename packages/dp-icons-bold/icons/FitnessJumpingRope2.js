@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessJumpingRope2',
+    name: 'fitness-jumping-rope-2',
+    key: 'FitnessJumpingRope2',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FileAsp1',
+    name: 'file-asp-1',
+    key: 'FileAsp1',
     width: 24,
     height: 24,
     attributes: undefined,

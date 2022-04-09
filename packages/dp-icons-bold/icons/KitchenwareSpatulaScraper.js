@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareSpatulaScraper',
+    name: 'kitchenware-spatula-scraper',
+    key: 'KitchenwareSpatulaScraper',
     width: 24,
     height: 24,
     attributes: undefined,

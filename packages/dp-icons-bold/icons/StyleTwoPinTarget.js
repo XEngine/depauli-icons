@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinTarget',
+    name: 'style-two-pin-target',
+    key: 'StyleTwoPinTarget',
     width: 24,
     height: 24,
     attributes: undefined,

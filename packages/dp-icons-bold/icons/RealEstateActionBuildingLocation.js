@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingLocation',
+    name: 'real-estate-action-building-location',
+    key: 'RealEstateActionBuildingLocation',
     width: 24,
     height: 24,
     attributes: undefined,

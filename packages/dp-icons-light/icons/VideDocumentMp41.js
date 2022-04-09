@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentMp41',
+    name: 'vide-document-mp4-1',
+    key: 'VideDocumentMp41',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaMixx',
+    name: 'social-media-mixx',
+    key: 'SocialMediaMixx',
     width: 24,
     height: 24,
     attributes: undefined,

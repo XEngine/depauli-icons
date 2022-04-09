@@ -1,5 +1,6 @@
 export default {
-    name: 'LightBulbShineAlternate',
+    name: 'light-bulb-shine-alternate',
+    key: 'LightBulbShineAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

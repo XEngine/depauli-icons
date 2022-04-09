@@ -1,5 +1,6 @@
 export default {
-    name: 'RadioRetro',
+    name: 'radio-retro',
+    key: 'RadioRetro',
     width: 24,
     height: 24,
     attributes: undefined,

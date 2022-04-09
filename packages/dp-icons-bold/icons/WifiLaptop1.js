@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiLaptop1',
+    name: 'wifi-laptop-1',
+    key: 'WifiLaptop1',
     width: 24,
     height: 24,
     attributes: undefined,

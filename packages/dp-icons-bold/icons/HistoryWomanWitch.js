@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryWomanWitch',
+    name: 'history-woman-witch',
+    key: 'HistoryWomanWitch',
     width: 24,
     height: 24,
     attributes: undefined,

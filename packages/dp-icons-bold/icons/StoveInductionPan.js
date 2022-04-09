@@ -1,5 +1,6 @@
 export default {
-    name: 'StoveInductionPan',
+    name: 'stove-induction-pan',
+    key: 'StoveInductionPan',
     width: 24,
     height: 24,
     attributes: undefined,

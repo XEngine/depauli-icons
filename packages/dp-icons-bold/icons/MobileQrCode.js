@@ -1,5 +1,6 @@
 export default {
-    name: 'MobileQrCode',
+    name: 'mobile-qr-code',
+    key: 'MobileQrCode',
     width: 24,
     height: 24,
     attributes: undefined,

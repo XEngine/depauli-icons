@@ -1,5 +1,6 @@
 export default {
-    name: 'PinRemove4',
+    name: 'pin-remove-4',
+    key: 'PinRemove4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

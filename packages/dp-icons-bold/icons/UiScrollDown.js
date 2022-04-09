@@ -1,5 +1,6 @@
 export default {
-    name: 'UiScrollDown',
+    name: 'ui-scroll-down',
+    key: 'UiScrollDown',
     width: 24,
     height: 24,
     attributes: undefined,

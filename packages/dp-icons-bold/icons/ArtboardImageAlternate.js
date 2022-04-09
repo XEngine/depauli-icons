@@ -1,5 +1,6 @@
 export default {
-    name: 'ArtboardImageAlternate',
+    name: 'artboard-image-alternate',
+    key: 'ArtboardImageAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

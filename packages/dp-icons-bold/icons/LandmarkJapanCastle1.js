@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarkJapanCastle1',
+    name: 'landmark-japan-castle-1',
+    key: 'LandmarkJapanCastle1',
     width: 24,
     height: 24,
     attributes: undefined,

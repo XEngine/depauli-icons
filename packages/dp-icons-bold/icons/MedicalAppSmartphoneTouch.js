@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalAppSmartphoneTouch',
+    name: 'medical-app-smartphone-touch',
+    key: 'MedicalAppSmartphoneTouch',
     width: 24,
     height: 24,
     attributes: undefined,

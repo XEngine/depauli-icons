@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderUploadAlternate',
+    name: 'folder-upload-alternate',
+    key: 'FolderUploadAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

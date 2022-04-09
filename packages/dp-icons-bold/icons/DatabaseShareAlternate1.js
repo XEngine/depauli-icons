@@ -1,5 +1,6 @@
 export default {
-    name: 'DatabaseShareAlternate1',
+    name: 'database-share-alternate-1',
+    key: 'DatabaseShareAlternate1',
     width: 24,
     height: 24,
     attributes: undefined,

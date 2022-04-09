@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistLock',
+    name: 'playlist-lock',
+    key: 'PlaylistLock',
     width: 24,
     height: 24,
     attributes: undefined,

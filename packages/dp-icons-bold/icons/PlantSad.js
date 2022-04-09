@@ -1,5 +1,6 @@
 export default {
-    name: 'PlantSad',
+    name: 'plant-sad',
+    key: 'PlantSad',
     width: 24,
     height: 24,
     attributes: undefined,

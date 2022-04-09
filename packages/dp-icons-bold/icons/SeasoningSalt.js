@@ -1,5 +1,6 @@
 export default {
-    name: 'SeasoningSalt',
+    name: 'seasoning-salt',
+    key: 'SeasoningSalt',
     width: 24,
     height: 24,
     attributes: undefined,

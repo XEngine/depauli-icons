@@ -1,5 +1,6 @@
 export default {
-    name: 'AmbulanceHuman',
+    name: 'ambulance-human',
+    key: 'AmbulanceHuman',
     width: 24,
     height: 24,
     attributes: undefined,

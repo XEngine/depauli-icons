@@ -1,5 +1,6 @@
 export default {
-    name: 'BuildingNight',
+    name: 'building-night',
+    key: 'BuildingNight',
     width: 24,
     height: 24,
     attributes: undefined,

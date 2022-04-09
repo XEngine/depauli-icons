@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMusicSoundcloud',
+    name: 'social-music-soundcloud',
+    key: 'SocialMusicSoundcloud',
     width: 24,
     height: 24,
     attributes: undefined,

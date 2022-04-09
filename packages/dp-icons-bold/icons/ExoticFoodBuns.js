@@ -1,5 +1,6 @@
 export default {
-    name: 'ExoticFoodBuns',
+    name: 'exotic-food-buns',
+    key: 'ExoticFoodBuns',
     width: 24,
     height: 24,
     attributes: undefined,

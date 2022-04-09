@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsQuestion1',
+    name: 'phone-actions-question-1',
+    key: 'PhoneActionsQuestion1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

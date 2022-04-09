@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopHelpMessage',
+    name: 'laptop-help-message',
+    key: 'LaptopHelpMessage',
     width: 24,
     height: 24,
     attributes: undefined,

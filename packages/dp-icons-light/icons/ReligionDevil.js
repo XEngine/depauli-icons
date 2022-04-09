@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionDevil',
+    name: 'religion-devil',
+    key: 'ReligionDevil',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round"},

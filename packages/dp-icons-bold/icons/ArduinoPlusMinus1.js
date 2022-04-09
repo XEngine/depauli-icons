@@ -1,5 +1,6 @@
 export default {
-    name: 'ArduinoPlusMinus1',
+    name: 'arduino-plus-minus-1',
+    key: 'ArduinoPlusMinus1',
     width: 24,
     height: 24,
     attributes: undefined,

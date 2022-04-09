@@ -1,5 +1,6 @@
 export default {
-    name: 'Shrink1',
+    name: 'shrink-1',
+    key: 'Shrink1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ConversationSmileType1Alternate',
+    name: 'conversation-smile-type-1-alternate',
+    key: 'ConversationSmileType1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

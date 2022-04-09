@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionEmail',
+    name: 'phone-action-email',
+    key: 'PhoneActionEmail',
     width: 24,
     height: 24,
     attributes: undefined,

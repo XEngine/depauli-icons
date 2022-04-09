@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreStars',
+    name: 'music-genre-stars',
+    key: 'MusicGenreStars',
     width: 24,
     height: 24,
     attributes: undefined,

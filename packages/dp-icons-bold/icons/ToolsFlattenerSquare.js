@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsFlattenerSquare',
+    name: 'tools-flattener-square',
+    key: 'ToolsFlattenerSquare',
     width: 24,
     height: 24,
     attributes: undefined,

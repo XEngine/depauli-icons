@@ -1,5 +1,6 @@
 export default {
-    name: 'Java',
+    name: 'java',
+    key: 'Java',
     width: 24,
     height: 24,
     attributes: undefined,

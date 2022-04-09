@@ -1,5 +1,6 @@
 export default {
-    name: 'PictureLandscape',
+    name: 'picture-landscape',
+    key: 'PictureLandscape',
     width: 24,
     height: 24,
     attributes: undefined,

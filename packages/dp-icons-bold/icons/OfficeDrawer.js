@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeDrawer',
+    name: 'office-drawer',
+    key: 'OfficeDrawer',
     width: 24,
     height: 24,
     attributes: undefined,

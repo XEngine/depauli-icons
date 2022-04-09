@@ -1,5 +1,6 @@
 export default {
-    name: 'MusicGenreDumbbell',
+    name: 'music-genre-dumbbell',
+    key: 'MusicGenreDumbbell',
     width: 24,
     height: 24,
     attributes: undefined,

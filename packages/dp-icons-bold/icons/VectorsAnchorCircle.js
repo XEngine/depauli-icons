@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsAnchorCircle',
+    name: 'vectors-anchor-circle',
+    key: 'VectorsAnchorCircle',
     width: 24,
     height: 24,
     attributes: undefined,

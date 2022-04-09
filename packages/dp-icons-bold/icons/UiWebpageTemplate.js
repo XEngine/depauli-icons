@@ -1,5 +1,6 @@
 export default {
-    name: 'UiWebpageTemplate',
+    name: 'ui-webpage-template',
+    key: 'UiWebpageTemplate',
     width: 24,
     height: 24,
     attributes: undefined,

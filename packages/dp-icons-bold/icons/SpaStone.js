@@ -1,5 +1,6 @@
 export default {
-    name: 'SpaStone',
+    name: 'spa-stone',
+    key: 'SpaStone',
     width: 24,
     height: 24,
     attributes: undefined,

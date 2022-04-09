@@ -1,5 +1,6 @@
 export default {
-    name: 'ArtboardShrinkAlternate',
+    name: 'artboard-shrink-alternate',
+    key: 'ArtboardShrinkAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaneTripRound',
+    name: 'plane-trip-round',
+    key: 'PlaneTripRound',
     width: 24,
     height: 24,
     attributes: undefined,

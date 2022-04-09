@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleLaptopHi',
+    name: 'messages-bubble-laptop-hi',
+    key: 'MessagesBubbleLaptopHi',
     width: 24,
     height: 24,
     attributes: undefined,

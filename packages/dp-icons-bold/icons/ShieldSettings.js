@@ -1,5 +1,6 @@
 export default {
-    name: 'ShieldSettings',
+    name: 'shield-settings',
+    key: 'ShieldSettings',
     width: 24,
     height: 24,
     attributes: undefined,

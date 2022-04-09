@@ -1,5 +1,6 @@
 export default {
-    name: 'AutoPilotCarWheelDisable',
+    name: 'auto-pilot-car-wheel-disable',
+    key: 'AutoPilotCarWheelDisable',
     width: 24,
     height: 24,
     attributes: undefined,

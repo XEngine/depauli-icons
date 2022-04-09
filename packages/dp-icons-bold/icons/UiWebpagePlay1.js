@@ -1,5 +1,6 @@
 export default {
-    name: 'UiWebpagePlay1',
+    name: 'ui-webpage-play-1',
+    key: 'UiWebpagePlay1',
     width: 24,
     height: 24,
     attributes: undefined,

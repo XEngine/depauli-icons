@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileDownload',
+    name: 'data-file-download',
+    key: 'DataFileDownload',
     width: 24,
     height: 24,
     attributes: undefined,

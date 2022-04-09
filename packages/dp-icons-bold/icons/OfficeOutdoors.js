@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeOutdoors',
+    name: 'office-outdoors',
+    key: 'OfficeOutdoors',
     width: 24,
     height: 24,
     attributes: undefined,

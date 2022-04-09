@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsSync',
+    name: 'single-neutral-actions-sync',
+    key: 'SingleNeutralActionsSync',
     width: 24,
     height: 24,
     attributes: undefined,

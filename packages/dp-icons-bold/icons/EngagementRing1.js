@@ -1,5 +1,6 @@
 export default {
-    name: 'EngagementRing1',
+    name: 'engagement-ring-1',
+    key: 'EngagementRing1',
     width: 24,
     height: 24,
     attributes: undefined,

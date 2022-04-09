@@ -1,5 +1,6 @@
 export default {
-    name: 'NonGmoDna',
+    name: 'non-gmo-dna',
+    key: 'NonGmoDna',
     width: 24,
     height: 24,
     attributes: undefined,

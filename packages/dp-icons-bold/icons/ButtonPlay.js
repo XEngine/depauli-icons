@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonPlay',
+    name: 'button-play',
+    key: 'ButtonPlay',
     width: 24,
     height: 24,
     attributes: undefined,

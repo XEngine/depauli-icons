@@ -1,5 +1,6 @@
 export default {
-    name: 'EcoHouseSun',
+    name: 'eco-house-sun',
+    key: 'EcoHouseSun',
     width: 24,
     height: 24,
     attributes: undefined,

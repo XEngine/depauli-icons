@@ -1,5 +1,6 @@
 export default {
-    name: 'PaginateFilterAndroid',
+    name: 'paginate-filter-android',
+    key: 'PaginateFilterAndroid',
     width: 24,
     height: 24,
     attributes: undefined,

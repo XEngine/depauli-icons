@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignNoLeftTurn',
+    name: 'road-sign-no-left-turn',
+    key: 'RoadSignNoLeftTurn',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureTwoFingerFlipRight',
+    name: 'gesture-two-finger-flip-right',
+    key: 'GestureTwoFingerFlipRight',
     width: 24,
     height: 24,
     attributes: undefined,

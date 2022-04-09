@@ -1,5 +1,6 @@
 export default {
-    name: 'SubtractCircleAlternate',
+    name: 'subtract-circle-alternate',
+    key: 'SubtractCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BreakupCoupleWomanWoman',
+    name: 'breakup-couple-woman-woman',
+    key: 'BreakupCoupleWomanWoman',
     width: 24,
     height: 24,
     attributes: undefined,

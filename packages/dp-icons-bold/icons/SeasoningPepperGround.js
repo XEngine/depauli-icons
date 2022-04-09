@@ -1,5 +1,6 @@
 export default {
-    name: 'SeasoningPepperGround',
+    name: 'seasoning-pepper-ground',
+    key: 'SeasoningPepperGround',
     width: 24,
     height: 24,
     attributes: undefined,

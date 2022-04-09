@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinWorld',
+    name: 'crypto-currency-bitcoin-world',
+    key: 'CryptoCurrencyBitcoinWorld',
     width: 24,
     height: 24,
     attributes: undefined,

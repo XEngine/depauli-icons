@@ -1,5 +1,6 @@
 export default {
-    name: 'MartialArtsHelmet',
+    name: 'martial-arts-helmet',
+    key: 'MartialArtsHelmet',
     width: 24,
     height: 24,
     attributes: undefined,

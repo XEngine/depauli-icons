@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinBed',
+    name: 'style-three-pin-bed',
+    key: 'StyleThreePinBed',
     width: 24,
     height: 24,
     attributes: undefined,

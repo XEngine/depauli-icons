@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleMicrophoneAlternate',
+    name: 'smart-watch-circle-microphone-alternate',
+    key: 'SmartWatchCircleMicrophoneAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

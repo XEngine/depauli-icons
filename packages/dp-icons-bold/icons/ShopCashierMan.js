@@ -1,5 +1,6 @@
 export default {
-    name: 'ShopCashierMan',
+    name: 'shop-cashier-man',
+    key: 'ShopCashierMan',
     width: 24,
     height: 24,
     attributes: undefined,

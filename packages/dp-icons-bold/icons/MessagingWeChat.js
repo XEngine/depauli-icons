@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagingWeChat',
+    name: 'messaging-we-chat',
+    key: 'MessagingWeChat',
     width: 24,
     height: 24,
     attributes: undefined,

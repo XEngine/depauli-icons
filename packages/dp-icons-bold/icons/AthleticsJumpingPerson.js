@@ -1,5 +1,6 @@
 export default {
-    name: 'AthleticsJumpingPerson',
+    name: 'athletics-jumping-person',
+    key: 'AthleticsJumpingPerson',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BabyCareBody',
+    name: 'baby-care-body',
+    key: 'BabyCareBody',
     width: 24,
     height: 24,
     attributes: undefined,

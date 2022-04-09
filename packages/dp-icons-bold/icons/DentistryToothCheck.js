@@ -1,5 +1,6 @@
 export default {
-    name: 'DentistryToothCheck',
+    name: 'dentistry-tooth-check',
+    key: 'DentistryToothCheck',
     width: 24,
     height: 24,
     attributes: undefined,

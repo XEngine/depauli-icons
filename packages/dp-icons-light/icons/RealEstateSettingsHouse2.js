@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateSettingsHouse2',
+    name: 'real-estate-settings-house-2',
+    key: 'RealEstateSettingsHouse2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

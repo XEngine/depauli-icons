@@ -1,5 +1,6 @@
 export default {
-    name: 'LightBulbEco',
+    name: 'light-bulb-eco',
+    key: 'LightBulbEco',
     width: 24,
     height: 24,
     attributes: undefined,

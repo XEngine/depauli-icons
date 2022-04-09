@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleManActionsMonitor',
+    name: 'single-man-actions-monitor',
+    key: 'SingleManActionsMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

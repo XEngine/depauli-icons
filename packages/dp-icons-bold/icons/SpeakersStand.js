@@ -1,5 +1,6 @@
 export default {
-    name: 'SpeakersStand',
+    name: 'speakers-stand',
+    key: 'SpeakersStand',
     width: 24,
     height: 24,
     attributes: undefined,

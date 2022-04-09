@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardEAlternate',
+    name: 'car-dashboard-e-alternate',
+    key: 'CarDashboardEAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

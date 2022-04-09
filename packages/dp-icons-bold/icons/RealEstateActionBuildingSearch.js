@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionBuildingSearch',
+    name: 'real-estate-action-building-search',
+    key: 'RealEstateActionBuildingSearch',
     width: 24,
     height: 24,
     attributes: undefined,

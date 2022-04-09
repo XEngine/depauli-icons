@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsTrampoline',
+    name: 'gymnastics-trampoline',
+    key: 'GymnasticsTrampoline',
     width: 24,
     height: 24,
     attributes: undefined,

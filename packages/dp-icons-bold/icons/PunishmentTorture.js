@@ -1,5 +1,6 @@
 export default {
-    name: 'PunishmentTorture',
+    name: 'punishment-torture',
+    key: 'PunishmentTorture',
     width: 24,
     height: 24,
     attributes: undefined,

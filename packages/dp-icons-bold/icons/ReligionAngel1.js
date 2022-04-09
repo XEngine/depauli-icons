@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionAngel1',
+    name: 'religion-angel-1',
+    key: 'ReligionAngel1',
     width: 24,
     height: 24,
     attributes: undefined,

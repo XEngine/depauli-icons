@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListApprove',
+    name: 'task-list-approve',
+    key: 'TaskListApprove',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionInformation1',
+    name: 'phone-action-information-1',
+    key: 'PhoneActionInformation1',
     width: 24,
     height: 24,
     attributes: undefined,

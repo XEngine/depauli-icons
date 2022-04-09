@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentMpg1',
+    name: 'vide-document-mpg-1',
+    key: 'VideDocumentMpg1',
     width: 24,
     height: 24,
     attributes: undefined,

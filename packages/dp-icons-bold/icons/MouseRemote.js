@@ -1,5 +1,6 @@
 export default {
-    name: 'MouseRemote',
+    name: 'mouse-remote',
+    key: 'MouseRemote',
     width: 24,
     height: 24,
     attributes: undefined,

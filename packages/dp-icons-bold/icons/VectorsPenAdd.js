@@ -1,5 +1,6 @@
 export default {
-    name: 'VectorsPenAdd',
+    name: 'vectors-pen-add',
+    key: 'VectorsPenAdd',
     width: 24,
     height: 24,
     attributes: undefined,

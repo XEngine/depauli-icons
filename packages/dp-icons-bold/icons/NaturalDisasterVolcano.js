@@ -1,5 +1,6 @@
 export default {
-    name: 'NaturalDisasterVolcano',
+    name: 'natural-disaster-volcano',
+    key: 'NaturalDisasterVolcano',
     width: 24,
     height: 24,
     attributes: undefined,

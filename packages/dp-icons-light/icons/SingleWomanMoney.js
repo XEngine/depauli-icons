@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanMoney',
+    name: 'single-woman-money',
+    key: 'SingleWomanMoney',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

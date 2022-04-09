@@ -1,5 +1,6 @@
 export default {
-    name: 'ShowTheaterShowMasks',
+    name: 'show-theater-show-masks',
+    key: 'ShowTheaterShowMasks',
     width: 24,
     height: 24,
     attributes: undefined,

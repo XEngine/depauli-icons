@@ -1,5 +1,6 @@
 export default {
-    name: 'ReflectRight',
+    name: 'reflect-right',
+    key: 'ReflectRight',
     width: 24,
     height: 24,
     attributes: undefined,

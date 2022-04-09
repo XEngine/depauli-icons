@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowSubtract',
+    name: 'app-window-subtract',
+    key: 'AppWindowSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

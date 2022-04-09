@@ -1,5 +1,6 @@
 export default {
-    name: 'DiscountCircle',
+    name: 'discount-circle',
+    key: 'DiscountCircle',
     width: 24,
     height: 24,
     attributes: undefined,

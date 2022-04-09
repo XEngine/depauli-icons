@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionsNext',
+    name: 'phone-actions-next',
+    key: 'PhoneActionsNext',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

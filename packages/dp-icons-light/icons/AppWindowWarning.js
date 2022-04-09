@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowWarning',
+    name: 'app-window-warning',
+    key: 'AppWindowWarning',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'PenWrite1',
+    name: 'pen-write-1',
+    key: 'PenWrite1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

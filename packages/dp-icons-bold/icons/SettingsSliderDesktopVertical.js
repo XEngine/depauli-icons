@@ -1,5 +1,6 @@
 export default {
-    name: 'SettingsSliderDesktopVertical',
+    name: 'settings-slider-desktop-vertical',
+    key: 'SettingsSliderDesktopVertical',
     width: 24,
     height: 24,
     attributes: undefined,

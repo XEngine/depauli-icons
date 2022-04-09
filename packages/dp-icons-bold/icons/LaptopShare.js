@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopShare',
+    name: 'laptop-share',
+    key: 'LaptopShare',
     width: 24,
     height: 24,
     attributes: undefined,

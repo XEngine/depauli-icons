@@ -1,5 +1,6 @@
 export default {
-    name: 'HardwareWenchScrew',
+    name: 'hardware-wench-screw',
+    key: 'HardwareWenchScrew',
     width: 24,
     height: 24,
     attributes: undefined,

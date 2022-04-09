@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSnowSlide',
+    name: 'style-three-pin-snow-slide',
+    key: 'StyleThreePinSnowSlide',
     width: 24,
     height: 24,
     attributes: undefined,

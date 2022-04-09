@@ -1,5 +1,6 @@
 export default {
-    name: 'StudyLightIdea',
+    name: 'study-light-idea',
+    key: 'StudyLightIdea',
     width: 24,
     height: 24,
     attributes: undefined,

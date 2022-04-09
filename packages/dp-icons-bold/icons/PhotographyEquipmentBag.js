@@ -1,5 +1,6 @@
 export default {
-    name: 'PhotographyEquipmentBag',
+    name: 'photography-equipment-bag',
+    key: 'PhotographyEquipmentBag',
     width: 24,
     height: 24,
     attributes: undefined,

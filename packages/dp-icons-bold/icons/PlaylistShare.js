@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistShare',
+    name: 'playlist-share',
+    key: 'PlaylistShare',
     width: 24,
     height: 24,
     attributes: undefined,

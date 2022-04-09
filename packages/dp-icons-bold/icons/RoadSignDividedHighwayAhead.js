@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignDividedHighwayAhead',
+    name: 'road-sign-divided-highway-ahead',
+    key: 'RoadSignDividedHighwayAhead',
     width: 24,
     height: 24,
     attributes: undefined,

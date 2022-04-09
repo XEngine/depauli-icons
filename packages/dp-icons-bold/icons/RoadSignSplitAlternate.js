@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignSplitAlternate',
+    name: 'road-sign-split-alternate',
+    key: 'RoadSignSplitAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

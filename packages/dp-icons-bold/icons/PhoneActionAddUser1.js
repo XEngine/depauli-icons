@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionAddUser1',
+    name: 'phone-action-add-user-1',
+    key: 'PhoneActionAddUser1',
     width: 24,
     height: 24,
     attributes: undefined,

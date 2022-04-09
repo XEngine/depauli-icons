@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionShield1',
+    name: 'phone-action-shield-1',
+    key: 'PhoneActionShield1',
     width: 24,
     height: 24,
     attributes: undefined,

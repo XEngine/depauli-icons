@@ -1,5 +1,6 @@
 export default {
-    name: 'DataFileEdit',
+    name: 'data-file-edit',
+    key: 'DataFileEdit',
     width: 24,
     height: 24,
     attributes: undefined,

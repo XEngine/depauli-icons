@@ -1,5 +1,6 @@
 export default {
-    name: 'Flag',
+    name: 'flag',
+    key: 'Flag',
     width: 24,
     height: 24,
     attributes: undefined,

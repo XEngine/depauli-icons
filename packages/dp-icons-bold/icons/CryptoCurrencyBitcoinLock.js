@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinLock',
+    name: 'crypto-currency-bitcoin-lock',
+    key: 'CryptoCurrencyBitcoinLock',
     width: 24,
     height: 24,
     attributes: undefined,

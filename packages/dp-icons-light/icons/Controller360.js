@@ -1,5 +1,6 @@
 export default {
-    name: 'Controller360',
+    name: 'controller-360',
+    key: 'Controller360',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyLolSidewaysAlternate',
+    name: 'smiley-lol-sideways-alternate',
+    key: 'SmileyLolSidewaysAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

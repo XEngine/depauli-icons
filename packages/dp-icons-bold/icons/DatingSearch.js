@@ -1,5 +1,6 @@
 export default {
-    name: 'DatingSearch',
+    name: 'dating-search',
+    key: 'DatingSearch',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CarDashboardLongLightsAlternate',
+    name: 'car-dashboard-long-lights-alternate',
+    key: 'CarDashboardLongLightsAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

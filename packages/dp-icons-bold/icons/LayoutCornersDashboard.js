@@ -1,5 +1,6 @@
 export default {
-    name: 'LayoutCornersDashboard',
+    name: 'layout-corners-dashboard',
+    key: 'LayoutCornersDashboard',
     width: 24,
     height: 24,
     attributes: undefined,

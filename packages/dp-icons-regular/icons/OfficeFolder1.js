@@ -1,5 +1,6 @@
 export default {
-    name: 'OfficeFolder1',
+    name: 'office-folder-1',
+    key: 'OfficeFolder1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

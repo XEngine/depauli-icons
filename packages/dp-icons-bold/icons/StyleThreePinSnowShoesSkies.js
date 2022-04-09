@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinSnowShoesSkies',
+    name: 'style-three-pin-snow-shoes-skies',
+    key: 'StyleThreePinSnowShoesSkies',
     width: 24,
     height: 24,
     attributes: undefined,

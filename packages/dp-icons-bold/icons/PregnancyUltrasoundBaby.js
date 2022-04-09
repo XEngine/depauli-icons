@@ -1,5 +1,6 @@
 export default {
-    name: 'PregnancyUltrasoundBaby',
+    name: 'pregnancy-ultrasound-baby',
+    key: 'PregnancyUltrasoundBaby',
     width: 24,
     height: 24,
     attributes: undefined,

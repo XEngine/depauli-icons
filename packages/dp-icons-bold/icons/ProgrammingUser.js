@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingUser',
+    name: 'programming-user',
+    key: 'ProgrammingUser',
     width: 24,
     height: 24,
     attributes: undefined,

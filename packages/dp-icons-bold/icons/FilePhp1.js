@@ -1,5 +1,6 @@
 export default {
-    name: 'FilePhp1',
+    name: 'file-php-1',
+    key: 'FilePhp1',
     width: 24,
     height: 24,
     attributes: undefined,

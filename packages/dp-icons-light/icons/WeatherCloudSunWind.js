@@ -1,5 +1,6 @@
 export default {
-    name: 'WeatherCloudSunWind',
+    name: 'weather-cloud-sun-wind',
+    key: 'WeatherCloudSunWind',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'LightModeBrightnessAlternate',
+    name: 'light-mode-brightness-alternate',
+    key: 'LightModeBrightnessAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

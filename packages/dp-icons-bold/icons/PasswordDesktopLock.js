@@ -1,5 +1,6 @@
 export default {
-    name: 'PasswordDesktopLock',
+    name: 'password-desktop-lock',
+    key: 'PasswordDesktopLock',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignWidth4m',
+    name: 'road-sign-width-4m',
+    key: 'RoadSignWidth4m',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'MooseBody',
+    name: 'moose-body',
+    key: 'MooseBody',
     width: 24,
     height: 24,
     attributes: undefined,

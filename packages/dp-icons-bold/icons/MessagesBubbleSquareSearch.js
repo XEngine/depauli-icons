@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSquareSearch',
+    name: 'messages-bubble-square-search',
+    key: 'MessagesBubbleSquareSearch',
     width: 24,
     height: 24,
     attributes: undefined,

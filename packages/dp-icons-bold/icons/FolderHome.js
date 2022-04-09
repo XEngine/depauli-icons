@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderHome',
+    name: 'folder-home',
+    key: 'FolderHome',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionDataTransfer1',
+    name: 'phone-action-data-transfer-1',
+    key: 'PhoneActionDataTransfer1',
     width: 24,
     height: 24,
     attributes: undefined,

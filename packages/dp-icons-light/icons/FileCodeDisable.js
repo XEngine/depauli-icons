@@ -1,5 +1,6 @@
 export default {
-    name: 'FileCodeDisable',
+    name: 'file-code-disable',
+    key: 'FileCodeDisable',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

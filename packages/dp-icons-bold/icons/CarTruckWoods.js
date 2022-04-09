@@ -1,5 +1,6 @@
 export default {
-    name: 'CarTruckWoods',
+    name: 'car-truck-woods',
+    key: 'CarTruckWoods',
     width: 24,
     height: 24,
     attributes: undefined,

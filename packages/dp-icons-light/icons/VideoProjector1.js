@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoProjector1',
+    name: 'video-projector-1',
+    key: 'VideoProjector1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

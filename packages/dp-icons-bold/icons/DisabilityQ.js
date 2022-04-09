@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityQ',
+    name: 'disability-q',
+    key: 'DisabilityQ',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralProfilePicture',
+    name: 'single-neutral-profile-picture',
+    key: 'SingleNeutralProfilePicture',
     width: 24,
     height: 24,
     attributes: undefined,

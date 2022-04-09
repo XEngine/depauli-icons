@@ -1,5 +1,6 @@
 export default {
-    name: 'DogPoop',
+    name: 'dog-poop',
+    key: 'DogPoop',
     width: 24,
     height: 24,
     attributes: undefined,

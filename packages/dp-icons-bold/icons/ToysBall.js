@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysBall',
+    name: 'toys-ball',
+    key: 'ToysBall',
     width: 24,
     height: 24,
     attributes: undefined,

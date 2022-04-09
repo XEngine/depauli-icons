@@ -1,5 +1,6 @@
 export default {
-    name: 'CopyPaste',
+    name: 'copy-paste',
+    key: 'CopyPaste',
     width: 24,
     height: 24,
     attributes: undefined,

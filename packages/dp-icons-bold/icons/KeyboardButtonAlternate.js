@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardButtonAlternate',
+    name: 'keyboard-button-alternate',
+    key: 'KeyboardButtonAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ChefGearAsianHat',
+    name: 'chef-gear-asian-hat',
+    key: 'ChefGearAsianHat',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

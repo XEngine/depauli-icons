@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsUpload',
+    name: 'single-neutral-actions-upload',
+    key: 'SingleNeutralActionsUpload',
     width: 24,
     height: 24,
     attributes: undefined,

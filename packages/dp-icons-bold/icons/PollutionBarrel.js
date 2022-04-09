@@ -1,5 +1,6 @@
 export default {
-    name: 'PollutionBarrel',
+    name: 'pollution-barrel',
+    key: 'PollutionBarrel',
     width: 24,
     height: 24,
     attributes: undefined,

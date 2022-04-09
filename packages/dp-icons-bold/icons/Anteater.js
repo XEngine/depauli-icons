@@ -1,5 +1,6 @@
 export default {
-    name: 'Anteater',
+    name: 'anteater',
+    key: 'Anteater',
     width: 24,
     height: 24,
     attributes: undefined,

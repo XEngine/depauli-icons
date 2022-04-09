@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileSelect',
+    name: 'design-file-select',
+    key: 'DesignFileSelect',
     width: 24,
     height: 24,
     attributes: undefined,

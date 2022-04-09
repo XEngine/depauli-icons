@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationProjectorScreenCart',
+    name: 'presentation-projector-screen-cart',
+    key: 'PresentationProjectorScreenCart',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

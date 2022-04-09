@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileDxf',
+    name: 'design-file-dxf',
+    key: 'DesignFileDxf',
     width: 24,
     height: 24,
     attributes: undefined,

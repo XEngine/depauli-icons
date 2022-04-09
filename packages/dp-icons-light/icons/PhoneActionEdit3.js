@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionEdit3',
+    name: 'phone-action-edit-3',
+    key: 'PhoneActionEdit3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

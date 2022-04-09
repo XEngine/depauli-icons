@@ -1,5 +1,6 @@
 export default {
-    name: 'PerformanceGraphCalculator',
+    name: 'performance-graph-calculator',
+    key: 'PerformanceGraphCalculator',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CableCar',
+    name: 'cable-car',
+    key: 'CableCar',
     width: 24,
     height: 24,
     attributes: undefined,

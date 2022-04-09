@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateSignRent',
+    name: 'real-estate-sign-rent',
+    key: 'RealEstateSignRent',
     width: 24,
     height: 24,
     attributes: undefined,

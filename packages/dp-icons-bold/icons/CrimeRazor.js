@@ -1,5 +1,6 @@
 export default {
-    name: 'CrimeRazor',
+    name: 'crime-razor',
+    key: 'CrimeRazor',
     width: 24,
     height: 24,
     attributes: undefined,

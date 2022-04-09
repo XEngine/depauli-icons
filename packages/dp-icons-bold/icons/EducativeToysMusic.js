@@ -1,5 +1,6 @@
 export default {
-    name: 'EducativeToysMusic',
+    name: 'educative-toys-music',
+    key: 'EducativeToysMusic',
     width: 24,
     height: 24,
     attributes: undefined,

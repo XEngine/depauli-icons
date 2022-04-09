@@ -1,5 +1,6 @@
 export default {
-    name: 'HouseChimney',
+    name: 'house-chimney',
+    key: 'HouseChimney',
     width: 24,
     height: 24,
     attributes: undefined,

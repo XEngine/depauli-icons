@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarFavorite1',
+    name: 'calendar-favorite-1',
+    key: 'CalendarFavorite1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

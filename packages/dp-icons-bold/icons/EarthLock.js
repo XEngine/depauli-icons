@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthLock',
+    name: 'earth-lock',
+    key: 'EarthLock',
     width: 24,
     height: 24,
     attributes: undefined,

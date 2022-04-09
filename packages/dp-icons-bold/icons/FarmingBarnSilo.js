@@ -1,5 +1,6 @@
 export default {
-    name: 'FarmingBarnSilo',
+    name: 'farming-barn-silo',
+    key: 'FarmingBarnSilo',
     width: 24,
     height: 24,
     attributes: undefined,

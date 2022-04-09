@@ -1,5 +1,6 @@
 export default {
-    name: 'BaseballScore',
+    name: 'baseball-score',
+    key: 'BaseballScore',
     width: 24,
     height: 24,
     attributes: undefined,

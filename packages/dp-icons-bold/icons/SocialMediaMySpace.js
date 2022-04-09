@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaMySpace',
+    name: 'social-media-my-space',
+    key: 'SocialMediaMySpace',
     width: 24,
     height: 24,
     attributes: undefined,

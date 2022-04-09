@@ -1,5 +1,6 @@
 export default {
-    name: 'LoadingLine',
+    name: 'loading-line',
+    key: 'LoadingLine',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

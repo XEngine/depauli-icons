@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentAdd',
+    name: 'shipment-add',
+    key: 'ShipmentAdd',
     width: 24,
     height: 24,
     attributes: undefined,

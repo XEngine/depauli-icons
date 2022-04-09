@@ -1,5 +1,6 @@
 export default {
-    name: 'SecurityLock',
+    name: 'security-lock',
+    key: 'SecurityLock',
     width: 24,
     height: 24,
     attributes: undefined,

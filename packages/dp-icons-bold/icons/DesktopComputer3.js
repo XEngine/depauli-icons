@@ -1,5 +1,6 @@
 export default {
-    name: 'DesktopComputer3',
+    name: 'desktop-computer-3',
+    key: 'DesktopComputer3',
     width: 24,
     height: 24,
     attributes: undefined,

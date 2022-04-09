@@ -1,5 +1,6 @@
 export default {
-    name: 'HamsterWheel1',
+    name: 'hamster-wheel-1',
+    key: 'HamsterWheel1',
     width: 24,
     height: 24,
     attributes: undefined,

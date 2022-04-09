@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionHeart1',
+    name: 'phone-action-heart-1',
+    key: 'PhoneActionHeart1',
     width: 24,
     height: 24,
     attributes: undefined,

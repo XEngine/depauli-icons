@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardPowerOffAlternate',
+    name: 'keyboard-power-off-alternate',
+    key: 'KeyboardPowerOffAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

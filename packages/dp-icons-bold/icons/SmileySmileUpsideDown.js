@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileySmileUpsideDown',
+    name: 'smiley-smile-upside-down',
+    key: 'SmileySmileUpsideDown',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'LaptopSync',
+    name: 'laptop-sync',
+    key: 'LaptopSync',
     width: 24,
     height: 24,
     attributes: undefined,

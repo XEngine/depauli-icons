@@ -1,5 +1,6 @@
 export default {
-    name: 'RatingStar',
+    name: 'rating-star',
+    key: 'RatingStar',
     width: 24,
     height: 24,
     attributes: undefined,

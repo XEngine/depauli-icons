@@ -1,5 +1,6 @@
 export default {
-    name: 'MaskStar',
+    name: 'mask-star',
+    key: 'MaskStar',
     width: 24,
     height: 24,
     attributes: undefined,

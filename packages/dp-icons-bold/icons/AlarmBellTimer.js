@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmBellTimer',
+    name: 'alarm-bell-timer',
+    key: 'AlarmBellTimer',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareMolds',
+    name: 'kitchenware-molds',
+    key: 'KitchenwareMolds',
     width: 24,
     height: 24,
     attributes: undefined,

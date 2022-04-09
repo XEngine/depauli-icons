@@ -1,5 +1,6 @@
 export default {
-    name: 'TrekkingShelter',
+    name: 'trekking-shelter',
+    key: 'TrekkingShelter',
     width: 24,
     height: 24,
     attributes: undefined,

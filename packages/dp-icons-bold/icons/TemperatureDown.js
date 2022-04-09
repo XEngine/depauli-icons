@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureDown',
+    name: 'temperature-down',
+    key: 'TemperatureDown',
     width: 24,
     height: 24,
     attributes: undefined,

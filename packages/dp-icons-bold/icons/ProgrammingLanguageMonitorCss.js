@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingLanguageMonitorCss',
+    name: 'programming-language-monitor-css',
+    key: 'ProgrammingLanguageMonitorCss',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TripPins',
+    name: 'trip-pins',
+    key: 'TripPins',
     width: 24,
     height: 24,
     attributes: undefined,

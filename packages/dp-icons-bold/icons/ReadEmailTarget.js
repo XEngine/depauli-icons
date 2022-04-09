@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadEmailTarget',
+    name: 'read-email-target',
+    key: 'ReadEmailTarget',
     width: 24,
     height: 24,
     attributes: undefined,

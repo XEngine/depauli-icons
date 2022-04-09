@@ -1,5 +1,6 @@
 export default {
-    name: 'TravelCrossroadDirectionBoard',
+    name: 'travel-crossroad-direction-board',
+    key: 'TravelCrossroadDirectionBoard',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkInformation',
+    name: 'network-information',
+    key: 'NetworkInformation',
     width: 24,
     height: 24,
     attributes: undefined,

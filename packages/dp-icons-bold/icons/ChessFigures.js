@@ -1,5 +1,6 @@
 export default {
-    name: 'ChessFigures',
+    name: 'chess-figures',
+    key: 'ChessFigures',
     width: 24,
     height: 24,
     attributes: undefined,

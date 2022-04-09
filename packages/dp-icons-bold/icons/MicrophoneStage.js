@@ -1,5 +1,6 @@
 export default {
-    name: 'MicrophoneStage',
+    name: 'microphone-stage',
+    key: 'MicrophoneStage',
     width: 24,
     height: 24,
     attributes: undefined,

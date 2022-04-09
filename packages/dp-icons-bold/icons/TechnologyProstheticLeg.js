@@ -1,5 +1,6 @@
 export default {
-    name: 'TechnologyProstheticLeg',
+    name: 'technology-prosthetic-leg',
+    key: 'TechnologyProstheticLeg',
     width: 24,
     height: 24,
     attributes: undefined,

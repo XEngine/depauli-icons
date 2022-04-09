@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridMagnet',
+    name: 'layers-grid-magnet',
+    key: 'LayersGridMagnet',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinJudge',
+    name: 'style-three-pin-judge',
+    key: 'StyleThreePinJudge',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarPlane',
+    name: 'calendar-plane',
+    key: 'CalendarPlane',
     width: 24,
     height: 24,
     attributes: undefined,

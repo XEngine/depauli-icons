@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListWarning',
+    name: 'task-list-warning',
+    key: 'TaskListWarning',
     width: 24,
     height: 24,
     attributes: undefined,

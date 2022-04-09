@@ -1,5 +1,6 @@
 export default {
-    name: 'AlarmBellDisable1',
+    name: 'alarm-bell-disable-1',
+    key: 'AlarmBellDisable1',
     width: 24,
     height: 24,
     attributes: undefined,

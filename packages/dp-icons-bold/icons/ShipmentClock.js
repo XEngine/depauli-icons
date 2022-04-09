@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentClock',
+    name: 'shipment-clock',
+    key: 'ShipmentClock',
     width: 24,
     height: 24,
     attributes: undefined,

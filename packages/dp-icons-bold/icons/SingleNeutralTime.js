@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralTime',
+    name: 'single-neutral-time',
+    key: 'SingleNeutralTime',
     width: 24,
     height: 24,
     attributes: undefined,

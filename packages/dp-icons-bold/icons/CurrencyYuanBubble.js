@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyYuanBubble',
+    name: 'currency-yuan-bubble',
+    key: 'CurrencyYuanBubble',
     width: 24,
     height: 24,
     attributes: undefined,

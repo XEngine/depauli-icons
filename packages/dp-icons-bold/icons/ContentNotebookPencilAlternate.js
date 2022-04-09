@@ -1,5 +1,6 @@
 export default {
-    name: 'ContentNotebookPencilAlternate',
+    name: 'content-notebook-pencil-alternate',
+    key: 'ContentNotebookPencilAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

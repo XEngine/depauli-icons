@@ -1,5 +1,6 @@
 export default {
-    name: 'TicketRemove',
+    name: 'ticket-remove',
+    key: 'TicketRemove',
     width: 24,
     height: 24,
     attributes: undefined,

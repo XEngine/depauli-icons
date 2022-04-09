@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyPetrifiedAlternate',
+    name: 'smiley-petrified-alternate',
+    key: 'SmileyPetrifiedAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

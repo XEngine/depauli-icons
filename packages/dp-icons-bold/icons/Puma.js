@@ -1,5 +1,6 @@
 export default {
-    name: 'Puma',
+    name: 'puma',
+    key: 'Puma',
     width: 24,
     height: 24,
     attributes: undefined,

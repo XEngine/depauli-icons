@@ -1,5 +1,6 @@
 export default {
-    name: 'MoveRight',
+    name: 'move-right',
+    key: 'MoveRight',
     width: 24,
     height: 24,
     attributes: undefined,

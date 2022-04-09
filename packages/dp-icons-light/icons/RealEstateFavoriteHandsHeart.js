@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateFavoriteHandsHeart',
+    name: 'real-estate-favorite-hands-heart',
+    key: 'RealEstateFavoriteHandsHeart',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

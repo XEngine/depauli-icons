@@ -1,5 +1,6 @@
 export default {
-    name: 'BombFireBottle',
+    name: 'bomb-fire-bottle',
+    key: 'BombFireBottle',
     width: 24,
     height: 24,
     attributes: undefined,

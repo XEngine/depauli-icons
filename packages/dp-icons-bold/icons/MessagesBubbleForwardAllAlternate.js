@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleForwardAllAlternate',
+    name: 'messages-bubble-forward-all-alternate',
+    key: 'MessagesBubbleForwardAllAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

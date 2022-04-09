@@ -1,5 +1,6 @@
 export default {
-    name: 'MapsMark',
+    name: 'maps-mark',
+    key: 'MapsMark',
     width: 24,
     height: 24,
     attributes: undefined,

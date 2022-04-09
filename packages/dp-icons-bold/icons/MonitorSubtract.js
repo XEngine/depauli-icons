@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorSubtract',
+    name: 'monitor-subtract',
+    key: 'MonitorSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

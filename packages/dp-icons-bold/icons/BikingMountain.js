@@ -1,5 +1,6 @@
 export default {
-    name: 'BikingMountain',
+    name: 'biking-mountain',
+    key: 'BikingMountain',
     width: 24,
     height: 24,
     attributes: undefined,

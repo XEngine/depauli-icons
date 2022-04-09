@@ -1,5 +1,6 @@
 export default {
-    name: 'SecurityOfficerScannerBeep',
+    name: 'security-officer-scanner-beep',
+    key: 'SecurityOfficerScannerBeep',
     width: 24,
     height: 24,
     attributes: undefined,

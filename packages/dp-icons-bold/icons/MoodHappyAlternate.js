@@ -1,5 +1,6 @@
 export default {
-    name: 'MoodHappyAlternate',
+    name: 'mood-happy-alternate',
+    key: 'MoodHappyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

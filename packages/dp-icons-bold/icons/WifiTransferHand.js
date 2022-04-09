@@ -1,5 +1,6 @@
 export default {
-    name: 'WifiTransferHand',
+    name: 'wifi-transfer-hand',
+    key: 'WifiTransferHand',
     width: 24,
     height: 24,
     attributes: undefined,

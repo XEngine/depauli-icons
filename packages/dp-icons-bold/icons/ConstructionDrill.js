@@ -1,5 +1,6 @@
 export default {
-    name: 'ConstructionDrill',
+    name: 'construction-drill',
+    key: 'ConstructionDrill',
     width: 24,
     height: 24,
     attributes: undefined,

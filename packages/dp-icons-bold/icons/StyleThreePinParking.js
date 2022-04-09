@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinParking',
+    name: 'style-three-pin-parking',
+    key: 'StyleThreePinParking',
     width: 24,
     height: 24,
     attributes: undefined,

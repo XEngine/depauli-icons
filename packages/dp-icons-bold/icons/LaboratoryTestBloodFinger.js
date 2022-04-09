@@ -1,5 +1,6 @@
 export default {
-    name: 'LaboratoryTestBloodFinger',
+    name: 'laboratory-test-blood-finger',
+    key: 'LaboratoryTestBloodFinger',
     width: 24,
     height: 24,
     attributes: undefined,

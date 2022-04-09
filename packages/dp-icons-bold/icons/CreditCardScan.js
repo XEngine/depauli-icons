@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardScan',
+    name: 'credit-card-scan',
+    key: 'CreditCardScan',
     width: 24,
     height: 24,
     attributes: undefined,

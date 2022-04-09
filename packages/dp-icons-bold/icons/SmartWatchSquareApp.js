@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareApp',
+    name: 'smart-watch-square-app',
+    key: 'SmartWatchSquareApp',
     width: 24,
     height: 24,
     attributes: undefined,

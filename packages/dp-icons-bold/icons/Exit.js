@@ -1,5 +1,6 @@
 export default {
-    name: 'Exit',
+    name: 'exit',
+    key: 'Exit',
     width: 24,
     height: 24,
     attributes: undefined,

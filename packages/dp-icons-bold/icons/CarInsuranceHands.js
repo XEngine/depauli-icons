@@ -1,5 +1,6 @@
 export default {
-    name: 'CarInsuranceHands',
+    name: 'car-insurance-hands',
+    key: 'CarInsuranceHands',
     width: 24,
     height: 24,
     attributes: undefined,

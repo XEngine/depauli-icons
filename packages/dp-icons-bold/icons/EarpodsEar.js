@@ -1,5 +1,6 @@
 export default {
-    name: 'EarpodsEar',
+    name: 'earpods-ear',
+    key: 'EarpodsEar',
     width: 24,
     height: 24,
     attributes: undefined,

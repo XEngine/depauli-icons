@@ -1,5 +1,6 @@
 export default {
-    name: 'StrategyChess',
+    name: 'strategy-chess',
+    key: 'StrategyChess',
     width: 24,
     height: 24,
     attributes: undefined,

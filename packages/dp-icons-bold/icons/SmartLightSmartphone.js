@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartLightSmartphone',
+    name: 'smart-light-smartphone',
+    key: 'SmartLightSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

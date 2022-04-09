@@ -1,5 +1,6 @@
 export default {
-    name: 'ButtonSyncing',
+    name: 'button-syncing',
+    key: 'ButtonSyncing',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareMasher',
+    name: 'kitchenware-masher',
+    key: 'KitchenwareMasher',
     width: 24,
     height: 24,
     attributes: undefined,

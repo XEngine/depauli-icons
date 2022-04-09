@@ -1,5 +1,6 @@
 export default {
-    name: 'Delete2',
+    name: 'delete-2',
+    key: 'Delete2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

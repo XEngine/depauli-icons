@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyYuanBill',
+    name: 'currency-yuan-bill',
+    key: 'CurrencyYuanBill',
     width: 24,
     height: 24,
     attributes: undefined,

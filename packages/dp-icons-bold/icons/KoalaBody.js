@@ -1,5 +1,6 @@
 export default {
-    name: 'KoalaBody',
+    name: 'koala-body',
+    key: 'KoalaBody',
     width: 24,
     height: 24,
     attributes: undefined,

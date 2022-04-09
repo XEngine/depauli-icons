@@ -1,5 +1,6 @@
 export default {
-    name: 'GamingFirstPlace',
+    name: 'gaming-first-place',
+    key: 'GamingFirstPlace',
     width: 24,
     height: 24,
     attributes: undefined,

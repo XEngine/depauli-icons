@@ -1,5 +1,6 @@
 export default {
-    name: 'Exe1',
+    name: 'exe-1',
+    key: 'Exe1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TransportationTicketCarTransferBus',
+    name: 'transportation-ticket-car-transfer-bus',
+    key: 'TransportationTicketCarTransferBus',
     width: 24,
     height: 24,
     attributes: undefined,

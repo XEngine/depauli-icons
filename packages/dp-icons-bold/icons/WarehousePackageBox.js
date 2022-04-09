@@ -1,5 +1,6 @@
 export default {
-    name: 'WarehousePackageBox',
+    name: 'warehouse-package-box',
+    key: 'WarehousePackageBox',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BreakupHeartSkull',
+    name: 'breakup-heart-skull',
+    key: 'BreakupHeartSkull',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

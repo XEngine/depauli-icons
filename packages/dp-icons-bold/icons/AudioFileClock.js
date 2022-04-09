@@ -1,5 +1,6 @@
 export default {
-    name: 'AudioFileClock',
+    name: 'audio-file-clock',
+    key: 'AudioFileClock',
     width: 24,
     height: 24,
     attributes: undefined,

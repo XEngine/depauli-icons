@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsAddAlternate',
+    name: 'tags-add-alternate',
+    key: 'TagsAddAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

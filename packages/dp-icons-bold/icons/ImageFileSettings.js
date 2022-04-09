@@ -1,5 +1,6 @@
 export default {
-    name: 'ImageFileSettings',
+    name: 'image-file-settings',
+    key: 'ImageFileSettings',
     width: 24,
     height: 24,
     attributes: undefined,

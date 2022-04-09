@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignerCommunityAdobe',
+    name: 'designer-community-adobe',
+    key: 'DesignerCommunityAdobe',
     width: 24,
     height: 24,
     attributes: undefined,

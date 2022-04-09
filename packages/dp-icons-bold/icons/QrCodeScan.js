@@ -1,5 +1,6 @@
 export default {
-    name: 'QrCodeScan',
+    name: 'qr-code-scan',
+    key: 'QrCodeScan',
     width: 24,
     height: 24,
     attributes: undefined,

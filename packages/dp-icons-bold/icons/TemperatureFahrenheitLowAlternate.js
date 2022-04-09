@@ -1,5 +1,6 @@
 export default {
-    name: 'TemperatureFahrenheitLowAlternate',
+    name: 'temperature-fahrenheit-low-alternate',
+    key: 'TemperatureFahrenheitLowAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

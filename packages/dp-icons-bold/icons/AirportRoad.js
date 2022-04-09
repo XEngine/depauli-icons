@@ -1,5 +1,6 @@
 export default {
-    name: 'AirportRoad',
+    name: 'airport-road',
+    key: 'AirportRoad',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ChristmasSock',
+    name: 'christmas-sock',
+    key: 'ChristmasSock',
     width: 24,
     height: 24,
     attributes: undefined,

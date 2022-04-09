@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorUser',
+    name: 'monitor-user',
+    key: 'MonitorUser',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'BlogBlogger',
+    name: 'blog-blogger',
+    key: 'BlogBlogger',
     width: 24,
     height: 24,
     attributes: undefined,

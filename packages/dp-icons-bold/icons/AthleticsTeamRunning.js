@@ -1,5 +1,6 @@
 export default {
-    name: 'AthleticsTeamRunning',
+    name: 'athletics-team-running',
+    key: 'AthleticsTeamRunning',
     width: 24,
     height: 24,
     attributes: undefined,

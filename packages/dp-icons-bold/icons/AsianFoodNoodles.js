@@ -1,5 +1,6 @@
 export default {
-    name: 'AsianFoodNoodles',
+    name: 'asian-food-noodles',
+    key: 'AsianFoodNoodles',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MartialArtsSwordFencing1',
+    name: 'martial-arts-sword-fencing-1',
+    key: 'MartialArtsSwordFencing1',
     width: 24,
     height: 24,
     attributes: undefined,

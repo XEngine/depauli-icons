@@ -1,5 +1,6 @@
 export default {
-    name: 'FileRb1',
+    name: 'file-rb-1',
+    key: 'FileRb1',
     width: 24,
     height: 24,
     attributes: undefined,

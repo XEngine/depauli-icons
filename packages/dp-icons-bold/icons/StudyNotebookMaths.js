@@ -1,5 +1,6 @@
 export default {
-    name: 'StudyNotebookMaths',
+    name: 'study-notebook-maths',
+    key: 'StudyNotebookMaths',
     width: 24,
     height: 24,
     attributes: undefined,

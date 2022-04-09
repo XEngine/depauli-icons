@@ -1,5 +1,6 @@
 export default {
-    name: 'LockHierarchy',
+    name: 'lock-hierarchy',
+    key: 'LockHierarchy',
     width: 24,
     height: 24,
     attributes: undefined,

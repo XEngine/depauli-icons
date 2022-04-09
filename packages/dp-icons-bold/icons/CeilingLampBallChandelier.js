@@ -1,5 +1,6 @@
 export default {
-    name: 'CeilingLampBallChandelier',
+    name: 'ceiling-lamp-ball-chandelier',
+    key: 'CeilingLampBallChandelier',
     width: 24,
     height: 24,
     attributes: undefined,

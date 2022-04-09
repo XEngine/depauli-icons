@@ -1,5 +1,6 @@
 export default {
-    name: 'ComputerChip2',
+    name: 'computer-chip-2',
+    key: 'ComputerChip2',
     width: 24,
     height: 24,
     attributes: undefined,

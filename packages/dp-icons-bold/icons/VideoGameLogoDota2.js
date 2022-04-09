@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoDota2',
+    name: 'video-game-logo-dota2',
+    key: 'VideoGameLogoDota2',
     width: 24,
     height: 24,
     attributes: undefined,

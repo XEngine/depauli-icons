@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinFlower',
+    name: 'style-three-pin-flower',
+    key: 'StyleThreePinFlower',
     width: 24,
     height: 24,
     attributes: undefined,

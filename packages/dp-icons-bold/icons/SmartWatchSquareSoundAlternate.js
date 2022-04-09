@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchSquareSoundAlternate',
+    name: 'smart-watch-square-sound-alternate',
+    key: 'SmartWatchSquareSoundAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

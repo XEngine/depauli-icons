@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameLogoSmashBros',
+    name: 'video-game-logo-smash-bros',
+    key: 'VideoGameLogoSmashBros',
     width: 24,
     height: 24,
     attributes: undefined,

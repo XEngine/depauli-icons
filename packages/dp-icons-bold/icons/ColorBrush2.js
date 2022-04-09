@@ -1,5 +1,6 @@
 export default {
-    name: 'ColorBrush2',
+    name: 'color-brush-2',
+    key: 'ColorBrush2',
     width: 24,
     height: 24,
     attributes: undefined,

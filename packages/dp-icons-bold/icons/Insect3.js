@@ -1,5 +1,6 @@
 export default {
-    name: 'Insect3',
+    name: 'insect-3',
+    key: 'Insect3',
     width: 24,
     height: 24,
     attributes: undefined,

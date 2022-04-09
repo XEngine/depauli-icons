@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleMail',
+    name: 'smart-watch-circle-mail',
+    key: 'SmartWatchCircleMail',
     width: 24,
     height: 24,
     attributes: undefined,

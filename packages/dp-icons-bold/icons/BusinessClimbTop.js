@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessClimbTop',
+    name: 'business-climb-top',
+    key: 'BusinessClimbTop',
     width: 24,
     height: 24,
     attributes: undefined,

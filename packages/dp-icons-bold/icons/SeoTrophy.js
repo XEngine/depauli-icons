@@ -1,5 +1,6 @@
 export default {
-    name: 'SeoTrophy',
+    name: 'seo-trophy',
+    key: 'SeoTrophy',
     width: 24,
     height: 24,
     attributes: undefined,

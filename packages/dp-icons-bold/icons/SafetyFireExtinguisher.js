@@ -1,5 +1,6 @@
 export default {
-    name: 'SafetyFireExtinguisher',
+    name: 'safety-fire-extinguisher',
+    key: 'SafetyFireExtinguisher',
     width: 24,
     height: 24,
     attributes: undefined,

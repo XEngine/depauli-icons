@@ -1,5 +1,6 @@
 export default {
-    name: 'Composition4To_3',
+    name: 'composition-4-to-3',
+    key: 'Composition4To_3',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AircraftPlaneWater',
+    name: 'aircraft-plane-water',
+    key: 'AircraftPlaneWater',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

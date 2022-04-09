@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileHorizontal',
+    name: 'common-file-horizontal',
+    key: 'CommonFileHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

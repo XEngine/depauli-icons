@@ -1,5 +1,6 @@
 export default {
-    name: 'HistoryNoahSArk',
+    name: 'history-noah-s-ark',
+    key: 'HistoryNoahSArk',
     width: 24,
     height: 24,
     attributes: undefined,

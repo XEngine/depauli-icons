@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsBarbeque',
+    name: 'outdoors-barbeque',
+    key: 'OutdoorsBarbeque',
     width: 24,
     height: 24,
     attributes: undefined,

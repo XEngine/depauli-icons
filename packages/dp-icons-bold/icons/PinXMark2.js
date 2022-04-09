@@ -1,5 +1,6 @@
 export default {
-    name: 'PinXMark2',
+    name: 'pin-x-mark-2',
+    key: 'PinXMark2',
     width: 24,
     height: 24,
     attributes: undefined,

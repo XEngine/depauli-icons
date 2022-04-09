@@ -1,5 +1,6 @@
 export default {
-    name: 'BaseballHelmet',
+    name: 'baseball-helmet',
+    key: 'BaseballHelmet',
     width: 24,
     height: 24,
     attributes: undefined,

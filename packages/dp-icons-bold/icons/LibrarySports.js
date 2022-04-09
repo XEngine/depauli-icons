@@ -1,5 +1,6 @@
 export default {
-    name: 'LibrarySports',
+    name: 'library-sports',
+    key: 'LibrarySports',
     width: 24,
     height: 24,
     attributes: undefined,

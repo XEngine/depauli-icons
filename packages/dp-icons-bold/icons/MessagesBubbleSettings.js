@@ -1,5 +1,6 @@
 export default {
-    name: 'MessagesBubbleSettings',
+    name: 'messages-bubble-settings',
+    key: 'MessagesBubbleSettings',
     width: 24,
     height: 24,
     attributes: undefined,

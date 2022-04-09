@@ -1,5 +1,6 @@
 export default {
-    name: 'WaitingRoomRead',
+    name: 'waiting-room-read',
+    key: 'WaitingRoomRead',
     width: 24,
     height: 24,
     attributes: undefined,

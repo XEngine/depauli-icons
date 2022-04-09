@@ -1,5 +1,6 @@
 export default {
-    name: 'FocusFlower',
+    name: 'focus-flower',
+    key: 'FocusFlower',
     width: 24,
     height: 24,
     attributes: undefined,

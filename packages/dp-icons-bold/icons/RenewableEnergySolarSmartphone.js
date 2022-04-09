@@ -1,5 +1,6 @@
 export default {
-    name: 'RenewableEnergySolarSmartphone',
+    name: 'renewable-energy-solar-smartphone',
+    key: 'RenewableEnergySolarSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

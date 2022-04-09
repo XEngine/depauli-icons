@@ -1,5 +1,6 @@
 export default {
-    name: 'SurveillanceCameraMoving',
+    name: 'surveillance-camera-moving',
+    key: 'SurveillanceCameraMoving',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderEdit1Alternate',
+    name: 'folder-edit-1-alternate',
+    key: 'FolderEdit1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

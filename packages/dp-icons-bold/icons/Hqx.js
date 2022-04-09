@@ -1,5 +1,6 @@
 export default {
-    name: 'Hqx',
+    name: 'hqx',
+    key: 'Hqx',
     width: 24,
     height: 24,
     attributes: undefined,

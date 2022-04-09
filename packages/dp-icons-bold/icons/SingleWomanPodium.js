@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanPodium',
+    name: 'single-woman-podium',
+    key: 'SingleWomanPodium',
     width: 24,
     height: 24,
     attributes: undefined,

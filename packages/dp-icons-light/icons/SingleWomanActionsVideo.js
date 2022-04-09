@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanActionsVideo',
+    name: 'single-woman-actions-video',
+    key: 'SingleWomanActionsVideo',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

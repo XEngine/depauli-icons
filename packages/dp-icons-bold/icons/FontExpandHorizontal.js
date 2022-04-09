@@ -1,5 +1,6 @@
 export default {
-    name: 'FontExpandHorizontal',
+    name: 'font-expand-horizontal',
+    key: 'FontExpandHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

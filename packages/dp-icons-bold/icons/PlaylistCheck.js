@@ -1,5 +1,6 @@
 export default {
-    name: 'PlaylistCheck',
+    name: 'playlist-check',
+    key: 'PlaylistCheck',
     width: 24,
     height: 24,
     attributes: undefined,

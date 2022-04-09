@@ -1,5 +1,6 @@
 export default {
-    name: 'TicketGroup',
+    name: 'ticket-group',
+    key: 'TicketGroup',
     width: 24,
     height: 24,
     attributes: undefined,

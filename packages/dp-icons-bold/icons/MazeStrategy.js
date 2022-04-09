@@ -1,5 +1,6 @@
 export default {
-    name: 'MazeStrategy',
+    name: 'maze-strategy',
+    key: 'MazeStrategy',
     width: 24,
     height: 24,
     attributes: undefined,

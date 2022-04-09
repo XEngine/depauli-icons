@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionCaoDai',
+    name: 'religion-cao-dai',
+    key: 'ReligionCaoDai',
     width: 24,
     height: 24,
     attributes: undefined,

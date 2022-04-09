@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessDealHandshake',
+    name: 'business-deal-handshake',
+    key: 'BusinessDealHandshake',
     width: 24,
     height: 24,
     attributes: undefined,

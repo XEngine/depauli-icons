@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentSubtract',
+    name: 'shipment-subtract',
+    key: 'ShipmentSubtract',
     width: 24,
     height: 24,
     attributes: undefined,

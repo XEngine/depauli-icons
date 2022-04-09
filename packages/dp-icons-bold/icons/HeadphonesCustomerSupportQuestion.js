@@ -1,5 +1,6 @@
 export default {
-    name: 'HeadphonesCustomerSupportQuestion',
+    name: 'headphones-customer-support-question',
+    key: 'HeadphonesCustomerSupportQuestion',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureSwipeVerticalDown',
+    name: 'gesture-swipe-vertical-down',
+    key: 'GestureSwipeVerticalDown',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'VideDocumentQt',
+    name: 'vide-document-qt',
+    key: 'VideDocumentQt',
     width: 24,
     height: 24,
     attributes: undefined,

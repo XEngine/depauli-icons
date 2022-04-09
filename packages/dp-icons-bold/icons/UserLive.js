@@ -1,5 +1,6 @@
 export default {
-    name: 'UserLive',
+    name: 'user-live',
+    key: 'UserLive',
     width: 24,
     height: 24,
     attributes: undefined,

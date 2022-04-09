@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsRibbonPerson2',
+    name: 'gymnastics-ribbon-person-2',
+    key: 'GymnasticsRibbonPerson2',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

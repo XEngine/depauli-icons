@@ -1,5 +1,6 @@
 export default {
-    name: 'AccountingBillStack1',
+    name: 'accounting-bill-stack-1',
+    key: 'AccountingBillStack1',
     width: 24,
     height: 24,
     attributes: undefined,

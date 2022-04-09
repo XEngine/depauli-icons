@@ -1,5 +1,6 @@
 export default {
-    name: 'CdBox',
+    name: 'cd-box',
+    key: 'CdBox',
     width: 24,
     height: 24,
     attributes: undefined,

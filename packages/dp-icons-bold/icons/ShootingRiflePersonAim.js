@@ -1,5 +1,6 @@
 export default {
-    name: 'ShootingRiflePersonAim',
+    name: 'shooting-rifle-person-aim',
+    key: 'ShootingRiflePersonAim',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RetouchSmile',
+    name: 'retouch-smile',
+    key: 'RetouchSmile',
     width: 24,
     height: 24,
     attributes: undefined,

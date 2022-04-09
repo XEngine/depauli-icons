@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramCurveRise',
+    name: 'diagram-curve-rise',
+    key: 'DiagramCurveRise',
     width: 24,
     height: 24,
     attributes: undefined,

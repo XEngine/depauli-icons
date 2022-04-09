@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilySwing',
+    name: 'family-swing',
+    key: 'FamilySwing',
     width: 24,
     height: 24,
     attributes: undefined,

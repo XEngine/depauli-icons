@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowCircleDown',
+    name: 'arrow-circle-down',
+    key: 'ArrowCircleDown',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

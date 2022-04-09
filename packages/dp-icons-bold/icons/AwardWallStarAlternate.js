@@ -1,5 +1,6 @@
 export default {
-    name: 'AwardWallStarAlternate',
+    name: 'award-wall-star-alternate',
+    key: 'AwardWallStarAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

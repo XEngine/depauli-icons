@@ -1,5 +1,6 @@
 export default {
-    name: 'SavingBankDrawer',
+    name: 'saving-bank-drawer',
+    key: 'SavingBankDrawer',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MakeUpEye',
+    name: 'make-up-eye',
+    key: 'MakeUpEye',
     width: 24,
     height: 24,
     attributes: undefined,

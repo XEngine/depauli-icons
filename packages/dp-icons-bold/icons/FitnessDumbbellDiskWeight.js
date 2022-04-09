@@ -1,5 +1,6 @@
 export default {
-    name: 'FitnessDumbbellDiskWeight',
+    name: 'fitness-dumbbell-disk-weight',
+    key: 'FitnessDumbbellDiskWeight',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinExhcange',
+    name: 'crypto-currency-bitcoin-exhcange',
+    key: 'CryptoCurrencyBitcoinExhcange',
     width: 24,
     height: 24,
     attributes: undefined,

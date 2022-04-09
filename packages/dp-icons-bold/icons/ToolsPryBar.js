@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsPryBar',
+    name: 'tools-pry-bar',
+    key: 'ToolsPryBar',
     width: 24,
     height: 24,
     attributes: undefined,

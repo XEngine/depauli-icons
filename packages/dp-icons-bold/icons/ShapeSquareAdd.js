@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapeSquareAdd',
+    name: 'shape-square-add',
+    key: 'ShapeSquareAdd',
     width: 24,
     height: 24,
     attributes: undefined,

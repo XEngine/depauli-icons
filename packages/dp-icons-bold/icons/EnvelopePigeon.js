@@ -1,5 +1,6 @@
 export default {
-    name: 'EnvelopePigeon',
+    name: 'envelope-pigeon',
+    key: 'EnvelopePigeon',
     width: 24,
     height: 24,
     attributes: undefined,

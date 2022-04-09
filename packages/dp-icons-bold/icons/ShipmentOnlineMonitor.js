@@ -1,5 +1,6 @@
 export default {
-    name: 'ShipmentOnlineMonitor',
+    name: 'shipment-online-monitor',
+    key: 'ShipmentOnlineMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

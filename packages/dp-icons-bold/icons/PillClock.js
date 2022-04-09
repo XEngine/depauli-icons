@@ -1,5 +1,6 @@
 export default {
-    name: 'PillClock',
+    name: 'pill-clock',
+    key: 'PillClock',
     width: 24,
     height: 24,
     attributes: undefined,

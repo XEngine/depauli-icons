@@ -1,5 +1,6 @@
 export default {
-    name: 'LaundryIronWater',
+    name: 'laundry-iron-water',
+    key: 'LaundryIronWater',
     width: 24,
     height: 24,
     attributes: undefined,

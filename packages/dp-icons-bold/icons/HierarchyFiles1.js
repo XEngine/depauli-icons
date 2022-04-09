@@ -1,5 +1,6 @@
 export default {
-    name: 'HierarchyFiles1',
+    name: 'hierarchy-files-1',
+    key: 'HierarchyFiles1',
     width: 24,
     height: 24,
     attributes: undefined,

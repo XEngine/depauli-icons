@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinChargingCable1',
+    name: 'style-three-pin-charging-cable-1',
+    key: 'StyleThreePinChargingCable1',
     width: 24,
     height: 24,
     attributes: undefined,

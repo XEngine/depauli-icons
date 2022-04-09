@@ -1,5 +1,6 @@
 export default {
-    name: 'CryptoCurrencyBitcoinSmartphone',
+    name: 'crypto-currency-bitcoin-smartphone',
+    key: 'CryptoCurrencyBitcoinSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'CoupleFilm',
+    name: 'couple-film',
+    key: 'CoupleFilm',
     width: 24,
     height: 24,
     attributes: undefined,

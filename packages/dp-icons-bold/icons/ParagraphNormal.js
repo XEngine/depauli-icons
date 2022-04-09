@@ -1,5 +1,6 @@
 export default {
-    name: 'ParagraphNormal',
+    name: 'paragraph-normal',
+    key: 'ParagraphNormal',
     width: 24,
     height: 24,
     attributes: undefined,

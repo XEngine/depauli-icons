@@ -1,5 +1,6 @@
 export default {
-    name: 'HistorySeat',
+    name: 'history-seat',
+    key: 'HistorySeat',
     width: 24,
     height: 24,
     attributes: undefined,

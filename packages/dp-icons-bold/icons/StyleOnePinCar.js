@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleOnePinCar',
+    name: 'style-one-pin-car',
+    key: 'StyleOnePinCar',
     width: 24,
     height: 24,
     attributes: undefined,

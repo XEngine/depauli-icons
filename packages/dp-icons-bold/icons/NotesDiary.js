@@ -1,5 +1,6 @@
 export default {
-    name: 'NotesDiary',
+    name: 'notes-diary',
+    key: 'NotesDiary',
     width: 24,
     height: 24,
     attributes: undefined,

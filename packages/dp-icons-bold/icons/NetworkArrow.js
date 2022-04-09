@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkArrow',
+    name: 'network-arrow',
+    key: 'NetworkArrow',
     width: 24,
     height: 24,
     attributes: undefined,

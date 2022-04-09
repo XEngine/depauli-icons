@@ -1,5 +1,6 @@
 export default {
-    name: 'PollutionFishAlternate',
+    name: 'pollution-fish-alternate',
+    key: 'PollutionFishAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

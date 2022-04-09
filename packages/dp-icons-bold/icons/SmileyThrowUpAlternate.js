@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyThrowUpAlternate',
+    name: 'smiley-throw-up-alternate',
+    key: 'SmileyThrowUpAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

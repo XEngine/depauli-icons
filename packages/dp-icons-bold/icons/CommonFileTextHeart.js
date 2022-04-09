@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextHeart',
+    name: 'common-file-text-heart',
+    key: 'CommonFileTextHeart',
     width: 24,
     height: 24,
     attributes: undefined,

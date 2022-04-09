@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanMonitor',
+    name: 'single-woman-monitor',
+    key: 'SingleWomanMonitor',
     width: 24,
     height: 24,
     attributes: undefined,

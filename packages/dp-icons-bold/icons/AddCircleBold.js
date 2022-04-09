@@ -1,5 +1,6 @@
 export default {
-    name: 'AddCircleBold',
+    name: 'add-circle-bold',
+    key: 'AddCircleBold',
     width: 24,
     height: 24,
     attributes: undefined,

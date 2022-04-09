@@ -1,5 +1,6 @@
 export default {
-    name: 'LayersGridSettings',
+    name: 'layers-grid-settings',
+    key: 'LayersGridSettings',
     width: 24,
     height: 24,
     attributes: undefined,

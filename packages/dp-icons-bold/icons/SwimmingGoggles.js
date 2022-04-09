@@ -1,5 +1,6 @@
 export default {
-    name: 'SwimmingGoggles',
+    name: 'swimming-goggles',
+    key: 'SwimmingGoggles',
     width: 24,
     height: 24,
     attributes: undefined,

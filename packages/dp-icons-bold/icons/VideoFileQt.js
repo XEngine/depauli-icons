@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoFileQt',
+    name: 'video-file-qt',
+    key: 'VideoFileQt',
     width: 24,
     height: 24,
     attributes: undefined,

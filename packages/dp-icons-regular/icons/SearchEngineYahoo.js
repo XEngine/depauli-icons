@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchEngineYahoo',
+    name: 'search-engine-yahoo',
+    key: 'SearchEngineYahoo',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

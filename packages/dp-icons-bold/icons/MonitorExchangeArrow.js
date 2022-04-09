@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorExchangeArrow',
+    name: 'monitor-exchange-arrow',
+    key: 'MonitorExchangeArrow',
     width: 24,
     height: 24,
     attributes: undefined,

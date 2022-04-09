@@ -1,5 +1,6 @@
 export default {
-    name: 'WeddingCelebration',
+    name: 'wedding-celebration',
+    key: 'WeddingCelebration',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'AsianInteriorFurniture',
+    name: 'asian-interior-furniture',
+    key: 'AsianInteriorFurniture',
     width: 24,
     height: 24,
     attributes: undefined,

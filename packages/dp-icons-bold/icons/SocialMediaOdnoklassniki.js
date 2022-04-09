@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialMediaOdnoklassniki',
+    name: 'social-media-odnoklassniki',
+    key: 'SocialMediaOdnoklassniki',
     width: 24,
     height: 24,
     attributes: undefined,

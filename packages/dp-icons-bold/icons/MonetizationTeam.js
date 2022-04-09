@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationTeam',
+    name: 'monetization-team',
+    key: 'MonetizationTeam',
     width: 24,
     height: 24,
     attributes: undefined,

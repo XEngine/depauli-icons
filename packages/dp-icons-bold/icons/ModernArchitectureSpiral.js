@@ -1,5 +1,6 @@
 export default {
-    name: 'ModernArchitectureSpiral',
+    name: 'modern-architecture-spiral',
+    key: 'ModernArchitectureSpiral',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'Network1',
+    name: 'network-1',
+    key: 'Network1',
     width: 24,
     height: 24,
     attributes: undefined,

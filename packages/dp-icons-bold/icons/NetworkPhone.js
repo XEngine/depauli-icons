@@ -1,5 +1,6 @@
 export default {
-    name: 'NetworkPhone',
+    name: 'network-phone',
+    key: 'NetworkPhone',
     width: 24,
     height: 24,
     attributes: undefined,

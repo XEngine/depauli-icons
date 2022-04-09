@@ -1,5 +1,6 @@
 export default {
-    name: 'EarthSearch',
+    name: 'earth-search',
+    key: 'EarthSearch',
     width: 24,
     height: 24,
     attributes: undefined,

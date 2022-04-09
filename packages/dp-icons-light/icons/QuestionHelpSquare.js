@@ -1,5 +1,6 @@
 export default {
-    name: 'QuestionHelpSquare',
+    name: 'question-help-square',
+    key: 'QuestionHelpSquare',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ToysBalloonAlternate',
+    name: 'toys-balloon-alternate',
+    key: 'ToysBalloonAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'GardeningHandSprinkler',
+    name: 'gardening-hand-sprinkler',
+    key: 'GardeningHandSprinkler',
     width: 24,
     height: 24,
     attributes: undefined,

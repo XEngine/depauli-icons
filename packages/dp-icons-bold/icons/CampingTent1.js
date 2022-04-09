@@ -1,5 +1,6 @@
 export default {
-    name: 'CampingTent1',
+    name: 'camping-tent-1',
+    key: 'CampingTent1',
     width: 24,
     height: 24,
     attributes: undefined,

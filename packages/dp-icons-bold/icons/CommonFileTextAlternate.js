@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileTextAlternate',
+    name: 'common-file-text-alternate',
+    key: 'CommonFileTextAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

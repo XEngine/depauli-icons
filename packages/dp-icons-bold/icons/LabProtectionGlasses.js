@@ -1,5 +1,6 @@
 export default {
-    name: 'LabProtectionGlasses',
+    name: 'lab-protection-glasses',
+    key: 'LabProtectionGlasses',
     width: 24,
     height: 24,
     attributes: undefined,

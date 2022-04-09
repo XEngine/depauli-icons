@@ -1,5 +1,6 @@
 export default {
-    name: 'BuildingFlag',
+    name: 'building-flag',
+    key: 'BuildingFlag',
     width: 24,
     height: 24,
     attributes: undefined,

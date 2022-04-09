@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerChoose',
+    name: 'server-choose',
+    key: 'ServerChoose',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneWrite',
+    name: 'phone-write',
+    key: 'PhoneWrite',
     width: 24,
     height: 24,
     attributes: undefined,

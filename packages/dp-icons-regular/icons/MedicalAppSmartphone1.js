@@ -1,5 +1,6 @@
 export default {
-    name: 'MedicalAppSmartphone1',
+    name: 'medical-app-smartphone-1',
+    key: 'MedicalAppSmartphone1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

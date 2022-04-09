@@ -1,5 +1,6 @@
 export default {
-    name: 'SmartWatchCircleHome',
+    name: 'smart-watch-circle-home',
+    key: 'SmartWatchCircleHome',
     width: 24,
     height: 24,
     attributes: undefined,

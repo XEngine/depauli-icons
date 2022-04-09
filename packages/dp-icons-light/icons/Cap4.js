@@ -1,5 +1,6 @@
 export default {
-    name: 'Cap4',
+    name: 'cap-4',
+    key: 'Cap4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

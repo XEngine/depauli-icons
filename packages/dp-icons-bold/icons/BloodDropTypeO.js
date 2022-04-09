@@ -1,5 +1,6 @@
 export default {
-    name: 'BloodDropTypeO',
+    name: 'blood-drop-type-o',
+    key: 'BloodDropTypeO',
     width: 24,
     height: 24,
     attributes: undefined,

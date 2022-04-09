@@ -1,5 +1,6 @@
 export default {
-    name: 'GingerbreadMan',
+    name: 'gingerbread-man',
+    key: 'GingerbreadMan',
     width: 24,
     height: 24,
     attributes: undefined,

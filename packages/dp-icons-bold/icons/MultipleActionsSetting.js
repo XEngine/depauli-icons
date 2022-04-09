@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsSetting',
+    name: 'multiple-actions-setting',
+    key: 'MultipleActionsSetting',
     width: 24,
     height: 24,
     attributes: undefined,

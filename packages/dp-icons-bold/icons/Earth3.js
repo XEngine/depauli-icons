@@ -1,5 +1,6 @@
 export default {
-    name: 'Earth3',
+    name: 'earth-3',
+    key: 'Earth3',
     width: 24,
     height: 24,
     attributes: undefined,

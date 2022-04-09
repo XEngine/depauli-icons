@@ -1,5 +1,6 @@
 export default {
-    name: 'FolderImageAlternate',
+    name: 'folder-image-alternate',
+    key: 'FolderImageAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

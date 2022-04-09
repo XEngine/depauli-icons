@@ -1,5 +1,6 @@
 export default {
-    name: 'SkiingBobsled',
+    name: 'skiing-bobsled',
+    key: 'SkiingBobsled',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'ConversationChatBubble',
+    name: 'conversation-chat-bubble',
+    key: 'ConversationChatBubble',
     width: 24,
     height: 24,
     attributes: undefined,

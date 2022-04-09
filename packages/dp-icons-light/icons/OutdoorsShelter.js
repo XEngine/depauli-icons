@@ -1,5 +1,6 @@
 export default {
-    name: 'OutdoorsShelter',
+    name: 'outdoors-shelter',
+    key: 'OutdoorsShelter',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

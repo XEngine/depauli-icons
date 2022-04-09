@@ -1,5 +1,6 @@
 export default {
-    name: 'DeathCoffin1',
+    name: 'death-coffin-1',
+    key: 'DeathCoffin1',
     width: 24,
     height: 24,
     attributes: undefined,

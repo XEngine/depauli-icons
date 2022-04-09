@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsJump',
+    name: 'gymnastics-jump',
+    key: 'GymnasticsJump',
     width: 24,
     height: 24,
     attributes: undefined,

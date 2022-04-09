@@ -1,5 +1,6 @@
 export default {
-    name: 'ForceTouchDoubleTap',
+    name: 'force-touch-double-tap',
+    key: 'ForceTouchDoubleTap',
     width: 24,
     height: 24,
     attributes: undefined,

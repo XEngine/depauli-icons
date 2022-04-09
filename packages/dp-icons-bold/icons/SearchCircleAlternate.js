@@ -1,5 +1,6 @@
 export default {
-    name: 'SearchCircleAlternate',
+    name: 'search-circle-alternate',
+    key: 'SearchCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

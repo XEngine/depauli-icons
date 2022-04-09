@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareScooper',
+    name: 'kitchenware-scooper',
+    key: 'KitchenwareScooper',
     width: 24,
     height: 24,
     attributes: undefined,

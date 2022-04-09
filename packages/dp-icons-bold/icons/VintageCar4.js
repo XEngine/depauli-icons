@@ -1,5 +1,6 @@
 export default {
-    name: 'VintageCar4',
+    name: 'vintage-car-4',
+    key: 'VintageCar4',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ConversationSpy',
+    name: 'conversation-spy',
+    key: 'ConversationSpy',
     width: 24,
     height: 24,
     attributes: undefined,

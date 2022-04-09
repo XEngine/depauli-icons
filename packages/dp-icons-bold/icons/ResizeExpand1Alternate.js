@@ -1,5 +1,6 @@
 export default {
-    name: 'ResizeExpand1Alternate',
+    name: 'resize-expand-1-alternate',
+    key: 'ResizeExpand1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

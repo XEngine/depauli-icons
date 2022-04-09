@@ -1,5 +1,6 @@
 export default {
-    name: 'PetTrackingDogSmartphone',
+    name: 'pet-tracking-dog-smartphone',
+    key: 'PetTrackingDogSmartphone',
     width: 24,
     height: 24,
     attributes: undefined,

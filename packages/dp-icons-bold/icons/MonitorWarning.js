@@ -1,5 +1,6 @@
 export default {
-    name: 'MonitorWarning',
+    name: 'monitor-warning',
+    key: 'MonitorWarning',
     width: 24,
     height: 24,
     attributes: undefined,

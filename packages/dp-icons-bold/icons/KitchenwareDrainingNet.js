@@ -1,5 +1,6 @@
 export default {
-    name: 'KitchenwareDrainingNet',
+    name: 'kitchenware-draining-net',
+    key: 'KitchenwareDrainingNet',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ComputerChip4',
+    name: 'computer-chip-4',
+    key: 'ComputerChip4',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

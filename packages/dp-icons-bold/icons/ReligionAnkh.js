@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionAnkh',
+    name: 'religion-ankh',
+    key: 'ReligionAnkh',
     width: 24,
     height: 24,
     attributes: undefined,

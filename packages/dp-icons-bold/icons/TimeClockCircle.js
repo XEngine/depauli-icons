@@ -1,5 +1,6 @@
 export default {
-    name: 'TimeClockCircle',
+    name: 'time-clock-circle',
+    key: 'TimeClockCircle',
     width: 24,
     height: 24,
     attributes: undefined,

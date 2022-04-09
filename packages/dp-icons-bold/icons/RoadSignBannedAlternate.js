@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignBannedAlternate',
+    name: 'road-sign-banned-alternate',
+    key: 'RoadSignBannedAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

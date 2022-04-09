@@ -1,5 +1,6 @@
 export default {
-    name: 'GestureSwipeHorizontalLeftTwoFingers',
+    name: 'gesture-swipe-horizontal-left-two-fingers',
+    key: 'GestureSwipeHorizontalLeftTwoFingers',
     width: 24,
     height: 24,
     attributes: undefined,

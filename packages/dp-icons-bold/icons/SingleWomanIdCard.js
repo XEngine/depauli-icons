@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleWomanIdCard',
+    name: 'single-woman-id-card',
+    key: 'SingleWomanIdCard',
     width: 24,
     height: 24,
     attributes: undefined,

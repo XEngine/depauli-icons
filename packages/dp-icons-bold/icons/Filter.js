@@ -1,5 +1,6 @@
 export default {
-    name: 'Filter',
+    name: 'filter',
+    key: 'Filter',
     width: 24,
     height: 24,
     attributes: undefined,

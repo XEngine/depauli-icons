@@ -1,5 +1,6 @@
 export default {
-    name: 'FilePdf1',
+    name: 'file-pdf-1',
+    key: 'FilePdf1',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignStaggeredCrossroad1',
+    name: 'road-sign-staggered-crossroad-1',
+    key: 'RoadSignStaggeredCrossroad1',
     width: 24,
     height: 24,
     attributes: undefined,

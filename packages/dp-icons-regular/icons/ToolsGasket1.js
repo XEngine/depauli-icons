@@ -1,5 +1,6 @@
 export default {
-    name: 'ToolsGasket1',
+    name: 'tools-gasket-1',
+    key: 'ToolsGasket1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

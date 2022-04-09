@@ -1,5 +1,6 @@
 export default {
-    name: 'CurrencyPoundCircle',
+    name: 'currency-pound-circle',
+    key: 'CurrencyPoundCircle',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'FlashOff',
+    name: 'flash-off',
+    key: 'FlashOff',
     width: 24,
     height: 24,
     attributes: undefined,

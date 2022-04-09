@@ -1,5 +1,6 @@
 export default {
-    name: 'SmileyGrumpyAlternate',
+    name: 'smiley-grumpy-alternate',
+    key: 'SmileyGrumpyAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

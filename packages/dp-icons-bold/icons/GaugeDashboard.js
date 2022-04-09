@@ -1,5 +1,6 @@
 export default {
-    name: 'GaugeDashboard',
+    name: 'gauge-dashboard',
+    key: 'GaugeDashboard',
     width: 24,
     height: 24,
     attributes: undefined,

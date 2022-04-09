@@ -1,5 +1,6 @@
 export default {
-    name: 'DirectionButton1Alternate',
+    name: 'direction-button-1-alternate',
+    key: 'DirectionButton1Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

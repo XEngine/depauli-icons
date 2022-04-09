@@ -1,5 +1,6 @@
 export default {
-    name: 'MuseumPerson',
+    name: 'museum-person',
+    key: 'MuseumPerson',
     width: 24,
     height: 24,
     attributes: undefined,

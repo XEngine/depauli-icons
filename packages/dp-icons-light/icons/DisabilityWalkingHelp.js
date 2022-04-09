@@ -1,5 +1,6 @@
 export default {
-    name: 'DisabilityWalkingHelp',
+    name: 'disability-walking-help',
+    key: 'DisabilityWalkingHelp',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,5 +1,6 @@
 export default {
-    name: 'CasinoDiamondBag',
+    name: 'casino-diamond-bag',
+    key: 'CasinoDiamondBag',
     width: 24,
     height: 24,
     attributes: undefined,

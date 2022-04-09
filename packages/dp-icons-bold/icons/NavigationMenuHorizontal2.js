@@ -1,5 +1,6 @@
 export default {
-    name: 'NavigationMenuHorizontal2',
+    name: 'navigation-menu-horizontal-2',
+    key: 'NavigationMenuHorizontal2',
     width: 24,
     height: 24,
     attributes: undefined,

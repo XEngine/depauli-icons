@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessPiggyBankBroken',
+    name: 'business-piggy-bank-broken',
+    key: 'BusinessPiggyBankBroken',
     width: 24,
     height: 24,
     attributes: undefined,

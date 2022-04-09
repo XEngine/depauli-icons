@@ -1,5 +1,6 @@
 export default {
-    name: 'InsuranceCheap',
+    name: 'insurance-cheap',
+    key: 'InsuranceCheap',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowRectangleDown1',
+    name: 'arrow-rectangle-down-1',
+    key: 'ArrowRectangleDown1',
     width: 24,
     height: 24,
     attributes: undefined,

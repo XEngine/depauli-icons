@@ -1,5 +1,6 @@
 export default {
-    name: 'ServerEdit',
+    name: 'server-edit',
+    key: 'ServerEdit',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleTwoPinHome',
+    name: 'style-two-pin-home',
+    key: 'StyleTwoPinHome',
     width: 24,
     height: 24,
     attributes: undefined,

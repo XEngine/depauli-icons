@@ -1,5 +1,6 @@
 export default {
-    name: 'ProgrammingTeamChat1',
+    name: 'programming-team-chat-1',
+    key: 'ProgrammingTeamChat1',
     width: 24,
     height: 24,
     attributes: undefined,

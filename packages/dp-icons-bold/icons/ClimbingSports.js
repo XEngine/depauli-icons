@@ -1,5 +1,6 @@
 export default {
-    name: 'ClimbingSports',
+    name: 'climbing-sports',
+    key: 'ClimbingSports',
     width: 24,
     height: 24,
     attributes: undefined,

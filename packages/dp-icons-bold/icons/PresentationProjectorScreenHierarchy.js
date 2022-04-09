@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationProjectorScreenHierarchy',
+    name: 'presentation-projector-screen-hierarchy',
+    key: 'PresentationProjectorScreenHierarchy',
     width: 24,
     height: 24,
     attributes: undefined,

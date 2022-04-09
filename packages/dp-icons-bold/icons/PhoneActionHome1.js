@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionHome1',
+    name: 'phone-action-home-1',
+    key: 'PhoneActionHome1',
     width: 24,
     height: 24,
     attributes: undefined,

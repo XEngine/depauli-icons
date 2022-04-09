@@ -1,5 +1,6 @@
 export default {
-    name: 'ToiletSeat',
+    name: 'toilet-seat',
+    key: 'ToiletSeat',
     width: 24,
     height: 24,
     attributes: undefined,

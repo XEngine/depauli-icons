@@ -1,5 +1,6 @@
 export default {
-    name: 'RoomServiceDoNotDisturb',
+    name: 'room-service-do-not-disturb',
+    key: 'RoomServiceDoNotDisturb',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PeopleManCap3',
+    name: 'people-man-cap-3',
+    key: 'PeopleManCap3',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

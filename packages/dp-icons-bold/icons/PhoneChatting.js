@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneChatting',
+    name: 'phone-chatting',
+    key: 'PhoneChatting',
     width: 24,
     height: 24,
     attributes: undefined,

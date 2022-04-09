@@ -1,5 +1,6 @@
 export default {
-    name: 'ReligionManMuslim1',
+    name: 'religion-man-muslim-1',
+    key: 'ReligionManMuslim1',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

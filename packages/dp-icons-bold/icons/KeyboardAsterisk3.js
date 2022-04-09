@@ -1,5 +1,6 @@
 export default {
-    name: 'KeyboardAsterisk3',
+    name: 'keyboard-asterisk-3',
+    key: 'KeyboardAsterisk3',
     width: 24,
     height: 24,
     attributes: undefined,

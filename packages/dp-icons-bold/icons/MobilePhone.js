@@ -1,5 +1,6 @@
 export default {
-    name: 'MobilePhone',
+    name: 'mobile-phone',
+    key: 'MobilePhone',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsFavorite',
+    name: 'tags-favorite',
+    key: 'TagsFavorite',
     width: 24,
     height: 24,
     attributes: undefined,

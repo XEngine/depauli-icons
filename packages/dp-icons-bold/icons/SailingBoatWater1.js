@@ -1,5 +1,6 @@
 export default {
-    name: 'SailingBoatWater1',
+    name: 'sailing-boat-water-1',
+    key: 'SailingBoatWater1',
     width: 24,
     height: 24,
     attributes: undefined,

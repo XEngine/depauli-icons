@@ -1,5 +1,6 @@
 export default {
-    name: 'ReadEmailCircleAlternate',
+    name: 'read-email-circle-alternate',
+    key: 'ReadEmailCircleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateMarketCalculatorBuilding',
+    name: 'real-estate-market-calculator-building',
+    key: 'RealEstateMarketCalculatorBuilding',
     width: 24,
     height: 24,
     attributes: undefined,

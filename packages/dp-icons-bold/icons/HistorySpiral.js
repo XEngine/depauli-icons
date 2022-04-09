@@ -1,5 +1,6 @@
 export default {
-    name: 'HistorySpiral',
+    name: 'history-spiral',
+    key: 'HistorySpiral',
     width: 24,
     height: 24,
     attributes: undefined,

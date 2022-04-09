@@ -1,5 +1,6 @@
 export default {
-    name: 'CommonFileWarning',
+    name: 'common-file-warning',
+    key: 'CommonFileWarning',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'VolumeControlDown3',
+    name: 'volume-control-down-3',
+    key: 'VolumeControlDown3',
     width: 24,
     height: 24,
     attributes: undefined,

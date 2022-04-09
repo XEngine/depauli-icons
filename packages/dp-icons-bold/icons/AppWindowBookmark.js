@@ -1,5 +1,6 @@
 export default {
-    name: 'AppWindowBookmark',
+    name: 'app-window-bookmark',
+    key: 'AppWindowBookmark',
     width: 24,
     height: 24,
     attributes: undefined,

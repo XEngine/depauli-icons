@@ -1,5 +1,6 @@
 export default {
-    name: 'PresentationBoardGraph',
+    name: 'presentation-board-graph',
+    key: 'PresentationBoardGraph',
     width: 24,
     height: 24,
     attributes: undefined,

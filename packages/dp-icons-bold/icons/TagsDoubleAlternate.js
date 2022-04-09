@@ -1,5 +1,6 @@
 export default {
-    name: 'TagsDoubleAlternate',
+    name: 'tags-double-alternate',
+    key: 'TagsDoubleAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

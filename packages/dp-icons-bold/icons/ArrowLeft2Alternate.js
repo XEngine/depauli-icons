@@ -1,5 +1,6 @@
 export default {
-    name: 'ArrowLeft2Alternate',
+    name: 'arrow-left-2-alternate',
+    key: 'ArrowLeft2Alternate',
     width: 24,
     height: 24,
     attributes: undefined,

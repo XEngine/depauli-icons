@@ -1,5 +1,6 @@
 export default {
-    name: 'LandmarksStatueFlag',
+    name: 'landmarks-statue-flag',
+    key: 'LandmarksStatueFlag',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'PodcastLive',
+    name: 'podcast-live',
+    key: 'PodcastLive',
     width: 24,
     height: 24,
     attributes: undefined,

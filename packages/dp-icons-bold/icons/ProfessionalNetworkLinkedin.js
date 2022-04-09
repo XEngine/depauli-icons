@@ -1,5 +1,6 @@
 export default {
-    name: 'ProfessionalNetworkLinkedin',
+    name: 'professional-network-linkedin',
+    key: 'ProfessionalNetworkLinkedin',
     width: 24,
     height: 24,
     attributes: undefined,

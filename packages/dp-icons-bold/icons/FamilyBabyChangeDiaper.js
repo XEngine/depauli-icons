@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyBabyChangeDiaper',
+    name: 'family-baby-change-diaper',
+    key: 'FamilyBabyChangeDiaper',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'HumanResourcesHierarchyMan',
+    name: 'human-resources-hierarchy-man',
+    key: 'HumanResourcesHierarchyMan',
     width: 24,
     height: 24,
     attributes: undefined,

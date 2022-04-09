@@ -1,5 +1,6 @@
 export default {
-    name: 'CreditCardSmartphoneExchange',
+    name: 'credit-card-smartphone-exchange',
+    key: 'CreditCardSmartphoneExchange',
     width: 24,
     height: 24,
     attributes: undefined,

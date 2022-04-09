@@ -1,5 +1,6 @@
 export default {
-    name: 'ShapeCircleAdd',
+    name: 'shape-circle-add',
+    key: 'ShapeCircleAdd',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'MonetizationIdea',
+    name: 'monetization-idea',
+    key: 'MonetizationIdea',
     width: 24,
     height: 24,
     attributes: undefined,

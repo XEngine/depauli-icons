@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskText',
+    name: 'task-text',
+    key: 'TaskText',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DiagramWaveBothDirection',
+    name: 'diagram-wave-both-direction',
+    key: 'DiagramWaveBothDirection',
     width: 24,
     height: 24,
     attributes: undefined,

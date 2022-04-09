@@ -1,5 +1,6 @@
 export default {
-    name: 'CalendarLock1',
+    name: 'calendar-lock-1',
+    key: 'CalendarLock1',
     width: 24,
     height: 24,
     attributes: undefined,

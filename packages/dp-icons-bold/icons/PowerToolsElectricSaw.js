@@ -1,5 +1,6 @@
 export default {
-    name: 'PowerToolsElectricSaw',
+    name: 'power-tools-electric-saw',
+    key: 'PowerToolsElectricSaw',
     width: 24,
     height: 24,
     attributes: undefined,

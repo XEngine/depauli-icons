@@ -1,5 +1,6 @@
 export default {
-    name: 'CursorMoveDown',
+    name: 'cursor-move-down',
+    key: 'CursorMoveDown',
     width: 24,
     height: 24,
     attributes: undefined,

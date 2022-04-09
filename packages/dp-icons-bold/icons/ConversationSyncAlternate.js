@@ -1,5 +1,6 @@
 export default {
-    name: 'ConversationSyncAlternate',
+    name: 'conversation-sync-alternate',
+    key: 'ConversationSyncAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

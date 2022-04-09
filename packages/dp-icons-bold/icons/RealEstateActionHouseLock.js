@@ -1,5 +1,6 @@
 export default {
-    name: 'RealEstateActionHouseLock',
+    name: 'real-estate-action-house-lock',
+    key: 'RealEstateActionHouseLock',
     width: 24,
     height: 24,
     attributes: undefined,

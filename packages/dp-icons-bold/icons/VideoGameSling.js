@@ -1,5 +1,6 @@
 export default {
-    name: 'VideoGameSling',
+    name: 'video-game-sling',
+    key: 'VideoGameSling',
     width: 24,
     height: 24,
     attributes: undefined,

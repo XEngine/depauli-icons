@@ -1,5 +1,6 @@
 export default {
-    name: 'MultipleActionsFlag',
+    name: 'multiple-actions-flag',
+    key: 'MultipleActionsFlag',
     width: 24,
     height: 24,
     attributes: undefined,

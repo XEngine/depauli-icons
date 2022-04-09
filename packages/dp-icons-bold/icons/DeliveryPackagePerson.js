@@ -1,5 +1,6 @@
 export default {
-    name: 'DeliveryPackagePerson',
+    name: 'delivery-package-person',
+    key: 'DeliveryPackagePerson',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'DesignFileText',
+    name: 'design-file-text',
+    key: 'DesignFileText',
     width: 24,
     height: 24,
     attributes: undefined,

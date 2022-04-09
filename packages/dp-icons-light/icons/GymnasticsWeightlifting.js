@@ -1,5 +1,6 @@
 export default {
-    name: 'GymnasticsWeightlifting',
+    name: 'gymnastics-weightlifting',
+    key: 'GymnasticsWeightlifting',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

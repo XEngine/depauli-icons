@@ -1,5 +1,6 @@
 export default {
-    name: 'PinStar',
+    name: 'pin-star',
+    key: 'PinStar',
     width: 24,
     height: 24,
     attributes: undefined,

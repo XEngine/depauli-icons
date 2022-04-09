@@ -1,5 +1,6 @@
 export default {
-    name: 'AlignMiddleMoveHorizontal',
+    name: 'align-middle-move-horizontal',
+    key: 'AlignMiddleMoveHorizontal',
     width: 24,
     height: 24,
     attributes: undefined,

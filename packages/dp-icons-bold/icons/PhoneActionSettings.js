@@ -1,5 +1,6 @@
 export default {
-    name: 'PhoneActionSettings',
+    name: 'phone-action-settings',
+    key: 'PhoneActionSettings',
     width: 24,
     height: 24,
     attributes: undefined,

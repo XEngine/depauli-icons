@@ -1,5 +1,6 @@
 export default {
-    name: 'LockerRoomHangerMan',
+    name: 'locker-room-hanger-man',
+    key: 'LockerRoomHangerMan',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

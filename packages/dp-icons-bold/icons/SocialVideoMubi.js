@@ -1,5 +1,6 @@
 export default {
-    name: 'SocialVideoMubi',
+    name: 'social-video-mubi',
+    key: 'SocialVideoMubi',
     width: 24,
     height: 24,
     attributes: undefined,

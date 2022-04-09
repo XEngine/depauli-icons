@@ -1,5 +1,6 @@
 export default {
-    name: 'BusinessBurnMoney',
+    name: 'business-burn-money',
+    key: 'BusinessBurnMoney',
     width: 24,
     height: 24,
     attributes: undefined,

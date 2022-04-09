@@ -1,5 +1,6 @@
 export default {
-    name: 'ELearningLaptopMath',
+    name: 'e-learning-laptop-math',
+    key: 'ELearningLaptopMath',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'OptimizationTimer',
+    name: 'optimization-timer',
+    key: 'OptimizationTimer',
     width: 24,
     height: 24,
     attributes: undefined,

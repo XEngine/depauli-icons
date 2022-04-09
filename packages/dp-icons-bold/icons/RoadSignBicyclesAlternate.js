@@ -1,5 +1,6 @@
 export default {
-    name: 'RoadSignBicyclesAlternate',
+    name: 'road-sign-bicycles-alternate',
+    key: 'RoadSignBicyclesAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

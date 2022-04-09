@@ -1,5 +1,6 @@
 export default {
-    name: 'PieLineGraphDesktop',
+    name: 'pie-line-graph-desktop',
+    key: 'PieLineGraphDesktop',
     width: 24,
     height: 24,
     attributes: undefined,

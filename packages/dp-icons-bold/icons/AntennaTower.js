@@ -1,5 +1,6 @@
 export default {
-    name: 'AntennaTower',
+    name: 'antenna-tower',
+    key: 'AntennaTower',
     width: 24,
     height: 24,
     attributes: undefined,

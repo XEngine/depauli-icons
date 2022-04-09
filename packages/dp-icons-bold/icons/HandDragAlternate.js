@@ -1,5 +1,6 @@
 export default {
-    name: 'HandDragAlternate',
+    name: 'hand-drag-alternate',
+    key: 'HandDragAlternate',
     width: 24,
     height: 24,
     attributes: undefined,

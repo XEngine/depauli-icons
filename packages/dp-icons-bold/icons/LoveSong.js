@@ -1,5 +1,6 @@
 export default {
-    name: 'LoveSong',
+    name: 'love-song',
+    key: 'LoveSong',
     width: 24,
     height: 24,
     attributes: undefined,

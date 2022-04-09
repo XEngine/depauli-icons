@@ -1,5 +1,6 @@
 export default {
-    name: 'StyleThreePinDentist',
+    name: 'style-three-pin-dentist',
+    key: 'StyleThreePinDentist',
     width: 24,
     height: 24,
     attributes: undefined,

@@ -1,5 +1,6 @@
 export default {
-    name: 'SingleNeutralActionsAlarm',
+    name: 'single-neutral-actions-alarm',
+    key: 'SingleNeutralActionsAlarm',
     width: 24,
     height: 24,
     attributes: undefined,

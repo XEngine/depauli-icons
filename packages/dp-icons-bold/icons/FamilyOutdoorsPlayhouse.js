@@ -1,5 +1,6 @@
 export default {
-    name: 'FamilyOutdoorsPlayhouse',
+    name: 'family-outdoors-playhouse',
+    key: 'FamilyOutdoorsPlayhouse',
     width: 24,
     height: 24,
     attributes: undefined,

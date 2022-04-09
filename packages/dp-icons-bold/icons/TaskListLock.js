@@ -1,5 +1,6 @@
 export default {
-    name: 'TaskListLock',
+    name: 'task-list-lock',
+    key: 'TaskListLock',
     width: 24,
     height: 24,
     attributes: undefined,

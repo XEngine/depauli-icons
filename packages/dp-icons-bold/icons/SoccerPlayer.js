@@ -1,5 +1,6 @@
 export default {
-    name: 'SoccerPlayer',
+    name: 'soccer-player',
+    key: 'SoccerPlayer',
     width: 24,
     height: 24,
     attributes: undefined,
