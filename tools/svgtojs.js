@@ -11,8 +11,8 @@ module.exports = async (name, componentName, content) => {
             'apply-style': false,
         },
     })
-
     let svg = optimize(test, {
+        multipass: true,
         plugins: [
             'removeTitle',
             'removeDesc',
@@ -20,17 +20,18 @@ module.exports = async (name, componentName, content) => {
                 name: 'convertShapeToPath',
                 active: true,
                 params: {
-                    convertArcs: true
+                    convertArcs: true,
                 }
             },
             //css,
             customConvertShapeToPath,
-            mergePath,
+            'mergePaths',
         ]
     }).data;
+
     const svgAst = parseSync(svg)
 
-    const path = svgAst.children.find(child => child.name === 'path').attributes.d
+    const paths = svgAst.children.filter(child => child.name === 'path')
     let style = svgAst.children.find(child => child.name === 'style')?.children[0].value
     if (style) {
         style = style.replace(/#000/g, 'currentColor').match(/{(.*?)}/)[1]
@@ -47,7 +48,7 @@ module.exports = async (name, componentName, content) => {
     width: 24,
     height: 24,
     attributes: ${JSON.stringify(style)},
-    svgPathData: '${path}',
+    svgPathData: ${JSON.stringify(paths.map(x => x.attributes.d))},
 }
 `
 }

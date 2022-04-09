@@ -15,7 +15,7 @@ export default {
     render(createElement, {props, data}) {
         let svg = Library.get(props.icon)
 
-        if(!svg) {
+        if (!svg) {
             return createElement('span')
         }
 
@@ -32,12 +32,13 @@ export default {
                     ...attrs
                 }
             }, [
-                createElement('path', {
-                    attrs: {
-                        'd': `${svg.svgPathData}`,
-                        ...(svg.attributes ?? {})
-                    }
-                })
+                createElement('g', {attrs: {...svg.attributes ?? {}}}, [...svg.svgPathData.map(x => {
+                    return createElement('path', {
+                        attrs: {
+                            d: x,
+                        }
+                    })
+                })])
             ]
         );
     }

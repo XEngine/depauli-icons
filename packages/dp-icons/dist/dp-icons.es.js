@@ -66,11 +66,13 @@ var Component = {
         viewBox: "0 0 24 24"
       }, attrs)
     }, [
-      createElement("path", {
-        attrs: __spreadValues({
-          "d": `${svg.svgPathData}`
-        }, (_a = svg.attributes) != null ? _a : {})
-      })
+      createElement("g", { attrs: __spreadValues({}, (_a = svg.attributes) != null ? _a : {}) }, [...svg.svgPathData.map((x) => {
+        return createElement("path", {
+          attrs: {
+            d: x
+          }
+        });
+      })])
     ]);
   }
 };

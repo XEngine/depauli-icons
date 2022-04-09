@@ -30,12 +30,22 @@ async function main() {
     ]
 
     for (const iconPackage of icons) {
+
+/*        if(iconPackage.package !== 'dp-icons-light'){
+            continue
+        }*/
+
         const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
         const indexContent = []
+
 
         for (const icon of iconFiles) {
             const fileName = icon.split('/').pop().split('.')[0]
             const iconName = componentify(fileName);
+
+          /*  if(iconName !== "Shop"){
+                continue;
+            }*/
 
             if (startsWithNumber(iconName)) {
                 continue;
