@@ -25,12 +25,15 @@ export default {
             height: data.attrs.height || size,
         };
 
+        console.log(data)
+
         return createElement(
             'svg', {
+                ...data,
                 attrs: {
                     viewBox: '0 0 24 24',
                     ...attrs
-                }
+                },
             }, [
                 createElement('g', {attrs: {...svg.attributes ?? {}}}, [...svg.svgPathData.map(x => {
                     return createElement('path', {
