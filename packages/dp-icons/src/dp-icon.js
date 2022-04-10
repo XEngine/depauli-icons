@@ -25,8 +25,6 @@ export default {
             height: data.attrs.height || size,
         };
 
-        console.log(data)
-
         return createElement(
             'svg', {
                 ...data,
