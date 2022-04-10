@@ -64,7 +64,6 @@ var Component = {
       width: data.attrs.width || size,
       height: data.attrs.height || size
     };
-    console.log(data);
     return createElement("svg", __spreadProps(__spreadValues({}, data), {
       attrs: __spreadValues({
         viewBox: "0 0 24 24"
