@@ -1,8 +1,18 @@
 {
   "name": "@depaulisystems/dp-icons-bold",
   "version": "2.0.14",
-  "main": "./index.js",
+  "main": "./dist/dp-icons-bold.umd.js",
+  "module": "./dist/dp-icons-bold.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/dp-icons-bold.es.js",
+      "require": "./dist/dp-icons-bold.umd.js"
+    }
+  },
   "private": false,
+  "scripts": {
+    "build": "vite build"
+  },
   "peerDependencies": {
     "@depaulisystems/dp-icons": "*"
   },
@@ -10,5 +20,8 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "7c0532ca9c5f8bfa310f3165b4fd3da850fc80bd"
+  "gitHead": "7c0532ca9c5f8bfa310f3165b4fd3da850fc80bd",
+  "devDependencies": {
+    "vite": "^2.9.1"
+  }
 }

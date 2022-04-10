@@ -37,8 +37,7 @@ async function main() {
 
         const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
         const indexContent = []
-
-
+        const iconNameContent = []
         for (const icon of iconFiles) {
             const fileName = icon.split('/').pop().split('.')[0]
             const iconName = componentify(fileName);
@@ -60,9 +59,13 @@ async function main() {
                 console.log(e)
             }
 
-            indexContent.push(`export ${iconName} from './icons/${iconName}'`)
+            indexContent.push(`import ${iconName} from './icons/${iconName}'`)
+            iconNameContent.push(iconName)
         }
-        fs.writeFileSync(`./packages/${iconPackage.package}/index.js`, indexContent.join('\n'), "utf8");
+
+        const indexFileResult = `${[...new Set(indexContent)].join('\n')}\n\nexport {${[...new Set(iconNameContent)].join(',\n')}}`
+
+        fs.writeFileSync(`./packages/${iconPackage.package}/index.js`, indexFileResult, "utf8");
     }
 }
 
