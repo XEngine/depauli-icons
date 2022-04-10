@@ -1,4 +1,6 @@
 var __defProp = Object.defineProperty;
+var __defProps = Object.defineProperties;
+var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
 var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
 var __propIsEnum = Object.prototype.propertyIsEnumerable;
@@ -14,6 +16,7 @@ var __spreadValues = (a, b) => {
     }
   return a;
 };
+var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
 class Library {
   constructor() {
     this.store = {};
@@ -61,11 +64,12 @@ var Component = {
       width: data.attrs.width || size,
       height: data.attrs.height || size
     };
-    return createElement("svg", {
+    console.log(data);
+    return createElement("svg", __spreadProps(__spreadValues({}, data), {
       attrs: __spreadValues({
         viewBox: "0 0 24 24"
       }, attrs)
-    }, [
+    }), [
       createElement("g", { attrs: __spreadValues({}, (_a = svg.attributes) != null ? _a : {}) }, [...svg.svgPathData.map((x) => {
         return createElement("path", {
           attrs: {
