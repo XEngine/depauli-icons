@@ -1,6 +1,6 @@
 {
   "name": "@depaulisystems/dp-icons-light",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "main": "./index.js",
   "private": false,
   "scripts": {
