@@ -53,7 +53,7 @@ async function main() {
 
             const svg = await fs.readFile(icon, "utf8");
             try {
-                const component = await svgToVue(fileName, iconName, svg);
+                const component = await svgToVue(fileName, iconName, svg, iconPackage);
                 await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
             } catch (e) {
                 console.log(icon, iconName)

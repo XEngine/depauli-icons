@@ -4,7 +4,7 @@ const mergePath = require('./merge.js');
 const {parseSync} = require('svgson')
 const svgSlim = require('svg-slim');
 
-module.exports = async (name, componentName, content) => {
+module.exports = async (name, componentName, content, iconPackage) => {
 
     let test = await svgSlim(content, {
         "rules": {
@@ -40,7 +40,12 @@ module.exports = async (name, componentName, content) => {
             acc[key.trim()] = value.trim()
             return acc
         }, {})
+    }else if(!style && iconPackage.package === 'dp-icons-bold'){
+        style = {
+            'fill': 'currentColor'
+        }
     }
+
 
     return `export default {
     name: '${name}',
