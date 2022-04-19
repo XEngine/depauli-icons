@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-favorite-heart-1',
     key: 'CalendarFavoriteHeart1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

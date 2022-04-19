@@ -1,6 +1,7 @@
 export default {
     name: 'medical-app-laptop-1',
     key: 'MedicalAppLaptop1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

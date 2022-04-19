@@ -1,6 +1,7 @@
 export default {
     name: 'coffee-cup-hot',
     key: 'CoffeeCupHot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

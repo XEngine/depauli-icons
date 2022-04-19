@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-basket-handle-1',
     key: 'ShoppingBasketHandle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

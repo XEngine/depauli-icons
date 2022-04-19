@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-man-moustache-1',
     key: 'VintageManMoustache1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

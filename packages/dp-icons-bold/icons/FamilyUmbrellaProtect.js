@@ -1,6 +1,7 @@
 export default {
     name: 'family-umbrella-protect',
     key: 'FamilyUmbrellaProtect',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

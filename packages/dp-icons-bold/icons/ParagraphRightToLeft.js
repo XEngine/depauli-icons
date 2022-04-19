@@ -1,6 +1,7 @@
 export default {
     name: 'paragraph-right-to-left',
     key: 'ParagraphRightToLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

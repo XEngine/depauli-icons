@@ -1,6 +1,7 @@
 export default {
     name: 'day-sunset-2',
     key: 'DaySunset2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

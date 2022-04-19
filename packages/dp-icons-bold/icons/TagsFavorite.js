@@ -1,6 +1,7 @@
 export default {
     name: 'tags-favorite',
     key: 'TagsFavorite',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

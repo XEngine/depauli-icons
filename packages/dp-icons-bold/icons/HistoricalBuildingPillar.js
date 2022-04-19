@@ -1,6 +1,7 @@
 export default {
     name: 'historical-building-pillar',
     key: 'HistoricalBuildingPillar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

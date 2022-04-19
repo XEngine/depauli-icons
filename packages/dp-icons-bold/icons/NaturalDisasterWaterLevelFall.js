@@ -1,6 +1,7 @@
 export default {
     name: 'natural-disaster-water-level-fall',
     key: 'NaturalDisasterWaterLevelFall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

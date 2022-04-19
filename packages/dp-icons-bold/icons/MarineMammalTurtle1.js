@@ -1,6 +1,7 @@
 export default {
     name: 'marine-mammal-turtle-1',
     key: 'MarineMammalTurtle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

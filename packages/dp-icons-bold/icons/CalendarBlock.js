@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-block',
     key: 'CalendarBlock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

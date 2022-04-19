@@ -1,6 +1,7 @@
 export default {
     name: 'ceiling-lamp-2',
     key: 'CeilingLamp2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

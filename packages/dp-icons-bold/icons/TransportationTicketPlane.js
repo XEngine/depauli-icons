@@ -1,6 +1,7 @@
 export default {
     name: 'transportation-ticket-plane',
     key: 'TransportationTicketPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

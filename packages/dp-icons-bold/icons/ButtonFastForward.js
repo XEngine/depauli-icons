@@ -1,6 +1,7 @@
 export default {
     name: 'button-fast-forward',
     key: 'ButtonFastForward',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

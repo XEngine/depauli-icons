@@ -1,6 +1,7 @@
 export default {
     name: 'notes-download',
     key: 'NotesDownload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'alert-triangle',
     key: 'AlertTriangle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

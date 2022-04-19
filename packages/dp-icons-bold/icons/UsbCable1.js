@@ -1,6 +1,7 @@
 export default {
     name: 'usb-cable-1',
     key: 'UsbCable1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

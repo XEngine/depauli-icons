@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-dash-down-fast',
     key: 'DiagramDashDownFast',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

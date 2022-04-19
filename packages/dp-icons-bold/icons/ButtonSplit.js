@@ -1,6 +1,7 @@
 export default {
     name: 'button-split',
     key: 'ButtonSplit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-radio-van',
     key: 'StyleThreePinRadioVan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

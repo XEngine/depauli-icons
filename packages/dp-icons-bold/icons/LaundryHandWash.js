@@ -1,6 +1,7 @@
 export default {
     name: 'laundry-hand-wash',
     key: 'LaundryHandWash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-bars-shield',
     key: 'DataFileBarsShield',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

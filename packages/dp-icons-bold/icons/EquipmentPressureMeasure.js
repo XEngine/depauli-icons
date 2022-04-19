@@ -1,6 +1,7 @@
 export default {
     name: 'equipment-pressure-measure',
     key: 'EquipmentPressureMeasure',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-deliver',
     key: 'ShipmentDeliver',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

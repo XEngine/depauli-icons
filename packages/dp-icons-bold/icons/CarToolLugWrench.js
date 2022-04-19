@@ -1,6 +1,7 @@
 export default {
     name: 'car-tool-lug-wrench',
     key: 'CarToolLugWrench',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

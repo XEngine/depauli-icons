@@ -1,6 +1,7 @@
 export default {
     name: 'skiing-cable-car',
     key: 'SkiingCableCar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

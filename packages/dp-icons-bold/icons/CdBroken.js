@@ -1,6 +1,7 @@
 export default {
     name: 'cd-broken',
     key: 'CdBroken',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

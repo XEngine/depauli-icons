@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-control-directions',
     key: 'VideoGameControlDirections',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

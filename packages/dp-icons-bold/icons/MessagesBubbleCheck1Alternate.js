@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-check-1-alternate',
     key: 'MessagesBubbleCheck1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-dash-up-1',
     key: 'DiagramArrowDashUp1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

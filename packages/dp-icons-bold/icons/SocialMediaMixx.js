@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-mixx',
     key: 'SocialMediaMixx',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

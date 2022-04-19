@@ -1,6 +1,7 @@
 export default {
     name: 'hospital-bedroom-graph',
     key: 'HospitalBedroomGraph',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

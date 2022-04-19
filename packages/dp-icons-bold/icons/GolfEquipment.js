@@ -1,6 +1,7 @@
 export default {
     name: 'golf-equipment',
     key: 'GolfEquipment',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'saving-bank-international',
     key: 'SavingBankInternational',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

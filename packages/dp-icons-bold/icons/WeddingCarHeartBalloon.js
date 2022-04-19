@@ -1,6 +1,7 @@
 export default {
     name: 'wedding-car-heart-balloon',
     key: 'WeddingCarHeartBalloon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

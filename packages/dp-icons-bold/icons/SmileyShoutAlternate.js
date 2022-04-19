@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-shout-alternate',
     key: 'SmileyShoutAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

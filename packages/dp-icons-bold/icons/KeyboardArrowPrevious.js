@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-arrow-previous',
     key: 'KeyboardArrowPrevious',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cat-lost',
     key: 'CatLost',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

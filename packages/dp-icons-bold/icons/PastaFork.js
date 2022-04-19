@@ -1,6 +1,7 @@
 export default {
     name: 'pasta-fork',
     key: 'PastaFork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

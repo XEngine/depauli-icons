@@ -1,6 +1,7 @@
 export default {
     name: 'rss-feed-square',
     key: 'RssFeedSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

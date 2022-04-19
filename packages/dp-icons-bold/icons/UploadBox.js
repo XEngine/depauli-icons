@@ -1,6 +1,7 @@
 export default {
     name: 'upload-box',
     key: 'UploadBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'door-password-lock',
     key: 'DoorPasswordLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

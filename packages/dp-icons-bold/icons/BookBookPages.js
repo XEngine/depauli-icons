@@ -1,6 +1,7 @@
 export default {
     name: 'book-book-pages',
     key: 'BookBookPages',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

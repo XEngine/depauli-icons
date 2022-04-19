@@ -1,6 +1,7 @@
 export default {
     name: 'pregnancy-sperm',
     key: 'PregnancySperm',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

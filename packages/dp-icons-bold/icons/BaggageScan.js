@@ -1,6 +1,7 @@
 export default {
     name: 'baggage-scan',
     key: 'BaggageScan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

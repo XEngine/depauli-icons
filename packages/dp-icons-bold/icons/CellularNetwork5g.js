@@ -1,6 +1,7 @@
 export default {
     name: 'cellular-network-5g',
     key: 'CellularNetwork5g',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

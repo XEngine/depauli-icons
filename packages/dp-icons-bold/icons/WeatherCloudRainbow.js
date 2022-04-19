@@ -1,6 +1,7 @@
 export default {
     name: 'weather-cloud-rainbow',
     key: 'WeatherCloudRainbow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

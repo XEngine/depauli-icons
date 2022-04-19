@@ -1,6 +1,7 @@
 export default {
     name: 'pill-clock',
     key: 'PillClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

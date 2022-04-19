@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-square-settings',
     key: 'MessagesBubbleSquareSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

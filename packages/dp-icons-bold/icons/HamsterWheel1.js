@@ -1,6 +1,7 @@
 export default {
     name: 'hamster-wheel-1',
     key: 'HamsterWheel1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

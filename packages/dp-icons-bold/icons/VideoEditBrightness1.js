@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-brightness-1',
     key: 'VideoEditBrightness1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

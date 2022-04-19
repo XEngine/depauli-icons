@@ -1,6 +1,7 @@
 export default {
     name: 'safety-fire-exit-stairs',
     key: 'SafetyFireExitStairs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

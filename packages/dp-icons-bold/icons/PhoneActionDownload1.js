@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-download-1',
     key: 'PhoneActionDownload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

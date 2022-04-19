@@ -1,6 +1,7 @@
 export default {
     name: 'drone-remote',
     key: 'DroneRemote',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

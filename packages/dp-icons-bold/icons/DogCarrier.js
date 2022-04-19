@@ -1,6 +1,7 @@
 export default {
     name: 'dog-carrier',
     key: 'DogCarrier',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'charging-battery-two-bars',
     key: 'ChargingBatteryTwoBars',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

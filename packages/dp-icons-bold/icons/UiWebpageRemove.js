@@ -1,6 +1,7 @@
 export default {
     name: 'ui-webpage-remove',
     key: 'UiWebpageRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'car-retro-luggage',
     key: 'CarRetroLuggage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

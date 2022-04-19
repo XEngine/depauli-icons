@@ -1,6 +1,7 @@
 export default {
     name: 'business-contract-break',
     key: 'BusinessContractBreak',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

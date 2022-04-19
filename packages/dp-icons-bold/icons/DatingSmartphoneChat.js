@@ -1,6 +1,7 @@
 export default {
     name: 'dating-smartphone-chat',
     key: 'DatingSmartphoneChat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

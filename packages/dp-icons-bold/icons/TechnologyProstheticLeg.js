@@ -1,6 +1,7 @@
 export default {
     name: 'technology-prosthetic-leg',
     key: 'TechnologyProstheticLeg',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

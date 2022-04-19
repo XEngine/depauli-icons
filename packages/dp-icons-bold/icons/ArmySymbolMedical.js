@@ -1,6 +1,7 @@
 export default {
     name: 'army-symbol-medical',
     key: 'ArmySymbolMedical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

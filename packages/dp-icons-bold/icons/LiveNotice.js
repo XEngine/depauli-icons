@@ -1,6 +1,7 @@
 export default {
     name: 'live-notice',
     key: 'LiveNotice',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

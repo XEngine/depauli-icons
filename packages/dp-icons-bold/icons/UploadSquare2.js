@@ -1,6 +1,7 @@
 export default {
     name: 'upload-square-2',
     key: 'UploadSquare2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

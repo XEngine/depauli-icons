@@ -1,6 +1,7 @@
 export default {
     name: 'show-theater-mask-sad',
     key: 'ShowTheaterMaskSad',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

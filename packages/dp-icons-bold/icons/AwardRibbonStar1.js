@@ -1,6 +1,7 @@
 export default {
     name: 'award-ribbon-star-1',
     key: 'AwardRibbonStar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

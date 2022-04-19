@@ -1,6 +1,7 @@
 export default {
     name: 'style-one-pin-book',
     key: 'StyleOnePinBook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

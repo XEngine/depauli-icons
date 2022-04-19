@@ -1,6 +1,7 @@
 export default {
     name: 'pathfinder-intersect-alternate',
     key: 'PathfinderIntersectAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

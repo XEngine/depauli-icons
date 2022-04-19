@@ -1,6 +1,7 @@
 export default {
     name: 'currency-yuan-circle',
     key: 'CurrencyYuanCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

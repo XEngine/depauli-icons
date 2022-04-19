@@ -1,6 +1,7 @@
 export default {
     name: 'deforestation-axe-forbidden',
     key: 'DeforestationAxeForbidden',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

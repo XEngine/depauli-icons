@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-circle-play',
     key: 'SmartWatchCirclePlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

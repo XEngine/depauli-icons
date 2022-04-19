@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-button-left-2',
     key: 'ArrowButtonLeft2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

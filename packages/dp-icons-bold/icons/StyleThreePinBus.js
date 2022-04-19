@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-bus',
     key: 'StyleThreePinBus',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

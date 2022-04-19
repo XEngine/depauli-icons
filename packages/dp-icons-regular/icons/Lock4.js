@@ -1,6 +1,7 @@
 export default {
     name: 'lock-4',
     key: 'Lock4',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-width":"1.5"},

@@ -1,6 +1,7 @@
 export default {
     name: 'ranking-people-first',
     key: 'RankingPeopleFirst',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

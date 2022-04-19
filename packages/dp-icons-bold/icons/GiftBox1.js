@@ -1,6 +1,7 @@
 export default {
     name: 'gift-box-1',
     key: 'GiftBox1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

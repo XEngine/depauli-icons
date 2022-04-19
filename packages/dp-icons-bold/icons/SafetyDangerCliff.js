@@ -1,6 +1,7 @@
 export default {
     name: 'safety-danger-cliff',
     key: 'SafetyDangerCliff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

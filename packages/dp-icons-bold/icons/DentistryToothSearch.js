@@ -1,6 +1,7 @@
 export default {
     name: 'dentistry-tooth-search',
     key: 'DentistryToothSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

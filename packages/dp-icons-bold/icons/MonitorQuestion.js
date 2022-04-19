@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-question',
     key: 'MonitorQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

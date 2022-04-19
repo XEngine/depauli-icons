@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-email-alternate',
     key: 'SmartWatchSquareEmailAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

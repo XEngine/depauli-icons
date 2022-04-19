@@ -1,6 +1,7 @@
 export default {
     name: 'broken-tab-remove',
     key: 'BrokenTabRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

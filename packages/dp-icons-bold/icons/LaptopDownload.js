@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-download',
     key: 'LaptopDownload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

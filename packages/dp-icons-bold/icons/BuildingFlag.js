@@ -1,6 +1,7 @@
 export default {
     name: 'building-flag',
     key: 'BuildingFlag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

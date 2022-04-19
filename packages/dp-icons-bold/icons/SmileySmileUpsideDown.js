@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-smile-upside-down',
     key: 'SmileySmileUpsideDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

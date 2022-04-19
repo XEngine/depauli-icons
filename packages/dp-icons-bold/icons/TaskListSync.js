@@ -1,6 +1,7 @@
 export default {
     name: 'task-list-sync',
     key: 'TaskListSync',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

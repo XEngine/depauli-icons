@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-png-1',
     key: 'ImageFilePng1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

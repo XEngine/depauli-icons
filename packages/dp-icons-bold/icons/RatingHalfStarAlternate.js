@@ -1,6 +1,7 @@
 export default {
     name: 'rating-half-star-alternate',
     key: 'RatingHalfStarAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

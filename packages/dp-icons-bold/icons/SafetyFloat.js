@@ -1,6 +1,7 @@
 export default {
     name: 'safety-float',
     key: 'SafetyFloat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

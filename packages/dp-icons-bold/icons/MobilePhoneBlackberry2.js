@@ -1,6 +1,7 @@
 export default {
     name: 'mobile-phone-blackberry-2',
     key: 'MobilePhoneBlackberry2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

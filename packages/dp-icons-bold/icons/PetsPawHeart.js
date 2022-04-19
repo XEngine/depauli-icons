@@ -1,6 +1,7 @@
 export default {
     name: 'pets-paw-heart',
     key: 'PetsPawHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

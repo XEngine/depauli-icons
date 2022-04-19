@@ -1,6 +1,7 @@
 export default {
     name: 'reorder-down',
     key: 'ReorderDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

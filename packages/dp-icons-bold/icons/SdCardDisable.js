@@ -1,6 +1,7 @@
 export default {
     name: 'sd-card-disable',
     key: 'SdCardDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

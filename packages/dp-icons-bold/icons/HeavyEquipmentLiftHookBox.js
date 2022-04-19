@@ -1,6 +1,7 @@
 export default {
     name: 'heavy-equipment-lift-hook-box',
     key: 'HeavyEquipmentLiftHookBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

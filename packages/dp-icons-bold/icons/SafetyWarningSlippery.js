@@ -1,6 +1,7 @@
 export default {
     name: 'safety-warning-slippery',
     key: 'SafetyWarningSlippery',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

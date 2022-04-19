@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-snowflake',
     key: 'ChristmasSnowflake',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

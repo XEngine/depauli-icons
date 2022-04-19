@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-diagonal',
     key: 'DiagramArrowDiagonal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

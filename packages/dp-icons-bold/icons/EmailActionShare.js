@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-share',
     key: 'EmailActionShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

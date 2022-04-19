@@ -1,6 +1,7 @@
 export default {
     name: 'sign-badge-rectangular-round',
     key: 'SignBadgeRectangularRound',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

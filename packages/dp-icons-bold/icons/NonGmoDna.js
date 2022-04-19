@@ -1,6 +1,7 @@
 export default {
     name: 'non-gmo-dna',
     key: 'NonGmoDna',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

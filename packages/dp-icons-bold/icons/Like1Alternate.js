@@ -1,6 +1,7 @@
 export default {
     name: 'like-1-alternate',
     key: 'Like1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

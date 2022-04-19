@@ -1,6 +1,7 @@
 export default {
     name: 'crafts-bottle-art-ship',
     key: 'CraftsBottleArtShip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

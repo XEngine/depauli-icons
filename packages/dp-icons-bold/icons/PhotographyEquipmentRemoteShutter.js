@@ -1,6 +1,7 @@
 export default {
     name: 'photography-equipment-remote-shutter',
     key: 'PhotographyEquipmentRemoteShutter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

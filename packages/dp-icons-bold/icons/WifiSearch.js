@@ -1,6 +1,7 @@
 export default {
     name: 'wifi-search',
     key: 'WifiSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

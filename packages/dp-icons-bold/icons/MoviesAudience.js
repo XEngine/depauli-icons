@@ -1,6 +1,7 @@
 export default {
     name: 'movies-audience',
     key: 'MoviesAudience',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

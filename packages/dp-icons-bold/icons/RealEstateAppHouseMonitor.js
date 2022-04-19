@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-app-house-monitor',
     key: 'RealEstateAppHouseMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tools-hammer-hold',
     key: 'ToolsHammerHold',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'direction-button-arrows',
     key: 'DirectionButtonArrows',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-lock-1',
     key: 'MessagesBubbleLock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

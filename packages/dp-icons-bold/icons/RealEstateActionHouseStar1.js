@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-action-house-star-1',
     key: 'RealEstateActionHouseStar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

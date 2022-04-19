@@ -1,6 +1,7 @@
 export default {
     name: 'casino-player-woman',
     key: 'CasinoPlayerWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

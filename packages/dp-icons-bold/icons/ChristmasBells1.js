@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-bells-1',
     key: 'ChristmasBells1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

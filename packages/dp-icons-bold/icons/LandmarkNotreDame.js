@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-notre-dame',
     key: 'LandmarkNotreDame',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

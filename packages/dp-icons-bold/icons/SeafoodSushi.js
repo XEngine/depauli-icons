@@ -1,6 +1,7 @@
 export default {
     name: 'seafood-sushi',
     key: 'SeafoodSushi',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'asian-food-pork-bun',
     key: 'AsianFoodPorkBun',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

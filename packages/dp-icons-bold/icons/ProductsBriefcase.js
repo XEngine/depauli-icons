@@ -1,6 +1,7 @@
 export default {
     name: 'products-briefcase',
     key: 'ProductsBriefcase',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

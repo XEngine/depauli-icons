@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-hand',
     key: 'CursorHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

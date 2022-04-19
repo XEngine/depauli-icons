@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-question',
     key: 'SingleManQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

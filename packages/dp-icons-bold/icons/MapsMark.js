@@ -1,6 +1,7 @@
 export default {
     name: 'maps-mark',
     key: 'MapsMark',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

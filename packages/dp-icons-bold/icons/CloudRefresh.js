@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-refresh',
     key: 'CloudRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

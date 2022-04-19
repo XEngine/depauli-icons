@@ -1,6 +1,7 @@
 export default {
     name: 'office-file-sheet',
     key: 'OfficeFileSheet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

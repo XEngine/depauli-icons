@@ -1,6 +1,7 @@
 export default {
     name: 'spa-lotus-1',
     key: 'SpaLotus1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

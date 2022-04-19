@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-mario-2',
     key: 'VideoGameMario2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

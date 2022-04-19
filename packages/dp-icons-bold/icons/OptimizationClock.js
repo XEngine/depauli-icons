@@ -1,6 +1,7 @@
 export default {
     name: 'optimization-clock',
     key: 'OptimizationClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

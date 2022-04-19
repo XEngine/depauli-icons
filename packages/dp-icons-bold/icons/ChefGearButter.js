@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-butter',
     key: 'ChefGearButter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

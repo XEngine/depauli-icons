@@ -1,6 +1,7 @@
 export default {
     name: 'barbecue-steak-shrimp',
     key: 'BarbecueSteakShrimp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'hat-sombrero',
     key: 'HatSombrero',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'steampunk-decoration-dia-de-los-muertos',
     key: 'SteampunkDecorationDiaDeLosMuertos',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

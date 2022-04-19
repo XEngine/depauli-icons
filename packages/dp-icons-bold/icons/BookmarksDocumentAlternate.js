@@ -1,6 +1,7 @@
 export default {
     name: 'bookmarks-document-alternate',
     key: 'BookmarksDocumentAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

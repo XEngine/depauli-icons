@@ -1,6 +1,7 @@
 export default {
     name: 'align-right-move',
     key: 'AlignRightMove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

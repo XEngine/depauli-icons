@@ -1,6 +1,7 @@
 export default {
     name: 'amusement-park-ferris-wheel-1',
     key: 'AmusementParkFerrisWheel1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

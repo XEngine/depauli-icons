@@ -1,6 +1,7 @@
 export default {
     name: 'pin-map',
     key: 'PinMap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

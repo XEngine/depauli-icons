@@ -1,6 +1,7 @@
 export default {
     name: 'insect-1',
     key: 'Insect1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

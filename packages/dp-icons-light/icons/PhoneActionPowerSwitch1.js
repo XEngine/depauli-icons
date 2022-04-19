@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-power-switch-1',
     key: 'PhoneActionPowerSwitch1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,6 +1,7 @@
 export default {
     name: 'modern-tv-remote-hand',
     key: 'ModernTvRemoteHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

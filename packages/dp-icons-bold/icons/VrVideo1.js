@@ -1,6 +1,7 @@
 export default {
     name: 'vr-video-1',
     key: 'VrVideo1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

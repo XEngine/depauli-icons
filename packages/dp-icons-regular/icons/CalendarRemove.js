@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-remove',
     key: 'CalendarRemove',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},

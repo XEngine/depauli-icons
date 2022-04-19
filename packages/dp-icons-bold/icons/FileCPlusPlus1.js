@@ -1,6 +1,7 @@
 export default {
     name: 'file-c-plus-plus-1',
     key: 'FileCPlusPlus1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

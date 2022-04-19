@@ -1,6 +1,7 @@
 export default {
     name: 'bus-school',
     key: 'BusSchool',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

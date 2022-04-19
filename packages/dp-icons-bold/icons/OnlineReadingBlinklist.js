@@ -1,6 +1,7 @@
 export default {
     name: 'online-reading-blinklist',
     key: 'OnlineReadingBlinklist',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

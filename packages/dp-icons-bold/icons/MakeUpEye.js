@@ -1,6 +1,7 @@
 export default {
     name: 'make-up-eye',
     key: 'MakeUpEye',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

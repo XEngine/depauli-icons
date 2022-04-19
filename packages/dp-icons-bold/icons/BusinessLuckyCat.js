@@ -1,6 +1,7 @@
 export default {
     name: 'business-lucky-cat',
     key: 'BusinessLuckyCat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

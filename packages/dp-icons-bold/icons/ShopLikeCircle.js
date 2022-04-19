@@ -1,6 +1,7 @@
 export default {
     name: 'shop-like-circle',
     key: 'ShopLikeCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

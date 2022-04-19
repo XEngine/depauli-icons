@@ -1,6 +1,7 @@
 export default {
     name: 'vr-user-globe-human',
     key: 'VrUserGlobeHuman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

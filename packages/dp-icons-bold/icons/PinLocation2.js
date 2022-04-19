@@ -1,6 +1,7 @@
 export default {
     name: 'pin-location-2',
     key: 'PinLocation2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

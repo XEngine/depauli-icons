@@ -1,6 +1,7 @@
 export default {
     name: 'professions-man-chef-2',
     key: 'ProfessionsManChef2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'electronics-battery',
     key: 'ElectronicsBattery',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

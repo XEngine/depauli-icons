@@ -1,6 +1,7 @@
 export default {
     name: 'file-pl-1',
     key: 'FilePl1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

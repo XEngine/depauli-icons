@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-market-calculator-house',
     key: 'RealEstateMarketCalculatorHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

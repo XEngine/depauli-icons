@@ -1,6 +1,7 @@
 export default {
     name: 'mask-circle-alternate',
     key: 'MaskCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

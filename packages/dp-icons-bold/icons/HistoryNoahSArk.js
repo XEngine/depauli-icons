@@ -1,6 +1,7 @@
 export default {
     name: 'history-noah-s-ark',
     key: 'HistoryNoahSArk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

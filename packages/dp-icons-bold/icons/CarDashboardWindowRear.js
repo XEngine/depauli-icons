@@ -1,6 +1,7 @@
 export default {
     name: 'car-dashboard-window-rear',
     key: 'CarDashboardWindowRear',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

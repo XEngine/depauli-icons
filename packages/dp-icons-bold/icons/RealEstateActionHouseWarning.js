@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-action-house-warning',
     key: 'RealEstateActionHouseWarning',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

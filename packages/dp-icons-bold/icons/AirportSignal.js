@@ -1,6 +1,7 @@
 export default {
     name: 'airport-signal',
     key: 'AirportSignal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

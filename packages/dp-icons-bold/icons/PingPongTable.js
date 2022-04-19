@@ -1,6 +1,7 @@
 export default {
     name: 'ping-pong-table',
     key: 'PingPongTable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'font-size',
     key: 'FontSize',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

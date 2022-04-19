@@ -1,6 +1,7 @@
 export default {
     name: 'content-notebook-pencil-alternate',
     key: 'ContentNotebookPencilAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

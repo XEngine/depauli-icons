@@ -1,6 +1,7 @@
 export default {
     name: 'legal-scale-1',
     key: 'LegalScale1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

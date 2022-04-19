@@ -1,6 +1,7 @@
 export default {
     name: 'project-plan-pen',
     key: 'ProjectPlanPen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shape-rhomboid-alternate',
     key: 'ShapeRhomboidAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

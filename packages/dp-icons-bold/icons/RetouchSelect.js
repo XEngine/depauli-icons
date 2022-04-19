@@ -1,6 +1,7 @@
 export default {
     name: 'retouch-select',
     key: 'RetouchSelect',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

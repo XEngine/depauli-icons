@@ -1,6 +1,7 @@
 export default {
     name: 'milk-can',
     key: 'MilkCan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

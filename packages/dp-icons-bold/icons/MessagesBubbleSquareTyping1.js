@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-square-typing-1',
     key: 'MessagesBubbleSquareTyping1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

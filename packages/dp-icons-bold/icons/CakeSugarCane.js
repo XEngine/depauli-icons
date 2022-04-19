@@ -1,6 +1,7 @@
 export default {
     name: 'cake-sugar-cane',
     key: 'CakeSugarCane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

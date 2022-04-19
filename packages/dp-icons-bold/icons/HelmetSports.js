@@ -1,6 +1,7 @@
 export default {
     name: 'helmet-sports',
     key: 'HelmetSports',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-download',
     key: 'CalendarDownload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

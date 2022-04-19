@@ -1,6 +1,7 @@
 export default {
     name: 'reflect-left',
     key: 'ReflectLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

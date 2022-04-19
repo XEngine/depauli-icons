@@ -1,6 +1,7 @@
 export default {
     name: 'heavy-equipment-excavator',
     key: 'HeavyEquipmentExcavator',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

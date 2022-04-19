@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-unhappy-1-alternate',
     key: 'SmileyUnhappy1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

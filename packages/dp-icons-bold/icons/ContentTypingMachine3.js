@@ -1,6 +1,7 @@
 export default {
     name: 'content-typing-machine-3',
     key: 'ContentTypingMachine3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

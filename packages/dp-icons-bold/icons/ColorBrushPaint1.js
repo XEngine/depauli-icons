@@ -1,6 +1,7 @@
 export default {
     name: 'color-brush-paint-1',
     key: 'ColorBrushPaint1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

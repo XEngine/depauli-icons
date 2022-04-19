@@ -1,6 +1,7 @@
 export default {
     name: 'deer-sleep',
     key: 'DeerSleep',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'color-triangle',
     key: 'ColorTriangle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

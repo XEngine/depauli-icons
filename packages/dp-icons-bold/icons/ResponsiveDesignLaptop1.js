@@ -1,6 +1,7 @@
 export default {
     name: 'responsive-design-laptop-1',
     key: 'ResponsiveDesignLaptop1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'show-theater-play',
     key: 'ShowTheaterPlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-lock',
     key: 'MultipleActionsLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'army-woman',
     key: 'ArmyWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

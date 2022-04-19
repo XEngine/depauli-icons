@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-steady-down-1',
     key: 'DiagramSteadyDown1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

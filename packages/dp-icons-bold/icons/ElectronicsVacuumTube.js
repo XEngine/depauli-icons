@@ -1,6 +1,7 @@
 export default {
     name: 'electronics-vacuum-tube',
     key: 'ElectronicsVacuumTube',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

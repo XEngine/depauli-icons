@@ -1,6 +1,7 @@
 export default {
     name: 'blazer-1',
     key: 'Blazer1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

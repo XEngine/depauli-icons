@@ -1,6 +1,7 @@
 export default {
     name: 'music-metronome',
     key: 'MusicMetronome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'professions-man-office-2',
     key: 'ProfessionsManOffice2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

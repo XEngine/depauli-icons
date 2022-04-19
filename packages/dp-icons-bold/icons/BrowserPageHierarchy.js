@@ -1,6 +1,7 @@
 export default {
     name: 'browser-page-hierarchy',
     key: 'BrowserPageHierarchy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

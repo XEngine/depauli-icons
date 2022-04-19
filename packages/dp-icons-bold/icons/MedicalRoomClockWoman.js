@@ -1,6 +1,7 @@
 export default {
     name: 'medical-room-clock-woman',
     key: 'MedicalRoomClockWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

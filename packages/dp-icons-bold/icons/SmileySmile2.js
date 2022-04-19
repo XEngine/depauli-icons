@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-smile-2',
     key: 'SmileySmile2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

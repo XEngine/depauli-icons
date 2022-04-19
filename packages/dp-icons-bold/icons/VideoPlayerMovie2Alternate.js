@@ -1,6 +1,7 @@
 export default {
     name: 'video-player-movie-2-alternate',
     key: 'VideoPlayerMovie2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

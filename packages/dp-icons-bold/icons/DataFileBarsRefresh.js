@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-bars-refresh',
     key: 'DataFileBarsRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

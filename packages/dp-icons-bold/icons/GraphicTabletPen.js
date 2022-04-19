@@ -1,6 +1,7 @@
 export default {
     name: 'graphic-tablet-pen',
     key: 'GraphicTabletPen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

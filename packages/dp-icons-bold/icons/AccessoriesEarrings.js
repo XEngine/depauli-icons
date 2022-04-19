@@ -1,6 +1,7 @@
 export default {
     name: 'accessories-earrings',
     key: 'AccessoriesEarrings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

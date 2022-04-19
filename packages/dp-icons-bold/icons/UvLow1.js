@@ -1,6 +1,7 @@
 export default {
     name: 'uv-low-1',
     key: 'UvLow1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'task-list-clock',
     key: 'TaskListClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

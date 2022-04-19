@@ -1,6 +1,7 @@
 export default {
     name: 'people-woman-glasses-3',
     key: 'PeopleWomanGlasses3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

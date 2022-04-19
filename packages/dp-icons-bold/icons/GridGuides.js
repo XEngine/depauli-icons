@@ -1,6 +1,7 @@
 export default {
     name: 'grid-guides',
     key: 'GridGuides',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

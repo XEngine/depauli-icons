@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-refresh',
     key: 'AudioFileRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

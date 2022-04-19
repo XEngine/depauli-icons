@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-xbox-controller',
     key: 'VideoGameXboxController',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

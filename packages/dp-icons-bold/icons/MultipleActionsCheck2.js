@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-check-2',
     key: 'MultipleActionsCheck2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

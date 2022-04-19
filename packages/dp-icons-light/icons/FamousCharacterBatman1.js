@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-batman-1',
     key: 'FamousCharacterBatman1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

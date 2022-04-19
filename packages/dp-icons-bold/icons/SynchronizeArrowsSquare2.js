@@ -1,6 +1,7 @@
 export default {
     name: 'synchronize-arrows-square-2',
     key: 'SynchronizeArrowsSquare2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

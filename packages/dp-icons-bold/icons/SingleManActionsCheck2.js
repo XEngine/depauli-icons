@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-actions-check-2',
     key: 'SingleManActionsCheck2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

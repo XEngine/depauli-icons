@@ -1,6 +1,7 @@
 export default {
     name: 'weather-cloud-sun-wind-2',
     key: 'WeatherCloudSunWind2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

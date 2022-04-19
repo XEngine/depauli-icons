@@ -1,6 +1,7 @@
 export default {
     name: 'signal-medium',
     key: 'SignalMedium',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

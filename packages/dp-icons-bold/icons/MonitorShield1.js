@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-shield-1',
     key: 'MonitorShield1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

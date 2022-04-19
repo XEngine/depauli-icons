@@ -1,6 +1,7 @@
 export default {
     name: 'database-check',
     key: 'DatabaseCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'ui-webpage-play',
     key: 'UiWebpagePlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

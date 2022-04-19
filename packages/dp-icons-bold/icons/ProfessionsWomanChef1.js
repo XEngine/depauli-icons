@@ -1,6 +1,7 @@
 export default {
     name: 'professions-woman-chef-1',
     key: 'ProfessionsWomanChef1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

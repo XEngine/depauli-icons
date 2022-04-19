@@ -1,6 +1,7 @@
 export default {
     name: 'water-bottle-1',
     key: 'WaterBottle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

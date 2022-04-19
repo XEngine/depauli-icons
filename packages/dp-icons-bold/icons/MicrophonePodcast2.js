@@ -1,6 +1,7 @@
 export default {
     name: 'microphone-podcast-2',
     key: 'MicrophonePodcast2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

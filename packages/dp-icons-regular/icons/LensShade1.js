@@ -1,6 +1,7 @@
 export default {
     name: 'lens-shade-1',
     key: 'LensShade1',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

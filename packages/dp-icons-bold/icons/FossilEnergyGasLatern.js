@@ -1,6 +1,7 @@
 export default {
     name: 'fossil-energy-gas-latern',
     key: 'FossilEnergyGasLatern',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

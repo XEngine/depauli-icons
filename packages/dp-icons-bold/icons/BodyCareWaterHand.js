@@ -1,6 +1,7 @@
 export default {
     name: 'body-care-water-hand',
     key: 'BodyCareWaterHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

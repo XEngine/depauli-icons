@@ -1,6 +1,7 @@
 export default {
     name: 'chair-5',
     key: 'Chair5',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

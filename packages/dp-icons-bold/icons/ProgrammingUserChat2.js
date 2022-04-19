@@ -1,6 +1,7 @@
 export default {
     name: 'programming-user-chat-2',
     key: 'ProgrammingUserChat2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

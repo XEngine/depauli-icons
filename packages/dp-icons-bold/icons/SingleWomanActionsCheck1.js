@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-actions-check-1',
     key: 'SingleWomanActionsCheck1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

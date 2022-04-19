@@ -1,6 +1,7 @@
 export default {
     name: 'crime-man-inmate',
     key: 'CrimeManInmate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

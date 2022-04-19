@@ -1,6 +1,7 @@
 export default {
     name: 'watch-time-1-alternate',
     key: 'WatchTime1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

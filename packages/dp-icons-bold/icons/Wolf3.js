@@ -1,6 +1,7 @@
 export default {
     name: 'wolf-3',
     key: 'Wolf3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

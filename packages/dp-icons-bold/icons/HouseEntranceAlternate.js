@@ -1,6 +1,7 @@
 export default {
     name: 'house-entrance-alternate',
     key: 'HouseEntranceAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

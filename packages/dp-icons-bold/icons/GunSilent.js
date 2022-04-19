@@ -1,6 +1,7 @@
 export default {
     name: 'gun-silent',
     key: 'GunSilent',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

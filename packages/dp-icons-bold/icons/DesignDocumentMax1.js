@@ -1,6 +1,7 @@
 export default {
     name: 'design-document-max-1',
     key: 'DesignDocumentMax1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

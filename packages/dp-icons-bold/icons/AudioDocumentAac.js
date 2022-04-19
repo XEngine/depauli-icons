@@ -1,6 +1,7 @@
 export default {
     name: 'audio-document-aac',
     key: 'AudioDocumentAac',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

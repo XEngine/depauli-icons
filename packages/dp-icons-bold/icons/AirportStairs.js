@@ -1,6 +1,7 @@
 export default {
     name: 'airport-stairs',
     key: 'AirportStairs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

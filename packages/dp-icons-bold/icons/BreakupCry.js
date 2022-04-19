@@ -1,6 +1,7 @@
 export default {
     name: 'breakup-cry',
     key: 'BreakupCry',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-surprised-alternate',
     key: 'SmileySurprisedAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

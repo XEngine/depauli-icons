@@ -1,6 +1,7 @@
 export default {
     name: 'add-tab-alternate',
     key: 'AddTabAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

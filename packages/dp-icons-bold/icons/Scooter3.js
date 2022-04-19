@@ -1,6 +1,7 @@
 export default {
     name: 'scooter-3',
     key: 'Scooter3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

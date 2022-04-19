@@ -1,6 +1,7 @@
 export default {
     name: 'library-hidden',
     key: 'LibraryHidden',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

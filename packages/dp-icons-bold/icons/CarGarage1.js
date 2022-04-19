@@ -1,6 +1,7 @@
 export default {
     name: 'car-garage-1',
     key: 'CarGarage1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

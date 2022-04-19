@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-next',
     key: 'AppWindowNext',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

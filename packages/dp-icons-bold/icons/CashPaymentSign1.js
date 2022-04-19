@@ -1,6 +1,7 @@
 export default {
     name: 'cash-payment-sign-1',
     key: 'CashPaymentSign1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

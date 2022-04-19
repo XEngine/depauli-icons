@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-search-1',
     key: 'FileCodeSearch1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'spider-web-1',
     key: 'SpiderWeb1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

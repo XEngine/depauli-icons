@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-right',
     key: 'ArrowRight',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

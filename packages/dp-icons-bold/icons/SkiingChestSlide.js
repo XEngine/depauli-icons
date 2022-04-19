@@ -1,6 +1,7 @@
 export default {
     name: 'skiing-chest-slide',
     key: 'SkiingChestSlide',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

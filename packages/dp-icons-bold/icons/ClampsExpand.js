@@ -1,6 +1,7 @@
 export default {
     name: 'clamps-expand',
     key: 'ClampsExpand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

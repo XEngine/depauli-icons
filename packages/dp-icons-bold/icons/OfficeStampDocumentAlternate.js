@@ -1,6 +1,7 @@
 export default {
     name: 'office-stamp-document-alternate',
     key: 'OfficeStampDocumentAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

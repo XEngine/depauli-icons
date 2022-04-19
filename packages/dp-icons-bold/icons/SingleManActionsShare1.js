@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-actions-share-1',
     key: 'SingleManActionsShare1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

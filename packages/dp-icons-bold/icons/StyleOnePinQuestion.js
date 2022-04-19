@@ -1,6 +1,7 @@
 export default {
     name: 'style-one-pin-question',
     key: 'StyleOnePinQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

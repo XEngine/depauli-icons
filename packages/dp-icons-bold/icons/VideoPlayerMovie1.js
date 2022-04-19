@@ -1,6 +1,7 @@
 export default {
     name: 'video-player-movie-1',
     key: 'VideoPlayerMovie1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

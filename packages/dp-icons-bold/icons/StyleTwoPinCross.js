@@ -1,6 +1,7 @@
 export default {
     name: 'style-two-pin-cross',
     key: 'StyleTwoPinCross',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

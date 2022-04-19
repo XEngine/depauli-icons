@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-right',
     key: 'DiagramArrowRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

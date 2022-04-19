@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-id-card',
     key: 'SingleManIdCard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

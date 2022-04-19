@@ -1,6 +1,7 @@
 export default {
     name: 'plane-trip-person',
     key: 'PlaneTripPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-double-left',
     key: 'ArrowDoubleLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

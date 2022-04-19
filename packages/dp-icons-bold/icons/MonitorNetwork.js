@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-network',
     key: 'MonitorNetwork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

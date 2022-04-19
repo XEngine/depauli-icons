@@ -1,6 +1,7 @@
 export default {
     name: 'crafts-origami-alternate',
     key: 'CraftsOrigamiAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

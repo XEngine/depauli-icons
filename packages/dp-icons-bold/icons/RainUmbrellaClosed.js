@@ -1,6 +1,7 @@
 export default {
     name: 'rain-umbrella-closed',
     key: 'RainUmbrellaClosed',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

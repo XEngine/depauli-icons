@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-question',
     key: 'ShipmentQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

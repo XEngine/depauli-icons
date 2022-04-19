@@ -1,6 +1,7 @@
 export default {
     name: 'folder-bookmark-1',
     key: 'FolderBookmark1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

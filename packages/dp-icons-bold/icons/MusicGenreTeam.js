@@ -1,6 +1,7 @@
 export default {
     name: 'music-genre-team',
     key: 'MusicGenreTeam',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

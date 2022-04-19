@@ -1,6 +1,7 @@
 export default {
     name: 'volume-control-medium-1',
     key: 'VolumeControlMedium1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'sd-card-subtract',
     key: 'SdCardSubtract',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'plane-boarding-pass-smartphone-check',
     key: 'PlaneBoardingPassSmartphoneCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

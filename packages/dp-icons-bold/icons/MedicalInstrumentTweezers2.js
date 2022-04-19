@@ -1,6 +1,7 @@
 export default {
     name: 'medical-instrument-tweezers-2',
     key: 'MedicalInstrumentTweezers2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

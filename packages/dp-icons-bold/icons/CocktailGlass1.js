@@ -1,6 +1,7 @@
 export default {
     name: 'cocktail-glass-1',
     key: 'CocktailGlass1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

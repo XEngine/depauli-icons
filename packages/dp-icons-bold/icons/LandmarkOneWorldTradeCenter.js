@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-one-world-trade-center',
     key: 'LandmarkOneWorldTradeCenter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-monitor',
     key: 'MeetingMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

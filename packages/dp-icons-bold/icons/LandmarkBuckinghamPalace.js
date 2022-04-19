@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-buckingham-palace',
     key: 'LandmarkBuckinghamPalace',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

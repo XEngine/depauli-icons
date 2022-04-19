@@ -1,6 +1,7 @@
 export default {
     name: 'e-commerce-shopping-bag',
     key: 'ECommerceShoppingBag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

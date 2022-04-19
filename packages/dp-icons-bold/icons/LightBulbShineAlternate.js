@@ -1,6 +1,7 @@
 export default {
     name: 'light-bulb-shine-alternate',
     key: 'LightBulbShineAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

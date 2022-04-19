@@ -1,6 +1,7 @@
 export default {
     name: 'wild-bird-fly',
     key: 'WildBirdFly',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

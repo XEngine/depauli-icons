@@ -1,6 +1,7 @@
 export default {
     name: 'bathroom-shower',
     key: 'BathroomShower',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'history-woman-queen',
     key: 'HistoryWomanQueen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

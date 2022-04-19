@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-text-1',
     key: 'PhoneActionText1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

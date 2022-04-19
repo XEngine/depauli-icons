@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-slippery',
     key: 'RoadSignSlippery',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

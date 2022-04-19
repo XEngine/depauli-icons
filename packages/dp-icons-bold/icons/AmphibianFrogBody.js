@@ -1,6 +1,7 @@
 export default {
     name: 'amphibian-frog-body',
     key: 'AmphibianFrogBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

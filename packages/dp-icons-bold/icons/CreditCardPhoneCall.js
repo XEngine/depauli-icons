@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-phone-call',
     key: 'CreditCardPhoneCall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'weather-cloudy-thunder',
     key: 'WeatherCloudyThunder',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

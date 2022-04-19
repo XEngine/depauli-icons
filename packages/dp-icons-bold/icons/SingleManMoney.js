@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-money',
     key: 'SingleManMoney',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

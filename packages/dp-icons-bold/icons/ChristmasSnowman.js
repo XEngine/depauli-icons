@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-snowman',
     key: 'ChristmasSnowman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

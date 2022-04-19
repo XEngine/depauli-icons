@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-team-settings',
     key: 'HumanResourcesTeamSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

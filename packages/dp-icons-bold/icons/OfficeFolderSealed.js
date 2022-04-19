@@ -1,6 +1,7 @@
 export default {
     name: 'office-folder-sealed',
     key: 'OfficeFolderSealed',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

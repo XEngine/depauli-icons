@@ -1,6 +1,7 @@
 export default {
     name: 'medical-instrument-walking-aid',
     key: 'MedicalInstrumentWalkingAid',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'content-brush-pen',
     key: 'ContentBrushPen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

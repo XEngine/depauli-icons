@@ -1,6 +1,7 @@
 export default {
     name: 'resize-expand-1-alternate',
     key: 'ResizeExpand1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

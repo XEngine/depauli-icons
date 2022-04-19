@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-mario-plant',
     key: 'VideoGameMarioPlant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

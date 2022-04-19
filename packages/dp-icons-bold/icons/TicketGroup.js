@@ -1,6 +1,7 @@
 export default {
     name: 'ticket-group',
     key: 'TicketGroup',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'space-truck-satelite',
     key: 'SpaceTruckSatelite',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cat-bed-1',
     key: 'CatBed1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

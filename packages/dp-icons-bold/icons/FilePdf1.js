@@ -1,6 +1,7 @@
 export default {
     name: 'file-pdf-1',
     key: 'FilePdf1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'graph-stats-circle-alternate',
     key: 'GraphStatsCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

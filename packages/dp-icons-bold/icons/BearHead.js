@@ -1,6 +1,7 @@
 export default {
     name: 'bear-head',
     key: 'BearHead',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

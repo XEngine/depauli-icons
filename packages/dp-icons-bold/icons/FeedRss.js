@@ -1,6 +1,7 @@
 export default {
     name: 'feed-rss',
     key: 'FeedRss',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

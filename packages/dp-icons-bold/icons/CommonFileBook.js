@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-book',
     key: 'CommonFileBook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

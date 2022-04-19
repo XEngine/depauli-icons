@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-lock-1',
     key: 'AppWindowLock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

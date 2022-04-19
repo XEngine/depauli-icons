@@ -1,6 +1,7 @@
 export default {
     name: 'plant-sad',
     key: 'PlantSad',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

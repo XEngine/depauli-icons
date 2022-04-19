@@ -1,6 +1,7 @@
 export default {
     name: 'asp-1',
     key: 'Asp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'e-learning-book-smartphone',
     key: 'ELearningBookSmartphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

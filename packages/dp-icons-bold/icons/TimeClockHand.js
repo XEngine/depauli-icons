@@ -1,6 +1,7 @@
 export default {
     name: 'time-clock-hand',
     key: 'TimeClockHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

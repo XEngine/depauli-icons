@@ -1,6 +1,7 @@
 export default {
     name: 'designer-community-designmoo',
     key: 'DesignerCommunityDesignmoo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

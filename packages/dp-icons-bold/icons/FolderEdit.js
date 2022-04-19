@@ -1,6 +1,7 @@
 export default {
     name: 'folder-edit',
     key: 'FolderEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

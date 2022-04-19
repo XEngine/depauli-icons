@@ -1,6 +1,7 @@
 export default {
     name: 'dog-collar',
     key: 'DogCollar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

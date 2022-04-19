@@ -1,6 +1,7 @@
 export default {
     name: 'lock-circle',
     key: 'LockCircle',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-width":"1.5"},

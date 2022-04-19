@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-forbidden-city',
     key: 'LandmarkForbiddenCity',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

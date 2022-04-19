@@ -1,6 +1,7 @@
 export default {
     name: 'notes-paper-approve',
     key: 'NotesPaperApprove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

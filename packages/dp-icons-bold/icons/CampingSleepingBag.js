@@ -1,6 +1,7 @@
 export default {
     name: 'camping-sleeping-bag',
     key: 'CampingSleepingBag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

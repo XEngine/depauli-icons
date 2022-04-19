@@ -1,6 +1,7 @@
 export default {
     name: 'public-service-ambulance',
     key: 'PublicServiceAmbulance',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

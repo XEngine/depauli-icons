@@ -1,6 +1,7 @@
 export default {
     name: 'circus-tent-1',
     key: 'CircusTent1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

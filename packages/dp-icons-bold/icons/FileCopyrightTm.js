@@ -1,6 +1,7 @@
 export default {
     name: 'file-copyright-tm',
     key: 'FileCopyrightTm',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

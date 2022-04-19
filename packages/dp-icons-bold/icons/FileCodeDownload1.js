@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-download-1',
     key: 'FileCodeDownload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

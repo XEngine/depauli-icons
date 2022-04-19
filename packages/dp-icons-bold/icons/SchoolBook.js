@@ -1,6 +1,7 @@
 export default {
     name: 'school-book',
     key: 'SchoolBook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

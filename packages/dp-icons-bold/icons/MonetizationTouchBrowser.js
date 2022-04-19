@@ -1,6 +1,7 @@
 export default {
     name: 'monetization-touch-browser',
     key: 'MonetizationTouchBrowser',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

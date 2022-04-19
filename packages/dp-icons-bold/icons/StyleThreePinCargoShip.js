@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-cargo-ship',
     key: 'StyleThreePinCargoShip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

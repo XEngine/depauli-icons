@@ -1,6 +1,7 @@
 export default {
     name: 'monetization-phone',
     key: 'MonetizationPhone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

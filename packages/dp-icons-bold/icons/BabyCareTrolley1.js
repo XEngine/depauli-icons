@@ -1,6 +1,7 @@
 export default {
     name: 'baby-care-trolley-1',
     key: 'BabyCareTrolley1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

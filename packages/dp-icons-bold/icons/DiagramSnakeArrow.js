@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-snake-arrow',
     key: 'DiagramSnakeArrow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

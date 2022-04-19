@@ -1,6 +1,7 @@
 export default {
     name: 'app-1',
     key: 'App1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

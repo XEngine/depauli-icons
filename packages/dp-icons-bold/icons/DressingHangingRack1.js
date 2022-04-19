@@ -1,6 +1,7 @@
 export default {
     name: 'dressing-hanging-rack-1',
     key: 'DressingHangingRack1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

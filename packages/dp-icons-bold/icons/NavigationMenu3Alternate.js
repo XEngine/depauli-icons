@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-menu-3-alternate',
     key: 'NavigationMenu3Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'police-hat',
     key: 'PoliceHat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

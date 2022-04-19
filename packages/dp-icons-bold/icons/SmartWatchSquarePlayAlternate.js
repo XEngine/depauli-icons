@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-play-alternate',
     key: 'SmartWatchSquarePlayAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

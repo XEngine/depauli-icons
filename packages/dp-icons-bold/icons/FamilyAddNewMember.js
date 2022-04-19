@@ -1,6 +1,7 @@
 export default {
     name: 'family-add-new-member',
     key: 'FamilyAddNewMember',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-indd-1',
     key: 'DesignFileIndd1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-dwg-1',
     key: 'DesignFileDwg1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

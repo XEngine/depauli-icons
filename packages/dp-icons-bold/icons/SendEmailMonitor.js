@@ -1,6 +1,7 @@
 export default {
     name: 'send-email-monitor',
     key: 'SendEmailMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

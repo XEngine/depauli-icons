@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-rialto-bridge',
     key: 'LandmarkRialtoBridge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

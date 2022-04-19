@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-xing',
     key: 'SocialMediaXing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

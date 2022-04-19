@@ -1,6 +1,7 @@
 export default {
     name: 'room-service-staff',
     key: 'RoomServiceStaff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'bomb-rocket-1',
     key: 'BombRocket1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

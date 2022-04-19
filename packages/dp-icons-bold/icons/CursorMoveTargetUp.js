@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-move-target-up',
     key: 'CursorMoveTargetUp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

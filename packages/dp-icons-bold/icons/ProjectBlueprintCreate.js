@@ -1,6 +1,7 @@
 export default {
     name: 'project-blueprint-create',
     key: 'ProjectBlueprintCreate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

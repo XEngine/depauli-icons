@@ -1,6 +1,7 @@
 export default {
     name: 'organic-plant-root',
     key: 'OrganicPlantRoot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

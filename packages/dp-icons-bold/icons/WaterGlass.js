@@ -1,6 +1,7 @@
 export default {
     name: 'water-glass',
     key: 'WaterGlass',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-smartphone',
     key: 'CreditCardSmartphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

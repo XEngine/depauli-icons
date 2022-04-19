@@ -1,6 +1,7 @@
 export default {
     name: 'cash-briefcase',
     key: 'CashBriefcase',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

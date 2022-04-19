@@ -1,6 +1,7 @@
 export default {
     name: 'folder-add-alternate',
     key: 'FolderAddAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

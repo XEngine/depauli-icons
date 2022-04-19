@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-upload-1',
     key: 'MessagesBubbleUpload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'touch-id-smartphone-1',
     key: 'TouchIdSmartphone1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'currency-euro',
     key: 'CurrencyEuro',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

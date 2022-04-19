@@ -1,6 +1,7 @@
 export default {
     name: 'space-science',
     key: 'SpaceScience',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

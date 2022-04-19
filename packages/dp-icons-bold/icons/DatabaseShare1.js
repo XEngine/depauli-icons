@@ -1,6 +1,7 @@
 export default {
     name: 'database-share-1',
     key: 'DatabaseShare1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

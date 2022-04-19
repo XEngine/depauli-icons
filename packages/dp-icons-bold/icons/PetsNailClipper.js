@@ -1,6 +1,7 @@
 export default {
     name: 'pets-nail-clipper',
     key: 'PetsNailClipper',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

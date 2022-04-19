@@ -1,6 +1,7 @@
 export default {
     name: 'ice-cream-stick',
     key: 'IceCreamStick',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

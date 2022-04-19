@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-tap-expand-all-direction',
     key: 'GestureTapExpandAllDirection',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

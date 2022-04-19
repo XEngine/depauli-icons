@@ -1,6 +1,7 @@
 export default {
     name: 'breakfast-bread-toast',
     key: 'BreakfastBreadToast',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

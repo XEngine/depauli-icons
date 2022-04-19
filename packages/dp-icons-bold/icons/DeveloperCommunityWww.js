@@ -1,6 +1,7 @@
 export default {
     name: 'developer-community-www',
     key: 'DeveloperCommunityWww',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

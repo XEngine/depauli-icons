@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-shield-1',
     key: 'PhoneActionShield1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

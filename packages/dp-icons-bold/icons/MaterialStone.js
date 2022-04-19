@@ -1,6 +1,7 @@
 export default {
     name: 'material-stone',
     key: 'MaterialStone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-shift',
     key: 'KeyboardShift',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

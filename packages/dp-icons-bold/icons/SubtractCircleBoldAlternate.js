@@ -1,6 +1,7 @@
 export default {
     name: 'subtract-circle-bold-alternate',
     key: 'SubtractCircleBoldAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

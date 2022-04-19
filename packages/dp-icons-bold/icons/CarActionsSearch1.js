@@ -1,6 +1,7 @@
 export default {
     name: 'car-actions-search-1',
     key: 'CarActionsSearch1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-shine-big-eyes',
     key: 'SmileyShineBigEyes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

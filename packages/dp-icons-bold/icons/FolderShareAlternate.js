@@ -1,6 +1,7 @@
 export default {
     name: 'folder-share-alternate',
     key: 'FolderShareAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

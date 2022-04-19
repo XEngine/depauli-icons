@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-video-alternate',
     key: 'PaginateFilterVideoAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

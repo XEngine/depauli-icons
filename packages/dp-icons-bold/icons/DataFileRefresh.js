@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-refresh',
     key: 'DataFileRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

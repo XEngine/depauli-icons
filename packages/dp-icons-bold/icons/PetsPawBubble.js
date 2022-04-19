@@ -1,6 +1,7 @@
 export default {
     name: 'pets-paw-bubble',
     key: 'PetsPawBubble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

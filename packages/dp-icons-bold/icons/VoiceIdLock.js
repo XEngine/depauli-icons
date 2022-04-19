@@ -1,6 +1,7 @@
 export default {
     name: 'voice-id-lock',
     key: 'VoiceIdLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

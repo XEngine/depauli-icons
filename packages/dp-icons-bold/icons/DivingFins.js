@@ -1,6 +1,7 @@
 export default {
     name: 'diving-fins',
     key: 'DivingFins',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

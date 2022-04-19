@@ -1,6 +1,7 @@
 export default {
     name: 'plane-trip-land-time',
     key: 'PlaneTripLandTime',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

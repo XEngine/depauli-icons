@@ -1,6 +1,7 @@
 export default {
     name: 'safety-helmlet-mine-light',
     key: 'SafetyHelmletMineLight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

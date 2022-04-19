@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-actions-laptop',
     key: 'SingleNeutralActionsLaptop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

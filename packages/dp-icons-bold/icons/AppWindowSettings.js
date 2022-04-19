@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-settings',
     key: 'AppWindowSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

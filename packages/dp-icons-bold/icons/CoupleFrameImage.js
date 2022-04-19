@@ -1,6 +1,7 @@
 export default {
     name: 'couple-frame-image',
     key: 'CoupleFrameImage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

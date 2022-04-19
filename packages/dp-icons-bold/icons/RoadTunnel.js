@@ -1,6 +1,7 @@
 export default {
     name: 'road-tunnel',
     key: 'RoadTunnel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

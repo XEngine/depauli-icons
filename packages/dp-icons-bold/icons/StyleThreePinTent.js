@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-tent',
     key: 'StyleThreePinTent',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

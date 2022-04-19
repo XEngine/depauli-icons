@@ -1,6 +1,7 @@
 export default {
     name: 'profile-woman-cash-message',
     key: 'ProfileWomanCashMessage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

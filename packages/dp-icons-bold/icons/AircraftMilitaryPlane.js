@@ -1,6 +1,7 @@
 export default {
     name: 'aircraft-military-plane',
     key: 'AircraftMilitaryPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

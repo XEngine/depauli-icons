@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-action-building-add',
     key: 'RealEstateActionBuildingAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

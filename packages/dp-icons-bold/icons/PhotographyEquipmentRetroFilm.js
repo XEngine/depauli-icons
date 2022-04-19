@@ -1,6 +1,7 @@
 export default {
     name: 'photography-equipment-retro-film',
     key: 'PhotographyEquipmentRetroFilm',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

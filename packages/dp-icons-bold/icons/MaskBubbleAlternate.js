@@ -1,6 +1,7 @@
 export default {
     name: 'mask-bubble-alternate',
     key: 'MaskBubbleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'garbage-bin-throw',
     key: 'GarbageBinThrow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

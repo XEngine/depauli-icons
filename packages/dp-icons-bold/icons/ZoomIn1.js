@@ -1,6 +1,7 @@
 export default {
     name: 'zoom-in-1',
     key: 'ZoomIn1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-gamasutra-1',
     key: 'VideoGameGamasutra1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

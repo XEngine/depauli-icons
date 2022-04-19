@@ -1,6 +1,7 @@
 export default {
     name: 'bathroom-laundry-bin',
     key: 'BathroomLaundryBin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

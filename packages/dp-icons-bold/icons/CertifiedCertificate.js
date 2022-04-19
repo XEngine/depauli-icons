@@ -1,6 +1,7 @@
 export default {
     name: 'certified-certificate',
     key: 'CertifiedCertificate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'religion-man-japan',
     key: 'ReligionManJapan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

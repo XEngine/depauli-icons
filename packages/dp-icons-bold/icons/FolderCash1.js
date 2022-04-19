@@ -1,6 +1,7 @@
 export default {
     name: 'folder-cash-1',
     key: 'FolderCash1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'indent-decrease',
     key: 'IndentDecrease',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

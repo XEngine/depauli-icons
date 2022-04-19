@@ -1,6 +1,7 @@
 export default {
     name: 'shelf-tv-1',
     key: 'ShelfTv1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

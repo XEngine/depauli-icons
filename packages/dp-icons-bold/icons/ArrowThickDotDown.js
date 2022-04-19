@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-thick-dot-down',
     key: 'ArrowThickDotDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

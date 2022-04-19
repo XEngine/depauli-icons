@@ -1,6 +1,7 @@
 export default {
     name: 'wolf-body-howl',
     key: 'WolfBodyHowl',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

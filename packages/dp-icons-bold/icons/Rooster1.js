@@ -1,6 +1,7 @@
 export default {
     name: 'rooster-1',
     key: 'Rooster1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

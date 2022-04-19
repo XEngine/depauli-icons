@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-netherlands-windmill-1',
     key: 'LandmarkNetherlandsWindmill1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

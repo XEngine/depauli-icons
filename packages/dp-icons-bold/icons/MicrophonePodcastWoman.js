@@ -1,6 +1,7 @@
 export default {
     name: 'microphone-podcast-woman',
     key: 'MicrophonePodcastWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

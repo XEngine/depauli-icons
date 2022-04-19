@@ -1,6 +1,7 @@
 export default {
     name: 'transfer-pictures-laptop',
     key: 'TransferPicturesLaptop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

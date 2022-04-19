@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-postcard-1',
     key: 'ChristmasPostcard1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

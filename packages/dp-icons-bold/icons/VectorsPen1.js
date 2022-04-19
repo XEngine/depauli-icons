@@ -1,6 +1,7 @@
 export default {
     name: 'vectors-pen-1',
     key: 'VectorsPen1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-tree-ornaments-gift',
     key: 'ChristmasTreeOrnamentsGift',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

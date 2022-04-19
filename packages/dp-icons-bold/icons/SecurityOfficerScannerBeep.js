@@ -1,6 +1,7 @@
 export default {
     name: 'security-officer-scanner-beep',
     key: 'SecurityOfficerScannerBeep',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

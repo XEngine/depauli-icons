@@ -1,6 +1,7 @@
 export default {
     name: 'fast-food-hot-dog',
     key: 'FastFoodHotDog',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

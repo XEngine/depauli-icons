@@ -1,6 +1,7 @@
 export default {
     name: 'picture-polaroid-human',
     key: 'PicturePolaroidHuman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

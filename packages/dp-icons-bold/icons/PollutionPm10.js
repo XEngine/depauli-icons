@@ -1,6 +1,7 @@
 export default {
     name: 'pollution-pm10',
     key: 'PollutionPm10',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-information',
     key: 'PlaylistInformation',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

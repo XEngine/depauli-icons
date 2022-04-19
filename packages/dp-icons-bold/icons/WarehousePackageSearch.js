@@ -1,6 +1,7 @@
 export default {
     name: 'warehouse-package-search',
     key: 'WarehousePackageSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

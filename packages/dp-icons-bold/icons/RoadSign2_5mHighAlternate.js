@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-2-5m-high-alternate',
     key: 'RoadSign2_5mHighAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'croquet-ball-hoop',
     key: 'CroquetBallHoop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'humidity-none',
     key: 'HumidityNone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

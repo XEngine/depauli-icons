@@ -1,6 +1,7 @@
 export default {
     name: 'search-circle-alternate',
     key: 'SearchCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

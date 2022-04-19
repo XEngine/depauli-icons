@@ -1,6 +1,7 @@
 export default {
     name: 'crime-man-riot-2',
     key: 'CrimeManRiot2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

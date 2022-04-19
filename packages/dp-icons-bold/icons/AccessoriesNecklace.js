@@ -1,6 +1,7 @@
 export default {
     name: 'accessories-necklace',
     key: 'AccessoriesNecklace',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

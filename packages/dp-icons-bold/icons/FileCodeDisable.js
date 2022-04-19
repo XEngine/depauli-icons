@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-disable',
     key: 'FileCodeDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'wedding-money-piggy',
     key: 'WeddingMoneyPiggy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'medical-personnel-doctor',
     key: 'MedicalPersonnelDoctor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

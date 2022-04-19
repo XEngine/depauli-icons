@@ -1,6 +1,7 @@
 export default {
     name: 'folder-search',
     key: 'FolderSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

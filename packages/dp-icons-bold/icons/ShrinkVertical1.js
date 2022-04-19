@@ -1,6 +1,7 @@
 export default {
     name: 'shrink-vertical-1',
     key: 'ShrinkVertical1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

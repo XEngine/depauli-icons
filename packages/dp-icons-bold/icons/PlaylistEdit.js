@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-edit',
     key: 'PlaylistEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

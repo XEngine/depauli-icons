@@ -1,6 +1,7 @@
 export default {
     name: 'accounting-bill-stack-1',
     key: 'AccountingBillStack1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,6 +1,7 @@
 export default {
     name: 'settings-toggle-vertical',
     key: 'SettingsToggleVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

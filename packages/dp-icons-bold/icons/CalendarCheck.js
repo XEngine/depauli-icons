@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-check',
     key: 'CalendarCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

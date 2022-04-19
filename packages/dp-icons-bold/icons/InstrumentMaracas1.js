@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-maracas-1',
     key: 'InstrumentMaracas1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

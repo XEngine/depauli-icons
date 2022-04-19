@@ -1,6 +1,7 @@
 export default {
     name: 'tiger-bengal',
     key: 'TigerBengal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

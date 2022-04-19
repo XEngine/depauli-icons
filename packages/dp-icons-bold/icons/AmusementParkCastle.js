@@ -1,6 +1,7 @@
 export default {
     name: 'amusement-park-castle',
     key: 'AmusementParkCastle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

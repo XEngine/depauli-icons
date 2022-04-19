@@ -1,6 +1,7 @@
 export default {
     name: 'layers-grid-check',
     key: 'LayersGridCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

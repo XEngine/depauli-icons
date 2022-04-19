@@ -1,6 +1,7 @@
 export default {
     name: 'reptile-rattlesnake',
     key: 'ReptileRattlesnake',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'phone-type',
     key: 'PhoneType',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

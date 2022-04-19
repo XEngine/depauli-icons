@@ -1,6 +1,7 @@
 export default {
     name: 'seasoning-pepper-ground',
     key: 'SeasoningPepperGround',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

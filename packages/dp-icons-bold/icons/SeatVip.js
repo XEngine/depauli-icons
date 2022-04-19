@@ -1,6 +1,7 @@
 export default {
     name: 'seat-vip',
     key: 'SeatVip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-arrows-inwards',
     key: 'StyleThreePinArrowsInwards',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

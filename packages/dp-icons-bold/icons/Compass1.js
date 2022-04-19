@@ -1,6 +1,7 @@
 export default {
     name: 'compass-1',
     key: 'Compass1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-saxophone-play',
     key: 'InstrumentSaxophonePlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

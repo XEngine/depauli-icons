@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-remove-1',
     key: 'FileCodeRemove1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

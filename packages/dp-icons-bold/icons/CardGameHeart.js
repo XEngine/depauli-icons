@@ -1,6 +1,7 @@
 export default {
     name: 'card-game-heart',
     key: 'CardGameHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

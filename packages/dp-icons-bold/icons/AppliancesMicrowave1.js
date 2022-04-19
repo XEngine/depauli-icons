@@ -1,6 +1,7 @@
 export default {
     name: 'appliances-microwave-1',
     key: 'AppliancesMicrowave1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

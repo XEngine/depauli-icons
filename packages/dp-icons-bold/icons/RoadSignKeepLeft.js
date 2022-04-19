@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-keep-left',
     key: 'RoadSignKeepLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

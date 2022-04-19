@@ -1,6 +1,7 @@
 export default {
     name: 'touchpad-1',
     key: 'Touchpad1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

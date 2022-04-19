@@ -1,6 +1,7 @@
 export default {
     name: 'resize-expand-sides',
     key: 'ResizeExpandSides',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

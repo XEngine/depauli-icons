@@ -1,6 +1,7 @@
 export default {
     name: 'arrange-number',
     key: 'ArrangeNumber',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

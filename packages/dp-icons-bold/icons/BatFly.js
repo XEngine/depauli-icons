@@ -1,6 +1,7 @@
 export default {
     name: 'bat-fly',
     key: 'BatFly',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

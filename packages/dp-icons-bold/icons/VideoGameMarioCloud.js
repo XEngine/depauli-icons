@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-mario-cloud',
     key: 'VideoGameMarioCloud',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

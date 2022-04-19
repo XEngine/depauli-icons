@@ -1,6 +1,7 @@
 export default {
     name: 'card-game-symbols',
     key: 'CardGameSymbols',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

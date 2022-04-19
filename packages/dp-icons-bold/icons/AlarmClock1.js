@@ -1,6 +1,7 @@
 export default {
     name: 'alarm-clock-1',
     key: 'AlarmClock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

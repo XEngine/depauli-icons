@@ -1,6 +1,7 @@
 export default {
     name: 'quill-write-1-alternate',
     key: 'QuillWrite1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

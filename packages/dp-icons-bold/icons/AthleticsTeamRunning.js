@@ -1,6 +1,7 @@
 export default {
     name: 'athletics-team-running',
     key: 'AthleticsTeamRunning',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

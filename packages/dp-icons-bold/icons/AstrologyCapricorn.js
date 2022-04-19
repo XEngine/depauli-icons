@@ -1,6 +1,7 @@
 export default {
     name: 'astrology-capricorn',
     key: 'AstrologyCapricorn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

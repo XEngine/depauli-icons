@@ -1,6 +1,7 @@
 export default {
     name: 'ipod',
     key: 'Ipod',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

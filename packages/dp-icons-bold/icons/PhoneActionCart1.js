@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-cart-1',
     key: 'PhoneActionCart1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

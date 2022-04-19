@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-pizza',
     key: 'ChefGearPizza',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

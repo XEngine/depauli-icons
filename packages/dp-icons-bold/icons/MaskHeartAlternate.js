@@ -1,6 +1,7 @@
 export default {
     name: 'mask-heart-alternate',
     key: 'MaskHeartAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

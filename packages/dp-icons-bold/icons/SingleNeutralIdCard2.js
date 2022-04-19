@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-id-card-2',
     key: 'SingleNeutralIdCard2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

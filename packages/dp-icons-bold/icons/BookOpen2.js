@@ -1,6 +1,7 @@
 export default {
     name: 'book-open-2',
     key: 'BookOpen2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

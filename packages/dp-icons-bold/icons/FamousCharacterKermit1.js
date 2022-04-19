@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-kermit-1',
     key: 'FamousCharacterKermit1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

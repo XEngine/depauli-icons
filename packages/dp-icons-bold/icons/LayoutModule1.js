@@ -1,6 +1,7 @@
 export default {
     name: 'layout-module-1',
     key: 'LayoutModule1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

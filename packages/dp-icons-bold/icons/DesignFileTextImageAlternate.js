@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-text-image-alternate',
     key: 'DesignFileTextImageAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

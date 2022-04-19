@@ -1,6 +1,7 @@
 export default {
     name: 'hospital-board',
     key: 'HospitalBoard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

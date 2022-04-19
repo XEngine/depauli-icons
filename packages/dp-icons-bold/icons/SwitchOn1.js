@@ -1,6 +1,7 @@
 export default {
     name: 'switch-on-1',
     key: 'SwitchOn1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

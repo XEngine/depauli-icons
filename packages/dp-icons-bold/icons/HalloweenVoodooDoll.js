@@ -1,6 +1,7 @@
 export default {
     name: 'halloween-voodoo-doll',
     key: 'HalloweenVoodooDoll',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

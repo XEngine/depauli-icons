@@ -1,6 +1,7 @@
 export default {
     name: 'smart-house-call',
     key: 'SmartHouseCall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

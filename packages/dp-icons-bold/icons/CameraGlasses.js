@@ -1,6 +1,7 @@
 export default {
     name: 'camera-glasses',
     key: 'CameraGlasses',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

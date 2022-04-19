@@ -1,6 +1,7 @@
 export default {
     name: 'design-document-3ds',
     key: 'DesignDocument3ds',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

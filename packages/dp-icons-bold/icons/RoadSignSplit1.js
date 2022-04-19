@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-split-1',
     key: 'RoadSignSplit1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

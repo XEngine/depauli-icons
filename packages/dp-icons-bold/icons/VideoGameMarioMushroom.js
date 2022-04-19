@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-mario-mushroom',
     key: 'VideoGameMarioMushroom',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

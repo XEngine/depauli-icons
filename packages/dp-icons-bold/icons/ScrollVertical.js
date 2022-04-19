@@ -1,6 +1,7 @@
 export default {
     name: 'scroll-vertical',
     key: 'ScrollVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

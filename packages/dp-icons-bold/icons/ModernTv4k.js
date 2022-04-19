@@ -1,6 +1,7 @@
 export default {
     name: 'modern-tv-4k',
     key: 'ModernTv4k',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

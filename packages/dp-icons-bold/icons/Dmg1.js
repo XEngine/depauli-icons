@@ -1,6 +1,7 @@
 export default {
     name: 'dmg-1',
     key: 'Dmg1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'bathroom-robe',
     key: 'BathroomRobe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-send',
     key: 'EmailActionSend',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

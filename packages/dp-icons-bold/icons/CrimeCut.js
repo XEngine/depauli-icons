@@ -1,6 +1,7 @@
 export default {
     name: 'crime-cut',
     key: 'CrimeCut',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

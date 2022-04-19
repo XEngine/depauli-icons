@@ -1,6 +1,7 @@
 export default {
     name: 'award-badge-star-1',
     key: 'AwardBadgeStar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

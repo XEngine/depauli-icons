@@ -1,6 +1,7 @@
 export default {
     name: 'paragraph-image-right',
     key: 'ParagraphImageRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

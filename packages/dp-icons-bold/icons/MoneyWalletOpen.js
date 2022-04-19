@@ -1,6 +1,7 @@
 export default {
     name: 'money-wallet-open',
     key: 'MoneyWalletOpen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

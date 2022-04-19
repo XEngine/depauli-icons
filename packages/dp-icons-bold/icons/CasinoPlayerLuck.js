@@ -1,6 +1,7 @@
 export default {
     name: 'casino-player-luck',
     key: 'CasinoPlayerLuck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

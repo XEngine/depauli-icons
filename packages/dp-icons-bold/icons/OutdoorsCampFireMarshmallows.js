@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-camp-fire-marshmallows',
     key: 'OutdoorsCampFireMarshmallows',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

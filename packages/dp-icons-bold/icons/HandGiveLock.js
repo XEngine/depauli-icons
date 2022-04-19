@@ -1,6 +1,7 @@
 export default {
     name: 'hand-give-lock',
     key: 'HandGiveLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

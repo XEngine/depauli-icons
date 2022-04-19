@@ -1,6 +1,7 @@
 export default {
     name: 'headphones-customer-support-question',
     key: 'HeadphonesCustomerSupportQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

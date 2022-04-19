@@ -1,6 +1,7 @@
 export default {
     name: 'button-arrow-curve',
     key: 'ButtonArrowCurve',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

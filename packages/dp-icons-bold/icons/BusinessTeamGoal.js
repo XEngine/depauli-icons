@@ -1,6 +1,7 @@
 export default {
     name: 'business-team-goal',
     key: 'BusinessTeamGoal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

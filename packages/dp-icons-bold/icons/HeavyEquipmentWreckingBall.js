@@ -1,6 +1,7 @@
 export default {
     name: 'heavy-equipment-wrecking-ball',
     key: 'HeavyEquipmentWreckingBall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'walking-cross-street',
     key: 'WalkingCrossStreet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

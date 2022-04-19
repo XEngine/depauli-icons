@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-identica',
     key: 'SocialMediaIdentica',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

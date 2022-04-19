@@ -1,6 +1,7 @@
 export default {
     name: 'move-back',
     key: 'MoveBack',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

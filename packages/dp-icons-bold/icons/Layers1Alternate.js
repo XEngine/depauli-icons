@@ -1,6 +1,7 @@
 export default {
     name: 'layers-1-alternate',
     key: 'Layers1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

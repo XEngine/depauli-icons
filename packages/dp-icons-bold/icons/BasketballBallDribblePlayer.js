@@ -1,6 +1,7 @@
 export default {
     name: 'basketball-ball-dribble-player',
     key: 'BasketballBallDribblePlayer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

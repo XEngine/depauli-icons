@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-weight-kg',
     key: 'ShipmentWeightKg',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

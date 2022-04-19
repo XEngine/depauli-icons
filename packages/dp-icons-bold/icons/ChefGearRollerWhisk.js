@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-roller-whisk',
     key: 'ChefGearRollerWhisk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

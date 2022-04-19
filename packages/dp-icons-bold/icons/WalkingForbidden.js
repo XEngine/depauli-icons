@@ -1,6 +1,7 @@
 export default {
     name: 'walking-forbidden',
     key: 'WalkingForbidden',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

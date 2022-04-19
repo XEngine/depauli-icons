@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-star-1-alternate',
     key: 'MessagesBubbleStar1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'reptile-crocodile-water',
     key: 'ReptileCrocodileWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

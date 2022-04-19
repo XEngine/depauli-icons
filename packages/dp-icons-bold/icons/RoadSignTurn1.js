@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-turn-1',
     key: 'RoadSignTurn1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

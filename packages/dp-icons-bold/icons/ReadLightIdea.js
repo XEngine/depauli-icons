@@ -1,6 +1,7 @@
 export default {
     name: 'read-light-idea',
     key: 'ReadLightIdea',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

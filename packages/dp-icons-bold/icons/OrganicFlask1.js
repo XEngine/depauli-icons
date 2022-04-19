@@ -1,6 +1,7 @@
 export default {
     name: 'organic-flask-1',
     key: 'OrganicFlask1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'antique-sword-1',
     key: 'AntiqueSword1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

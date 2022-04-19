@@ -1,6 +1,7 @@
 export default {
     name: 'whale-body',
     key: 'WhaleBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

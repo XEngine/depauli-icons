@@ -1,6 +1,7 @@
 export default {
     name: 'mouse-smart',
     key: 'MouseSmart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

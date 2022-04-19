@@ -1,6 +1,7 @@
 export default {
     name: 'face-id-6',
     key: 'FaceId6',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

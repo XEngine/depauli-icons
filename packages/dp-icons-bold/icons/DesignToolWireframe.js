@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-wireframe',
     key: 'DesignToolWireframe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

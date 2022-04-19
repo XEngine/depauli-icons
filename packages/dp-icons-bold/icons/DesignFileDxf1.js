@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-dxf-1',
     key: 'DesignFileDxf1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

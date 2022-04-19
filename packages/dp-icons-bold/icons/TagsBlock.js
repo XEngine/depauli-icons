@@ -1,6 +1,7 @@
 export default {
     name: 'tags-block',
     key: 'TagsBlock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

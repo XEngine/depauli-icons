@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-heart-1',
     key: 'CommonFileHeart1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

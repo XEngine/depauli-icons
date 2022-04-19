@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-upload',
     key: 'VideoFileUpload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

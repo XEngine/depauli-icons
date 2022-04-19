@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-search-men',
     key: 'HumanResourcesSearchMen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

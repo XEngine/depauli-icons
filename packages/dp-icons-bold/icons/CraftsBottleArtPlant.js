@@ -1,6 +1,7 @@
 export default {
     name: 'crafts-bottle-art-plant',
     key: 'CraftsBottleArtPlant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

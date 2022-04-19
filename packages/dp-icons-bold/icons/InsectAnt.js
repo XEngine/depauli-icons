@@ -1,6 +1,7 @@
 export default {
     name: 'insect-ant',
     key: 'InsectAnt',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

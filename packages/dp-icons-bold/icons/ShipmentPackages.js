@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-packages',
     key: 'ShipmentPackages',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

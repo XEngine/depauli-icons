@@ -1,6 +1,7 @@
 export default {
     name: 'wench-1',
     key: 'Wench1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

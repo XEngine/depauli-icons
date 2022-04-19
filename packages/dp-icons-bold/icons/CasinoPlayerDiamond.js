@@ -1,6 +1,7 @@
 export default {
     name: 'casino-player-diamond',
     key: 'CasinoPlayerDiamond',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

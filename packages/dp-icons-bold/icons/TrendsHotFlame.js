@@ -1,6 +1,7 @@
 export default {
     name: 'trends-hot-flame',
     key: 'TrendsHotFlame',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

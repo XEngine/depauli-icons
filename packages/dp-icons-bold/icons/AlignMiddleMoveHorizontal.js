@@ -1,6 +1,7 @@
 export default {
     name: 'align-middle-move-horizontal',
     key: 'AlignMiddleMoveHorizontal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cash-network',
     key: 'CashNetwork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

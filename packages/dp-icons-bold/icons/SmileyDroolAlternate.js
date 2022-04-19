@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-drool-alternate',
     key: 'SmileyDroolAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

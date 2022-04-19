@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-refresh',
     key: 'CalendarRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

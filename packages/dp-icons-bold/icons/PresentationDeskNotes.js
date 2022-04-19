@@ -1,6 +1,7 @@
 export default {
     name: 'presentation-desk-notes',
     key: 'PresentationDeskNotes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

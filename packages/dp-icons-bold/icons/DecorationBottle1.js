@@ -1,6 +1,7 @@
 export default {
     name: 'decoration-bottle-1',
     key: 'DecorationBottle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

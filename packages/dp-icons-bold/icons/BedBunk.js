@@ -1,6 +1,7 @@
 export default {
     name: 'bed-bunk',
     key: 'BedBunk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

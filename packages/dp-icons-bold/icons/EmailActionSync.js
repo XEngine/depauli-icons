@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-sync',
     key: 'EmailActionSync',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

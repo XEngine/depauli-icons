@@ -1,6 +1,7 @@
 export default {
     name: 'ankle-tracker',
     key: 'AnkleTracker',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

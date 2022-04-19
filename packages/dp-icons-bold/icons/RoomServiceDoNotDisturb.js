@@ -1,6 +1,7 @@
 export default {
     name: 'room-service-do-not-disturb',
     key: 'RoomServiceDoNotDisturb',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'space-rocket-launch',
     key: 'SpaceRocketLaunch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

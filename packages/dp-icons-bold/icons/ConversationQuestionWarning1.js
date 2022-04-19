@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-question-warning-1',
     key: 'ConversationQuestionWarning1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

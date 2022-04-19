@@ -1,6 +1,7 @@
 export default {
     name: 'family-heart',
     key: 'FamilyHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

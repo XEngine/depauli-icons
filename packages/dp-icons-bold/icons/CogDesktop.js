@@ -1,6 +1,7 @@
 export default {
     name: 'cog-desktop',
     key: 'CogDesktop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

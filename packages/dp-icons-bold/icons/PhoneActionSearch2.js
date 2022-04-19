@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-search-2',
     key: 'PhoneActionSearch2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

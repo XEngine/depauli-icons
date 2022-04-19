@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-heart-desktop',
     key: 'MonitorHeartDesktop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

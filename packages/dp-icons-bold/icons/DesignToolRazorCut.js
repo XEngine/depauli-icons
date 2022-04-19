@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-razor-cut',
     key: 'DesignToolRazorCut',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

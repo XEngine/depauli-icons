@@ -1,6 +1,7 @@
 export default {
     name: 'barbecue-stick-1',
     key: 'BarbecueStick1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

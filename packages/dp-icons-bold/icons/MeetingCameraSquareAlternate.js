@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-camera-square-alternate',
     key: 'MeetingCameraSquareAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

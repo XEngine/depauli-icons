@@ -1,6 +1,7 @@
 export default {
     name: 'beach-parasol-water',
     key: 'BeachParasolWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tank-top-pattern',
     key: 'TankTopPattern',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

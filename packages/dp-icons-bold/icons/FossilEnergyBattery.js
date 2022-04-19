@@ -1,6 +1,7 @@
 export default {
     name: 'fossil-energy-battery',
     key: 'FossilEnergyBattery',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

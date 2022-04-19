@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-4-alternate',
     key: 'PaginateFilter4Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

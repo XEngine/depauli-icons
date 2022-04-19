@@ -1,6 +1,7 @@
 export default {
     name: 'protection-shield-3-alternate',
     key: 'ProtectionShield3Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

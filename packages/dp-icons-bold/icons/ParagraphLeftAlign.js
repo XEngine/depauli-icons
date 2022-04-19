@@ -1,6 +1,7 @@
 export default {
     name: 'paragraph-left-align',
     key: 'ParagraphLeftAlign',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

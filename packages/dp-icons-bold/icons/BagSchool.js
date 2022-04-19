@@ -1,6 +1,7 @@
 export default {
     name: 'bag-school',
     key: 'BagSchool',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

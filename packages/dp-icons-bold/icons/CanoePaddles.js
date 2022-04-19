@@ -1,6 +1,7 @@
 export default {
     name: 'canoe-paddles',
     key: 'CanoePaddles',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'pregnancy-ultrasound',
     key: 'PregnancyUltrasound',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

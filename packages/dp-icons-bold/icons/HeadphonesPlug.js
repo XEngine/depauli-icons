@@ -1,6 +1,7 @@
 export default {
     name: 'headphones-plug',
     key: 'HeadphonesPlug',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-book',
     key: 'SingleManBook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

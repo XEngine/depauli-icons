@@ -1,6 +1,7 @@
 export default {
     name: 'body-care-snail',
     key: 'BodyCareSnail',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

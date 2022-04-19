@@ -1,6 +1,7 @@
 export default {
     name: 'file-txt-1',
     key: 'FileTxt1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

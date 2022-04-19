@@ -1,6 +1,7 @@
 export default {
     name: 'building-modern',
     key: 'BuildingModern',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

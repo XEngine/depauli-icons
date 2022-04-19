@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-warning-alternate',
     key: 'RoadSignWarningAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

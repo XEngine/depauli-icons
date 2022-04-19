@@ -1,6 +1,7 @@
 export default {
     name: 'crime-man-thug',
     key: 'CrimeManThug',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

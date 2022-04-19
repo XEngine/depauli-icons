@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-scroll',
     key: 'GestureScroll',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-bars-add',
     key: 'DataFileBarsAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

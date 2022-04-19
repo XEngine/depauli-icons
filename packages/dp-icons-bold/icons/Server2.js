@@ -1,6 +1,7 @@
 export default {
     name: 'server-2',
     key: 'Server2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

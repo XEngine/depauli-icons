@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-contrabass-sheet',
     key: 'InstrumentContrabassSheet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

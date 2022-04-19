@@ -1,6 +1,7 @@
 export default {
     name: 'social-video-vimeo',
     key: 'SocialVideoVimeo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'beacon-remote-house',
     key: 'BeaconRemoteHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-message-person-building',
     key: 'RealEstateMessagePersonBuilding',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

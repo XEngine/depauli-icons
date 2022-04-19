@@ -1,6 +1,7 @@
 export default {
     name: 'shop-cashier-woman',
     key: 'ShopCashierWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

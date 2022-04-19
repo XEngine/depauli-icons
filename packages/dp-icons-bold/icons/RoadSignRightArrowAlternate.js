@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-right-arrow-alternate',
     key: 'RoadSignRightArrowAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

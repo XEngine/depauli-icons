@@ -1,6 +1,7 @@
 export default {
     name: 'archive-drawer-table',
     key: 'ArchiveDrawerTable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

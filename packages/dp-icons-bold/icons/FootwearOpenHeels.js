@@ -1,6 +1,7 @@
 export default {
     name: 'footwear-open-heels',
     key: 'FootwearOpenHeels',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

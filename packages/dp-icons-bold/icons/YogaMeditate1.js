@@ -1,6 +1,7 @@
 export default {
     name: 'yoga-meditate-1',
     key: 'YogaMeditate1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

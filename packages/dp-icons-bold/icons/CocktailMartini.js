@@ -1,6 +1,7 @@
 export default {
     name: 'cocktail-martini',
     key: 'CocktailMartini',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

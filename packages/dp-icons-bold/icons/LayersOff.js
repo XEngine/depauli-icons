@@ -1,6 +1,7 @@
 export default {
     name: 'layers-off',
     key: 'LayersOff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

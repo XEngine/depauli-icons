@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-arrows-right',
     key: 'NavigationArrowsRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'programming-user-chat-2',
     key: 'ProgrammingUserChat2',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

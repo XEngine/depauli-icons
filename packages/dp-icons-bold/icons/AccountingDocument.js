@@ -1,6 +1,7 @@
 export default {
     name: 'accounting-document',
     key: 'AccountingDocument',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

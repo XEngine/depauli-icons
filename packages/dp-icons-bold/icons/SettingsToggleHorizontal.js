@@ -1,6 +1,7 @@
 export default {
     name: 'settings-toggle-horizontal',
     key: 'SettingsToggleHorizontal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

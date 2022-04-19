@@ -1,6 +1,7 @@
 export default {
     name: 'network-refresh',
     key: 'NetworkRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

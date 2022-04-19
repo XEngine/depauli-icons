@@ -1,6 +1,7 @@
 export default {
     name: 'animal-products-eggs',
     key: 'AnimalProductsEggs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

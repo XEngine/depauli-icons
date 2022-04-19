@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-vector-alternate',
     key: 'DesignFileVectorAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

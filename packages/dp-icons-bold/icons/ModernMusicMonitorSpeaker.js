@@ -1,6 +1,7 @@
 export default {
     name: 'modern-music-monitor-speaker',
     key: 'ModernMusicMonitorSpeaker',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

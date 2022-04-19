@@ -1,6 +1,7 @@
 export default {
     name: 'cable-split-1',
     key: 'CableSplit1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

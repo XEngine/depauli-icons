@@ -1,6 +1,7 @@
 export default {
     name: 'jellyfish-1',
     key: 'Jellyfish1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

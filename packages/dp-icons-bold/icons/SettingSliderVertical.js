@@ -1,6 +1,7 @@
 export default {
     name: 'setting-slider-vertical',
     key: 'SettingSliderVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

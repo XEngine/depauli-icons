@@ -1,6 +1,7 @@
 export default {
     name: 'certified-ribbon-1',
     key: 'CertifiedRibbon1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

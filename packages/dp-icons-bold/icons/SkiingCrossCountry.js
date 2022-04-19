@@ -1,6 +1,7 @@
 export default {
     name: 'skiing-cross-country',
     key: 'SkiingCrossCountry',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

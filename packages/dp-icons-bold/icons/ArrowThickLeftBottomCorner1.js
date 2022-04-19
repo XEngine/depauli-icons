@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-thick-left-bottom-corner-1',
     key: 'ArrowThickLeftBottomCorner1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

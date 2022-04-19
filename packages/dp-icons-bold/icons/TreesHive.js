@@ -1,6 +1,7 @@
 export default {
     name: 'trees-hive',
     key: 'TreesHive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

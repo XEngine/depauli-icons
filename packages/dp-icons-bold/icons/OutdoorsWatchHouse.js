@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-watch-house',
     key: 'OutdoorsWatchHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

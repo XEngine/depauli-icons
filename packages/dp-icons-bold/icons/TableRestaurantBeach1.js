@@ -1,6 +1,7 @@
 export default {
     name: 'table-restaurant-beach-1',
     key: 'TableRestaurantBeach1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

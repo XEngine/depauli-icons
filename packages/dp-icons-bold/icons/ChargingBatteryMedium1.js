@@ -1,6 +1,7 @@
 export default {
     name: 'charging-battery-medium-1',
     key: 'ChargingBatteryMedium1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

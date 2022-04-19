@@ -1,6 +1,7 @@
 export default {
     name: 'shop-sign-close',
     key: 'ShopSignClose',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

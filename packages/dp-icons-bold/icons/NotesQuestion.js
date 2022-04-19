@@ -1,6 +1,7 @@
 export default {
     name: 'notes-question',
     key: 'NotesQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'remove-bold-alternate',
     key: 'RemoveBoldAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

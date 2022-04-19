@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-actions-up-down',
     key: 'SingleNeutralActionsUpDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

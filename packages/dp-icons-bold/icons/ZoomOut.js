@@ -1,6 +1,7 @@
 export default {
     name: 'zoom-out',
     key: 'ZoomOut',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

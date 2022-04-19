@@ -1,6 +1,7 @@
 export default {
     name: 'design-drawing-board',
     key: 'DesignDrawingBoard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

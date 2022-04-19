@@ -1,6 +1,7 @@
 export default {
     name: 'saving-safe-open',
     key: 'SavingSafeOpen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

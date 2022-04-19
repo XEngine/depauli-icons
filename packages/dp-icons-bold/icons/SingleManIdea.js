@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-idea',
     key: 'SingleManIdea',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

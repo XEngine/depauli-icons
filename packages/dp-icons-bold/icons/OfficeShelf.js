@@ -1,6 +1,7 @@
 export default {
     name: 'office-shelf',
     key: 'OfficeShelf',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

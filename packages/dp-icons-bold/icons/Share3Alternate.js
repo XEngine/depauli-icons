@@ -1,6 +1,7 @@
 export default {
     name: 'share-3-alternate',
     key: 'Share3Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-blessed-alternate',
     key: 'SmileyBlessedAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'camera-display-1',
     key: 'CameraDisplay1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-cc-titles-alternate',
     key: 'VideoEditCcTitlesAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-direction-arrow',
     key: 'StyleThreePinDirectionArrow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'social-video-vimeo',
     key: 'SocialVideoVimeo',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

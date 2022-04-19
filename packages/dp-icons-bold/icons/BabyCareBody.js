@@ -1,6 +1,7 @@
 export default {
     name: 'baby-care-body',
     key: 'BabyCareBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

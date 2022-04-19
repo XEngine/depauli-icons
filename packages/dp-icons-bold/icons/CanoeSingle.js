@@ -1,6 +1,7 @@
 export default {
     name: 'canoe-single',
     key: 'CanoeSingle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

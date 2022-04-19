@@ -1,6 +1,7 @@
 export default {
     name: 'messages-people-person-bubble-oval',
     key: 'MessagesPeoplePersonBubbleOval',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

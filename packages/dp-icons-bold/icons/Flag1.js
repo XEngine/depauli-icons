@@ -1,6 +1,7 @@
 export default {
     name: 'flag-1',
     key: 'Flag1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

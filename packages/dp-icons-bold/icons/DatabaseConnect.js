@@ -1,6 +1,7 @@
 export default {
     name: 'database-connect',
     key: 'DatabaseConnect',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

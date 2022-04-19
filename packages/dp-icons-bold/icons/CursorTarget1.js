@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-target-1',
     key: 'CursorTarget1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

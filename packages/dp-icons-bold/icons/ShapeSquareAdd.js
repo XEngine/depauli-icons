@@ -1,6 +1,7 @@
 export default {
     name: 'shape-square-add',
     key: 'ShapeSquareAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

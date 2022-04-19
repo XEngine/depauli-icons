@@ -1,6 +1,7 @@
 export default {
     name: 'armchair-3',
     key: 'Armchair3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

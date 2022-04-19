@@ -1,6 +1,7 @@
 export default {
     name: 'data-transfer-diagonal-1',
     key: 'DataTransferDiagonal1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

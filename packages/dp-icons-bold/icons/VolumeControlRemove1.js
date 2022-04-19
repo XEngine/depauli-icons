@@ -1,6 +1,7 @@
 export default {
     name: 'volume-control-remove-1',
     key: 'VolumeControlRemove1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

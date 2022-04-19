@@ -1,6 +1,7 @@
 export default {
     name: 'microphone',
     key: 'Microphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

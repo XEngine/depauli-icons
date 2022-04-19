@@ -1,6 +1,7 @@
 export default {
     name: 'asian-food-rice',
     key: 'AsianFoodRice',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

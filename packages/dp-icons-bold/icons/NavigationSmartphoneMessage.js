@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-smartphone-message',
     key: 'NavigationSmartphoneMessage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

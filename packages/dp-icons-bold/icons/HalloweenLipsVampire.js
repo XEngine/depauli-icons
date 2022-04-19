@@ -1,6 +1,7 @@
 export default {
     name: 'halloween-lips-vampire',
     key: 'HalloweenLipsVampire',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

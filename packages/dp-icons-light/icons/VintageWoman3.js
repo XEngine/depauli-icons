@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-woman-3',
     key: 'VintageWoman3',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

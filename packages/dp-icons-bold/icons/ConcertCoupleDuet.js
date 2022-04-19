@@ -1,6 +1,7 @@
 export default {
     name: 'concert-couple-duet',
     key: 'ConcertCoupleDuet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

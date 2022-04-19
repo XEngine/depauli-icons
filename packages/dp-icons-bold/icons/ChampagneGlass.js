@@ -1,6 +1,7 @@
 export default {
     name: 'champagne-glass',
     key: 'ChampagneGlass',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'network-remove',
     key: 'NetworkRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

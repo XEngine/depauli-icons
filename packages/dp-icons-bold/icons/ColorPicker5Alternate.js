@@ -1,6 +1,7 @@
 export default {
     name: 'color-picker-5-alternate',
     key: 'ColorPicker5Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

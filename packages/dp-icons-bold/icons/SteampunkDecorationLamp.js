@@ -1,6 +1,7 @@
 export default {
     name: 'steampunk-decoration-lamp',
     key: 'SteampunkDecorationLamp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

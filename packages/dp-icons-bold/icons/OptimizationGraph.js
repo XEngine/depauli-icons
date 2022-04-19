@@ -1,6 +1,7 @@
 export default {
     name: 'optimization-graph',
     key: 'OptimizationGraph',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

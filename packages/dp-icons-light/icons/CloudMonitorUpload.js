@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-monitor-upload',
     key: 'CloudMonitorUpload',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

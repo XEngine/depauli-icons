@@ -1,6 +1,7 @@
 export default {
     name: 'gymnastics-ribbon-person-2',
     key: 'GymnasticsRibbonPerson2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

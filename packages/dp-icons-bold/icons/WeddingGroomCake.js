@@ -1,6 +1,7 @@
 export default {
     name: 'wedding-groom-cake',
     key: 'WeddingGroomCake',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

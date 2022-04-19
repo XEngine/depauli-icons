@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-upload',
     key: 'PlaylistUpload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

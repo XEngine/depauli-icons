@@ -1,6 +1,7 @@
 export default {
     name: 'style-one-pin-photography',
     key: 'StyleOnePinPhotography',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

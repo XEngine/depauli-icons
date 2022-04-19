@@ -1,6 +1,7 @@
 export default {
     name: 'yoga-bridge',
     key: 'YogaBridge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

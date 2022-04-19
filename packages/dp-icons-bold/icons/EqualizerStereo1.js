@@ -1,6 +1,7 @@
 export default {
     name: 'equalizer-stereo-1',
     key: 'EqualizerStereo1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

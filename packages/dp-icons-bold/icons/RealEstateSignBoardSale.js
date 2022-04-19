@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-sign-board-sale',
     key: 'RealEstateSignBoardSale',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

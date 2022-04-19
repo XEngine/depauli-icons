@@ -1,6 +1,7 @@
 export default {
     name: 'graph-stats-ascend',
     key: 'GraphStatsAscend',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

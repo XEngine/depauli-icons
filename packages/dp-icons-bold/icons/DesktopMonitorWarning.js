@@ -1,6 +1,7 @@
 export default {
     name: 'desktop-monitor-warning',
     key: 'DesktopMonitorWarning',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'people-man-5',
     key: 'PeopleMan5',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

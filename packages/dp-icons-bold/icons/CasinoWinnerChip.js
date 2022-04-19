@@ -1,6 +1,7 @@
 export default {
     name: 'casino-winner-chip',
     key: 'CasinoWinnerChip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

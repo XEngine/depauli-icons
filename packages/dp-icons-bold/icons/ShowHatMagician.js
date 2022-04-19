@@ -1,6 +1,7 @@
 export default {
     name: 'show-hat-magician',
     key: 'ShowHatMagician',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'design-shape-monitor',
     key: 'DesignShapeMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

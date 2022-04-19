@@ -1,6 +1,7 @@
 export default {
     name: 'cash-payment-coin-stash',
     key: 'CashPaymentCoinStash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

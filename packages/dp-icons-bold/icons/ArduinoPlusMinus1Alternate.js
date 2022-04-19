@@ -1,6 +1,7 @@
 export default {
     name: 'arduino-plus-minus-1-alternate',
     key: 'ArduinoPlusMinus1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

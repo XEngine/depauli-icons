@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-subtract-alternate',
     key: 'MessagesBubbleSubtractAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

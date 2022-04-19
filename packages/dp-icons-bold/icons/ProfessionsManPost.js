@@ -1,6 +1,7 @@
 export default {
     name: 'professions-man-post',
     key: 'ProfessionsManPost',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

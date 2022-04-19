@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-remove-1',
     key: 'PhoneActionsRemove1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

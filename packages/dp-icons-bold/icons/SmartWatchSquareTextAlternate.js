@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-text-alternate',
     key: 'SmartWatchSquareTextAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

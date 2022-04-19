@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-location-house-pin',
     key: 'RealEstateLocationHousePin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

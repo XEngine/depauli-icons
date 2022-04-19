@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-basket-cash',
     key: 'ShoppingBasketCash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

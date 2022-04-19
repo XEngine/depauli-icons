@@ -1,6 +1,7 @@
 export default {
     name: 'font-expand-vertical',
     key: 'FontExpandVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

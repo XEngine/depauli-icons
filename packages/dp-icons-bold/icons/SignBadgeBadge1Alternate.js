@@ -1,6 +1,7 @@
 export default {
     name: 'sign-badge-badge-1-alternate',
     key: 'SignBadgeBadge1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

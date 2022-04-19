@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-lock',
     key: 'PlaylistLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

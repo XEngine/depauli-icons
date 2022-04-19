@@ -1,6 +1,7 @@
 export default {
     name: 'space-rocket-flying',
     key: 'SpaceRocketFlying',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

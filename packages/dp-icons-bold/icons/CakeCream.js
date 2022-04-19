@@ -1,6 +1,7 @@
 export default {
     name: 'cake-cream',
     key: 'CakeCream',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

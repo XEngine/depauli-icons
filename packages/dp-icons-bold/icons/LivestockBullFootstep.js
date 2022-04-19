@@ -1,6 +1,7 @@
 export default {
     name: 'livestock-bull-footstep',
     key: 'LivestockBullFootstep',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

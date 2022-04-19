@@ -1,6 +1,7 @@
 export default {
     name: 'chair-retro',
     key: 'ChairRetro',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

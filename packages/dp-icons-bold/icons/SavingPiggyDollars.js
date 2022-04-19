@@ -1,6 +1,7 @@
 export default {
     name: 'saving-piggy-dollars',
     key: 'SavingPiggyDollars',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

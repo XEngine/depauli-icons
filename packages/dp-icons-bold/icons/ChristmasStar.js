@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-star',
     key: 'ChristmasStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

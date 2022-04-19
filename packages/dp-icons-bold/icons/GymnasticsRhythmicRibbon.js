@@ -1,6 +1,7 @@
 export default {
     name: 'gymnastics-rhythmic-ribbon',
     key: 'GymnasticsRhythmicRibbon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

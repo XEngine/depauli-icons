@@ -1,6 +1,7 @@
 export default {
     name: 'medical-nanobot-pill',
     key: 'MedicalNanobotPill',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

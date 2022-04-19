@@ -1,6 +1,7 @@
 export default {
     name: 'allowances-no-talking',
     key: 'AllowancesNoTalking',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

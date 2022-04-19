@@ -1,6 +1,7 @@
 export default {
     name: 'notes-clock',
     key: 'NotesClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

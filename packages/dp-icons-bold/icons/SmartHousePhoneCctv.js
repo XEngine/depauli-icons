@@ -1,6 +1,7 @@
 export default {
     name: 'smart-house-phone-cctv',
     key: 'SmartHousePhoneCctv',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-remove',
     key: 'ImageFileRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

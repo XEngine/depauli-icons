@@ -1,6 +1,7 @@
 export default {
     name: 'sweater',
     key: 'Sweater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

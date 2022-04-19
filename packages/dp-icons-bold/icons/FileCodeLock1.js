@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-lock-1',
     key: 'FileCodeLock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

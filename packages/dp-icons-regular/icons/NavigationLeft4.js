@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-left-4',
     key: 'NavigationLeft4',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-width":"1.5"},

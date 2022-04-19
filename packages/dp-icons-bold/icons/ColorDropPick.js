@@ -1,6 +1,7 @@
 export default {
     name: 'color-drop-pick',
     key: 'ColorDropPick',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

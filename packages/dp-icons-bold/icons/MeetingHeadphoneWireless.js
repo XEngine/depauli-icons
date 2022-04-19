@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-headphone-wireless',
     key: 'MeetingHeadphoneWireless',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-launch',
     key: 'LaptopLaunch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

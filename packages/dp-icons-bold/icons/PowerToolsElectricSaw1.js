@@ -1,6 +1,7 @@
 export default {
     name: 'power-tools-electric-saw-1',
     key: 'PowerToolsElectricSaw1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'railroad-train-1',
     key: 'RailroadTrain1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-lane-crossing-left-alternate',
     key: 'RoadSignLaneCrossingLeftAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

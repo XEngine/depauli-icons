@@ -1,6 +1,7 @@
 export default {
     name: 'flying-insect-dragonfly',
     key: 'FlyingInsectDragonfly',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

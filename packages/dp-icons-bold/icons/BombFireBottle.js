@@ -1,6 +1,7 @@
 export default {
     name: 'bomb-fire-bottle',
     key: 'BombFireBottle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

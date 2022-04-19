@@ -1,6 +1,7 @@
 export default {
     name: 'recycling-trash-bin',
     key: 'RecyclingTrashBin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'analytics-board-bars',
     key: 'AnalyticsBoardBars',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

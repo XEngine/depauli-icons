@@ -1,6 +1,7 @@
 export default {
     name: 'touch-id-lock-1',
     key: 'TouchIdLock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

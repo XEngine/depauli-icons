@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-postcard-1',
     key: 'ChristmasPostcard1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

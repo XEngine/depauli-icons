@@ -1,6 +1,7 @@
 export default {
     name: 'medical-app-smartphone',
     key: 'MedicalAppSmartphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

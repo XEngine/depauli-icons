@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-download-1',
     key: 'MessagesBubbleDownload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

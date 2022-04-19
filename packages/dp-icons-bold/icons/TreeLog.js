@@ -1,6 +1,7 @@
 export default {
     name: 'tree-log',
     key: 'TreeLog',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

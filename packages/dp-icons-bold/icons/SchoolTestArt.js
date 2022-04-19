@@ -1,6 +1,7 @@
 export default {
     name: 'school-test-art',
     key: 'SchoolTestArt',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

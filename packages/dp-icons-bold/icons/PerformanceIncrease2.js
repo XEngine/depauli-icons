@@ -1,6 +1,7 @@
 export default {
     name: 'performance-increase-2',
     key: 'PerformanceIncrease2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

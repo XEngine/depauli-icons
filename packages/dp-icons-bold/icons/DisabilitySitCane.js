@@ -1,6 +1,7 @@
 export default {
     name: 'disability-sit-cane',
     key: 'DisabilitySitCane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-fever-alternate',
     key: 'SmileyFeverAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

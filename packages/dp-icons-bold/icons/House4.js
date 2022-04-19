@@ -1,6 +1,7 @@
 export default {
     name: 'house-4',
     key: 'House4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

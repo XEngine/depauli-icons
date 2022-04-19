@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-heart',
     key: 'EmailActionHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

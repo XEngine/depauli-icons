@@ -1,6 +1,7 @@
 export default {
     name: 'analytics-pie-2',
     key: 'AnalyticsPie2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

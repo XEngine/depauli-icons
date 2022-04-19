@@ -1,6 +1,7 @@
 export default {
     name: 'history-egyptian-mythology-1',
     key: 'HistoryEgyptianMythology1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

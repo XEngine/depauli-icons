@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-image',
     key: 'CloudImage',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

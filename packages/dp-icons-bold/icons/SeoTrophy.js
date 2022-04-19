@@ -1,6 +1,7 @@
 export default {
     name: 'seo-trophy',
     key: 'SeoTrophy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

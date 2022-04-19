@@ -1,6 +1,7 @@
 export default {
     name: 'headphones-man',
     key: 'HeadphonesMan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'office-stationery',
     key: 'OfficeStationery',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'earpods-bluetooth-1',
     key: 'EarpodsBluetooth1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-tap-vertical-expand',
     key: 'GestureTapVerticalExpand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

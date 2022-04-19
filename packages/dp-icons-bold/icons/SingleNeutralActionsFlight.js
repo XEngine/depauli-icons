@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-actions-flight',
     key: 'SingleNeutralActionsFlight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'rabbit-side',
     key: 'RabbitSide',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

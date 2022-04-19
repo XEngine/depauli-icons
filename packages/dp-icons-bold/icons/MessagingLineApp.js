@@ -1,6 +1,7 @@
 export default {
     name: 'messaging-line-app',
     key: 'MessagingLineApp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

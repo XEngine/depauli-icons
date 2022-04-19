@@ -1,6 +1,7 @@
 export default {
     name: 'radio-antenna-2',
     key: 'RadioAntenna2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

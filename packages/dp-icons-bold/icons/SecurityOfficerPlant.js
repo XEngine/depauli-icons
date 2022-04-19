@@ -1,6 +1,7 @@
 export default {
     name: 'security-officer-plant',
     key: 'SecurityOfficerPlant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

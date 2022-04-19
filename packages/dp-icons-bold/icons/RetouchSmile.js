@@ -1,6 +1,7 @@
 export default {
     name: 'retouch-smile',
     key: 'RetouchSmile',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

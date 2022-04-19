@@ -1,6 +1,7 @@
 export default {
     name: 'movies-reel-1',
     key: 'MoviesReel1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

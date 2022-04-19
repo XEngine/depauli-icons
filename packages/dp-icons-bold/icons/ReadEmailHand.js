@@ -1,6 +1,7 @@
 export default {
     name: 'read-email-hand',
     key: 'ReadEmailHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

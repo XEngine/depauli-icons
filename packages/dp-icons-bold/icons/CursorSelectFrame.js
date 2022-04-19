@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-select-frame',
     key: 'CursorSelectFrame',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

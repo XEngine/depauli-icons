@@ -1,6 +1,7 @@
 export default {
     name: 'stamps-mail',
     key: 'StampsMail',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

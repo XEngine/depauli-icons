@@ -1,6 +1,7 @@
 export default {
     name: 'radio-search-station',
     key: 'RadioSearchStation',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

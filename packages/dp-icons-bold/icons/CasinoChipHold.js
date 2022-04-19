@@ -1,6 +1,7 @@
 export default {
     name: 'casino-chip-hold',
     key: 'CasinoChipHold',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

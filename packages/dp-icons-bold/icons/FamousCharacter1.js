@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-1',
     key: 'FamousCharacter1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

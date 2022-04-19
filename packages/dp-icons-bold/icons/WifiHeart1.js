@@ -1,6 +1,7 @@
 export default {
     name: 'wifi-heart-1',
     key: 'WifiHeart1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

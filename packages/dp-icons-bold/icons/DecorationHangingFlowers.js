@@ -1,6 +1,7 @@
 export default {
     name: 'decoration-hanging-flowers',
     key: 'DecorationHangingFlowers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

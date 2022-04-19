@@ -1,6 +1,7 @@
 export default {
     name: 'remove-button',
     key: 'RemoveButton',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

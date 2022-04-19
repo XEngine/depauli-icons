@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-double-2',
     key: 'CommonFileDouble2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

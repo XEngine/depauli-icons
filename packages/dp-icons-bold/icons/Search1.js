@@ -1,6 +1,7 @@
 export default {
     name: 'search-1',
     key: 'Search1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

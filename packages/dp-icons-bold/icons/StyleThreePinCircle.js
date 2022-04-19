@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-circle',
     key: 'StyleThreePinCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

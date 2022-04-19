@@ -1,6 +1,7 @@
 export default {
     name: 'tools-pliers',
     key: 'ToolsPliers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

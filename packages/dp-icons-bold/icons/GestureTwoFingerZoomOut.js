@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-two-finger-zoom-out',
     key: 'GestureTwoFingerZoomOut',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

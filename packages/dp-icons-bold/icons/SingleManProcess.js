@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-process',
     key: 'SingleManProcess',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

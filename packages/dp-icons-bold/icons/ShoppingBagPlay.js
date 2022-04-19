@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-bag-play',
     key: 'ShoppingBagPlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

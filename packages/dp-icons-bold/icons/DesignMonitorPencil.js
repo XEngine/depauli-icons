@@ -1,6 +1,7 @@
 export default {
     name: 'design-monitor-pencil',
     key: 'DesignMonitorPencil',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

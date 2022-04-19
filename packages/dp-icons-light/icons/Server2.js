@@ -1,6 +1,7 @@
 export default {
     name: 'server-2',
     key: 'Server2',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,6 +1,7 @@
 export default {
     name: 'recycling-hand-trash-1',
     key: 'RecyclingHandTrash1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-tree-valley',
     key: 'OutdoorsTreeValley',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

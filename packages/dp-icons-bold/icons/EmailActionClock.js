@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-clock',
     key: 'EmailActionClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

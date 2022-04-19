@@ -1,6 +1,7 @@
 export default {
     name: 'trip-pin-multiple',
     key: 'TripPinMultiple',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

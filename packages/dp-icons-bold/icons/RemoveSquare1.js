@@ -1,6 +1,7 @@
 export default {
     name: 'remove-square-1',
     key: 'RemoveSquare1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

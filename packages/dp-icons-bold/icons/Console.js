@@ -1,6 +1,7 @@
 export default {
     name: 'console',
     key: 'Console',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

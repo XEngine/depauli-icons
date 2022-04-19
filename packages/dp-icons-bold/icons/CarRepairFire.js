@@ -1,6 +1,7 @@
 export default {
     name: 'car-repair-fire',
     key: 'CarRepairFire',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

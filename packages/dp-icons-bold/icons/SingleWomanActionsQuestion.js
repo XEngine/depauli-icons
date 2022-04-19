@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-actions-question',
     key: 'SingleWomanActionsQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

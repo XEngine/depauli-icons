@@ -1,6 +1,7 @@
 export default {
     name: 'hat-cowboy-1',
     key: 'HatCowboy1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

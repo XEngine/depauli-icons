@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-bend-down',
     key: 'DiagramArrowBendDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

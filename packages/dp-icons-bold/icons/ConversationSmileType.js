@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-smile-type',
     key: 'ConversationSmileType',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

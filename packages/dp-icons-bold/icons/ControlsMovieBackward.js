@@ -1,6 +1,7 @@
 export default {
     name: 'controls-movie-backward',
     key: 'ControlsMovieBackward',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

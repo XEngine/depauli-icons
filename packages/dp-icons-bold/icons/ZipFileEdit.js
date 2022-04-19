@@ -1,6 +1,7 @@
 export default {
     name: 'zip-file-edit',
     key: 'ZipFileEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

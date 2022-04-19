@@ -1,6 +1,7 @@
 export default {
     name: 'modern-weapon-die-cast',
     key: 'ModernWeaponDieCast',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

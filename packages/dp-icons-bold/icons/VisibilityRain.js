@@ -1,6 +1,7 @@
 export default {
     name: 'visibility-rain',
     key: 'VisibilityRain',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

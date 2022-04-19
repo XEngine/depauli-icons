@@ -1,6 +1,7 @@
 export default {
     name: 'feed-tumblr',
     key: 'FeedTumblr',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

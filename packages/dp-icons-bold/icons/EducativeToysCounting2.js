@@ -1,6 +1,7 @@
 export default {
     name: 'educative-toys-counting-2',
     key: 'EducativeToysCounting2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

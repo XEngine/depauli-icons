@@ -1,6 +1,7 @@
 export default {
     name: 'audio-book-volume-high',
     key: 'AudioBookVolumeHigh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

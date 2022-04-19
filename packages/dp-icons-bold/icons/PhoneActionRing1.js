@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-ring-1',
     key: 'PhoneActionRing1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'landmarks-statue-flag',
     key: 'LandmarksStatueFlag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tags-double-1',
     key: 'TagsDouble1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

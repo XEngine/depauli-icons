@@ -1,6 +1,7 @@
 export default {
     name: 'equipment-ladder',
     key: 'EquipmentLadder',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

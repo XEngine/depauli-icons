@@ -1,6 +1,7 @@
 export default {
     name: 'face-id-scan-1',
     key: 'FaceIdScan1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

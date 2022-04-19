@@ -1,6 +1,7 @@
 export default {
     name: 'weather-cloud-rain',
     key: 'WeatherCloudRain',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

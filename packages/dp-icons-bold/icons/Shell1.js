@@ -1,6 +1,7 @@
 export default {
     name: 'shell-1',
     key: 'Shell1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'phone-ring',
     key: 'PhoneRing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'office-file-pps',
     key: 'OfficeFilePps',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

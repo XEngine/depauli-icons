@@ -1,6 +1,7 @@
 export default {
     name: 'engagement-calendar-date',
     key: 'EngagementCalendarDate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

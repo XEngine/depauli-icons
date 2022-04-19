@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-bnter',
     key: 'SocialMediaBnter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

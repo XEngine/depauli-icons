@@ -1,6 +1,7 @@
 export default {
     name: 'allowances-no-smoking',
     key: 'AllowancesNoSmoking',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

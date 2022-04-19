@@ -1,6 +1,7 @@
 export default {
     name: 'programming-hold-laptop-1',
     key: 'ProgrammingHoldLaptop1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

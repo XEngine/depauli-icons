@@ -1,6 +1,7 @@
 export default {
     name: 'car-voyage-1',
     key: 'CarVoyage1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

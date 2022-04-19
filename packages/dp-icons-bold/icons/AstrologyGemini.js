@@ -1,6 +1,7 @@
 export default {
     name: 'astrology-gemini',
     key: 'AstrologyGemini',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

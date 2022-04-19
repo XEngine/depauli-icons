@@ -1,6 +1,7 @@
 export default {
     name: 'audio-book-record-microphone-f',
     key: 'AudioBookRecordMicrophoneF',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

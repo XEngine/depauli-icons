@@ -1,6 +1,7 @@
 export default {
     name: 'mailbox-full',
     key: 'MailboxFull',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'task-list-share',
     key: 'TaskListShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

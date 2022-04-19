@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-mpg-1',
     key: 'VideoFileMpg1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

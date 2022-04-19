@@ -1,6 +1,7 @@
 export default {
     name: 'expand-vertical-4',
     key: 'ExpandVertical4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

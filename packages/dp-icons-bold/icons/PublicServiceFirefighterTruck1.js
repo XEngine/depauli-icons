@@ -1,6 +1,7 @@
 export default {
     name: 'public-service-firefighter-truck-1',
     key: 'PublicServiceFirefighterTruck1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

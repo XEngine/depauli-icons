@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-saint-basil-s-cathderal',
     key: 'LandmarkSaintBasilSCathderal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

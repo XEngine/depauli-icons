@@ -1,6 +1,7 @@
 export default {
     name: 'folder-clock',
     key: 'FolderClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

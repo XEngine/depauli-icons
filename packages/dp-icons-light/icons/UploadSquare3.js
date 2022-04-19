@@ -1,6 +1,7 @@
 export default {
     name: 'upload-square-3',
     key: 'UploadSquare3',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shield-warning',
     key: 'ShieldWarning',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

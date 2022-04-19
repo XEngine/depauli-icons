@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-coding',
     key: 'MultipleActionsCoding',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

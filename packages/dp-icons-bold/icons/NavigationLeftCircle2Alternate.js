@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-left-circle-2-alternate',
     key: 'NavigationLeftCircle2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

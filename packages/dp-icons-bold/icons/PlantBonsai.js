@@ -1,6 +1,7 @@
 export default {
     name: 'plant-bonsai',
     key: 'PlantBonsai',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

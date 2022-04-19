@@ -1,6 +1,7 @@
 export default {
     name: 'notes-search',
     key: 'NotesSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'legal-judge-balance',
     key: 'LegalJudgeBalance',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

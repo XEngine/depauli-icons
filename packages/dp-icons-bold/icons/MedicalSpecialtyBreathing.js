@@ -1,6 +1,7 @@
 export default {
     name: 'medical-specialty-breathing',
     key: 'MedicalSpecialtyBreathing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

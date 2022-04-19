@@ -1,6 +1,7 @@
 export default {
     name: 'wedding-cake-heart',
     key: 'WeddingCakeHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

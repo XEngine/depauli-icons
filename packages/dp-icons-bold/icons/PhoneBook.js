@@ -1,6 +1,7 @@
 export default {
     name: 'phonebook',
     key: 'Phonebook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

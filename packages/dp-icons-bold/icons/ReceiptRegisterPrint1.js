@@ -1,6 +1,7 @@
 export default {
     name: 'receipt-register-print-1',
     key: 'ReceiptRegisterPrint1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

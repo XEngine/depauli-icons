@@ -1,6 +1,7 @@
 export default {
     name: 'charging-light-idea',
     key: 'ChargingLightIdea',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

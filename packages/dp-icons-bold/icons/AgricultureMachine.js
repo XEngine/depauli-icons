@@ -1,6 +1,7 @@
 export default {
     name: 'agriculture-machine',
     key: 'AgricultureMachine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

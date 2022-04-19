@@ -1,6 +1,7 @@
 export default {
     name: 'plane-info-center',
     key: 'PlaneInfoCenter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

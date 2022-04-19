@@ -1,6 +1,7 @@
 export default {
     name: 'family-outdoors-slide',
     key: 'FamilyOutdoorsSlide',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'hand-drag',
     key: 'HandDrag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

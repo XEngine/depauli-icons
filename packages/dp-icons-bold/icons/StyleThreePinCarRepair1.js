@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-car-repair-1',
     key: 'StyleThreePinCarRepair1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-message-house-1',
     key: 'RealEstateMessageHouse1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

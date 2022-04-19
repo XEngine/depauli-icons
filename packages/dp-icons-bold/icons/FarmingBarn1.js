@@ -1,6 +1,7 @@
 export default {
     name: 'farming-barn-1',
     key: 'FarmingBarn1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'music-genre-star',
     key: 'MusicGenreStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

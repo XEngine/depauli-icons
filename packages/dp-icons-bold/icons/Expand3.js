@@ -1,6 +1,7 @@
 export default {
     name: 'expand-3',
     key: 'Expand3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

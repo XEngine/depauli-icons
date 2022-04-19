@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-dot-up-1',
     key: 'ArrowDotUp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

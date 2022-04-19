@@ -1,6 +1,7 @@
 export default {
     name: 'cellular-network-wifi-3g',
     key: 'CellularNetworkWifi3g',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

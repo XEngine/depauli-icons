@@ -1,6 +1,7 @@
 export default {
     name: 'car-actions-settings',
     key: 'CarActionsSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

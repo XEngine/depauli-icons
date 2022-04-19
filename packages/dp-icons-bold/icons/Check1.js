@@ -1,6 +1,7 @@
 export default {
     name: 'check-1',
     key: 'Check1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

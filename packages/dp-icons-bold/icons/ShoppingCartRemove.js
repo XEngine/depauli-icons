@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-cart-remove',
     key: 'ShoppingCartRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

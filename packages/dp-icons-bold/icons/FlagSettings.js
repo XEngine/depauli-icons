@@ -1,6 +1,7 @@
 export default {
     name: 'flag-settings',
     key: 'FlagSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

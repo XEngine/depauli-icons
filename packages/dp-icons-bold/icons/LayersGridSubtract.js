@@ -1,6 +1,7 @@
 export default {
     name: 'layers-grid-subtract',
     key: 'LayersGridSubtract',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

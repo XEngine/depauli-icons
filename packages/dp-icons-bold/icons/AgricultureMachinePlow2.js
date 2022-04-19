@@ -1,6 +1,7 @@
 export default {
     name: 'agriculture-machine-plow-2',
     key: 'AgricultureMachinePlow2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

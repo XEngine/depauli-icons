@@ -1,6 +1,7 @@
 export default {
     name: 'folder-music-1-alternate',
     key: 'FolderMusic1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

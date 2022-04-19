@@ -1,6 +1,7 @@
 export default {
     name: 'direction-button-3',
     key: 'DirectionButton3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

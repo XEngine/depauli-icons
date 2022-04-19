@@ -1,6 +1,7 @@
 export default {
     name: 'smartphone-payment-touch',
     key: 'SmartphonePaymentTouch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

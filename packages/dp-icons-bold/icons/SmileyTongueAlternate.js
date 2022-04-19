@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-tongue-alternate',
     key: 'SmileyTongueAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

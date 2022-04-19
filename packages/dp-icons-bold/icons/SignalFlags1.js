@@ -1,6 +1,7 @@
 export default {
     name: 'signal-flags-1',
     key: 'SignalFlags1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gmo-food-pear',
     key: 'GmoFoodPear',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

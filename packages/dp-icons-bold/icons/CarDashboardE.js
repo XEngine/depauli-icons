@@ -1,6 +1,7 @@
 export default {
     name: 'car-dashboard-e',
     key: 'CarDashboardE',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'appliances-rice-cooker',
     key: 'AppliancesRiceCooker',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-dash-right',
     key: 'DiagramArrowDashRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

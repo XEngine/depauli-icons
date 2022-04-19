@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-london-eye',
     key: 'LandmarkLondonEye',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

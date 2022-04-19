@@ -1,6 +1,7 @@
 export default {
     name: 'movie-cinema-watch-1',
     key: 'MovieCinemaWatch1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

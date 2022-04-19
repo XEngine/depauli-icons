@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-2',
     key: 'Laptop2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

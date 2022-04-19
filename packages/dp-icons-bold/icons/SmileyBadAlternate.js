@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-bad-alternate',
     key: 'SmileyBadAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

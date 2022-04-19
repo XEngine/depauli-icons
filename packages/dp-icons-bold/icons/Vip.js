@@ -1,6 +1,7 @@
 export default {
     name: 'vip',
     key: 'Vip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

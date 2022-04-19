@@ -1,6 +1,7 @@
 export default {
     name: 'night-club-disco-ball',
     key: 'NightClubDiscoBall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

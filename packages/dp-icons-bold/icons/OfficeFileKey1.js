@@ -1,6 +1,7 @@
 export default {
     name: 'office-file-key-1',
     key: 'OfficeFileKey1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

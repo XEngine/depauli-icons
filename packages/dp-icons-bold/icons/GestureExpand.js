@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-expand',
     key: 'GestureExpand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

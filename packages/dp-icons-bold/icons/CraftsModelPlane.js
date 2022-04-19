@@ -1,6 +1,7 @@
 export default {
     name: 'crafts-model-plane',
     key: 'CraftsModelPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

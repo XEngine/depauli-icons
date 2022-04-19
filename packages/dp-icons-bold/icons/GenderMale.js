@@ -1,6 +1,7 @@
 export default {
     name: 'gender-male',
     key: 'GenderMale',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

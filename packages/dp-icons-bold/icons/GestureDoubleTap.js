@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-double-tap',
     key: 'GestureDoubleTap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

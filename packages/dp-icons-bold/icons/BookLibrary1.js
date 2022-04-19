@@ -1,6 +1,7 @@
 export default {
     name: 'book-library-1',
     key: 'BookLibrary1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

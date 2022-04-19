@@ -1,6 +1,7 @@
 export default {
     name: 'love-heart-keyhole',
     key: 'LoveHeartKeyhole',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

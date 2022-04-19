@@ -1,6 +1,7 @@
 export default {
     name: 'circle-pad-finger',
     key: 'CirclePadFinger',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

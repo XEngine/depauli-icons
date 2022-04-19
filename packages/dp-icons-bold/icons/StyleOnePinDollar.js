@@ -1,6 +1,7 @@
 export default {
     name: 'style-one-pin-dollar',
     key: 'StyleOnePinDollar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

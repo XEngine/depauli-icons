@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-home',
     key: 'SingleManHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'equalizer-1',
     key: 'Equalizer1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

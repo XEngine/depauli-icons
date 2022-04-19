@@ -1,6 +1,7 @@
 export default {
     name: 'seo-network-map',
     key: 'SeoNetworkMap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

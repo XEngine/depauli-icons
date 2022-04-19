@@ -1,6 +1,7 @@
 export default {
     name: 'medical-file',
     key: 'MedicalFile',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

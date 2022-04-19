@@ -1,6 +1,7 @@
 export default {
     name: 'igloo-1',
     key: 'Igloo1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

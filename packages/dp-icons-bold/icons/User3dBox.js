@@ -1,6 +1,7 @@
 export default {
     name: 'user-3d-box',
     key: 'User3dBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

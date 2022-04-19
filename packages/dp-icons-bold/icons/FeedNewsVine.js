@@ -1,6 +1,7 @@
 export default {
     name: 'feed-news-vine',
     key: 'FeedNewsVine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

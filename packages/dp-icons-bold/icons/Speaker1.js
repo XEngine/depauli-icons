@@ -1,6 +1,7 @@
 export default {
     name: 'speaker-1',
     key: 'Speaker1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'ticket-basketball-game',
     key: 'TicketBasketballGame',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

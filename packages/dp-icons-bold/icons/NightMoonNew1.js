@@ -1,6 +1,7 @@
 export default {
     name: 'night-moon-new-1',
     key: 'NightMoonNew1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

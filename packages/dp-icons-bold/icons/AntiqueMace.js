@@ -1,6 +1,7 @@
 export default {
     name: 'antique-mace',
     key: 'AntiqueMace',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

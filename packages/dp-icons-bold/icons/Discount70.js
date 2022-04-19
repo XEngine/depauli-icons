@@ -1,6 +1,7 @@
 export default {
     name: 'discount-70',
     key: 'Discount70',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

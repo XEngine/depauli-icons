@@ -1,6 +1,7 @@
 export default {
     name: 'paragraph-center-align-alternate',
     key: 'ParagraphCenterAlignAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

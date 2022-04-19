@@ -1,6 +1,7 @@
 export default {
     name: 'shape-cylinder',
     key: 'ShapeCylinder',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

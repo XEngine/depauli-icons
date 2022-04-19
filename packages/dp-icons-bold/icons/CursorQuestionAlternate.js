@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-question-alternate',
     key: 'CursorQuestionAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

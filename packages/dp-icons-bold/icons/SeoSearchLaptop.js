@@ -1,6 +1,7 @@
 export default {
     name: 'seo-search-laptop',
     key: 'SeoSearchLaptop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

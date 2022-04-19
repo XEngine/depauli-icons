@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-amex',
     key: 'CreditCardAmex',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

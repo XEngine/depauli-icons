@@ -1,6 +1,7 @@
 export default {
     name: 'protection-vest',
     key: 'ProtectionVest',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

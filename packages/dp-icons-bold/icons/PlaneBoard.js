@@ -1,6 +1,7 @@
 export default {
     name: 'plane-board',
     key: 'PlaneBoard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

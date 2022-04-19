@@ -1,6 +1,7 @@
 export default {
     name: 'safety-call-firefighters-2',
     key: 'SafetyCallFirefighters2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

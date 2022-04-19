@@ -1,6 +1,7 @@
 export default {
     name: 'camera-studio',
     key: 'CameraStudio',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

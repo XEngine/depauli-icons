@@ -1,6 +1,7 @@
 export default {
     name: 'settings-slider-desktop-vertical',
     key: 'SettingsSliderDesktopVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

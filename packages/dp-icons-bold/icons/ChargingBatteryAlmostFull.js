@@ -1,6 +1,7 @@
 export default {
     name: 'charging-battery-almost-full',
     key: 'ChargingBatteryAlmostFull',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'family-grandmother',
     key: 'FamilyGrandmother',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

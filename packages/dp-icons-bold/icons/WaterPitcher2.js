@@ -1,6 +1,7 @@
 export default {
     name: 'water-pitcher-2',
     key: 'WaterPitcher2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

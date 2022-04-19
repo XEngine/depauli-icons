@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-sydney-opera-house',
     key: 'LandmarkSydneyOperaHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

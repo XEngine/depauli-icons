@@ -1,6 +1,7 @@
 export default {
     name: 'plane-boarding-pass-hand',
     key: 'PlaneBoardingPassHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

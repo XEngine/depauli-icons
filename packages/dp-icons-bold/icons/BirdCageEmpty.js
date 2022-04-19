@@ -1,6 +1,7 @@
 export default {
     name: 'bird-cage-empty',
     key: 'BirdCageEmpty',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-download',
     key: 'DataFileDownload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'make-up-powder-tap',
     key: 'MakeUpPowderTap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

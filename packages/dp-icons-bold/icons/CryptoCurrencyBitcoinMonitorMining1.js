@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-bitcoin-monitor-mining-1',
     key: 'CryptoCurrencyBitcoinMonitorMining1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

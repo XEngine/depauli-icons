@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-settings',
     key: 'AudioFileSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'lock-network',
     key: 'LockNetwork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

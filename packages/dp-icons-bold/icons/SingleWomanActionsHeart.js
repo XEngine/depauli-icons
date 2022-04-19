@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-actions-heart',
     key: 'SingleWomanActionsHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

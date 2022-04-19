@@ -1,6 +1,7 @@
 export default {
     name: 'sound',
     key: 'Sound',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

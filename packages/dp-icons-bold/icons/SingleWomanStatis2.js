@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-statis-2',
     key: 'SingleWomanStatis2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

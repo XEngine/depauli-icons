@@ -1,6 +1,7 @@
 export default {
     name: 'business-pearl',
     key: 'BusinessPearl',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'american-football-ball-1',
     key: 'AmericanFootballBall1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

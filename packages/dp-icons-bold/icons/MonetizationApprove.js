@@ -1,6 +1,7 @@
 export default {
     name: 'monetization-approve',
     key: 'MonetizationApprove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

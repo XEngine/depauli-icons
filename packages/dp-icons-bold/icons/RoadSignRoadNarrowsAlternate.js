@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-road-narrows-alternate',
     key: 'RoadSignRoadNarrowsAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

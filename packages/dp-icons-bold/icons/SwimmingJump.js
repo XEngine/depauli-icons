@@ -1,6 +1,7 @@
 export default {
     name: 'swimming-jump',
     key: 'SwimmingJump',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

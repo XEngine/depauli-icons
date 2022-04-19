@@ -1,6 +1,7 @@
 export default {
     name: 'rss-feed',
     key: 'RssFeed',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

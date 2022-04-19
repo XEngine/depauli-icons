@@ -1,6 +1,7 @@
 export default {
     name: 'file-sql-1',
     key: 'FileSql1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

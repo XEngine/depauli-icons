@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-flash-auto',
     key: 'LightModeFlashAuto',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

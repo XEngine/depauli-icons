@@ -1,6 +1,7 @@
 export default {
     name: 'desktop-monitor',
     key: 'DesktopMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

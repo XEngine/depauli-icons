@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-add',
     key: 'FileCodeAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'party-mask',
     key: 'PartyMask',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

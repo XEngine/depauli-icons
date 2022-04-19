@@ -1,6 +1,7 @@
 export default {
     name: 'font-expand-horizontal',
     key: 'FontExpandHorizontal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

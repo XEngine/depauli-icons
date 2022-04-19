@@ -1,6 +1,7 @@
 export default {
     name: 'american-football-score',
     key: 'AmericanFootballScore',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

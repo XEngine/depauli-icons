@@ -1,6 +1,7 @@
 export default {
     name: 'e-learning-laptop-1',
     key: 'ELearningLaptop1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

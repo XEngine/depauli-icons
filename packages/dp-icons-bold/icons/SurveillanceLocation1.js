@@ -1,6 +1,7 @@
 export default {
     name: 'surveillance-location-1',
     key: 'SurveillanceLocation1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

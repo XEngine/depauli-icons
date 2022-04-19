@@ -1,6 +1,7 @@
 export default {
     name: 'farming-sell-vegetable',
     key: 'FarmingSellVegetable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

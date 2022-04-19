@@ -1,6 +1,7 @@
 export default {
     name: 'architecture-fence',
     key: 'ArchitectureFence',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

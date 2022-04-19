@@ -1,6 +1,7 @@
 export default {
     name: 'fossil-energy-plant-alternate',
     key: 'FossilEnergyPlantAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

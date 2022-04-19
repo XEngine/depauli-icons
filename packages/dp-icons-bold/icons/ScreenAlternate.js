@@ -1,6 +1,7 @@
 export default {
     name: 'screen-alternate',
     key: 'ScreenAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

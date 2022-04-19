@@ -1,6 +1,7 @@
 export default {
     name: 'taking-pictures-square-alternate',
     key: 'TakingPicturesSquareAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

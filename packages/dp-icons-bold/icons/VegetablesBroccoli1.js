@@ -1,6 +1,7 @@
 export default {
     name: 'vegetables-broccoli-1',
     key: 'VegetablesBroccoli1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

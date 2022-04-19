@@ -1,6 +1,7 @@
 export default {
     name: 'army-man',
     key: 'ArmyMan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

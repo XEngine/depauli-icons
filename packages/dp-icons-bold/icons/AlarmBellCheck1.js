@@ -1,6 +1,7 @@
 export default {
     name: 'alarm-bell-check-1',
     key: 'AlarmBellCheck1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

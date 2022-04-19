@@ -1,6 +1,7 @@
 export default {
     name: 'password-desktop',
     key: 'PasswordDesktop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

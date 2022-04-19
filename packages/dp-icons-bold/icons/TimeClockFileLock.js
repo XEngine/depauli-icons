@@ -1,6 +1,7 @@
 export default {
     name: 'time-clock-file-lock',
     key: 'TimeClockFileLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

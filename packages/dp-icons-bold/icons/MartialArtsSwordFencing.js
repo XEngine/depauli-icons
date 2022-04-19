@@ -1,6 +1,7 @@
 export default {
     name: 'martial-arts-sword-fencing',
     key: 'MartialArtsSwordFencing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

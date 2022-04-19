@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-previous-alternate',
     key: 'NavigationPreviousAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shape-triangle-alternate',
     key: 'ShapeTriangleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

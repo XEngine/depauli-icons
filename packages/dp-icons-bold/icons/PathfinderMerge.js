@@ -1,6 +1,7 @@
 export default {
     name: 'pathfinder-merge',
     key: 'PathfinderMerge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

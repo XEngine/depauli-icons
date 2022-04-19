@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-sunny',
     key: 'LightModeSunny',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

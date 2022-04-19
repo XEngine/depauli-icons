@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-plurk',
     key: 'SocialMediaPlurk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

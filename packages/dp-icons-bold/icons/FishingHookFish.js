@@ -1,6 +1,7 @@
 export default {
     name: 'fishing-hook-fish',
     key: 'FishingHookFish',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'equipment-safety-mask',
     key: 'EquipmentSafetyMask',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

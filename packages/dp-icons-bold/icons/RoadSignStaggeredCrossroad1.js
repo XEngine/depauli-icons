@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-staggered-crossroad-1',
     key: 'RoadSignStaggeredCrossroad1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

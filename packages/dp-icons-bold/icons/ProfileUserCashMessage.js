@@ -1,6 +1,7 @@
 export default {
     name: 'profile-user-cash-message',
     key: 'ProfileUserCashMessage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

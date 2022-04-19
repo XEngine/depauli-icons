@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-phone-exchange',
     key: 'CloudPhoneExchange',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

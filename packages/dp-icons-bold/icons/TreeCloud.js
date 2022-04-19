@@ -1,6 +1,7 @@
 export default {
     name: 'tree-cloud',
     key: 'TreeCloud',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

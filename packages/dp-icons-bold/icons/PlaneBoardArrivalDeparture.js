@@ -1,6 +1,7 @@
 export default {
     name: 'plane-board-arrival-departure',
     key: 'PlaneBoardArrivalDeparture',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

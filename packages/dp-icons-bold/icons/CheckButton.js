@@ -1,6 +1,7 @@
 export default {
     name: 'check-button',
     key: 'CheckButton',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

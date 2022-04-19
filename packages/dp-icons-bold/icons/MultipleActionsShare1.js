@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-share-1',
     key: 'MultipleActionsShare1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

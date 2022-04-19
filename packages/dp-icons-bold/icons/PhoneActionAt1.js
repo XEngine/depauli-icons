@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-at-1',
     key: 'PhoneActionAt1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

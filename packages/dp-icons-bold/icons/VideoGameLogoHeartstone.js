@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-logo-heartstone',
     key: 'VideoGameLogoHeartstone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

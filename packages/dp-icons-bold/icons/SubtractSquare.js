@@ -1,6 +1,7 @@
 export default {
     name: 'subtract-square',
     key: 'SubtractSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

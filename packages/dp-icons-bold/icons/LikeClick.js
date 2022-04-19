@@ -1,6 +1,7 @@
 export default {
     name: 'like-click',
     key: 'LikeClick',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

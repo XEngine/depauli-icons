@@ -1,6 +1,7 @@
 export default {
     name: 'color-bucket',
     key: 'ColorBucket',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

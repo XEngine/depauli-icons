@@ -1,6 +1,7 @@
 export default {
     name: 'martial-arts-fencing-person',
     key: 'MartialArtsFencingPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

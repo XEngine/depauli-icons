@@ -1,6 +1,7 @@
 export default {
     name: 'fruit-grapes',
     key: 'FruitGrapes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

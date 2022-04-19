@@ -1,6 +1,7 @@
 export default {
     name: 'cash-pin-map',
     key: 'CashPinMap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

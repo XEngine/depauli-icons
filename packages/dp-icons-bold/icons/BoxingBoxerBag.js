@@ -1,6 +1,7 @@
 export default {
     name: 'boxing-boxer-bag',
     key: 'BoxingBoxerBag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

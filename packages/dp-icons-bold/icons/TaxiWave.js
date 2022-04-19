@@ -1,6 +1,7 @@
 export default {
     name: 'taxi-wave',
     key: 'TaxiWave',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

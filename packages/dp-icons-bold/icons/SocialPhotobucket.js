@@ -1,6 +1,7 @@
 export default {
     name: 'social-photobucket',
     key: 'SocialPhotobucket',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

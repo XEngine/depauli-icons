@@ -1,6 +1,7 @@
 export default {
     name: 'hippo-body',
     key: 'HippoBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

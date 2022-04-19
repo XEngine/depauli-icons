@@ -1,6 +1,7 @@
 export default {
     name: 'time-clock-file-favorite-heart',
     key: 'TimeClockFileFavoriteHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

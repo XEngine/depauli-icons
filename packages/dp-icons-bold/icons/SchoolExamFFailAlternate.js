@@ -1,6 +1,7 @@
 export default {
     name: 'school-exam-f-fail-alternate',
     key: 'SchoolExamFFailAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

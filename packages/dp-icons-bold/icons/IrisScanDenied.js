@@ -1,6 +1,7 @@
 export default {
     name: 'iris-scan-denied',
     key: 'IrisScanDenied',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

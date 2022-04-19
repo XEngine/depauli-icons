@@ -1,6 +1,7 @@
 export default {
     name: 'baggage-leave',
     key: 'BaggageLeave',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

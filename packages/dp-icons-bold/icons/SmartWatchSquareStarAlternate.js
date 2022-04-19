@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-star-alternate',
     key: 'SmartWatchSquareStarAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

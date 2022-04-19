@@ -1,6 +1,7 @@
 export default {
     name: 'money-bag-dollar',
     key: 'MoneyBagDollar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

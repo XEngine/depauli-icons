@@ -1,6 +1,7 @@
 export default {
     name: 'send-email-2-alternate',
     key: 'SendEmail2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'trends-torch-2',
     key: 'TrendsTorch2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

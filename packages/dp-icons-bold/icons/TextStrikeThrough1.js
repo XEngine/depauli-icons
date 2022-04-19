@@ -1,6 +1,7 @@
 export default {
     name: 'text-strike-through-1',
     key: 'TextStrikeThrough1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

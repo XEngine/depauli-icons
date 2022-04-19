@@ -1,6 +1,7 @@
 export default {
     name: 'tags-lock-alternate',
     key: 'TagsLockAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

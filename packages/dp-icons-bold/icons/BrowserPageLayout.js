@@ -1,6 +1,7 @@
 export default {
     name: 'browser-page-layout',
     key: 'BrowserPageLayout',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

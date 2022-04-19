@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-up-3',
     key: 'NavigationUp3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

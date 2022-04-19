@@ -1,6 +1,7 @@
 export default {
     name: 'tree-two',
     key: 'TreeTwo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

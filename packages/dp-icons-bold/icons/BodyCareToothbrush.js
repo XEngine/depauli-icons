@@ -1,6 +1,7 @@
 export default {
     name: 'body-care-toothbrush',
     key: 'BodyCareToothbrush',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

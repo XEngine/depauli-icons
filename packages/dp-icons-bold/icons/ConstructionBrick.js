@@ -1,6 +1,7 @@
 export default {
     name: 'construction-brick',
     key: 'ConstructionBrick',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

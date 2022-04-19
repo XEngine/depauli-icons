@@ -1,6 +1,7 @@
 export default {
     name: 'e-commerce-monitor-keyboard-basket',
     key: 'ECommerceMonitorKeyboardBasket',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'upload-thick-box',
     key: 'UploadThickBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

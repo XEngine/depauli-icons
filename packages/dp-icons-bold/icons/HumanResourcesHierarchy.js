@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-hierarchy',
     key: 'HumanResourcesHierarchy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

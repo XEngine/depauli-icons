@@ -1,6 +1,7 @@
 export default {
     name: 'mood-happy-laptop',
     key: 'MoodHappyLaptop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

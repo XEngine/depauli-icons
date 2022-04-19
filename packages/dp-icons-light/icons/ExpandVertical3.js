@@ -1,6 +1,7 @@
 export default {
     name: 'expand-vertical-3',
     key: 'ExpandVertical3',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

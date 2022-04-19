@@ -1,6 +1,7 @@
 export default {
     name: 'spa-stone',
     key: 'SpaStone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-mp4-1',
     key: 'VideoFileMp41',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

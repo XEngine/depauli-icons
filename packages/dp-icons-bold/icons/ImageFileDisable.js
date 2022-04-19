@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-disable',
     key: 'ImageFileDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

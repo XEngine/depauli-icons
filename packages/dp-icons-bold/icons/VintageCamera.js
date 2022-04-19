@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-camera',
     key: 'VintageCamera',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

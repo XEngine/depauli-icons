@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-crossroad-2',
     key: 'RoadSignCrossroad2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

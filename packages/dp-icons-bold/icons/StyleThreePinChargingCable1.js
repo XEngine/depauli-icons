@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-charging-cable-1',
     key: 'StyleThreePinChargingCable1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

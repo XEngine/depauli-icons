@@ -1,6 +1,7 @@
 export default {
     name: 'close-quote',
     key: 'CloseQuote',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'professions-woman-nurse-2',
     key: 'ProfessionsWomanNurse2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

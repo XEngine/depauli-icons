@@ -1,6 +1,7 @@
 export default {
     name: 'love-it-phone',
     key: 'LoveItPhone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

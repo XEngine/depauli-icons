@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-users-1',
     key: 'MultipleUsers1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

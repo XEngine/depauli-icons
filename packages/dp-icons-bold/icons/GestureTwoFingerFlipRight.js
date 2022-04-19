@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-two-finger-flip-right',
     key: 'GestureTwoFingerFlipRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

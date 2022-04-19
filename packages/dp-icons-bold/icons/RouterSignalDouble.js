@@ -1,6 +1,7 @@
 export default {
     name: 'router-signal-double',
     key: 'RouterSignalDouble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

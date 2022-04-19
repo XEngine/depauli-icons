@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-all-direction-expand',
     key: 'DiagramAllDirectionExpand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

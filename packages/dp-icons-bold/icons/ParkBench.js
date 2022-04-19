@@ -1,6 +1,7 @@
 export default {
     name: 'park-bench',
     key: 'ParkBench',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

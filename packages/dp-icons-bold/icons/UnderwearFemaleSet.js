@@ -1,6 +1,7 @@
 export default {
     name: 'underwear-female-set',
     key: 'UnderwearFemaleSet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

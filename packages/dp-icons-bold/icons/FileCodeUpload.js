@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-upload',
     key: 'FileCodeUpload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

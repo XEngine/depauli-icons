@@ -1,6 +1,7 @@
 export default {
     name: 'insect-mantis',
     key: 'InsectMantis',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

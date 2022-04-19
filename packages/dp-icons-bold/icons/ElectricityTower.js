@@ -1,6 +1,7 @@
 export default {
     name: 'electricity-tower',
     key: 'ElectricityTower',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

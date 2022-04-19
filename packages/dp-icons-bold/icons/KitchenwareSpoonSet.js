@@ -1,6 +1,7 @@
 export default {
     name: 'kitchenware-spoon-set',
     key: 'KitchenwareSpoonSet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

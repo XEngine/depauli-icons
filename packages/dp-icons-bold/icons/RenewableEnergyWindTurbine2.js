@@ -1,6 +1,7 @@
 export default {
     name: 'renewable-energy-wind-turbine-2',
     key: 'RenewableEnergyWindTurbine2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

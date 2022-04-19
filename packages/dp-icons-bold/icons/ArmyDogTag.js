@@ -1,6 +1,7 @@
 export default {
     name: 'army-dog-tag',
     key: 'ArmyDogTag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

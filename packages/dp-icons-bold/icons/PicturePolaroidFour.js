@@ -1,6 +1,7 @@
 export default {
     name: 'picture-polaroid-four',
     key: 'PicturePolaroidFour',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

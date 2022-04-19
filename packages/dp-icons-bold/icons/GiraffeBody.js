@@ -1,6 +1,7 @@
 export default {
     name: 'giraffe-body',
     key: 'GiraffeBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

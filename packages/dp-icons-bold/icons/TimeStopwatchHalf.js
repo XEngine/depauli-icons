@@ -1,6 +1,7 @@
 export default {
     name: 'time-stopwatch-half',
     key: 'TimeStopwatchHalf',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

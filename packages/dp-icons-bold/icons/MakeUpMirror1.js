@@ -1,6 +1,7 @@
 export default {
     name: 'make-up-mirror-1',
     key: 'MakeUpMirror1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'file-ppt-1',
     key: 'FilePpt1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'religion-hinduism',
     key: 'ReligionHinduism',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

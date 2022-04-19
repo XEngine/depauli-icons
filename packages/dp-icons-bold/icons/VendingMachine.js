@@ -1,6 +1,7 @@
 export default {
     name: 'vending-machine',
     key: 'VendingMachine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

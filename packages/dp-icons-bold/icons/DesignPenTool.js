@@ -1,6 +1,7 @@
 export default {
     name: 'design-pen-tool',
     key: 'DesignPenTool',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

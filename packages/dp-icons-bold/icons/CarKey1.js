@@ -1,6 +1,7 @@
 export default {
     name: 'car-key-1',
     key: 'CarKey1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

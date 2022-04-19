@@ -1,6 +1,7 @@
 export default {
     name: 'radio-antenna-handle',
     key: 'RadioAntennaHandle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'wolf-sit',
     key: 'WolfSit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

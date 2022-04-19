@@ -1,6 +1,7 @@
 export default {
     name: 'deer-jump',
     key: 'DeerJump',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

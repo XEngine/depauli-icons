@@ -1,6 +1,7 @@
 export default {
     name: 'decoration-cabin',
     key: 'DecorationCabin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

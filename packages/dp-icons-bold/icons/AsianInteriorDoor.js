@@ -1,6 +1,7 @@
 export default {
     name: 'asian-interior-door',
     key: 'AsianInteriorDoor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

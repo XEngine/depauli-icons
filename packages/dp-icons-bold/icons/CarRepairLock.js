@@ -1,6 +1,7 @@
 export default {
     name: 'car-repair-lock',
     key: 'CarRepairLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-monitor-exchange',
     key: 'CloudMonitorExchange',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'warehouse-storage-2',
     key: 'WarehouseStorage2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

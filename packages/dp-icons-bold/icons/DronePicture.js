@@ -1,6 +1,7 @@
 export default {
     name: 'drone-picture',
     key: 'DronePicture',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

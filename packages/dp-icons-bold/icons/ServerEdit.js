@@ -1,6 +1,7 @@
 export default {
     name: 'server-edit',
     key: 'ServerEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

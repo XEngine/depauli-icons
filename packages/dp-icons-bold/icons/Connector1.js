@@ -1,6 +1,7 @@
 export default {
     name: 'connector-1',
     key: 'Connector1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

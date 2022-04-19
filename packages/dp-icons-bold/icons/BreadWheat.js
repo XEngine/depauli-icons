@@ -1,6 +1,7 @@
 export default {
     name: 'bread-wheat',
     key: 'BreadWheat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

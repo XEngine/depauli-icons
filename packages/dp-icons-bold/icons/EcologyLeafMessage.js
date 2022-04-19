@@ -1,6 +1,7 @@
 export default {
     name: 'ecology-leaf-message',
     key: 'EcologyLeafMessage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

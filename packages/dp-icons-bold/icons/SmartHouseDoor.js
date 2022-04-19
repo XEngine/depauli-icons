@@ -1,6 +1,7 @@
 export default {
     name: 'smart-house-door',
     key: 'SmartHouseDoor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

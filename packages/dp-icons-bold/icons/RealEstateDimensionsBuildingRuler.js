@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-dimensions-building-ruler',
     key: 'RealEstateDimensionsBuildingRuler',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

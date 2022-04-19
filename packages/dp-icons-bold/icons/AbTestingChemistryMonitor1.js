@@ -1,6 +1,7 @@
 export default {
     name: 'ab-testing-chemistry-monitor-1',
     key: 'AbTestingChemistryMonitor1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

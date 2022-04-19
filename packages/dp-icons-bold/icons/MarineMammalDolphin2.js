@@ -1,6 +1,7 @@
 export default {
     name: 'marine-mammal-dolphin-2',
     key: 'MarineMammalDolphin2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

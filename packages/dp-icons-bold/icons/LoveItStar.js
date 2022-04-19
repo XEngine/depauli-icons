@@ -1,6 +1,7 @@
 export default {
     name: 'love-it-star',
     key: 'LoveItStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'programming-language-css-3',
     key: 'ProgrammingLanguageCss3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

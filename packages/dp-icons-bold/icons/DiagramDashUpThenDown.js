@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-dash-up-then-down',
     key: 'DiagramDashUpThenDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

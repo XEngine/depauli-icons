@@ -1,6 +1,7 @@
 export default {
     name: 'electronics-rocker-switch',
     key: 'ElectronicsRockerSwitch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

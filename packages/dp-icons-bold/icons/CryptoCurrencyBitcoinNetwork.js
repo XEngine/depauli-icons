@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-bitcoin-network',
     key: 'CryptoCurrencyBitcoinNetwork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

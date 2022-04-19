@@ -1,6 +1,7 @@
 export default {
     name: 'religion-peace-1',
     key: 'ReligionPeace1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

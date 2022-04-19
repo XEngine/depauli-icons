@@ -1,6 +1,7 @@
 export default {
     name: 'music-genre-moon-night-alternate',
     key: 'MusicGenreMoonNightAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

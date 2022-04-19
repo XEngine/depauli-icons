@@ -1,6 +1,7 @@
 export default {
     name: 'print-picture',
     key: 'PrintPicture',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

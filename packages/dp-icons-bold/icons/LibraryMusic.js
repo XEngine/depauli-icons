@@ -1,6 +1,7 @@
 export default {
     name: 'library-music',
     key: 'LibraryMusic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'charging-battery-empty-1',
     key: 'ChargingBatteryEmpty1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

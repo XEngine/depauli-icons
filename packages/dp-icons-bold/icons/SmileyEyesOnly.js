@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-eyes-only',
     key: 'SmileyEyesOnly',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

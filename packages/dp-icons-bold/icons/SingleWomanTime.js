@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-time',
     key: 'SingleWomanTime',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

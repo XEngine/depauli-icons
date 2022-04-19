@@ -1,6 +1,7 @@
 export default {
     name: 'toys-teddy-bear-1',
     key: 'ToysTeddyBear1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

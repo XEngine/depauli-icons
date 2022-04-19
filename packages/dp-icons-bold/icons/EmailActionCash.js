@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-cash',
     key: 'EmailActionCash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

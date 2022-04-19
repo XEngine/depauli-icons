@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-head-patch-alternate',
     key: 'SmileyHeadPatchAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

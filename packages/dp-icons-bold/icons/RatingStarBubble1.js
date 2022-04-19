@@ -1,6 +1,7 @@
 export default {
     name: 'rating-star-bubble-1',
     key: 'RatingStarBubble1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

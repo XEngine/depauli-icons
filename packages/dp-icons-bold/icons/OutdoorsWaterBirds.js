@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-water-birds',
     key: 'OutdoorsWaterBirds',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

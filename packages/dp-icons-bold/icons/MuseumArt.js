@@ -1,6 +1,7 @@
 export default {
     name: 'museum-art',
     key: 'MuseumArt',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tools-wench-hold',
     key: 'ToolsWenchHold',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor"},

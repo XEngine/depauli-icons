@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-double-alternate',
     key: 'CommonFileDoubleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

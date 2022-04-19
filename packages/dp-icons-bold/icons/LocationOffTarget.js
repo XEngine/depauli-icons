@@ -1,6 +1,7 @@
 export default {
     name: 'location-off-target',
     key: 'LocationOffTarget',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

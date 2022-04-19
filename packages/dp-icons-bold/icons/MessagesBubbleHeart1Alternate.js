@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-heart-1-alternate',
     key: 'MessagesBubbleHeart1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

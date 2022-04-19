@@ -1,6 +1,7 @@
 export default {
     name: 'punishment-torture',
     key: 'PunishmentTorture',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

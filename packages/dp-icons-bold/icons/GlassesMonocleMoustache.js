@@ -1,6 +1,7 @@
 export default {
     name: 'glasses-monocle-moustache',
     key: 'GlassesMonocleMoustache',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-subtract-1',
     key: 'PhoneActionsSubtract1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

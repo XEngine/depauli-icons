@@ -1,6 +1,7 @@
 export default {
     name: 'grid-dot',
     key: 'GridDot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

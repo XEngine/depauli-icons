@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-double-click',
     key: 'CursorDoubleClick',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

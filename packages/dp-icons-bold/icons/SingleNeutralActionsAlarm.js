@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-actions-alarm',
     key: 'SingleNeutralActionsAlarm',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-dot-left',
     key: 'ArrowDotLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

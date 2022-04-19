@@ -1,6 +1,7 @@
 export default {
     name: 'pencil-circle-alternate',
     key: 'PencilCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-bitcoin-exchange-1',
     key: 'CryptoCurrencyBitcoinExchange1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

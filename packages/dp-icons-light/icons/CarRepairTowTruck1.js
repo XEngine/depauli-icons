@@ -1,6 +1,7 @@
 export default {
     name: 'car-repair-tow-truck-1',
     key: 'CarRepairTowTruck1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

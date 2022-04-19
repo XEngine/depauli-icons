@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-businessman',
     key: 'HumanResourcesBusinessman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

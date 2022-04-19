@@ -1,6 +1,7 @@
 export default {
     name: 'railroad-train-back',
     key: 'RailroadTrainBack',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

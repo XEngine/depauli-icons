@@ -1,6 +1,7 @@
 export default {
     name: 'giraffe-1',
     key: 'Giraffe1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

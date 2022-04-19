@@ -1,6 +1,7 @@
 export default {
     name: 'cupcake',
     key: 'Cupcake',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

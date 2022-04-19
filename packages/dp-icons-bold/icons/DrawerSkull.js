@@ -1,6 +1,7 @@
 export default {
     name: 'drawer-skull',
     key: 'DrawerSkull',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

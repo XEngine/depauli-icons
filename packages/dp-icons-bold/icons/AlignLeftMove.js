@@ -1,6 +1,7 @@
 export default {
     name: 'align-left-move',
     key: 'AlignLeftMove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'history-armor-shield',
     key: 'HistoryArmorShield',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

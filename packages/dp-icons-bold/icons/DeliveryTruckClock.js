@@ -1,6 +1,7 @@
 export default {
     name: 'delivery-truck-clock',
     key: 'DeliveryTruckClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

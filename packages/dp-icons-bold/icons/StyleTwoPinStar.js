@@ -1,6 +1,7 @@
 export default {
     name: 'style-two-pin-star',
     key: 'StyleTwoPinStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

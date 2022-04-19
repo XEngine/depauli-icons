@@ -1,6 +1,7 @@
 export default {
     name: 'medical-ribbon-cancer',
     key: 'MedicalRibbonCancer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gardening-house',
     key: 'GardeningHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

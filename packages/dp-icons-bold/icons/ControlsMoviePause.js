@@ -1,6 +1,7 @@
 export default {
     name: 'controls-movie-pause',
     key: 'ControlsMoviePause',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

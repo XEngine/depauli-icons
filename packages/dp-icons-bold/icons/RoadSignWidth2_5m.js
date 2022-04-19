@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-width-2-5m',
     key: 'RoadSignWidth2_5m',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'earpods-charge',
     key: 'EarpodsCharge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

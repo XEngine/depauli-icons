@@ -1,6 +1,7 @@
 export default {
     name: 'hyperlink',
     key: 'Hyperlink',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

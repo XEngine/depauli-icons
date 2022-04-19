@@ -1,6 +1,7 @@
 export default {
     name: 'download-square',
     key: 'DownloadSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

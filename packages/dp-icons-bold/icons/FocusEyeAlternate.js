@@ -1,6 +1,7 @@
 export default {
     name: 'focus-eye-alternate',
     key: 'FocusEyeAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

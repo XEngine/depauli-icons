@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-flag-1',
     key: 'SingleManFlag1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

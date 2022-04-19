@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-home',
     key: 'MultipleHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

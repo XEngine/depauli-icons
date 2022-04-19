@@ -1,6 +1,7 @@
 export default {
     name: 'tennis-forehand',
     key: 'TennisForehand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'matches-fire',
     key: 'MatchesFire',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

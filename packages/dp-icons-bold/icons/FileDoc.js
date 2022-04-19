@@ -1,6 +1,7 @@
 export default {
     name: 'file-doc',
     key: 'FileDoc',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

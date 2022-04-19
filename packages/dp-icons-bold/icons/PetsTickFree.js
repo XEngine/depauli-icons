@@ -1,6 +1,7 @@
 export default {
     name: 'pets-tick-free',
     key: 'PetsTickFree',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

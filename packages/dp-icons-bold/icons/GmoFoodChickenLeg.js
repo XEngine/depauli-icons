@@ -1,6 +1,7 @@
 export default {
     name: 'gmo-food-chicken-leg',
     key: 'GmoFoodChickenLeg',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

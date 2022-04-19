@@ -1,6 +1,7 @@
 export default {
     name: 'fox-tail',
     key: 'FoxTail',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

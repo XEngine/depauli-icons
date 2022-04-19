@@ -1,6 +1,7 @@
 export default {
     name: 'job-seach-woman',
     key: 'JobSeachWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

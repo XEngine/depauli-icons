@@ -1,6 +1,7 @@
 export default {
     name: 'medical-hospital-1',
     key: 'MedicalHospital1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

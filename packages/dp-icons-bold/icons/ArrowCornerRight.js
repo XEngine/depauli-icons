@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-corner-right',
     key: 'ArrowCornerRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

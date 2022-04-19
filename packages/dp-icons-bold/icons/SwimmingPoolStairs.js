@@ -1,6 +1,7 @@
 export default {
     name: 'swimming-pool-stairs',
     key: 'SwimmingPoolStairs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

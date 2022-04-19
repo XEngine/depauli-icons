@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-sign-house-sale',
     key: 'RealEstateSignHouseSale',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

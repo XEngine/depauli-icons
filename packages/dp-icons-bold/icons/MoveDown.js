@@ -1,6 +1,7 @@
 export default {
     name: 'move-down',
     key: 'MoveDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

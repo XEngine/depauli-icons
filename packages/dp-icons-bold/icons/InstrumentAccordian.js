@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-accordian',
     key: 'InstrumentAccordian',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

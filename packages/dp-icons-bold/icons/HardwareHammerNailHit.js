@@ -1,6 +1,7 @@
 export default {
     name: 'hardware-hammer-nail-hit',
     key: 'HardwareHammerNailHit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

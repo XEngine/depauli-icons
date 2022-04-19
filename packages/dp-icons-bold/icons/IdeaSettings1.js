@@ -1,6 +1,7 @@
 export default {
     name: 'idea-settings-1',
     key: 'IdeaSettings1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

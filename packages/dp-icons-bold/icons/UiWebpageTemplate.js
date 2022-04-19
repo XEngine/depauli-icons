@@ -1,6 +1,7 @@
 export default {
     name: 'ui-webpage-template',
     key: 'UiWebpageTemplate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

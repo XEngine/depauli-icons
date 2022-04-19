@@ -1,6 +1,7 @@
 export default {
     name: 'army-sword-fight',
     key: 'ArmySwordFight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

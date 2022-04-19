@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-forward-all-alternate',
     key: 'MessagesBubbleForwardAllAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

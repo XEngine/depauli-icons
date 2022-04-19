@@ -1,6 +1,7 @@
 export default {
     name: 'book-download-1',
     key: 'BookDownload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

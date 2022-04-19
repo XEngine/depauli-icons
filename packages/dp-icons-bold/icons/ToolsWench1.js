@@ -1,6 +1,7 @@
 export default {
     name: 'tools-wench-1',
     key: 'ToolsWench1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'casino-diamond-bag',
     key: 'CasinoDiamondBag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

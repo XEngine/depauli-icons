@@ -1,6 +1,7 @@
 export default {
     name: 'logout-alternate',
     key: 'LogoutAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

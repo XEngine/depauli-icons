@@ -1,6 +1,7 @@
 export default {
     name: 'bin-2-alternate',
     key: 'Bin2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

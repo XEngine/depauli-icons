@@ -1,6 +1,7 @@
 export default {
     name: 'color-bucket-brush',
     key: 'ColorBucketBrush',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

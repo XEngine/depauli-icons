@@ -1,6 +1,7 @@
 export default {
     name: 'check-2-alternate',
     key: 'Check2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'monetization-mouse',
     key: 'MonetizationMouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

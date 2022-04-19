@@ -1,6 +1,7 @@
 export default {
     name: 'religion-cross-necklace',
     key: 'ReligionCrossNecklace',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

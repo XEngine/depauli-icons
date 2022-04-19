@@ -1,6 +1,7 @@
 export default {
     name: 'casino-chips-double-1',
     key: 'CasinoChipsDouble1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

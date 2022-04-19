@@ -1,6 +1,7 @@
 export default {
     name: 'zip-file-shield',
     key: 'ZipFileShield',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

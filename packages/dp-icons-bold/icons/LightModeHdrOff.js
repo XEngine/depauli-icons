@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-hdr-off',
     key: 'LightModeHdrOff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'love-plant',
     key: 'LovePlant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

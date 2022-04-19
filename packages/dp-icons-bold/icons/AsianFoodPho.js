@@ -1,6 +1,7 @@
 export default {
     name: 'asian-food-pho',
     key: 'AsianFoodPho',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

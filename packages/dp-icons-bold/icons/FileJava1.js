@@ -1,6 +1,7 @@
 export default {
     name: 'file-java-1',
     key: 'FileJava1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

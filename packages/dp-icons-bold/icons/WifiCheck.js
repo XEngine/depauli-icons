@@ -1,6 +1,7 @@
 export default {
     name: 'wifi-check',
     key: 'WifiCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

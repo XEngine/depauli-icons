@@ -1,6 +1,7 @@
 export default {
     name: 'halloween-calendar-skull',
     key: 'HalloweenCalendarSkull',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

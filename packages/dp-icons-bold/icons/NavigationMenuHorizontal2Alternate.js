@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-menu-horizontal-2-alternate',
     key: 'NavigationMenuHorizontal2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

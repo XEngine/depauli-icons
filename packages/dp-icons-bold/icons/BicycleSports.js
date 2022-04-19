@@ -1,6 +1,7 @@
 export default {
     name: 'bicycle-sports',
     key: 'BicycleSports',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

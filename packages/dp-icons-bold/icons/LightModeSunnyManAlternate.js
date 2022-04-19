@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-sunny-man-alternate',
     key: 'LightModeSunnyManAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

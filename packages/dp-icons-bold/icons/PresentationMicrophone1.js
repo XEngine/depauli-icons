@@ -1,6 +1,7 @@
 export default {
     name: 'presentation-microphone-1',
     key: 'PresentationMicrophone1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

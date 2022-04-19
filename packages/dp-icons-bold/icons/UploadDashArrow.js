@@ -1,6 +1,7 @@
 export default {
     name: 'upload-dash-arrow',
     key: 'UploadDashArrow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

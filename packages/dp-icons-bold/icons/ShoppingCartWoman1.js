@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-cart-woman-1',
     key: 'ShoppingCartWoman1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

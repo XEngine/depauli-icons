@@ -1,6 +1,7 @@
 export default {
     name: 'travel-user-pin',
     key: 'TravelUserPin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

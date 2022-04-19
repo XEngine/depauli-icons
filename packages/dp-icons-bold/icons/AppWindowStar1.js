@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-star-1',
     key: 'AppWindowStar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

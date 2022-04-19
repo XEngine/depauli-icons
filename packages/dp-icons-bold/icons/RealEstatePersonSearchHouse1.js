@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-person-search-house-1',
     key: 'RealEstatePersonSearchHouse1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

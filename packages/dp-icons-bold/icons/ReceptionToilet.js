@@ -1,6 +1,7 @@
 export default {
     name: 'reception-toilet',
     key: 'ReceptionToilet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

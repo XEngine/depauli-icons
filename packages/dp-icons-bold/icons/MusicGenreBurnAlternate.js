@@ -1,6 +1,7 @@
 export default {
     name: 'music-genre-burn-alternate',
     key: 'MusicGenreBurnAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

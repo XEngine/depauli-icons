@@ -1,6 +1,7 @@
 export default {
     name: 'currency-dollar-decrease',
     key: 'CurrencyDollarDecrease',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

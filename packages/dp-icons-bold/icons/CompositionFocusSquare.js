@@ -1,6 +1,7 @@
 export default {
     name: 'composition-focus-square',
     key: 'CompositionFocusSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

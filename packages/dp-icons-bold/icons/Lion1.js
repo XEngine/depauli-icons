@@ -1,6 +1,7 @@
 export default {
     name: 'lion-1',
     key: 'Lion1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

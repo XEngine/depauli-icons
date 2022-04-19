@@ -1,6 +1,7 @@
 export default {
     name: 'music-book-note',
     key: 'MusicBookNote',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

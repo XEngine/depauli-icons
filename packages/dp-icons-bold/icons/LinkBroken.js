@@ -1,6 +1,7 @@
 export default {
     name: 'link-broken',
     key: 'LinkBroken',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

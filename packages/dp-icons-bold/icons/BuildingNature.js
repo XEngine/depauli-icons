@@ -1,6 +1,7 @@
 export default {
     name: 'building-nature',
     key: 'BuildingNature',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

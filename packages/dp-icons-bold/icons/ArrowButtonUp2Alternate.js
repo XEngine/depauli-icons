@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-button-up-2-alternate',
     key: 'ArrowButtonUp2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

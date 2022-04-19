@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-camera-archive',
     key: 'VideoEditCameraArchive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

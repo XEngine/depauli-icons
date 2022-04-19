@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-share',
     key: 'PhoneActionShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

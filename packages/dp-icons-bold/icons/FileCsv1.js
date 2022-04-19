@@ -1,6 +1,7 @@
 export default {
     name: 'file-csv-1',
     key: 'FileCsv1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

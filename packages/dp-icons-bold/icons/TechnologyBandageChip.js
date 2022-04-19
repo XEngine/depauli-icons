@@ -1,6 +1,7 @@
 export default {
     name: 'technology-bandage-chip',
     key: 'TechnologyBandageChip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-expand-1',
     key: 'AppWindowExpand1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

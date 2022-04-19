@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-bitcoin-shield',
     key: 'CryptoCurrencyBitcoinShield',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

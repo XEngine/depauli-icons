@@ -1,6 +1,7 @@
 export default {
     name: 'eco-house-sun',
     key: 'EcoHouseSun',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

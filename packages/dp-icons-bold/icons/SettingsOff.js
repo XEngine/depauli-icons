@@ -1,6 +1,7 @@
 export default {
     name: 'settings-off',
     key: 'SettingsOff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'medical-nanobot-syringe',
     key: 'MedicalNanobotSyringe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

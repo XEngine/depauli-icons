@@ -1,6 +1,7 @@
 export default {
     name: 'delivery-truck-packages',
     key: 'DeliveryTruckPackages',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

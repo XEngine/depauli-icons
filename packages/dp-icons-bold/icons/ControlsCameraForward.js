@@ -1,6 +1,7 @@
 export default {
     name: 'controls-camera-forward',
     key: 'ControlsCameraForward',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

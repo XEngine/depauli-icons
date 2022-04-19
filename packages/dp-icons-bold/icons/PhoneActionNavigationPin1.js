@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-navigation-pin-1',
     key: 'PhoneActionNavigationPin1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

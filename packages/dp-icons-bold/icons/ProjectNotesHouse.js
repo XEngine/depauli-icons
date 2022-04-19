@@ -1,6 +1,7 @@
 export default {
     name: 'project-notes-house',
     key: 'ProjectNotesHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'expand-diagonal',
     key: 'ExpandDiagonal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'baggage-line',
     key: 'BaggageLine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

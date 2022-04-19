@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-traffic-left-alternate',
     key: 'RoadSignTrafficLeftAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

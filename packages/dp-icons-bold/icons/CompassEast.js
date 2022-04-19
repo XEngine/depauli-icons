@@ -1,6 +1,7 @@
 export default {
     name: 'compass-east',
     key: 'CompassEast',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cat-grass-1',
     key: 'CatGrass1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

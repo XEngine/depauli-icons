@@ -1,6 +1,7 @@
 export default {
     name: 'move-up-1',
     key: 'MoveUp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

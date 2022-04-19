@@ -1,6 +1,7 @@
 export default {
     name: 'lens-shade-1',
     key: 'LensShade1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

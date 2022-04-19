@@ -1,6 +1,7 @@
 export default {
     name: 'phone-selfie-front-1',
     key: 'PhoneSelfieFront1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'earpod-listen',
     key: 'EarpodListen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'phone-rotate-1',
     key: 'PhoneRotate1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shelf-books',
     key: 'ShelfBooks',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

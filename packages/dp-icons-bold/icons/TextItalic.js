@@ -1,6 +1,7 @@
 export default {
     name: 'text-italic',
     key: 'TextItalic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

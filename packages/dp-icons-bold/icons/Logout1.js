@@ -1,6 +1,7 @@
 export default {
     name: 'logout-1',
     key: 'Logout1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

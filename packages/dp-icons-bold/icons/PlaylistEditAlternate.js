@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-edit-alternate',
     key: 'PlaylistEditAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

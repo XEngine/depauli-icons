@@ -1,6 +1,7 @@
 export default {
     name: 'electronics-npn-bipolar-transistor',
     key: 'ElectronicsNpnBipolarTransistor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

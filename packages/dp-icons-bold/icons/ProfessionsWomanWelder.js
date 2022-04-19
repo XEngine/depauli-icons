@@ -1,6 +1,7 @@
 export default {
     name: 'professions-woman-welder',
     key: 'ProfessionsWomanWelder',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

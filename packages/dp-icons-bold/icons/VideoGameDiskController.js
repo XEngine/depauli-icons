@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-disk-controller',
     key: 'VideoGameDiskController',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

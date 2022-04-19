@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-curvy-both-direction',
     key: 'DiagramCurvyBothDirection',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

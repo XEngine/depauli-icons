@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-wifi-alternate',
     key: 'SmartWatchSquareWifiAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

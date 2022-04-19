@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-bed',
     key: 'StyleThreePinBed',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

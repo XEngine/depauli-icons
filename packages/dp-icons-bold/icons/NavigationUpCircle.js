@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-up-circle',
     key: 'NavigationUpCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

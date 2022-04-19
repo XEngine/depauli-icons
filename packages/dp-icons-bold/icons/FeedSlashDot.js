@@ -1,6 +1,7 @@
 export default {
     name: 'feed-slash-dot',
     key: 'FeedSlashDot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

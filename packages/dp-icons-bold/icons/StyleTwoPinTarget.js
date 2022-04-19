@@ -1,6 +1,7 @@
 export default {
     name: 'style-two-pin-target',
     key: 'StyleTwoPinTarget',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

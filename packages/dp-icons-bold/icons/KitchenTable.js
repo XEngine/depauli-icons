@@ -1,6 +1,7 @@
 export default {
     name: 'kitchen-table',
     key: 'KitchenTable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

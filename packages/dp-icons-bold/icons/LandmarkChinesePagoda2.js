@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-chinese-pagoda-2',
     key: 'LandmarkChinesePagoda2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tools-keys',
     key: 'ToolsKeys',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

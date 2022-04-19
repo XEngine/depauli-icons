@@ -1,6 +1,7 @@
 export default {
     name: 'mask-diamond-alternate',
     key: 'MaskDiamondAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

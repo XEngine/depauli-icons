@@ -1,6 +1,7 @@
 export default {
     name: 'safety-warning-radioactive-alternate',
     key: 'SafetyWarningRadioactiveAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

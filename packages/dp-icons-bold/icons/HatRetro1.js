@@ -1,6 +1,7 @@
 export default {
     name: 'hat-retro-1',
     key: 'HatRetro1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

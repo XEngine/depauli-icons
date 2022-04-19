@@ -1,6 +1,7 @@
 export default {
     name: 'pets-paw-soap',
     key: 'PetsPawSoap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

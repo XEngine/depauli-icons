@@ -1,6 +1,7 @@
 export default {
     name: 'download-bottom',
     key: 'DownloadBottom',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

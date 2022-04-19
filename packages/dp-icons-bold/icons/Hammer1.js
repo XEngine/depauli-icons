@@ -1,6 +1,7 @@
 export default {
     name: 'hammer-1',
     key: 'Hammer1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

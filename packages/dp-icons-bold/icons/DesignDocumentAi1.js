@@ -1,6 +1,7 @@
 export default {
     name: 'design-document-ai-1',
     key: 'DesignDocumentAi1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

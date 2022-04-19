@@ -1,6 +1,7 @@
 export default {
     name: 'house-retro',
     key: 'HouseRetro',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

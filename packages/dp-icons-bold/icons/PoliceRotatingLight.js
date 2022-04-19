@@ -1,6 +1,7 @@
 export default {
     name: 'police-rotating-light',
     key: 'PoliceRotatingLight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

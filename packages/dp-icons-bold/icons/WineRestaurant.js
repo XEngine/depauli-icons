@@ -1,6 +1,7 @@
 export default {
     name: 'wine-restaurant',
     key: 'WineRestaurant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

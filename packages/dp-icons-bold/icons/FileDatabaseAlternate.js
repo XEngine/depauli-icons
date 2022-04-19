@@ -1,6 +1,7 @@
 export default {
     name: 'file-database-alternate',
     key: 'FileDatabaseAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

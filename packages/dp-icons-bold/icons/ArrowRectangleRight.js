@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-rectangle-right',
     key: 'ArrowRectangleRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

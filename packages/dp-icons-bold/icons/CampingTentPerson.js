@@ -1,6 +1,7 @@
 export default {
     name: 'camping-tent-person',
     key: 'CampingTentPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

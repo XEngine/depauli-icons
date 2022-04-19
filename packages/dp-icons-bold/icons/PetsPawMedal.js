@@ -1,6 +1,7 @@
 export default {
     name: 'pets-paw-medal',
     key: 'PetsPawMedal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

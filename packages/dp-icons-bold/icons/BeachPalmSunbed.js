@@ -1,6 +1,7 @@
 export default {
     name: 'beach-palm-sunbed',
     key: 'BeachPalmSunbed',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

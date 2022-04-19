@@ -1,6 +1,7 @@
 export default {
     name: 'messaging-whatsapp',
     key: 'MessagingWhatsapp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

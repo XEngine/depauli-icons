@@ -1,6 +1,7 @@
 export default {
     name: 'family-outdoors-playhouse-swing',
     key: 'FamilyOutdoorsPlayhouseSwing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

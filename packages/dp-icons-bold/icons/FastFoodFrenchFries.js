@@ -1,6 +1,7 @@
 export default {
     name: 'fast-food-french-fries',
     key: 'FastFoodFrenchFries',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

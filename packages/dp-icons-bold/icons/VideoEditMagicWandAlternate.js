@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-magic-wand-alternate',
     key: 'VideoEditMagicWandAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'history-babushka-1',
     key: 'HistoryBabushka1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

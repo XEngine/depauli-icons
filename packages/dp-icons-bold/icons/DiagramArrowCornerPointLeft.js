@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-corner-point-left',
     key: 'DiagramArrowCornerPointLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

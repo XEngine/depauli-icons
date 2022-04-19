@@ -1,6 +1,7 @@
 export default {
     name: 'e-commerce-touch-buy',
     key: 'ECommerceTouchBuy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

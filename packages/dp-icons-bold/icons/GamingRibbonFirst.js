@@ -1,6 +1,7 @@
 export default {
     name: 'gaming-ribbon-first',
     key: 'GamingRibbonFirst',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'medical-instrument-scalpel',
     key: 'MedicalInstrumentScalpel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

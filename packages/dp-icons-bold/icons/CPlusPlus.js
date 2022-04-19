@@ -1,6 +1,7 @@
 export default {
     name: 'c-plus-plus',
     key: 'CPlusPlus',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

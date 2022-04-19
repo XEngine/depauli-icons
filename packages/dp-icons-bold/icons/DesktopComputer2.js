@@ -1,6 +1,7 @@
 export default {
     name: 'desktop-computer-2',
     key: 'DesktopComputer2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

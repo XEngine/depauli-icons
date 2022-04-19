@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-side-road-right-1-alternate',
     key: 'RoadSignSideRoadRight1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

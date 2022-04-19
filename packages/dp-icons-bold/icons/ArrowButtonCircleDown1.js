@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-button-circle-down-1',
     key: 'ArrowButtonCircleDown1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

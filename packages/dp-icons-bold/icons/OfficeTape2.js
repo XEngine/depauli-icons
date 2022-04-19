@@ -1,6 +1,7 @@
 export default {
     name: 'office-tape-2',
     key: 'OfficeTape2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

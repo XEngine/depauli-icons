@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-car-7',
     key: 'VintageCar7',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

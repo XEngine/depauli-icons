@@ -1,6 +1,7 @@
 export default {
     name: 'treasure-chest-open',
     key: 'TreasureChestOpen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

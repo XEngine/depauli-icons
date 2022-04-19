@@ -1,6 +1,7 @@
 export default {
     name: 'layout-agenda',
     key: 'LayoutAgenda',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

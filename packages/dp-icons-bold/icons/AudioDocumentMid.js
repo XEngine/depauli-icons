@@ -1,6 +1,7 @@
 export default {
     name: 'audio-document-mid',
     key: 'AudioDocumentMid',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'medical-condition-head-dizziness',
     key: 'MedicalConditionHeadDizziness',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-statics-3',
     key: 'SingleManStatics3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

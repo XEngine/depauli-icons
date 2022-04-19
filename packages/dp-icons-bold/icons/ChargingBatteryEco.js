@@ -1,6 +1,7 @@
 export default {
     name: 'charging-battery-eco',
     key: 'ChargingBatteryEco',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

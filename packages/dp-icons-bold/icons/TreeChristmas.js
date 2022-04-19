@@ -1,6 +1,7 @@
 export default {
     name: 'tree-christmas',
     key: 'TreeChristmas',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

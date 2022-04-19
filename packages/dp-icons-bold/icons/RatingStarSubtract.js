@@ -1,6 +1,7 @@
 export default {
     name: 'rating-star-subtract',
     key: 'RatingStarSubtract',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

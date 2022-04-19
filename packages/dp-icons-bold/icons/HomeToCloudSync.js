@@ -1,6 +1,7 @@
 export default {
     name: 'home-to-cloud-sync',
     key: 'HomeToCloudSync',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

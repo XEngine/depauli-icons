@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-dumplings',
     key: 'ChefGearDumplings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

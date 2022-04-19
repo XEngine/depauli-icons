@@ -1,6 +1,7 @@
 export default {
     name: 'warehouse-cart-packages-3',
     key: 'WarehouseCartPackages3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

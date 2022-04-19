@@ -1,6 +1,7 @@
 export default {
     name: 'business-contract-give',
     key: 'BusinessContractGive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

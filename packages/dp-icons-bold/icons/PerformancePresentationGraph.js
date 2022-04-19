@@ -1,6 +1,7 @@
 export default {
     name: 'performance-presentation-graph',
     key: 'PerformancePresentationGraph',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

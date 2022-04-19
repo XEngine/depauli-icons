@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-thick-right-3',
     key: 'ArrowThickRight3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

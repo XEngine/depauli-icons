@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-shuffle',
     key: 'PlaylistShuffle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

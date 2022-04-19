@@ -1,6 +1,7 @@
 export default {
     name: 'radiology-scan',
     key: 'RadiologyScan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

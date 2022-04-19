@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-parking',
     key: 'RoadSignParking',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

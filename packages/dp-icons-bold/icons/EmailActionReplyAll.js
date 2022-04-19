@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-reply-all',
     key: 'EmailActionReplyAll',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

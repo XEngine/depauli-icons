@@ -1,6 +1,7 @@
 export default {
     name: 'accessories-umbrella',
     key: 'AccessoriesUmbrella',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

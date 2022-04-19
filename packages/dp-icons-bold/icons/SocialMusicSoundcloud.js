@@ -1,6 +1,7 @@
 export default {
     name: 'social-music-soundcloud',
     key: 'SocialMusicSoundcloud',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

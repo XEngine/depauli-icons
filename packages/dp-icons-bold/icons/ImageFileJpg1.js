@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-jpg-1',
     key: 'ImageFileJpg1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

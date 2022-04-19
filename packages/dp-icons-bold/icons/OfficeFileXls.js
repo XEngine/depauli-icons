@@ -1,6 +1,7 @@
 export default {
     name: 'office-file-xls',
     key: 'OfficeFileXls',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shield-check-1',
     key: 'ShieldCheck1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

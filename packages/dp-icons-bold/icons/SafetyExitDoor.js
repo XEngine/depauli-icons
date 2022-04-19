@@ -1,6 +1,7 @@
 export default {
     name: 'safety-exit-door',
     key: 'SafetyExitDoor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

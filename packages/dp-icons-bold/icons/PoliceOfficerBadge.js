@@ -1,6 +1,7 @@
 export default {
     name: 'police-officer-badge',
     key: 'PoliceOfficerBadge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

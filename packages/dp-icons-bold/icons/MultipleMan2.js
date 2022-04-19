@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-man-2',
     key: 'MultipleMan2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

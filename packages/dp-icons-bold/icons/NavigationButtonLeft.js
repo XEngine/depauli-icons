@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-button-left',
     key: 'NavigationButtonLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

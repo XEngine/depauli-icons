@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-woman-previous-1',
     key: 'HumanResourcesWomanPrevious1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

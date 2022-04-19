@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-music',
     key: 'PaginateFilterMusic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

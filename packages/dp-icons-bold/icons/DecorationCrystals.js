@@ -1,6 +1,7 @@
 export default {
     name: 'decoration-crystals',
     key: 'DecorationCrystals',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

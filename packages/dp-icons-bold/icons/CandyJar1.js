@@ -1,6 +1,7 @@
 export default {
     name: 'candy-jar-1',
     key: 'CandyJar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

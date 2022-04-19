@@ -1,6 +1,7 @@
 export default {
     name: 'technology-hand-chip',
     key: 'TechnologyHandChip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

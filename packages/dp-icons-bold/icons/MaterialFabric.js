@@ -1,6 +1,7 @@
 export default {
     name: 'material-fabric',
     key: 'MaterialFabric',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

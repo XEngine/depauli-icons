@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-star',
     key: 'ShipmentStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

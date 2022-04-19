@@ -1,6 +1,7 @@
 export default {
     name: 'share-location-hand',
     key: 'ShareLocationHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

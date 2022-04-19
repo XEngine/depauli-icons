@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-asian-hat',
     key: 'ChefGearAsianHat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

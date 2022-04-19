@@ -1,6 +1,7 @@
 export default {
     name: 'plant-pot',
     key: 'PlantPot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

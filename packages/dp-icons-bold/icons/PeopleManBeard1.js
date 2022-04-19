@@ -1,6 +1,7 @@
 export default {
     name: 'people-man-beard-1',
     key: 'PeopleManBeard1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

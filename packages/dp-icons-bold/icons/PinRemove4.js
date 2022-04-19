@@ -1,6 +1,7 @@
 export default {
     name: 'pin-remove-4',
     key: 'PinRemove4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

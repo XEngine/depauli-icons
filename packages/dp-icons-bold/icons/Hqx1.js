@@ -1,6 +1,7 @@
 export default {
     name: 'hqx-1',
     key: 'Hqx1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

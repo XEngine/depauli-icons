@@ -1,6 +1,7 @@
 export default {
     name: 'advertising-billboard-house',
     key: 'AdvertisingBillboardHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

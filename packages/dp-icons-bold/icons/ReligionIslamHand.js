@@ -1,6 +1,7 @@
 export default {
     name: 'religion-islam-hand',
     key: 'ReligionIslamHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

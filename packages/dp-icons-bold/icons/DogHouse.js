@@ -1,6 +1,7 @@
 export default {
     name: 'dog-house',
     key: 'DogHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

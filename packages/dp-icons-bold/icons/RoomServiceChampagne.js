@@ -1,6 +1,7 @@
 export default {
     name: 'room-service-champagne',
     key: 'RoomServiceChampagne',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'camping-tent-3',
     key: 'CampingTent3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

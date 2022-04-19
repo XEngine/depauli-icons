@@ -1,6 +1,7 @@
 export default {
     name: 'smartphone-pay-dollar-1',
     key: 'SmartphonePayDollar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-plane-1',
     key: 'StyleThreePinPlane1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

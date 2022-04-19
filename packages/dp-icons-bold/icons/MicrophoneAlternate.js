@@ -1,6 +1,7 @@
 export default {
     name: 'microphone-alternate',
     key: 'MicrophoneAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'love-cloud',
     key: 'LoveCloud',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

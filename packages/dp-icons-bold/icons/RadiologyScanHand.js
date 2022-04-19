@@ -1,6 +1,7 @@
 export default {
     name: 'radiology-scan-hand',
     key: 'RadiologyScanHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

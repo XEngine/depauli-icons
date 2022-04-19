@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-protect',
     key: 'SingleNeutralProtect',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

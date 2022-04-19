@@ -1,6 +1,7 @@
 export default {
     name: 'car-tool-jumper-cables',
     key: 'CarToolJumperCables',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

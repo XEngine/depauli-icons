@@ -1,6 +1,7 @@
 export default {
     name: 'antique-shuriken',
     key: 'AntiqueShuriken',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

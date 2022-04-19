@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-two-finger-tap-clock',
     key: 'GestureTwoFingerTapClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

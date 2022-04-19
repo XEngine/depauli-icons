@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-cart-download-1',
     key: 'ShoppingCartDownload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

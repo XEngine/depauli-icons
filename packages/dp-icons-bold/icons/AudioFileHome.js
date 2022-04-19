@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-home',
     key: 'AudioFileHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'ui-browser-slider',
     key: 'UiBrowserSlider',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

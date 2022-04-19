@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-about-me',
     key: 'SocialMediaAboutMe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

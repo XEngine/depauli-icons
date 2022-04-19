@@ -1,6 +1,7 @@
 export default {
     name: 'modern-weapon-tank-1',
     key: 'ModernWeaponTank1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

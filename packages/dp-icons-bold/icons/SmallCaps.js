@@ -1,6 +1,7 @@
 export default {
     name: 'small-caps',
     key: 'SmallCaps',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'barcode-tag',
     key: 'BarcodeTag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

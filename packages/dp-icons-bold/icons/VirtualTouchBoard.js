@@ -1,6 +1,7 @@
 export default {
     name: 'virtual-touch-board',
     key: 'VirtualTouchBoard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

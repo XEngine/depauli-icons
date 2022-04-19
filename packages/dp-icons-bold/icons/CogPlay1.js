@@ -1,6 +1,7 @@
 export default {
     name: 'cog-play-1',
     key: 'CogPlay1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

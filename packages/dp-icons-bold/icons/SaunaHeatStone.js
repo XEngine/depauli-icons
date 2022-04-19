@@ -1,6 +1,7 @@
 export default {
     name: 'sauna-heat-stone',
     key: 'SaunaHeatStone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

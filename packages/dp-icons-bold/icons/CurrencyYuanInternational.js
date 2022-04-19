@@ -1,6 +1,7 @@
 export default {
     name: 'currency-yuan-international',
     key: 'CurrencyYuanInternational',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

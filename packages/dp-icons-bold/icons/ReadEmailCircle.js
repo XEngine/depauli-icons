@@ -1,6 +1,7 @@
 export default {
     name: 'read-email-circle',
     key: 'ReadEmailCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

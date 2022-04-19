@@ -1,6 +1,7 @@
 export default {
     name: 'beach-swim',
     key: 'BeachSwim',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'file-php-1',
     key: 'FilePhp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'time-clock-file-question',
     key: 'TimeClockFileQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

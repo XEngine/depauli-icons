@@ -1,6 +1,7 @@
 export default {
     name: 'sea-transport-ship-cargo-birds',
     key: 'SeaTransportShipCargoBirds',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

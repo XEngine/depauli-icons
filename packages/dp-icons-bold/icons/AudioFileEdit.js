@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-edit',
     key: 'AudioFileEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

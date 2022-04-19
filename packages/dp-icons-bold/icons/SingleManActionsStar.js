@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-actions-star',
     key: 'SingleManActionsStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

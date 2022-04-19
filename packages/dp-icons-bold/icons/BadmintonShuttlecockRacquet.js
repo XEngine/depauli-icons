@@ -1,6 +1,7 @@
 export default {
     name: 'badminton-shuttlecock-racquet',
     key: 'BadmintonShuttlecockRacquet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

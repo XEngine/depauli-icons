@@ -1,6 +1,7 @@
 export default {
     name: 'tags-share',
     key: 'TagsShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

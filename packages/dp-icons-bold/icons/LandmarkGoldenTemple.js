@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-golden-temple',
     key: 'LandmarkGoldenTemple',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

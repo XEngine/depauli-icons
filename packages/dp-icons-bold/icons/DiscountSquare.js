@@ -1,6 +1,7 @@
 export default {
     name: 'discount-square',
     key: 'DiscountSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

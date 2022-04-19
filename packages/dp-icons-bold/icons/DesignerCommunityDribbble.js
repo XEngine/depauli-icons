@@ -1,6 +1,7 @@
 export default {
     name: 'designer-community-dribbble',
     key: 'DesignerCommunityDribbble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

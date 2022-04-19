@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-action-house-wrench',
     key: 'RealEstateActionHouseWrench',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

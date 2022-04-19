@@ -1,6 +1,7 @@
 export default {
     name: 'responsive-design-hand',
     key: 'ResponsiveDesignHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

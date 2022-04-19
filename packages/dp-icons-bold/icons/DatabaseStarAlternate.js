@@ -1,6 +1,7 @@
 export default {
     name: 'database-star-alternate',
     key: 'DatabaseStarAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cd-box-1',
     key: 'CdBox1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

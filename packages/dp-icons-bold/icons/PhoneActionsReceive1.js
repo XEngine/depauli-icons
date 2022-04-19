@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-receive-1',
     key: 'PhoneActionsReceive1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

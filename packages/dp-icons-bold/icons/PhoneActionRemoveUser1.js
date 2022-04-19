@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-remove-user-1',
     key: 'PhoneActionRemoveUser1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

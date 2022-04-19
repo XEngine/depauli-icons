@@ -1,6 +1,7 @@
 export default {
     name: 'architecture-window',
     key: 'ArchitectureWindow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

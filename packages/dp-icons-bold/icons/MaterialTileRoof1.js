@@ -1,6 +1,7 @@
 export default {
     name: 'material-tile-roof-1',
     key: 'MaterialTileRoof1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

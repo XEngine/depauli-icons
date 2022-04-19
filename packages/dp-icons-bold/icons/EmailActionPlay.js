@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-play',
     key: 'EmailActionPlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

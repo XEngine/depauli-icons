@@ -1,6 +1,7 @@
 export default {
     name: 'renewable-energy-earth',
     key: 'RenewableEnergyEarth',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

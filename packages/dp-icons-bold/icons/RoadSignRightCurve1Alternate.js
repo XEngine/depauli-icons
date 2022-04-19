@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-right-curve-1-alternate',
     key: 'RoadSignRightCurve1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

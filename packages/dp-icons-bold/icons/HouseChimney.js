@@ -1,6 +1,7 @@
 export default {
     name: 'house-chimney',
     key: 'HouseChimney',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

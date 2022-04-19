@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-3-way-alternate',
     key: 'RoadSign3WayAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

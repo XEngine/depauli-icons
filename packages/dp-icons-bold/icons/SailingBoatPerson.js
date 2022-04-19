@@ -1,6 +1,7 @@
 export default {
     name: 'sailing-boat-person',
     key: 'SailingBoatPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

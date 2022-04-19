@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-snorkel',
     key: 'StyleThreePinSnorkel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tag-euro',
     key: 'TagEuro',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

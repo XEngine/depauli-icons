@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-repeat',
     key: 'PlaylistRepeat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'expand-horizontal-4',
     key: 'ExpandHorizontal4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

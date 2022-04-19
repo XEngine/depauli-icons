@@ -1,6 +1,7 @@
 export default {
     name: 'house-modern-1',
     key: 'HouseModern1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

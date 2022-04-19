@@ -1,6 +1,7 @@
 export default {
     name: 'stove-gas-pot',
     key: 'StoveGasPot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

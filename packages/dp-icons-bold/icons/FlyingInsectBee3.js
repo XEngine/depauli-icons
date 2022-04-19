@@ -1,6 +1,7 @@
 export default {
     name: 'flying-insect-bee-3',
     key: 'FlyingInsectBee3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'park-fonutain-1',
     key: 'ParkFonutain1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-head-sick-alternate',
     key: 'SmileyHeadSickAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

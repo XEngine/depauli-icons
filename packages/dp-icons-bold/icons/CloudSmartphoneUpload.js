@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-smartphone-upload',
     key: 'CloudSmartphoneUpload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

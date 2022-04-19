@@ -1,6 +1,7 @@
 export default {
     name: 'bluetooth-transfer',
     key: 'BluetoothTransfer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

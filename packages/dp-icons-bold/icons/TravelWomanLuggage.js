@@ -1,6 +1,7 @@
 export default {
     name: 'travel-woman-luggage',
     key: 'TravelWomanLuggage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

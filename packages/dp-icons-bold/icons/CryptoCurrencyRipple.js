@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-ripple',
     key: 'CryptoCurrencyRipple',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

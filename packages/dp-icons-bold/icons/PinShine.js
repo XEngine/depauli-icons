@@ -1,6 +1,7 @@
 export default {
     name: 'pin-shine',
     key: 'PinShine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

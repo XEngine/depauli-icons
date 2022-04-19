@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-refresh',
     key: 'PhoneActionsRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

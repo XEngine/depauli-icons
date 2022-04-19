@@ -1,6 +1,7 @@
 export default {
     name: 'webcam-2',
     key: 'Webcam2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

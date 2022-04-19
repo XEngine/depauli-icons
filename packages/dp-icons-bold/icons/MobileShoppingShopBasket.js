@@ -1,6 +1,7 @@
 export default {
     name: 'mobile-shopping-shop-basket',
     key: 'MobileShoppingShopBasket',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

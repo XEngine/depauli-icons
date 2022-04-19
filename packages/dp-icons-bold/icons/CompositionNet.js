@@ -1,6 +1,7 @@
 export default {
     name: 'composition-net',
     key: 'CompositionNet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

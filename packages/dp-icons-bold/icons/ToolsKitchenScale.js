@@ -1,6 +1,7 @@
 export default {
     name: 'tools-kitchen-scale',
     key: 'ToolsKitchenScale',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

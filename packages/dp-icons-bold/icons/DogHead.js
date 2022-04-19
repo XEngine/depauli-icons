@@ -1,6 +1,7 @@
 export default {
     name: 'dog-head',
     key: 'DogHead',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

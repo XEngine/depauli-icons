@@ -1,6 +1,7 @@
 export default {
     name: 'book-search',
     key: 'BookSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

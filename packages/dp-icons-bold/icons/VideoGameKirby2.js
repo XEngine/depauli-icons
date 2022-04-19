@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-kirby-2',
     key: 'VideoGameKirby2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

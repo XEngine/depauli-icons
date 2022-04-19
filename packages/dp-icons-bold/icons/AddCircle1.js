@@ -1,6 +1,7 @@
 export default {
     name: 'add-circle-1',
     key: 'AddCircle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

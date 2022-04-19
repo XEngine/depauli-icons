@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-camp-fire',
     key: 'OutdoorsCampFire',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'american-football-helmet',
     key: 'AmericanFootballHelmet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

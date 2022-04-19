@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-wireless-2',
     key: 'KeyboardWireless2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

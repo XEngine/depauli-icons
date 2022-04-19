@@ -1,6 +1,7 @@
 export default {
     name: 'museum-person',
     key: 'MuseumPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'database-subtract-alternate',
     key: 'DatabaseSubtractAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

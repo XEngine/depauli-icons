@@ -1,6 +1,7 @@
 export default {
     name: 'strategy-split',
     key: 'StrategySplit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

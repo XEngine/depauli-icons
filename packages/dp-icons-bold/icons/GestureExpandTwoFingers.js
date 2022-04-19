@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-expand-two-fingers',
     key: 'GestureExpandTwoFingers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

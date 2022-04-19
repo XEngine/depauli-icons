@@ -1,6 +1,7 @@
 export default {
     name: 'programming-monitor-type',
     key: 'ProgrammingMonitorType',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

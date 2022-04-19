@@ -1,6 +1,7 @@
 export default {
     name: 'swimming-diving-board',
     key: 'SwimmingDivingBoard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

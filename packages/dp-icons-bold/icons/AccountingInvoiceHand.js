@@ -1,6 +1,7 @@
 export default {
     name: 'accounting-invoice-hand',
     key: 'AccountingInvoiceHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'vide-document-m4v-1',
     key: 'VideDocumentM4v1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

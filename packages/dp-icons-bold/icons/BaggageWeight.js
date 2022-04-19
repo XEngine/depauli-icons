@@ -1,6 +1,7 @@
 export default {
     name: 'baggage-weight',
     key: 'BaggageWeight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

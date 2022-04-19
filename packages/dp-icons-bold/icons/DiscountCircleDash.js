@@ -1,6 +1,7 @@
 export default {
     name: 'discount-circle-dash',
     key: 'DiscountCircleDash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

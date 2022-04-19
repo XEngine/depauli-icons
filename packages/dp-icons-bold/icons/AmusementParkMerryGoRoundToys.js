@@ -1,6 +1,7 @@
 export default {
     name: 'amusement-park-merry-go-round-toys',
     key: 'AmusementParkMerryGoRoundToys',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

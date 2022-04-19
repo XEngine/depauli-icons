@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-right-2',
     key: 'NavigationRight2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

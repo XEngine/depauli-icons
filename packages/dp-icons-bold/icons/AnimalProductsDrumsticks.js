@@ -1,6 +1,7 @@
 export default {
     name: 'animal-products-drumsticks',
     key: 'AnimalProductsDrumsticks',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

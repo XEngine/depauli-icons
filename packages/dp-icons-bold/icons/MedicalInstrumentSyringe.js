@@ -1,6 +1,7 @@
 export default {
     name: 'medical-instrument-syringe',
     key: 'MedicalInstrumentSyringe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

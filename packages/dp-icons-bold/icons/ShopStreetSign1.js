@@ -1,6 +1,7 @@
 export default {
     name: 'shop-street-sign-1',
     key: 'ShopStreetSign1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

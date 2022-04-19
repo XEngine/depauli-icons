@@ -1,6 +1,7 @@
 export default {
     name: 'car-dashboard-seat-adjust',
     key: 'CarDashboardSeatAdjust',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'livestock-ram',
     key: 'LivestockRam',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

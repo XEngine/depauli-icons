@@ -1,6 +1,7 @@
 export default {
     name: 'earth-share',
     key: 'EarthShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

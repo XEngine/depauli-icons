@@ -1,6 +1,7 @@
 export default {
     name: 'aircraft-plane-water',
     key: 'AircraftPlaneWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

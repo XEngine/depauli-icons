@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-triangle',
     key: 'InstrumentTriangle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

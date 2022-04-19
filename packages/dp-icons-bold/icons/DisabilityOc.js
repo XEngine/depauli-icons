@@ -1,6 +1,7 @@
 export default {
     name: 'disability-oc',
     key: 'DisabilityOc',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

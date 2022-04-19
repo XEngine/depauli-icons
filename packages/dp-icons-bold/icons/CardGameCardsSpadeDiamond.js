@@ -1,6 +1,7 @@
 export default {
     name: 'card-game-cards-spade-diamond',
     key: 'CardGameCardsSpadeDiamond',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

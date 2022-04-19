@@ -1,6 +1,7 @@
 export default {
     name: 'office-shredder-1',
     key: 'OfficeShredder1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

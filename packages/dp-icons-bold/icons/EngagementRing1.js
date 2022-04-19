@@ -1,6 +1,7 @@
 export default {
     name: 'engagement-ring-1',
     key: 'EngagementRing1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

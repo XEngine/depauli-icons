@@ -1,6 +1,7 @@
 export default {
     name: 'social-profile-bubble',
     key: 'SocialProfileBubble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

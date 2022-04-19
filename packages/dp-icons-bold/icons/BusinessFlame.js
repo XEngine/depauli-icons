@@ -1,6 +1,7 @@
 export default {
     name: 'business-flame',
     key: 'BusinessFlame',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

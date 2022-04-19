@@ -1,6 +1,7 @@
 export default {
     name: 'upload-bottom',
     key: 'UploadBottom',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

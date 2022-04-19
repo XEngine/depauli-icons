@@ -1,6 +1,7 @@
 export default {
     name: 'auto-pilot-car-signal',
     key: 'AutoPilotCarSignal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

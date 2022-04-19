@@ -1,6 +1,7 @@
 export default {
     name: 'folder-star-alternate',
     key: 'FolderStarAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'couple-woman-woman',
     key: 'CoupleWomanWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

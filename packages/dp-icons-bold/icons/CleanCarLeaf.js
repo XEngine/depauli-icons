@@ -1,6 +1,7 @@
 export default {
     name: 'clean-car-leaf',
     key: 'CleanCarLeaf',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

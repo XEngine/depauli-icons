@@ -1,6 +1,7 @@
 export default {
     name: 'fitness-weighlifting-bench',
     key: 'FitnessWeighliftingBench',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

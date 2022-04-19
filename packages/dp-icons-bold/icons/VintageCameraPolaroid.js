@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-camera-polaroid',
     key: 'VintageCameraPolaroid',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

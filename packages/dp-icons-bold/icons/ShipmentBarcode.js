@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-barcode',
     key: 'ShipmentBarcode',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

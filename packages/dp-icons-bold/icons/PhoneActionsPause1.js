@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-pause-1',
     key: 'PhoneActionsPause1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

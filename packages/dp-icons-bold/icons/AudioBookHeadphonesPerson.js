@@ -1,6 +1,7 @@
 export default {
     name: 'audio-book-headphones-person',
     key: 'AudioBookHeadphonesPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

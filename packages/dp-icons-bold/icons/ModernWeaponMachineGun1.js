@@ -1,6 +1,7 @@
 export default {
     name: 'modern-weapon-machine-gun-1',
     key: 'ModernWeaponMachineGun1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

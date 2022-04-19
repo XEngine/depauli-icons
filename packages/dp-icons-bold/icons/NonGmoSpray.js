@@ -1,6 +1,7 @@
 export default {
     name: 'non-gmo-spray',
     key: 'NonGmoSpray',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'passport-hand',
     key: 'PassportHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

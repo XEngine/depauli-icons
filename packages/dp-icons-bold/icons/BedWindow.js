@@ -1,6 +1,7 @@
 export default {
     name: 'bed-window',
     key: 'BedWindow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

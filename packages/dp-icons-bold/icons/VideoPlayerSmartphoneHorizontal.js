@@ -1,6 +1,7 @@
 export default {
     name: 'video-player-smartphone-horizontal',
     key: 'VideoPlayerSmartphoneHorizontal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

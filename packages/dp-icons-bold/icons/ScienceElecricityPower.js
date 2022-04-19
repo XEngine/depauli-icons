@@ -1,6 +1,7 @@
 export default {
     name: 'science-elecricity-power',
     key: 'ScienceElecricityPower',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gardening-seed-hand',
     key: 'GardeningSeedHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'power-tools-wood-cutter-1',
     key: 'PowerToolsWoodCutter1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

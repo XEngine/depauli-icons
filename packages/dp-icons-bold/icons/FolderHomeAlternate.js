@@ -1,6 +1,7 @@
 export default {
     name: 'folder-home-alternate',
     key: 'FolderHomeAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

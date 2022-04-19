@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-tea-cookies',
     key: 'ChefGearTeaCookies',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

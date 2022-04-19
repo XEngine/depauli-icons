@@ -1,6 +1,7 @@
 export default {
     name: 'love-heart-key',
     key: 'LoveHeartKey',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

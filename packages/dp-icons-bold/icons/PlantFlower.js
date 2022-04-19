@@ -1,6 +1,7 @@
 export default {
     name: 'plant-flower',
     key: 'PlantFlower',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

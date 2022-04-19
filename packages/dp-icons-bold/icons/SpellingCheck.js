@@ -1,6 +1,7 @@
 export default {
     name: 'spelling-check',
     key: 'SpellingCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

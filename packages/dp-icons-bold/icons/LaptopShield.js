@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-shield',
     key: 'LaptopShield',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

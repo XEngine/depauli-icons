@@ -1,6 +1,7 @@
 export default {
     name: 'body-care-mask-alternate',
     key: 'BodyCareMaskAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

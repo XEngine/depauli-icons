@@ -1,6 +1,7 @@
 export default {
     name: 'data-transfer-circle',
     key: 'DataTransferCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

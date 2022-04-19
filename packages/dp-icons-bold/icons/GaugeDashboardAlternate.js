@@ -1,6 +1,7 @@
 export default {
     name: 'gauge-dashboard-alternate',
     key: 'GaugeDashboardAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

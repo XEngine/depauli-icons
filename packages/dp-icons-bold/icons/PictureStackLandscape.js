@@ -1,6 +1,7 @@
 export default {
     name: 'picture-stack-landscape',
     key: 'PictureStackLandscape',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-touch',
     key: 'MonitorTouch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

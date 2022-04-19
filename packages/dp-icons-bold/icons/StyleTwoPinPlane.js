@@ -1,6 +1,7 @@
 export default {
     name: 'style-two-pin-plane',
     key: 'StyleTwoPinPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

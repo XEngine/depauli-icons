@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-static-3',
     key: 'SingleNeutralStatic3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'programming-language-css',
     key: 'ProgrammingLanguageCss',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

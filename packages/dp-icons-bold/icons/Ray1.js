@@ -1,6 +1,7 @@
 export default {
     name: 'ray-1',
     key: 'Ray1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

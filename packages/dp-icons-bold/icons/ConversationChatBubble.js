@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-chat-bubble',
     key: 'ConversationChatBubble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

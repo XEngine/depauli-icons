@@ -1,6 +1,7 @@
 export default {
     name: 'answer-machine-paper',
     key: 'AnswerMachinePaper',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'color-palette-2',
     key: 'ColorPalette2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

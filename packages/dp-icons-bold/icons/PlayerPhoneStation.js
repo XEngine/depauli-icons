@@ -1,6 +1,7 @@
 export default {
     name: 'player-phone-station',
     key: 'PlayerPhoneStation',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

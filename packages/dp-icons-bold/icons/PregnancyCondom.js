@@ -1,6 +1,7 @@
 export default {
     name: 'pregnancy-condom',
     key: 'PregnancyCondom',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

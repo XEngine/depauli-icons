@@ -1,6 +1,7 @@
 export default {
     name: 'delete-1',
     key: 'Delete1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

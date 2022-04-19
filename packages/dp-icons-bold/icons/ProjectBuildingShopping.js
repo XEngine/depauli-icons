@@ -1,6 +1,7 @@
 export default {
     name: 'project-building-shopping',
     key: 'ProjectBuildingShopping',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

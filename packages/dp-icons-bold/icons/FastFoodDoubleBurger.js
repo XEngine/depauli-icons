@@ -1,6 +1,7 @@
 export default {
     name: 'fast-food-double-burger',
     key: 'FastFoodDoubleBurger',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

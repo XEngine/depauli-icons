@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-iwiw-1',
     key: 'SocialMediaIwiw1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

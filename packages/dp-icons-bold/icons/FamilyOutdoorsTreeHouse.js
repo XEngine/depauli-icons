@@ -1,6 +1,7 @@
 export default {
     name: 'family-outdoors-tree-house',
     key: 'FamilyOutdoorsTreeHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

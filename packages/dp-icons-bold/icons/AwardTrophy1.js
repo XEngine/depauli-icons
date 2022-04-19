@@ -1,6 +1,7 @@
 export default {
     name: 'award-trophy-1',
     key: 'AwardTrophy1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

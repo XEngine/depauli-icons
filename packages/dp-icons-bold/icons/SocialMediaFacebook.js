@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-facebook',
     key: 'SocialMediaFacebook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

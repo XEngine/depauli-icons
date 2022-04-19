@@ -1,6 +1,7 @@
 export default {
     name: 'family-child-play',
     key: 'FamilyChildPlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

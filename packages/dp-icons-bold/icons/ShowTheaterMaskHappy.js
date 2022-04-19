@@ -1,6 +1,7 @@
 export default {
     name: 'show-theater-mask-happy',
     key: 'ShowTheaterMaskHappy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

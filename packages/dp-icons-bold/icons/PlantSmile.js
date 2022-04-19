@@ -1,6 +1,7 @@
 export default {
     name: 'plant-smile',
     key: 'PlantSmile',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

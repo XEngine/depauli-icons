@@ -1,6 +1,7 @@
 export default {
     name: 'programming-team-chat-3',
     key: 'ProgrammingTeamChat3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

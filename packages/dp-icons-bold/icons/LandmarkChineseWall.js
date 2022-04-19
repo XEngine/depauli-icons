@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-chinese-wall',
     key: 'LandmarkChineseWall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'auto-pilot-car-radius',
     key: 'AutoPilotCarRadius',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

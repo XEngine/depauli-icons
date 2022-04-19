@@ -1,6 +1,7 @@
 export default {
     name: 'atomic-bomb',
     key: 'AtomicBomb',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

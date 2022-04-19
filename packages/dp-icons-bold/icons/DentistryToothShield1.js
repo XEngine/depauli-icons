@@ -1,6 +1,7 @@
 export default {
     name: 'dentistry-tooth-shield-1',
     key: 'DentistryToothShield1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-tambourine-1',
     key: 'InstrumentTambourine1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

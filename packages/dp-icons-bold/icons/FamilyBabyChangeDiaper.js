@@ -1,6 +1,7 @@
 export default {
     name: 'family-baby-change-diaper',
     key: 'FamilyBabyChangeDiaper',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

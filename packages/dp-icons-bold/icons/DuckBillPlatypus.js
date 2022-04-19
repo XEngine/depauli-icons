@@ -1,6 +1,7 @@
 export default {
     name: 'duck-bill-platypus',
     key: 'DuckBillPlatypus',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

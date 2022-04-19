@@ -1,6 +1,7 @@
 export default {
     name: 'list-numbers',
     key: 'ListNumbers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

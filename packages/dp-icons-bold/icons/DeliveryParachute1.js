@@ -1,6 +1,7 @@
 export default {
     name: 'delivery-parachute-1',
     key: 'DeliveryParachute1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

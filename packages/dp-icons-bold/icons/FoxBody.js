@@ -1,6 +1,7 @@
 export default {
     name: 'fox-body',
     key: 'FoxBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tv-flat-screen-disable',
     key: 'TvFlatScreenDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

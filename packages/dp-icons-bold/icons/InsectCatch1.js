@@ -1,6 +1,7 @@
 export default {
     name: 'insect-catch-1',
     key: 'InsectCatch1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

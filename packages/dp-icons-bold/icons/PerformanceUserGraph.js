@@ -1,6 +1,7 @@
 export default {
     name: 'performance-user-graph',
     key: 'PerformanceUserGraph',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

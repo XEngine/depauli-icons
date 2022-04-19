@@ -1,6 +1,7 @@
 export default {
     name: 'face-id-approved',
     key: 'FaceIdApproved',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

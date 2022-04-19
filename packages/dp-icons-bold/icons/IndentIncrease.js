@@ -1,6 +1,7 @@
 export default {
     name: 'indent-increase',
     key: 'IndentIncrease',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

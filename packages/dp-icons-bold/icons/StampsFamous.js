@@ -1,6 +1,7 @@
 export default {
     name: 'stamps-famous',
     key: 'StampsFamous',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

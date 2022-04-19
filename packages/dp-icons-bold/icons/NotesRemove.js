@@ -1,6 +1,7 @@
 export default {
     name: 'notes-remove',
     key: 'NotesRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-view',
     key: 'MultipleActionsView',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

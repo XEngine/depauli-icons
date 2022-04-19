@@ -1,6 +1,7 @@
 export default {
     name: 'optimization-plane',
     key: 'OptimizationPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

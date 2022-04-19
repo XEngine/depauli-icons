@@ -1,6 +1,7 @@
 export default {
     name: 'style-two-pin-user',
     key: 'StyleTwoPinUser',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

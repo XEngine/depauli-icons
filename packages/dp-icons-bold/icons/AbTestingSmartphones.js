@@ -1,6 +1,7 @@
 export default {
     name: 'ab-testing-smartphones',
     key: 'AbTestingSmartphones',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

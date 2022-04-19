@@ -1,6 +1,7 @@
 export default {
     name: 'heavy-equipment-lift-2',
     key: 'HeavyEquipmentLift2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

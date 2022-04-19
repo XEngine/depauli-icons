@@ -1,6 +1,7 @@
 export default {
     name: 'file-copyright-dollar',
     key: 'FileCopyrightDollar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

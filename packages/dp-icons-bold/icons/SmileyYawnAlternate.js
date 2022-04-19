@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-yawn-alternate',
     key: 'SmileyYawnAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

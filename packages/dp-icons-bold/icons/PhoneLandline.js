@@ -1,6 +1,7 @@
 export default {
     name: 'phone-landline',
     key: 'PhoneLandline',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

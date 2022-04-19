@@ -1,6 +1,7 @@
 export default {
     name: 'night-stand-book',
     key: 'NightStandBook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

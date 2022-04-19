@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-find',
     key: 'SingleNeutralFind',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

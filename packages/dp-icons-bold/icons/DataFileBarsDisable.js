@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-bars-disable',
     key: 'DataFileBarsDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

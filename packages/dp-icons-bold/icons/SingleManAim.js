@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-aim',
     key: 'SingleManAim',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

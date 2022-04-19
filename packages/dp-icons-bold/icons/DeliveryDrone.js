@@ -1,6 +1,7 @@
 export default {
     name: 'delivery-drone',
     key: 'DeliveryDrone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

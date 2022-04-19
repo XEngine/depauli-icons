@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-angel',
     key: 'ChristmasAngel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'hospital-bedroom-nurse',
     key: 'HospitalBedroomNurse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

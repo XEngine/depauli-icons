@@ -1,6 +1,7 @@
 export default {
     name: 'vip-crown-queen-2',
     key: 'VipCrownQueen2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

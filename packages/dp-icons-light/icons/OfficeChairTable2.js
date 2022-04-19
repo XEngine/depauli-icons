@@ -1,6 +1,7 @@
 export default {
     name: 'office-chair-table-2',
     key: 'OfficeChairTable2',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

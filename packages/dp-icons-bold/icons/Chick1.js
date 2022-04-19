@@ -1,6 +1,7 @@
 export default {
     name: 'chick-1',
     key: 'Chick1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

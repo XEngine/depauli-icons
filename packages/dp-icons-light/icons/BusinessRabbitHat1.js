@@ -1,6 +1,7 @@
 export default {
     name: 'business-rabbit-hat-1',
     key: 'BusinessRabbitHat1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

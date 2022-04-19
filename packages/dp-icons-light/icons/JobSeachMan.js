@@ -1,6 +1,7 @@
 export default {
     name: 'job-seach-man',
     key: 'JobSeachMan',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

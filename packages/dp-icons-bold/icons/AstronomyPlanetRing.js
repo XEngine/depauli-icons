@@ -1,6 +1,7 @@
 export default {
     name: 'astronomy-planet-ring',
     key: 'AstronomyPlanetRing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

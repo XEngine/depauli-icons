@@ -1,6 +1,7 @@
 export default {
     name: 'taxi-wave-businessman',
     key: 'TaxiWaveBusinessman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

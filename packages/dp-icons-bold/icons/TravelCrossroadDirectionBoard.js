@@ -1,6 +1,7 @@
 export default {
     name: 'travel-crossroad-direction-board',
     key: 'TravelCrossroadDirectionBoard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

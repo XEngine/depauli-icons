@@ -1,6 +1,7 @@
 export default {
     name: 'religion-hexagram',
     key: 'ReligionHexagram',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

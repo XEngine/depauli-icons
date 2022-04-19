@@ -1,6 +1,7 @@
 export default {
     name: 'travel-paper-plane',
     key: 'TravelPaperPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'reception-hotel',
     key: 'ReceptionHotel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

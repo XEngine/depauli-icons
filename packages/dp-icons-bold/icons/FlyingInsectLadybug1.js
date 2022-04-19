@@ -1,6 +1,7 @@
 export default {
     name: 'flying-insect-ladybug-1',
     key: 'FlyingInsectLadybug1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-clock',
     key: 'CloudClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

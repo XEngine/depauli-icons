@@ -1,6 +1,7 @@
 export default {
     name: 'shrink-1',
     key: 'Shrink1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

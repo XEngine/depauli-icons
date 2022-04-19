@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-mistletoe',
     key: 'ChristmasMistletoe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

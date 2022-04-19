@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-cut',
     key: 'VideoEditCut',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

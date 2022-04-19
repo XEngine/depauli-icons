@@ -1,6 +1,7 @@
 export default {
     name: 'pathfinder-divide',
     key: 'PathfinderDivide',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

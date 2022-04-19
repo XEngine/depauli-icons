@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-mov',
     key: 'VideoFileMov',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

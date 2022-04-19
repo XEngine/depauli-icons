@@ -1,6 +1,7 @@
 export default {
     name: 'cleaning-cat',
     key: 'CleaningCat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

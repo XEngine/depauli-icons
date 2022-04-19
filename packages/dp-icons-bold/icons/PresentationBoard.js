@@ -1,6 +1,7 @@
 export default {
     name: 'presentation-board',
     key: 'PresentationBoard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

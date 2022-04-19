@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-mesoamerican-pyramid',
     key: 'LandmarkMesoamericanPyramid',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'dating-couple-balloon',
     key: 'DatingCoupleBalloon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

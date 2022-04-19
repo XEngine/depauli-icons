@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-hill',
     key: 'RoadSignHill',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

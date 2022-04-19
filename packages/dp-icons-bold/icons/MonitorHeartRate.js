@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-heart-rate',
     key: 'MonitorHeartRate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

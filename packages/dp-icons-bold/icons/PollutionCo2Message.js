@@ -1,6 +1,7 @@
 export default {
     name: 'pollution-co2-message',
     key: 'PollutionCo2Message',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

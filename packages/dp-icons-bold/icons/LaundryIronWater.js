@@ -1,6 +1,7 @@
 export default {
     name: 'laundry-iron-water',
     key: 'LaundryIronWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

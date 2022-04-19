@@ -1,6 +1,7 @@
 export default {
     name: 'computer-chip-flash',
     key: 'ComputerChipFlash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-bars-heart',
     key: 'DataFileBarsHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

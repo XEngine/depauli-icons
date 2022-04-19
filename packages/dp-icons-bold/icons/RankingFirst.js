@@ -1,6 +1,7 @@
 export default {
     name: 'ranking-first',
     key: 'RankingFirst',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

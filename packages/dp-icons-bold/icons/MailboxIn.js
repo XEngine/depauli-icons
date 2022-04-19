@@ -1,6 +1,7 @@
 export default {
     name: 'mailbox-in',
     key: 'MailboxIn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

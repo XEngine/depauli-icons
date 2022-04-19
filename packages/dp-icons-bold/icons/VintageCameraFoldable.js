@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-camera-foldable',
     key: 'VintageCameraFoldable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

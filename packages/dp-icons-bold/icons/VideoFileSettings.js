@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-settings',
     key: 'VideoFileSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

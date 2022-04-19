@@ -1,6 +1,7 @@
 export default {
     name: 'couple-polaroid-image',
     key: 'CouplePolaroidImage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

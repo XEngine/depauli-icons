@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-team-laptop-woman-1',
     key: 'MeetingTeamLaptopWoman1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

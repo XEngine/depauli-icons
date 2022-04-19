@@ -1,6 +1,7 @@
 export default {
     name: 'history-man-caveman',
     key: 'HistoryManCaveman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

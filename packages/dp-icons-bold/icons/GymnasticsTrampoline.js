@@ -1,6 +1,7 @@
 export default {
     name: 'gymnastics-trampoline',
     key: 'GymnasticsTrampoline',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

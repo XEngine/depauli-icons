@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-remove',
     key: 'DataFileRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

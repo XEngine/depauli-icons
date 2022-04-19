@@ -1,6 +1,7 @@
 export default {
     name: 'ceiling-ball-chandelier-retro-1',
     key: 'CeilingBallChandelierRetro1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-flash-on',
     key: 'LightModeFlashOn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

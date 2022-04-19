@@ -1,6 +1,7 @@
 export default {
     name: 'history-silk-bug',
     key: 'HistorySilkBug',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

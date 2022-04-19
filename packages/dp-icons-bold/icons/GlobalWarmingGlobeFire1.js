@@ -1,6 +1,7 @@
 export default {
     name: 'global-warming-globe-fire-1',
     key: 'GlobalWarmingGlobeFire1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

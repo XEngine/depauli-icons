@@ -1,6 +1,7 @@
 export default {
     name: 'gmo-food-apple-dna',
     key: 'GmoFoodAppleDna',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

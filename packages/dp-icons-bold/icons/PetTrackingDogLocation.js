@@ -1,6 +1,7 @@
 export default {
     name: 'pet-tracking-dog-location',
     key: 'PetTrackingDogLocation',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

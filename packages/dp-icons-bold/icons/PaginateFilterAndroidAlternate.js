@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-android-alternate',
     key: 'PaginateFilterAndroidAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

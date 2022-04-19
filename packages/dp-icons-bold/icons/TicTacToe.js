@@ -1,6 +1,7 @@
 export default {
     name: 'tic-tac-toe',
     key: 'TicTacToe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

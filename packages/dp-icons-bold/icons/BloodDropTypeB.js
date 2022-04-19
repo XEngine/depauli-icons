@@ -1,6 +1,7 @@
 export default {
     name: 'blood-drop-type-b',
     key: 'BloodDropTypeB',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

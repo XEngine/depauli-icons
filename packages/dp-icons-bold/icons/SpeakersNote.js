@@ -1,6 +1,7 @@
 export default {
     name: 'speakers-note',
     key: 'SpeakersNote',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

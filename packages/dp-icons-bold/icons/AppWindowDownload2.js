@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-download-2',
     key: 'AppWindowDownload2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

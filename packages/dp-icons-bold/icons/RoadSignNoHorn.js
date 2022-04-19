@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-no-horn',
     key: 'RoadSignNoHorn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

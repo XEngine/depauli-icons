@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-arrows-down-1',
     key: 'NavigationArrowsDown1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

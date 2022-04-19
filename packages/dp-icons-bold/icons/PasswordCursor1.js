@@ -1,6 +1,7 @@
 export default {
     name: 'password-cursor-1',
     key: 'PasswordCursor1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'artboard-image-alternate',
     key: 'ArtboardImageAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

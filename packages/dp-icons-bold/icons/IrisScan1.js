@@ -1,6 +1,7 @@
 export default {
     name: 'iris-scan-1',
     key: 'IrisScan1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

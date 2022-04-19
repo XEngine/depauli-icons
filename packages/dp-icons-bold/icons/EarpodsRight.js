@@ -1,6 +1,7 @@
 export default {
     name: 'earpods-right',
     key: 'EarpodsRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

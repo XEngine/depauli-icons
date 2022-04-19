@@ -1,6 +1,7 @@
 export default {
     name: 'beach-palm-water',
     key: 'BeachPalmWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

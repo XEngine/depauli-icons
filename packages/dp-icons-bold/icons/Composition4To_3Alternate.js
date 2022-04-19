@@ -1,6 +1,7 @@
 export default {
     name: 'composition-4-to-3-alternate',
     key: 'Composition4To_3Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

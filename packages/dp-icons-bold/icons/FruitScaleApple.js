@@ -1,6 +1,7 @@
 export default {
     name: 'fruit-scale-apple',
     key: 'FruitScaleApple',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

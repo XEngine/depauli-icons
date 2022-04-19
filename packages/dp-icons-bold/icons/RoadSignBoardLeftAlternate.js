@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-board-left-alternate',
     key: 'RoadSignBoardLeftAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

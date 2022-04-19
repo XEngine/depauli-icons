@@ -1,6 +1,7 @@
 export default {
     name: 'insurance-cheap',
     key: 'InsuranceCheap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

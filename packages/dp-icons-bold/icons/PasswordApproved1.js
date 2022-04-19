@@ -1,6 +1,7 @@
 export default {
     name: 'password-approved-1',
     key: 'PasswordApproved1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

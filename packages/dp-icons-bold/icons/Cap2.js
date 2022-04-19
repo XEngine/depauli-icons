@@ -1,6 +1,7 @@
 export default {
     name: 'cap-2',
     key: 'Cap2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

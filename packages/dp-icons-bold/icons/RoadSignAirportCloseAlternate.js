@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-airport-close-alternate',
     key: 'RoadSignAirportCloseAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

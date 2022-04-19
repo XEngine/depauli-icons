@@ -1,6 +1,7 @@
 export default {
     name: 'cell-border-horizontal-vertical',
     key: 'CellBorderHorizontalVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

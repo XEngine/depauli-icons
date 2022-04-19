@@ -1,6 +1,7 @@
 export default {
     name: 'direction-button-square-alternate',
     key: 'DirectionButtonSquareAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

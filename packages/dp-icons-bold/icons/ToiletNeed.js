@@ -1,6 +1,7 @@
 export default {
     name: 'toilet-need',
     key: 'ToiletNeed',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

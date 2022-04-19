@@ -1,6 +1,7 @@
 export default {
     name: 'movies-film',
     key: 'MoviesFilm',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

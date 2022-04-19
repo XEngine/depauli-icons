@@ -1,6 +1,7 @@
 export default {
     name: 'volume-down',
     key: 'VolumeDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

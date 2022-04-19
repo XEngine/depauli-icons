@@ -1,6 +1,7 @@
 export default {
     name: 'rotate-forward',
     key: 'RotateForward',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

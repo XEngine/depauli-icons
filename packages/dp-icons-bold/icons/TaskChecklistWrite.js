@@ -1,6 +1,7 @@
 export default {
     name: 'task-checklist-write',
     key: 'TaskChecklistWrite',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

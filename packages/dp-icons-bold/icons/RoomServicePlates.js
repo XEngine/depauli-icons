@@ -1,6 +1,7 @@
 export default {
     name: 'room-service-plates',
     key: 'RoomServicePlates',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

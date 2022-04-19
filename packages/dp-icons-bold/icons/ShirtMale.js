@@ -1,6 +1,7 @@
 export default {
     name: 'shirt-male',
     key: 'ShirtMale',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

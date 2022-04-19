@@ -1,6 +1,7 @@
 export default {
     name: 'water-dam',
     key: 'WaterDam',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

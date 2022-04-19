@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-no-buses-alternate',
     key: 'RoadSignNoBusesAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

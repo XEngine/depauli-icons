@@ -1,6 +1,7 @@
 export default {
     name: 'products-gift-tag',
     key: 'ProductsGiftTag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

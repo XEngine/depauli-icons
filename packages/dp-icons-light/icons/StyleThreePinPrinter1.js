@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-printer-1',
     key: 'StyleThreePinPrinter1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

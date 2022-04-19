@@ -1,6 +1,7 @@
 export default {
     name: 'image-document-gif-1',
     key: 'ImageDocumentGif1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

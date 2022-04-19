@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-check',
     key: 'SingleNeutralCheck',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

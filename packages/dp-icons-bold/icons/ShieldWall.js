@@ -1,6 +1,7 @@
 export default {
     name: 'shield-wall',
     key: 'ShieldWall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

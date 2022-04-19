@@ -1,6 +1,7 @@
 export default {
     name: 'go-pro',
     key: 'GoPro',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'zip-file-remove',
     key: 'ZipFileRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

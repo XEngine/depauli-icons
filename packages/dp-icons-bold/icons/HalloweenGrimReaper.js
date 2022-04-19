@@ -1,6 +1,7 @@
 export default {
     name: 'halloween-grim-reaper',
     key: 'HalloweenGrimReaper',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

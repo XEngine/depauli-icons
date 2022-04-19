@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-side-road-angle-left-2',
     key: 'RoadSignSideRoadAngleLeft2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

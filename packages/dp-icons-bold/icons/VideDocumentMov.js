@@ -1,6 +1,7 @@
 export default {
     name: 'vide-document-mov',
     key: 'VideDocumentMov',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

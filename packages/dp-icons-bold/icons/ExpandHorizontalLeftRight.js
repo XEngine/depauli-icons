@@ -1,6 +1,7 @@
 export default {
     name: 'expand-horizontal-left-right',
     key: 'ExpandHorizontalLeftRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

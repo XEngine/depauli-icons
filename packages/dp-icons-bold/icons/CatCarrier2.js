@@ -1,6 +1,7 @@
 export default {
     name: 'cat-carrier-2',
     key: 'CatCarrier2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

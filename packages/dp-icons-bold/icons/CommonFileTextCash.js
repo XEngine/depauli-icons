@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-text-cash',
     key: 'CommonFileTextCash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

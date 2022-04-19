@@ -1,6 +1,7 @@
 export default {
     name: 'coffee-machine-1',
     key: 'CoffeeMachine1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

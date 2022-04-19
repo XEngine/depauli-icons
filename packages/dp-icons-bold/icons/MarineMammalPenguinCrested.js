@@ -1,6 +1,7 @@
 export default {
     name: 'marine-mammal-penguin-crested',
     key: 'MarineMammalPenguinCrested',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

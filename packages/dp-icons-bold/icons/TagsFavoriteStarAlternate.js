@@ -1,6 +1,7 @@
 export default {
     name: 'tags-favorite-star-alternate',
     key: 'TagsFavoriteStarAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

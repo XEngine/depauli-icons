@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-look-both-ways-1',
     key: 'RoadSignLookBothWays1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

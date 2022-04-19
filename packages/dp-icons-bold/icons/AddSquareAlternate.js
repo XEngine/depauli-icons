@@ -1,6 +1,7 @@
 export default {
     name: 'add-square-alternate',
     key: 'AddSquareAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

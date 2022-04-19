@@ -1,6 +1,7 @@
 export default {
     name: 'love-gift-box-heart',
     key: 'LoveGiftBoxHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'sauna-heat-1',
     key: 'SaunaHeat1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

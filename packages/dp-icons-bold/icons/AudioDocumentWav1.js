@@ -1,6 +1,7 @@
 export default {
     name: 'audio-document-wav-1',
     key: 'AudioDocumentWav1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

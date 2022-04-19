@@ -1,6 +1,7 @@
 export default {
     name: 'body-care-sun-lotion',
     key: 'BodyCareSunLotion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

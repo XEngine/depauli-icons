@@ -1,6 +1,7 @@
 export default {
     name: 'educative-toys-alphabet',
     key: 'EducativeToysAlphabet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'bin-paper-2',
     key: 'BinPaper2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

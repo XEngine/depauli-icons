@@ -1,6 +1,7 @@
 export default {
     name: 'arrange-letter',
     key: 'ArrangeLetter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

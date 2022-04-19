@@ -1,6 +1,7 @@
 export default {
     name: 'clothes-design-thread',
     key: 'ClothesDesignThread',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

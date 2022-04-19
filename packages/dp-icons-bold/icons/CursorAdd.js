@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-add',
     key: 'CursorAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

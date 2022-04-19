@@ -1,6 +1,7 @@
 export default {
     name: 'trekking-map',
     key: 'TrekkingMap',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'messages-people-user-star',
     key: 'MessagesPeopleUserStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

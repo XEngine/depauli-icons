@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-christ-the-reedemer',
     key: 'LandmarkChristTheReedemer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'astrology-aries-1',
     key: 'AstrologyAries1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

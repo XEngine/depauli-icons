@@ -1,6 +1,7 @@
 export default {
     name: 'read-email-letter',
     key: 'ReadEmailLetter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

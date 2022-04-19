@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-character',
     key: 'VideoGameCharacter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tags-download-alternate',
     key: 'TagsDownloadAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

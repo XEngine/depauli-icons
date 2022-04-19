@@ -1,6 +1,7 @@
 export default {
     name: 'table-lamp-retro-1',
     key: 'TableLampRetro1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

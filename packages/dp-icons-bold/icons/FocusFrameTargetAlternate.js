@@ -1,6 +1,7 @@
 export default {
     name: 'focus-frame-target-alternate',
     key: 'FocusFrameTargetAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

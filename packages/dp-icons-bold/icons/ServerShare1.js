@@ -1,6 +1,7 @@
 export default {
     name: 'server-share-1',
     key: 'ServerShare1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

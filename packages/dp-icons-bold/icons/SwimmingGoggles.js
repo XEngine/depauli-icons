@@ -1,6 +1,7 @@
 export default {
     name: 'swimming-goggles',
     key: 'SwimmingGoggles',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

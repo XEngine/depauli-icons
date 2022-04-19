@@ -1,6 +1,7 @@
 export default {
     name: 'love-it-circle-alternate',
     key: 'LoveItCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

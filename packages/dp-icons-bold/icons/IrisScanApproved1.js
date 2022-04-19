@@ -1,6 +1,7 @@
 export default {
     name: 'iris-scan-approved-1',
     key: 'IrisScanApproved1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

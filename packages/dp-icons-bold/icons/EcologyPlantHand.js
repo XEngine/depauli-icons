@@ -1,6 +1,7 @@
 export default {
     name: 'ecology-plant-hand',
     key: 'EcologyPlantHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

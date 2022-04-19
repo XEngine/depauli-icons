@@ -1,6 +1,7 @@
 export default {
     name: 'pollution-faucet-water',
     key: 'PollutionFaucetWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

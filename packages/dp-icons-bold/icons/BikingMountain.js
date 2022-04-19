@@ -1,6 +1,7 @@
 export default {
     name: 'biking-mountain',
     key: 'BikingMountain',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

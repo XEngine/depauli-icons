@@ -1,6 +1,7 @@
 export default {
     name: 'certified-diploma-2',
     key: 'CertifiedDiploma2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'warehouse-package-box',
     key: 'WarehousePackageBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

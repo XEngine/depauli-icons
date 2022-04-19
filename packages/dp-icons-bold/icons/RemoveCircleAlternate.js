@@ -1,6 +1,7 @@
 export default {
     name: 'remove-circle-alternate',
     key: 'RemoveCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

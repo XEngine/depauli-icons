@@ -1,6 +1,7 @@
 export default {
     name: 'disability-walking-aid',
     key: 'DisabilityWalkingAid',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

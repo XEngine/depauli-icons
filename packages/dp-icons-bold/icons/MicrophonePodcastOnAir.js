@@ -1,6 +1,7 @@
 export default {
     name: 'microphone-podcast-on-air',
     key: 'MicrophonePodcastOnAir',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

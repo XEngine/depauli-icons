@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-paper-glue-1',
     key: 'DesignToolPaperGlue1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

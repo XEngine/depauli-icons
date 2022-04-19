@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-missed-call-alternate',
     key: 'SmartWatchSquareMissedCallAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

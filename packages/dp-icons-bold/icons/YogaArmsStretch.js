@@ -1,6 +1,7 @@
 export default {
     name: 'yoga-arms-stretch',
     key: 'YogaArmsStretch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

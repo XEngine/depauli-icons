@@ -1,6 +1,7 @@
 export default {
     name: 'history-alice-mad-hat',
     key: 'HistoryAliceMadHat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

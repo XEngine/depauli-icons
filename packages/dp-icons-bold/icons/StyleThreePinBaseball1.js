@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-baseball-1',
     key: 'StyleThreePinBaseball1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

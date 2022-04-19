@@ -1,6 +1,7 @@
 export default {
     name: 'organic-tree-1',
     key: 'OrganicTree1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

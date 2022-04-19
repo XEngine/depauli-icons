@@ -1,6 +1,7 @@
 export default {
     name: 'history-middle-east',
     key: 'HistoryMiddleEast',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

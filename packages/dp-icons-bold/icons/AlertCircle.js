@@ -1,6 +1,7 @@
 export default {
     name: 'alert-circle',
     key: 'AlertCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

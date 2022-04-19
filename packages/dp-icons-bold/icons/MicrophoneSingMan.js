@@ -1,6 +1,7 @@
 export default {
     name: 'microphone-sing-man',
     key: 'MicrophoneSingMan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

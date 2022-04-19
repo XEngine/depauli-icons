@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-edit',
     key: 'FileCodeEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

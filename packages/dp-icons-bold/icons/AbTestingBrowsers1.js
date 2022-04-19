@@ -1,6 +1,7 @@
 export default {
     name: 'ab-testing-browsers-1',
     key: 'AbTestingBrowsers1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

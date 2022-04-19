@@ -1,6 +1,7 @@
 export default {
     name: 'paragraph-spacing',
     key: 'ParagraphSpacing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

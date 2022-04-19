@@ -1,6 +1,7 @@
 export default {
     name: 'charging-battery-low-2',
     key: 'ChargingBatteryLow2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

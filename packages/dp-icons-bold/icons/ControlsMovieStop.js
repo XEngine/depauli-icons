@@ -1,6 +1,7 @@
 export default {
     name: 'controls-movie-stop',
     key: 'ControlsMovieStop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-tap-expand-all-direction',
     key: 'GestureTapExpandAllDirection',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'picture-double-landscape',
     key: 'PictureDoubleLandscape',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'android-settings',
     key: 'AndroidSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

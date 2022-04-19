@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-disk',
     key: 'AudioFileDisk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

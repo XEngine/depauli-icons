@@ -1,6 +1,7 @@
 export default {
     name: 'artificial-arm',
     key: 'ArtificialArm',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

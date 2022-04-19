@@ -1,6 +1,7 @@
 export default {
     name: 'portable-player',
     key: 'PortablePlayer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

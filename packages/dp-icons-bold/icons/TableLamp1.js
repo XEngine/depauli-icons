@@ -1,6 +1,7 @@
 export default {
     name: 'table-lamp-1',
     key: 'TableLamp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

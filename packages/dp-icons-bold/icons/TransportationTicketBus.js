@@ -1,6 +1,7 @@
 export default {
     name: 'transportation-ticket-bus',
     key: 'TransportationTicketBus',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

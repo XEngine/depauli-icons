@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-square-graph',
     key: 'MessagesBubbleSquareGraph',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

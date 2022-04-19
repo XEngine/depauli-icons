@@ -1,6 +1,7 @@
 export default {
     name: 'space-base',
     key: 'SpaceBase',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

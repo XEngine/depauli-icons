@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-tap-horizontal-expand',
     key: 'GestureTapHorizontalExpand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'network-arrow-sync',
     key: 'NetworkArrowSync',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'social-500px',
     key: 'Social500px',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

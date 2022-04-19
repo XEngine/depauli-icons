@@ -1,6 +1,7 @@
 export default {
     name: 'history-lamp-genie',
     key: 'HistoryLampGenie',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,6 +1,7 @@
 export default {
     name: 'settings-slider-desktop-horizontal-alternate',
     key: 'SettingsSliderDesktopHorizontalAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

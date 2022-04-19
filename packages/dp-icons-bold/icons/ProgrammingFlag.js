@@ -1,6 +1,7 @@
 export default {
     name: 'programming-flag',
     key: 'ProgrammingFlag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

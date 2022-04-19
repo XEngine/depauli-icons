@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-cookie-bowl',
     key: 'ChefGearCookieBowl',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

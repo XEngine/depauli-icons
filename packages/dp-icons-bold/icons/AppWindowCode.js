@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-code',
     key: 'AppWindowCode',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

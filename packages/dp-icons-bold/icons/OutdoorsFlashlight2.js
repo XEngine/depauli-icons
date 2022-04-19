@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-flashlight-2',
     key: 'OutdoorsFlashlight2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

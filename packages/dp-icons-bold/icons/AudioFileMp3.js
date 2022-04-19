@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-mp3',
     key: 'AudioFileMp3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

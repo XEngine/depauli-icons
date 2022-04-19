@@ -1,6 +1,7 @@
 export default {
     name: 'currency-yuan-bill',
     key: 'CurrencyYuanBill',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

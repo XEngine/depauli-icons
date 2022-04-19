@@ -1,6 +1,7 @@
 export default {
     name: 'cocktail-shaker',
     key: 'CocktailShaker',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

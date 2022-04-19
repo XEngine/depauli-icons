@@ -1,6 +1,7 @@
 export default {
     name: 'vinyl-record-player',
     key: 'VinylRecordPlayer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

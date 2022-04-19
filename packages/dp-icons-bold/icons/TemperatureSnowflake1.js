@@ -1,6 +1,7 @@
 export default {
     name: 'temperature-snowflake-1',
     key: 'TemperatureSnowflake1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

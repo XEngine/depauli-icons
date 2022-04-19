@@ -1,6 +1,7 @@
 export default {
     name: 'park-bench-light',
     key: 'ParkBenchLight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

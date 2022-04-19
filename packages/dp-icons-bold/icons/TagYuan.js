@@ -1,6 +1,7 @@
 export default {
     name: 'tag-yuan',
     key: 'TagYuan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

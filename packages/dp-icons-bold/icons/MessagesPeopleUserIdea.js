@@ -1,6 +1,7 @@
 export default {
     name: 'messages-people-user-idea',
     key: 'MessagesPeopleUserIdea',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

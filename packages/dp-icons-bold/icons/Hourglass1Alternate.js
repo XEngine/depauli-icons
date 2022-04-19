@@ -1,6 +1,7 @@
 export default {
     name: 'hourglass-1-alternate',
     key: 'Hourglass1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

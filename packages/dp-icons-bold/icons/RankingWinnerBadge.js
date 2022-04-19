@@ -1,6 +1,7 @@
 export default {
     name: 'ranking-winner-badge',
     key: 'RankingWinnerBadge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

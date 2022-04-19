@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-2',
     key: 'Keyboard2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

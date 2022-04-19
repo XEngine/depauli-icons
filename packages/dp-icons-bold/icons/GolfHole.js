@@ -1,6 +1,7 @@
 export default {
     name: 'golf-hole',
     key: 'GolfHole',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

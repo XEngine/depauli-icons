@@ -1,6 +1,7 @@
 export default {
     name: 'modern-weapon-cannon',
     key: 'ModernWeaponCannon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

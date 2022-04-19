@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-fragile-break',
     key: 'ShipmentFragileBreak',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

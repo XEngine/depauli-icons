@@ -1,6 +1,7 @@
 export default {
     name: 'content-pen-write-1',
     key: 'ContentPenWrite1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

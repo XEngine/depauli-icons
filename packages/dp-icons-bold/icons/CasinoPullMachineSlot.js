@@ -1,6 +1,7 @@
 export default {
     name: 'casino-pull-machine-slot',
     key: 'CasinoPullMachineSlot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

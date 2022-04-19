@@ -1,6 +1,7 @@
 export default {
     name: 'social-video-youtube-clip',
     key: 'SocialVideoYoutubeClip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-add',
     key: 'VideoFileAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

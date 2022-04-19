@@ -1,6 +1,7 @@
 export default {
     name: 'renewable-energy-water-dam-1',
     key: 'RenewableEnergyWaterDam1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

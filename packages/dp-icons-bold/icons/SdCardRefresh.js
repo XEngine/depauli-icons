@@ -1,6 +1,7 @@
 export default {
     name: 'sd-card-refresh',
     key: 'SdCardRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

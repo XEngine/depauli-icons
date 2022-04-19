@@ -1,6 +1,7 @@
 export default {
     name: 'science-perspective',
     key: 'SciencePerspective',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

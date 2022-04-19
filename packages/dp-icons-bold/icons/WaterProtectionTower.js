@@ -1,6 +1,7 @@
 export default {
     name: 'water-protection-tower',
     key: 'WaterProtectionTower',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

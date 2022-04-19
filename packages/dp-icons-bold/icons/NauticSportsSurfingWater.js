@@ -1,6 +1,7 @@
 export default {
     name: 'nautic-sports-surfing-water',
     key: 'NauticSportsSurfingWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

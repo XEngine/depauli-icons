@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-nintendo-1',
     key: 'VideoGameNintendo1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

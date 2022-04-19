@@ -1,6 +1,7 @@
 export default {
     name: 'optimization-rocket-growth',
     key: 'OptimizationRocketGrowth',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

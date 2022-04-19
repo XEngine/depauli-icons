@@ -1,6 +1,7 @@
 export default {
     name: 'hardware-nut-round',
     key: 'HardwareNutRound',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

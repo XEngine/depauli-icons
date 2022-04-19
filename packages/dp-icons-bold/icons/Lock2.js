@@ -1,6 +1,7 @@
 export default {
     name: 'lock-2',
     key: 'Lock2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

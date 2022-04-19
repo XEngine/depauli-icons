@@ -1,6 +1,7 @@
 export default {
     name: 'barcode',
     key: 'Barcode',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

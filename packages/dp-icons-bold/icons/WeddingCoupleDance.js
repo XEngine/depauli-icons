@@ -1,6 +1,7 @@
 export default {
     name: 'wedding-couple-dance',
     key: 'WeddingCoupleDance',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

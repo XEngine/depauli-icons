@@ -1,6 +1,7 @@
 export default {
     name: 'ticket-buy',
     key: 'TicketBuy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

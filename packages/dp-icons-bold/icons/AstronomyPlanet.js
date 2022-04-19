@@ -1,6 +1,7 @@
 export default {
     name: 'astronomy-planet',
     key: 'AstronomyPlanet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

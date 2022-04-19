@@ -1,6 +1,7 @@
 export default {
     name: 'natural-disaster-hurricane-house-damaged',
     key: 'NaturalDisasterHurricaneHouseDamaged',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

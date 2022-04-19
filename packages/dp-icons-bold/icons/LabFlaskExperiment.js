@@ -1,6 +1,7 @@
 export default {
     name: 'lab-flask-experiment',
     key: 'LabFlaskExperiment',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

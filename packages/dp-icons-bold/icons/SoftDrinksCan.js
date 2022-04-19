@@ -1,6 +1,7 @@
 export default {
     name: 'soft-drinks-can',
     key: 'SoftDrinksCan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

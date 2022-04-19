@@ -1,6 +1,7 @@
 export default {
     name: 'police-man-3',
     key: 'PoliceMan3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

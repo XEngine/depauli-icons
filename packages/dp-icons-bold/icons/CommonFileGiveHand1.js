@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-give-hand-1',
     key: 'CommonFileGiveHand1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

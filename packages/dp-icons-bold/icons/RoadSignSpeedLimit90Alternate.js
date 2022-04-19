@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-speed-limit-90-alternate',
     key: 'RoadSignSpeedLimit90Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

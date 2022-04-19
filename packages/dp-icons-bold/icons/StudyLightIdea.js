@@ -1,6 +1,7 @@
 export default {
     name: 'study-light-idea',
     key: 'StudyLightIdea',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

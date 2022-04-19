@@ -1,6 +1,7 @@
 export default {
     name: 'accounting-bill-stack',
     key: 'AccountingBillStack',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

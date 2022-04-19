@@ -1,6 +1,7 @@
 export default {
     name: 'check-circle-1',
     key: 'CheckCircle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

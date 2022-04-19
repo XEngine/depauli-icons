@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-tv-2',
     key: 'VintageTv2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cellular-network-lte',
     key: 'CellularNetworkLte',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

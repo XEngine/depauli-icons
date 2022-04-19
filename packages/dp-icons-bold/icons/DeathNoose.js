@@ -1,6 +1,7 @@
 export default {
     name: 'death-noose',
     key: 'DeathNoose',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

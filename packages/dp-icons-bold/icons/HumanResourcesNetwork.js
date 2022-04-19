@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-network',
     key: 'HumanResourcesNetwork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

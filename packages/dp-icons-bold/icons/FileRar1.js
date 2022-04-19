@@ -1,6 +1,7 @@
 export default {
     name: 'file-rar-1',
     key: 'FileRar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

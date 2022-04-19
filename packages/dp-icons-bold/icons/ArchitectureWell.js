@@ -1,6 +1,7 @@
 export default {
     name: 'architecture-well',
     key: 'ArchitectureWell',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

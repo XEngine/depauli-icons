@@ -1,6 +1,7 @@
 export default {
     name: 'programming-code',
     key: 'ProgrammingCode',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

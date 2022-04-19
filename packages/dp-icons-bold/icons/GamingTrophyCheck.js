@@ -1,6 +1,7 @@
 export default {
     name: 'gaming-trophy-check',
     key: 'GamingTrophyCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'clean-car-cable-charge-2',
     key: 'CleanCarCableCharge2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

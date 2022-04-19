@@ -1,6 +1,7 @@
 export default {
     name: 'history-seat',
     key: 'HistorySeat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

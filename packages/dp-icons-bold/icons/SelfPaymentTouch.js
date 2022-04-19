@@ -1,6 +1,7 @@
 export default {
     name: 'self-payment-touch',
     key: 'SelfPaymentTouch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

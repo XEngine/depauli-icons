@@ -1,6 +1,7 @@
 export default {
     name: 'famous-people-man-steve-jobs',
     key: 'FamousPeopleManSteveJobs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

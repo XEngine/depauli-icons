@@ -1,6 +1,7 @@
 export default {
     name: 'messages-people-man-bubble-circle-alternate',
     key: 'MessagesPeopleManBubbleCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

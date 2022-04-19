@@ -1,6 +1,7 @@
 export default {
     name: 'martial-arts-swords',
     key: 'MartialArtsSwords',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'yoga-full-body-stretch',
     key: 'YogaFullBodyStretch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

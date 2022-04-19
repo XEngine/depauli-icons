@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-4m-high-1',
     key: 'RoadSign4mHigh_1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,6 +1,7 @@
 export default {
     name: 'animal-print-paw-2',
     key: 'AnimalPrintPaw2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

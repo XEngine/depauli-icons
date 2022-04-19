@@ -1,6 +1,7 @@
 export default {
     name: 'paralympics-race-1',
     key: 'ParalympicsRace1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

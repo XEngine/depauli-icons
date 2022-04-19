@@ -1,6 +1,7 @@
 export default {
     name: 'wifi-signal-1',
     key: 'WifiSignal1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

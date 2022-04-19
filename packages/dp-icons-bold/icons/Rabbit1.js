@@ -1,6 +1,7 @@
 export default {
     name: 'rabbit-1',
     key: 'Rabbit1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

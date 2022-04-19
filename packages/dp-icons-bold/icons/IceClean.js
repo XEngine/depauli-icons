@@ -1,6 +1,7 @@
 export default {
     name: 'ice-clean',
     key: 'IceClean',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

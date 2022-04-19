@@ -1,6 +1,7 @@
 export default {
     name: 'exe-1',
     key: 'Exe1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

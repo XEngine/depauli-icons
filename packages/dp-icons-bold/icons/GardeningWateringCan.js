@@ -1,6 +1,7 @@
 export default {
     name: 'gardening-watering-can',
     key: 'GardeningWateringCan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

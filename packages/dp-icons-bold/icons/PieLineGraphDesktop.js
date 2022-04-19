@@ -1,6 +1,7 @@
 export default {
     name: 'pie-line-graph-desktop',
     key: 'PieLineGraphDesktop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

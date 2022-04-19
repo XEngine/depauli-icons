@@ -1,6 +1,7 @@
 export default {
     name: 'team-meeting-message-men-lock',
     key: 'TeamMeetingMessageMenLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'couple-album-book',
     key: 'CoupleAlbumBook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'check-badge',
     key: 'CheckBadge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

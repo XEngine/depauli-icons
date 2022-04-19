@@ -1,6 +1,7 @@
 export default {
     name: 'beacon-remote-plane',
     key: 'BeaconRemotePlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

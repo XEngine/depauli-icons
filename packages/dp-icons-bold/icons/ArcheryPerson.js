@@ -1,6 +1,7 @@
 export default {
     name: 'archery-person',
     key: 'ArcheryPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

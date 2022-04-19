@@ -1,6 +1,7 @@
 export default {
     name: 'tools-vice-grip',
     key: 'ToolsViceGrip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'coffee-filter-1',
     key: 'CoffeeFilter1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

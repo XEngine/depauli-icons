@@ -1,6 +1,7 @@
 export default {
     name: 'shark-fin',
     key: 'SharkFin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

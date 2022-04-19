@@ -1,6 +1,7 @@
 export default {
     name: 'plane-ticket-return',
     key: 'PlaneTicketReturn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

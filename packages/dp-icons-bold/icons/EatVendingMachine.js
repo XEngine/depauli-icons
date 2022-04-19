@@ -1,6 +1,7 @@
 export default {
     name: 'eat-vending-machine',
     key: 'EatVendingMachine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'touch-password-lock-1',
     key: 'TouchPasswordLock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

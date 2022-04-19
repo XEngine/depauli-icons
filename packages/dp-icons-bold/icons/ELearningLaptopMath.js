@@ -1,6 +1,7 @@
 export default {
     name: 'e-learning-laptop-math',
     key: 'ELearningLaptopMath',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

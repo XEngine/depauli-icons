@@ -1,6 +1,7 @@
 export default {
     name: 'wifi-question',
     key: 'WifiQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

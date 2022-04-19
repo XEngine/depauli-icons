@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-error-404',
     key: 'AppWindowError404',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

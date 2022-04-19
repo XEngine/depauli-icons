@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-transfer-1',
     key: 'MonitorTransfer1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

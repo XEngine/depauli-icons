@@ -1,6 +1,7 @@
 export default {
     name: 'religion-cao-dai-hands-2',
     key: 'ReligionCaoDaiHands2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

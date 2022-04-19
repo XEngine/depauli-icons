@@ -1,6 +1,7 @@
 export default {
     name: 'q-a-quora',
     key: 'QAQuora',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

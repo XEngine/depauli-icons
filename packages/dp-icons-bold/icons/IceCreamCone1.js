@@ -1,6 +1,7 @@
 export default {
     name: 'ice-cream-cone-1',
     key: 'IceCreamCone1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

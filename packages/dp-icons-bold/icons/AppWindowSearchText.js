@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-search-text',
     key: 'AppWindowSearchText',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

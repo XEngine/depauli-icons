@@ -1,6 +1,7 @@
 export default {
     name: 'touch-id-approved',
     key: 'TouchIdApproved',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

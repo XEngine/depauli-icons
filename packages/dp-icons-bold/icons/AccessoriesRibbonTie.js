@@ -1,6 +1,7 @@
 export default {
     name: 'accessories-ribbon-tie',
     key: 'AccessoriesRibbonTie',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-cash-1',
     key: 'PhoneActionCash1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

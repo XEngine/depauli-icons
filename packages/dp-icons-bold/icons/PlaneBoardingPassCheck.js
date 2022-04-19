@@ -1,6 +1,7 @@
 export default {
     name: 'plane-boarding-pass-check',
     key: 'PlaneBoardingPassCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

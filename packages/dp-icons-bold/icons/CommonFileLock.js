@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-lock',
     key: 'CommonFileLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

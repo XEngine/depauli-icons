@@ -1,6 +1,7 @@
 export default {
     name: 'like-circle',
     key: 'LikeCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

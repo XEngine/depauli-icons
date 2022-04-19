@@ -1,6 +1,7 @@
 export default {
     name: 'amusement-park-entrance',
     key: 'AmusementParkEntrance',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

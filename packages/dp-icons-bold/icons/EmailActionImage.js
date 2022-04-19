@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-image',
     key: 'EmailActionImage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'business-human-plant',
     key: 'BusinessHumanPlant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

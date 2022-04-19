@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-quill-1',
     key: 'DesignToolQuill1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

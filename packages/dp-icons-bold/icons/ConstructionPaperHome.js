@@ -1,6 +1,7 @@
 export default {
     name: 'construction-paper-home',
     key: 'ConstructionPaperHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

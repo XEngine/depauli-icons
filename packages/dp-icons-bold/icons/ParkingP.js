@@ -1,6 +1,7 @@
 export default {
     name: 'parking-p',
     key: 'ParkingP',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

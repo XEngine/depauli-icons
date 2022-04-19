@@ -1,6 +1,7 @@
 export default {
     name: 'stop-sign',
     key: 'StopSign',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

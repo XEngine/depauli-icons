@@ -1,6 +1,7 @@
 export default {
     name: 'computer-ram',
     key: 'ComputerRam',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

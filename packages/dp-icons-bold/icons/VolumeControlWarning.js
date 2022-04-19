@@ -1,6 +1,7 @@
 export default {
     name: 'volume-control-warning',
     key: 'VolumeControlWarning',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

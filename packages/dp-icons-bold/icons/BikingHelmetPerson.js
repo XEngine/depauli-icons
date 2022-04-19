@@ -1,6 +1,7 @@
 export default {
     name: 'biking-helmet-person',
     key: 'BikingHelmetPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

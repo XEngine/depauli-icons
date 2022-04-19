@@ -1,6 +1,7 @@
 export default {
     name: 'monetization-bill-magnet',
     key: 'MonetizationBillMagnet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

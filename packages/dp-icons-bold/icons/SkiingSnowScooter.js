@@ -1,6 +1,7 @@
 export default {
     name: 'skiing-snow-scooter',
     key: 'SkiingSnowScooter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

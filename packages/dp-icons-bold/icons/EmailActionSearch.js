@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-search',
     key: 'EmailActionSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

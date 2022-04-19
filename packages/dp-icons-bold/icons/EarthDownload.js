@@ -1,6 +1,7 @@
 export default {
     name: 'earth-download',
     key: 'EarthDownload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

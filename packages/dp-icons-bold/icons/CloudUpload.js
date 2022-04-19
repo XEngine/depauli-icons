@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-upload',
     key: 'CloudUpload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

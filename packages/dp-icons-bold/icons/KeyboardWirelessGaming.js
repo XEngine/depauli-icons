@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-wireless-gaming',
     key: 'KeyboardWirelessGaming',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

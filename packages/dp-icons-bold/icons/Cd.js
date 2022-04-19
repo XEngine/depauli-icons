@@ -1,6 +1,7 @@
 export default {
     name: 'cd',
     key: 'Cd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

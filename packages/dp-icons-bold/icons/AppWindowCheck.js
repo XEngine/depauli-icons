@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-check',
     key: 'AppWindowCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

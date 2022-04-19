@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-badge',
     key: 'AppWindowBadge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'heavy-equipment-hook',
     key: 'HeavyEquipmentHook',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

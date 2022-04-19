@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-guitar',
     key: 'InstrumentGuitar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

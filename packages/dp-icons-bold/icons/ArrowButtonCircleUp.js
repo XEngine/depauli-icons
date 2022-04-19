@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-button-circle-up',
     key: 'ArrowButtonCircleUp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'currency-pound-bubble',
     key: 'CurrencyPoundBubble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

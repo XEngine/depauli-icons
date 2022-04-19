@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-24-support',
     key: 'PhoneActions24Support',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

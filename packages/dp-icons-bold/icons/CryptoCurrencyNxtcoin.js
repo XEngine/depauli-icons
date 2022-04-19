@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-nxtcoin',
     key: 'CryptoCurrencyNxtcoin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

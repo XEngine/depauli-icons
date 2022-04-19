@@ -1,6 +1,7 @@
 export default {
     name: 'punishment-handcuffs',
     key: 'PunishmentHandcuffs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

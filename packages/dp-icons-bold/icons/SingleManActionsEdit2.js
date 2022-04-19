@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-actions-edit-2',
     key: 'SingleManActionsEdit2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

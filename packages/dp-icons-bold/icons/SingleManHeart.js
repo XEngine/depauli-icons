@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-heart',
     key: 'SingleManHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

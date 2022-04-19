@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-refresh',
     key: 'FileCodeRefresh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

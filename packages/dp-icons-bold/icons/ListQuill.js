@@ -1,6 +1,7 @@
 export default {
     name: 'list-quill',
     key: 'ListQuill',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

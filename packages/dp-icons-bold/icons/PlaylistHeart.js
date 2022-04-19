@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-heart',
     key: 'PlaylistHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

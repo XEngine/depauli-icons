@@ -1,6 +1,7 @@
 export default {
     name: 'layout-three-columns',
     key: 'LayoutThreeColumns',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

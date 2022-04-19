@@ -1,6 +1,7 @@
 export default {
     name: 'restaurant-fork-knife',
     key: 'RestaurantForkKnife',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

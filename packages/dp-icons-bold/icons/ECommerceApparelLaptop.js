@@ -1,6 +1,7 @@
 export default {
     name: 'e-commerce-apparel-laptop',
     key: 'ECommerceApparelLaptop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

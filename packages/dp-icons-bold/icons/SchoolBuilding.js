@@ -1,6 +1,7 @@
 export default {
     name: 'school-building',
     key: 'SchoolBuilding',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

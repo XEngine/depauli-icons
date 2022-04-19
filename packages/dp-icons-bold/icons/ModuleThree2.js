@@ -1,6 +1,7 @@
 export default {
     name: 'module-three-2',
     key: 'ModuleThree2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

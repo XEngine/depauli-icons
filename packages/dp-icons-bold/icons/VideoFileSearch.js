@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-search',
     key: 'VideoFileSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

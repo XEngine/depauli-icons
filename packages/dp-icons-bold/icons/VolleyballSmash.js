@@ -1,6 +1,7 @@
 export default {
     name: 'volleyball-smash',
     key: 'VolleyballSmash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

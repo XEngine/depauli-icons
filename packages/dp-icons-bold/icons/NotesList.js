@@ -1,6 +1,7 @@
 export default {
     name: 'notes-list',
     key: 'NotesList',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

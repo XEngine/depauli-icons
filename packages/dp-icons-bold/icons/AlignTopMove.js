@@ -1,6 +1,7 @@
 export default {
     name: 'align-top-move',
     key: 'AlignTopMove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

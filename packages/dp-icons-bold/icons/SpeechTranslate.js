@@ -1,6 +1,7 @@
 export default {
     name: 'speech-translate',
     key: 'SpeechTranslate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

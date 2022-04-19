@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-question',
     key: 'DataFileQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

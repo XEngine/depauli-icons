@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-foursquare-1',
     key: 'SocialMediaFoursquare1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

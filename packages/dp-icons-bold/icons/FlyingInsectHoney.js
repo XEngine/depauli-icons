@@ -1,6 +1,7 @@
 export default {
     name: 'flying-insect-honey',
     key: 'FlyingInsectHoney',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

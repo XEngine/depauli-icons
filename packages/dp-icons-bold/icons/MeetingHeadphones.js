@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-headphones',
     key: 'MeetingHeadphones',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

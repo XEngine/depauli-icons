@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-bw',
     key: 'LightModeBw',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

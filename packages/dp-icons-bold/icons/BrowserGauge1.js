@@ -1,6 +1,7 @@
 export default {
     name: 'browser-gauge-1',
     key: 'BrowserGauge1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

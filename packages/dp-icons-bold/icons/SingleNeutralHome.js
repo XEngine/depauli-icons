@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-home',
     key: 'SingleNeutralHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

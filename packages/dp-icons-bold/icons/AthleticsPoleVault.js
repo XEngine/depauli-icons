@@ -1,6 +1,7 @@
 export default {
     name: 'athletics-pole-vault',
     key: 'AthleticsPoleVault',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

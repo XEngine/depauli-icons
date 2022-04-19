@@ -1,6 +1,7 @@
 export default {
     name: 'layout-array',
     key: 'LayoutArray',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

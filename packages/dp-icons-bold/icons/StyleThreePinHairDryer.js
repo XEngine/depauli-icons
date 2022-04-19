@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-hair-dryer',
     key: 'StyleThreePinHairDryer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

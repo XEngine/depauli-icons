@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-disable',
     key: 'ShipmentDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

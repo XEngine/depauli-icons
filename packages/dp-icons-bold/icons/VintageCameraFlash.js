@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-camera-flash',
     key: 'VintageCameraFlash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

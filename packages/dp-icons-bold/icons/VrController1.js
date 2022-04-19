@@ -1,6 +1,7 @@
 export default {
     name: 'vr-controller-1',
     key: 'VrController1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

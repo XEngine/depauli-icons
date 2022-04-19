@@ -1,6 +1,7 @@
 export default {
     name: 'fruit-strawberry-1',
     key: 'FruitStrawberry1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

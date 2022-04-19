@@ -1,6 +1,7 @@
 export default {
     name: 'task-list-approve',
     key: 'TaskListApprove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

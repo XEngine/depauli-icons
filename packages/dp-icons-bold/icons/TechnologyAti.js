@@ -1,6 +1,7 @@
 export default {
     name: 'technology-ati',
     key: 'TechnologyAti',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'laboratory-test-stool-cup-1',
     key: 'LaboratoryTestStoolCup1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'messaging-qik',
     key: 'MessagingQik',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

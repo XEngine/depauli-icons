@@ -1,6 +1,7 @@
 export default {
     name: 'coupon-cut',
     key: 'CouponCut',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

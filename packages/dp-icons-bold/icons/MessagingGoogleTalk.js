@@ -1,6 +1,7 @@
 export default {
     name: 'messaging-google-talk',
     key: 'MessagingGoogleTalk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

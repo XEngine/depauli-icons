@@ -1,6 +1,7 @@
 export default {
     name: 'wind-north',
     key: 'WindNorth',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

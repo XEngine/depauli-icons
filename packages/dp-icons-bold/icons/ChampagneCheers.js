@@ -1,6 +1,7 @@
 export default {
     name: 'champagne-cheers',
     key: 'ChampagneCheers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

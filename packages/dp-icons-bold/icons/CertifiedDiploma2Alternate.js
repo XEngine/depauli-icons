@@ -1,6 +1,7 @@
 export default {
     name: 'certified-diploma-2-alternate',
     key: 'CertifiedDiploma2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

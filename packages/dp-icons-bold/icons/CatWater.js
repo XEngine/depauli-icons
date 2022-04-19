@@ -1,6 +1,7 @@
 export default {
     name: 'cat-water',
     key: 'CatWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-chandi-borobudur',
     key: 'LandmarkChandiBorobudur',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

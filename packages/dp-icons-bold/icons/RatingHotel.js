@@ -1,6 +1,7 @@
 export default {
     name: 'rating-hotel',
     key: 'RatingHotel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-minimize-1',
     key: 'AppWindowMinimize1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

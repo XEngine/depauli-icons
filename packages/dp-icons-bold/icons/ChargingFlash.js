@@ -1,6 +1,7 @@
 export default {
     name: 'charging-flash',
     key: 'ChargingFlash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

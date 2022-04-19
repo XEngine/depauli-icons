@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-offer-woman-1',
     key: 'HumanResourcesOfferWoman1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

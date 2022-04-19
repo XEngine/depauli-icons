@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-credit-card-1',
     key: 'PhoneActionCreditCard1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-exchange-arrow-1',
     key: 'MonitorExchangeArrow1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

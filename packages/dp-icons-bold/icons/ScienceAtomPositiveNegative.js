@@ -1,6 +1,7 @@
 export default {
     name: 'science-atom-positive-negative',
     key: 'ScienceAtomPositiveNegative',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

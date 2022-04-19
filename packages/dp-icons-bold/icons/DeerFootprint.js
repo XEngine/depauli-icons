@@ -1,6 +1,7 @@
 export default {
     name: 'deer-footprint',
     key: 'DeerFootprint',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

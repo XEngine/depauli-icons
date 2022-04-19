@@ -1,6 +1,7 @@
 export default {
     name: 'award-wall-star',
     key: 'AwardWallStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

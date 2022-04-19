@@ -1,6 +1,7 @@
 export default {
     name: 'eject-button',
     key: 'EjectButton',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

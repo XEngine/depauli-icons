@@ -1,6 +1,7 @@
 export default {
     name: 'glasses-ski-1',
     key: 'GlassesSki1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

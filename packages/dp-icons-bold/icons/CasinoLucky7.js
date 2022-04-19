@@ -1,6 +1,7 @@
 export default {
     name: 'casino-lucky-7',
     key: 'CasinoLucky7',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

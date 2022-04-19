@@ -1,6 +1,7 @@
 export default {
     name: 'farming-farmer-crops',
     key: 'FarmingFarmerCrops',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

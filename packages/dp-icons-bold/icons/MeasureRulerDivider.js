@@ -1,6 +1,7 @@
 export default {
     name: 'measure-ruler-divider',
     key: 'MeasureRulerDivider',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

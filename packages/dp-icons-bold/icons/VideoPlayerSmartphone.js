@@ -1,6 +1,7 @@
 export default {
     name: 'video-player-smartphone',
     key: 'VideoPlayerSmartphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

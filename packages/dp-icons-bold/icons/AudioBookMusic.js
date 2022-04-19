@@ -1,6 +1,7 @@
 export default {
     name: 'audio-book-music',
     key: 'AudioBookMusic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-eject-alternate',
     key: 'KeyboardEjectAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

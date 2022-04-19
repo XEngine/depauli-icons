@@ -1,6 +1,7 @@
 export default {
     name: 'family-child-teeter',
     key: 'FamilyChildTeeter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-image',
     key: 'CloudImage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

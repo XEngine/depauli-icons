@@ -1,6 +1,7 @@
 export default {
     name: 'educative-toys-music',
     key: 'EducativeToysMusic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

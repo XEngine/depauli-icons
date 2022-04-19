@@ -1,6 +1,7 @@
 export default {
     name: 'pin-x-mark-2',
     key: 'PinXMark2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

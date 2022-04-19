@@ -1,6 +1,7 @@
 export default {
     name: 'escalator-descend-person',
     key: 'EscalatorDescendPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

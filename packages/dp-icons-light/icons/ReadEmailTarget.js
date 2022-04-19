@@ -1,6 +1,7 @@
 export default {
     name: 'read-email-target',
     key: 'ReadEmailTarget',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

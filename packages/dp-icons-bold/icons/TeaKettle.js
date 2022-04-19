@@ -1,6 +1,7 @@
 export default {
     name: 'tea-kettle',
     key: 'TeaKettle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

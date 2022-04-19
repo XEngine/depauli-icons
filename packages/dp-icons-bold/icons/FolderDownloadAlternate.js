@@ -1,6 +1,7 @@
 export default {
     name: 'folder-download-alternate',
     key: 'FolderDownloadAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

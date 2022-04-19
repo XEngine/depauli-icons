@@ -1,6 +1,7 @@
 export default {
     name: 'podcast-live',
     key: 'PodcastLive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

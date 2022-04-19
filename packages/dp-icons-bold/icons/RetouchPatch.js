@@ -1,6 +1,7 @@
 export default {
     name: 'retouch-patch',
     key: 'RetouchPatch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

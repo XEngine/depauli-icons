@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-flash',
     key: 'MultipleActionsFlash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

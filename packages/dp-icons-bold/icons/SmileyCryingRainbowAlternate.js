@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-crying-rainbow-alternate',
     key: 'SmileyCryingRainbowAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

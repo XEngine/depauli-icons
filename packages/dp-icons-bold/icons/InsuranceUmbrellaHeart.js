@@ -1,6 +1,7 @@
 export default {
     name: 'insurance-umbrella-heart',
     key: 'InsuranceUmbrellaHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

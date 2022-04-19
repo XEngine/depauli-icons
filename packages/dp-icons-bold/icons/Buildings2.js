@@ -1,6 +1,7 @@
 export default {
     name: 'buildings-2',
     key: 'Buildings2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

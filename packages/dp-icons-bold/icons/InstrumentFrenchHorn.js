@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-french-horn',
     key: 'InstrumentFrenchHorn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

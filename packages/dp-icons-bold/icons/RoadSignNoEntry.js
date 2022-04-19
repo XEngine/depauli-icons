@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-no-entry',
     key: 'RoadSignNoEntry',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

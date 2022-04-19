@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-swipe-vertical-up-two-fingers',
     key: 'GestureSwipeVerticalUpTwoFingers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

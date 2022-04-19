@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-fall-rise-steady',
     key: 'DiagramFallRiseSteady',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'earth-model-2',
     key: 'EarthModel2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

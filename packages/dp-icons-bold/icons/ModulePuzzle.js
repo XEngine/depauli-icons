@@ -1,6 +1,7 @@
 export default {
     name: 'module-puzzle',
     key: 'ModulePuzzle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

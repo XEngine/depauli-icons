@@ -1,6 +1,7 @@
 export default {
     name: 'seafood-salmon',
     key: 'SeafoodSalmon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

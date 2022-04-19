@@ -1,6 +1,7 @@
 export default {
     name: 'religion-ankh',
     key: 'ReligionAnkh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

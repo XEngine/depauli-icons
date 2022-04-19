@@ -1,6 +1,7 @@
 export default {
     name: 'social-music-beats-studio',
     key: 'SocialMusicBeatsStudio',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-car-mechanic',
     key: 'StyleThreePinCarMechanic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

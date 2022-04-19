@@ -1,6 +1,7 @@
 export default {
     name: 'layers-lock',
     key: 'LayersLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

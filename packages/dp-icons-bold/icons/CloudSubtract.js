@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-subtract',
     key: 'CloudSubtract',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

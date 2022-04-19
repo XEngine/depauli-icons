@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-car-convertible',
     key: 'VintageCarConvertible',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

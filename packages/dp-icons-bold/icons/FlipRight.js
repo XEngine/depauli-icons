@@ -1,6 +1,7 @@
 export default {
     name: 'flip-right',
     key: 'FlipRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

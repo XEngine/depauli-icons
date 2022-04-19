@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-favorite-house-pick',
     key: 'RealEstateFavoriteHousePick',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

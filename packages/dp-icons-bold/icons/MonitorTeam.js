@@ -1,6 +1,7 @@
 export default {
     name: 'monitor-team',
     key: 'MonitorTeam',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

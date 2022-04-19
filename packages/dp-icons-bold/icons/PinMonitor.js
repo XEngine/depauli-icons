@@ -1,6 +1,7 @@
 export default {
     name: 'pin-monitor',
     key: 'PinMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

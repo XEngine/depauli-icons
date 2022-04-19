@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-right-turn-alternate',
     key: 'RoadSignRightTurnAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'harddrive-download',
     key: 'HarddriveDownload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

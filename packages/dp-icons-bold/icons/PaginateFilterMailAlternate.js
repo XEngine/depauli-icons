@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-mail-alternate',
     key: 'PaginateFilterMailAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'audio-document-aif-1',
     key: 'AudioDocumentAif1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

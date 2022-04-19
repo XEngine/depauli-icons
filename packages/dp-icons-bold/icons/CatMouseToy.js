@@ -1,6 +1,7 @@
 export default {
     name: 'cat-mouse-toy',
     key: 'CatMouseToy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-button-right',
     key: 'NavigationButtonRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

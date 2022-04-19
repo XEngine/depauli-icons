@@ -1,6 +1,7 @@
 export default {
     name: 'video-player-laptop',
     key: 'VideoPlayerLaptop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

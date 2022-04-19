@@ -1,6 +1,7 @@
 export default {
     name: 'server-warning-500',
     key: 'ServerWarning500',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

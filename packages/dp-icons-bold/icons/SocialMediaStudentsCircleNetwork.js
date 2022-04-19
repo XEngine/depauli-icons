@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-students-circle-network',
     key: 'SocialMediaStudentsCircleNetwork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'os-system-blackberry',
     key: 'OsSystemBlackberry',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

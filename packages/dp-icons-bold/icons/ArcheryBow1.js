@@ -1,6 +1,7 @@
 export default {
     name: 'archery-bow-1',
     key: 'ArcheryBow1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

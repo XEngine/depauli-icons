@@ -1,6 +1,7 @@
 export default {
     name: 'zoom-out-alternate',
     key: 'ZoomOutAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

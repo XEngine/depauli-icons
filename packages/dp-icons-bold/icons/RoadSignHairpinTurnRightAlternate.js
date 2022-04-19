@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-hairpin-turn-right-alternate',
     key: 'RoadSignHairpinTurnRightAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

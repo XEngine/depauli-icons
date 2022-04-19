@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-thick-circle-bottom-right-corner-2',
     key: 'ArrowThickCircleBottomRightCorner2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

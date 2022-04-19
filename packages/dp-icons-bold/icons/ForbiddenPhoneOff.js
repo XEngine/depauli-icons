@@ -1,6 +1,7 @@
 export default {
     name: 'forbidden-phone-off',
     key: 'ForbiddenPhoneOff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

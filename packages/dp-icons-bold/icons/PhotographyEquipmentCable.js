@@ -1,6 +1,7 @@
 export default {
     name: 'photography-equipment-cable',
     key: 'PhotographyEquipmentCable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

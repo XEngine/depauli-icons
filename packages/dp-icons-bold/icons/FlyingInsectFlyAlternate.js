@@ -1,6 +1,7 @@
 export default {
     name: 'flying-insect-fly-alternate',
     key: 'FlyingInsectFlyAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

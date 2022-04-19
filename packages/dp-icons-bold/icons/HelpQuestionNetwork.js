@@ -1,6 +1,7 @@
 export default {
     name: 'help-question-network',
     key: 'HelpQuestionNetwork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

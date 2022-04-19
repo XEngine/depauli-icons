@@ -1,6 +1,7 @@
 export default {
     name: 'board-game-dice-2',
     key: 'BoardGameDice2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

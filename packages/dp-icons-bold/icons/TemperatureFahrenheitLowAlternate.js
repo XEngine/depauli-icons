@@ -1,6 +1,7 @@
 export default {
     name: 'temperature-fahrenheit-low-alternate',
     key: 'TemperatureFahrenheitLowAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

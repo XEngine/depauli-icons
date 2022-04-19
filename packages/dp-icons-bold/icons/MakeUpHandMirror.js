@@ -1,6 +1,7 @@
 export default {
     name: 'make-up-hand-mirror',
     key: 'MakeUpHandMirror',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

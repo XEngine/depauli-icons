@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-monitor-track',
     key: 'ShipmentMonitorTrack',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

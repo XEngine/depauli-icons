@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-smartphone-portrait',
     key: 'VideoGameSmartphonePortrait',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

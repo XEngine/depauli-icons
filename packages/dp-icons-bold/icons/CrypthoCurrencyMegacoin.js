@@ -1,6 +1,7 @@
 export default {
     name: 'cryptho-currency-megacoin',
     key: 'CrypthoCurrencyMegacoin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

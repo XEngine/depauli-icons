@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-pen-alternate',
     key: 'DesignFilePenAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-sync-alternate',
     key: 'ConversationSyncAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

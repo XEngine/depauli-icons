@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-bread',
     key: 'StyleThreePinBread',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'fish-bowl',
     key: 'FishBowl',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

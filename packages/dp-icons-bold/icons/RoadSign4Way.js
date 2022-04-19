@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-4-way',
     key: 'RoadSign4Way',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'barcode-search',
     key: 'BarcodeSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

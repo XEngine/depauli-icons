@@ -1,6 +1,7 @@
 export default {
     name: 'make-up-mascara',
     key: 'MakeUpMascara',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'layout-content',
     key: 'LayoutContent',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

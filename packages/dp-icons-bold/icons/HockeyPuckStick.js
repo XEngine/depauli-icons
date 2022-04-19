@@ -1,6 +1,7 @@
 export default {
     name: 'hockey-puck-stick',
     key: 'HockeyPuckStick',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

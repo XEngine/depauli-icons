@@ -1,6 +1,7 @@
 export default {
     name: 'login-key-1',
     key: 'LoginKey1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

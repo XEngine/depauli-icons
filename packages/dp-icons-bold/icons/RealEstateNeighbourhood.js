@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-neighbourhood',
     key: 'RealEstateNeighbourhood',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

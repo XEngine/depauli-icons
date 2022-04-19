@@ -1,6 +1,7 @@
 export default {
     name: 'saving-money-tree',
     key: 'SavingMoneyTree',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

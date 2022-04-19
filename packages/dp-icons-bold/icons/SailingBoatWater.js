@@ -1,6 +1,7 @@
 export default {
     name: 'sailing-boat-water',
     key: 'SailingBoatWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tool-helmet-unlock',
     key: 'ToolHelmetUnlock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'hotel-double-bed-2',
     key: 'HotelDoubleBed2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

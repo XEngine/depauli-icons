@@ -1,6 +1,7 @@
 export default {
     name: 'ecology-leaf-book-open',
     key: 'EcologyLeafBookOpen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

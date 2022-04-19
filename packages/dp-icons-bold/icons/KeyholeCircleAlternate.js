@@ -1,6 +1,7 @@
 export default {
     name: 'keyhole-circle-alternate',
     key: 'KeyholeCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

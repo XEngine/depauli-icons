@@ -1,6 +1,7 @@
 export default {
     name: 'style-one-pin-plane',
     key: 'StyleOnePinPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

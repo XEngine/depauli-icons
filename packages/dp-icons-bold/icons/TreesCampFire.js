@@ -1,6 +1,7 @@
 export default {
     name: 'trees-camp-fire',
     key: 'TreesCampFire',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

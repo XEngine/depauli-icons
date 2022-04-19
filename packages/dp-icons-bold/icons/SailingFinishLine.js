@@ -1,6 +1,7 @@
 export default {
     name: 'sailing-finish-line',
     key: 'SailingFinishLine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

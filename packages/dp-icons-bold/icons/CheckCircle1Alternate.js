@@ -1,6 +1,7 @@
 export default {
     name: 'check-circle-1-alternate',
     key: 'CheckCircle1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

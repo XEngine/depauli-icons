@@ -1,6 +1,7 @@
 export default {
     name: 'arduino-circuit',
     key: 'ArduinoCircuit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

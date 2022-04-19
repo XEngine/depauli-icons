@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-warning-1',
     key: 'FileCodeWarning1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

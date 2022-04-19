@@ -1,6 +1,7 @@
 export default {
     name: 'adventure-car-atv',
     key: 'AdventureCarAtv',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

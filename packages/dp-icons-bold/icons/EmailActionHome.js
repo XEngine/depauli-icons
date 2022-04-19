@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-home',
     key: 'EmailActionHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

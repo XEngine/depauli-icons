@@ -1,6 +1,7 @@
 export default {
     name: 'vegetables-beet',
     key: 'VegetablesBeet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

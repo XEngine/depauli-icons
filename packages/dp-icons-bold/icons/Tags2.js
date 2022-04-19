@@ -1,6 +1,7 @@
 export default {
     name: 'tags-2',
     key: 'Tags2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

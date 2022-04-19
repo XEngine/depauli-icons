@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-no-parking-allowed-alternate',
     key: 'RoadSignNoParkingAllowedAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

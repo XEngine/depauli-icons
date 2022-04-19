@@ -1,6 +1,7 @@
 export default {
     name: 'mood-question',
     key: 'MoodQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'read-world',
     key: 'ReadWorld',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

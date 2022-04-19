@@ -1,6 +1,7 @@
 export default {
     name: 'chef-gear-biscuits-cup',
     key: 'ChefGearBiscuitsCup',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

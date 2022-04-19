@@ -1,6 +1,7 @@
 export default {
     name: 'vr-user-play',
     key: 'VrUserPlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

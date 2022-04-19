@@ -1,6 +1,7 @@
 export default {
     name: 'sport-curling-1',
     key: 'SportCurling1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

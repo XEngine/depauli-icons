@@ -1,6 +1,7 @@
 export default {
     name: 'view-square',
     key: 'ViewSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

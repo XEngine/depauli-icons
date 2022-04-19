@@ -1,6 +1,7 @@
 export default {
     name: 'accounting-calculator',
     key: 'AccountingCalculator',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

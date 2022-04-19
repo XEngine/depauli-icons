@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-thick-up-1',
     key: 'ArrowThickUp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

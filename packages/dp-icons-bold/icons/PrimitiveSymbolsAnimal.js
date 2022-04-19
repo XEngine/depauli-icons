@@ -1,6 +1,7 @@
 export default {
     name: 'primitive-symbols-animal',
     key: 'PrimitiveSymbolsAnimal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

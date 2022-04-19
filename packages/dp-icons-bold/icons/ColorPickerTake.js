@@ -1,6 +1,7 @@
 export default {
     name: 'color-picker-take',
     key: 'ColorPickerTake',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

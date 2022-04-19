@@ -1,6 +1,7 @@
 export default {
     name: 'locker-room-hanger-man',
     key: 'LockerRoomHangerMan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

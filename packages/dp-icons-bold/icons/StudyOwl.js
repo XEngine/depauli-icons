@@ -1,6 +1,7 @@
 export default {
     name: 'study-owl',
     key: 'StudyOwl',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

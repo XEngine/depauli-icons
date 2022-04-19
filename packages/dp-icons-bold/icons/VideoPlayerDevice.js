@@ -1,6 +1,7 @@
 export default {
     name: 'video-player-device',
     key: 'VideoPlayerDevice',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'electronics-capacitor-1',
     key: 'ElectronicsCapacitor1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

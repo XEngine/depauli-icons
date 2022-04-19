@@ -1,6 +1,7 @@
 export default {
     name: 'webpage-live',
     key: 'WebpageLive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

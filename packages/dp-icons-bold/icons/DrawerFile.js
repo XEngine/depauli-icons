@@ -1,6 +1,7 @@
 export default {
     name: 'drawer-file',
     key: 'DrawerFile',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

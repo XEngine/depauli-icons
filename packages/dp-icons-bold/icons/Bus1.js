@@ -1,6 +1,7 @@
 export default {
     name: 'bus-1',
     key: 'Bus1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

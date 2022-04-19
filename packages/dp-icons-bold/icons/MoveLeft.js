@@ -1,6 +1,7 @@
 export default {
     name: 'move-left',
     key: 'MoveLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-remove-1-alternate',
     key: 'MessagesBubbleRemove1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

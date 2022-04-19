@@ -1,6 +1,7 @@
 export default {
     name: 'airplane-mode',
     key: 'AirplaneMode',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

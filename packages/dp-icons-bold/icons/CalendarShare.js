@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-share',
     key: 'CalendarShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'download-arrow-2',
     key: 'DownloadArrow2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

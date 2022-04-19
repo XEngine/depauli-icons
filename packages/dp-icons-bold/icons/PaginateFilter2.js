@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-2',
     key: 'PaginateFilter2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

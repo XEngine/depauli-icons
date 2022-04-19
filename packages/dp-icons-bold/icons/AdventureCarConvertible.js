@@ -1,6 +1,7 @@
 export default {
     name: 'adventure-car-convertible',
     key: 'AdventureCarConvertible',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'modern-weapon-shotgun',
     key: 'ModernWeaponShotgun',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

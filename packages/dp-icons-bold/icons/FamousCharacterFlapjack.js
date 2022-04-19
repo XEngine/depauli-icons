@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-flapjack',
     key: 'FamousCharacterFlapjack',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

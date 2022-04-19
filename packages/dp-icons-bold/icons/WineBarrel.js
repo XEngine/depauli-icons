@@ -1,6 +1,7 @@
 export default {
     name: 'wine-barrel',
     key: 'WineBarrel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

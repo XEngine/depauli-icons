@@ -1,6 +1,7 @@
 export default {
     name: 'underwear-bikini',
     key: 'UnderwearBikini',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

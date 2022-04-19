@@ -1,6 +1,7 @@
 export default {
     name: 'tag-dollar-1',
     key: 'TagDollar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-arrow-bottom-left',
     key: 'KeyboardArrowBottomLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

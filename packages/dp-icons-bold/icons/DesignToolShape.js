@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-shape',
     key: 'DesignToolShape',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

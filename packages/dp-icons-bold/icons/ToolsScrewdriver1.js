@@ -1,6 +1,7 @@
 export default {
     name: 'tools-screwdriver-1',
     key: 'ToolsScrewdriver1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

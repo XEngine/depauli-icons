@@ -1,6 +1,7 @@
 export default {
     name: 'tank-top-female',
     key: 'TankTopFemale',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'medical-notes',
     key: 'MedicalNotes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

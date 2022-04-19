@@ -1,6 +1,7 @@
 export default {
     name: 'bear-paw',
     key: 'BearPaw',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

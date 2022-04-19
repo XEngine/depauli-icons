@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-dash-rise-steady',
     key: 'DiagramDashRiseSteady',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

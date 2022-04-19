@@ -1,6 +1,7 @@
 export default {
     name: 'earth-block',
     key: 'EarthBlock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

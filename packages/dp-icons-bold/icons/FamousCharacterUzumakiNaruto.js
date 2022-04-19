@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-uzumaki-naruto',
     key: 'FamousCharacterUzumakiNaruto',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

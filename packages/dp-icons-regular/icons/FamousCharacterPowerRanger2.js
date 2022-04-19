@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-power-ranger-2',
     key: 'FamousCharacterPowerRanger2',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

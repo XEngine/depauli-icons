@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-button-down',
     key: 'ArrowButtonDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

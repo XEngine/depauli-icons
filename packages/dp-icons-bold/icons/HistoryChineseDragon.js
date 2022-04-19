@@ -1,6 +1,7 @@
 export default {
     name: 'history-chinese-dragon',
     key: 'HistoryChineseDragon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'olympics-torch',
     key: 'OlympicsTorch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

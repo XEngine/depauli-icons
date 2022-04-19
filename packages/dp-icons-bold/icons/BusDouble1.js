@@ -1,6 +1,7 @@
 export default {
     name: 'bus-double-1',
     key: 'BusDouble1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'protection-sand-bag',
     key: 'ProtectionSandBag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

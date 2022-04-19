@@ -1,6 +1,7 @@
 export default {
     name: 'shop-star-rating',
     key: 'ShopStarRating',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

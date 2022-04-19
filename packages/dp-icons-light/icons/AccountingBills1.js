@@ -1,6 +1,7 @@
 export default {
     name: 'accounting-bills-1',
     key: 'AccountingBills1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

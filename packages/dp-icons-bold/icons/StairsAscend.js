@@ -1,6 +1,7 @@
 export default {
     name: 'stairs-ascend',
     key: 'StairsAscend',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

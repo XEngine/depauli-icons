@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-fall-fast-dash',
     key: 'DiagramFallFastDash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'mask-oval-alternate',
     key: 'MaskOvalAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'mobile-launch',
     key: 'MobileLaunch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

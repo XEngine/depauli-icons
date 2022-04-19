@@ -1,6 +1,7 @@
 export default {
     name: 'disability-blind-read-finger',
     key: 'DisabilityBlindReadFinger',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

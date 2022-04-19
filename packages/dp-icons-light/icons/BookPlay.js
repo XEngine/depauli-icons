@@ -1,6 +1,7 @@
 export default {
     name: 'book-play',
     key: 'BookPlay',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

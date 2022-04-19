@@ -1,6 +1,7 @@
 export default {
     name: 'check-double-1',
     key: 'CheckDouble1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

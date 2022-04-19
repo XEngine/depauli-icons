@@ -1,6 +1,7 @@
 export default {
     name: 'meerkat',
     key: 'Meerkat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-down-1',
     key: 'DiagramArrowDown1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

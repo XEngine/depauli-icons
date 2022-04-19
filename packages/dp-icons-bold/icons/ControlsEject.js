@@ -1,6 +1,7 @@
 export default {
     name: 'controls-eject',
     key: 'ControlsEject',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

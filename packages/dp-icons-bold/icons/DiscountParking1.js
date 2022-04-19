@@ -1,6 +1,7 @@
 export default {
     name: 'discount-parking-1',
     key: 'DiscountParking1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

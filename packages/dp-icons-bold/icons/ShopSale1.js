@@ -1,6 +1,7 @@
 export default {
     name: 'shop-sale-1',
     key: 'ShopSale1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

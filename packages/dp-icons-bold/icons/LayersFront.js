@@ -1,6 +1,7 @@
 export default {
     name: 'layers-front',
     key: 'LayersFront',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

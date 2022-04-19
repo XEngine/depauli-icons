@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-settings',
     key: 'PlaylistSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

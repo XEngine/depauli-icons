@@ -1,6 +1,7 @@
 export default {
     name: 'people-woman-beanie',
     key: 'PeopleWomanBeanie',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

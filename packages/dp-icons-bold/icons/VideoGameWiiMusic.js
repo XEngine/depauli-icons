@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-wii-music',
     key: 'VideoGameWiiMusic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

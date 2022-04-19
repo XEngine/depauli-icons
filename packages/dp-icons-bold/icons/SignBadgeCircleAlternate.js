@@ -1,6 +1,7 @@
 export default {
     name: 'sign-badge-circle-alternate',
     key: 'SignBadgeCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

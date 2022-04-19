@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-message-couple-building',
     key: 'RealEstateMessageCoupleBuilding',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

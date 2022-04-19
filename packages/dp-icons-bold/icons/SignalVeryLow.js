@@ -1,6 +1,7 @@
 export default {
     name: 'signal-very-low',
     key: 'SignalVeryLow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

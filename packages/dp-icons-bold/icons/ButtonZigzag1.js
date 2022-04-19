@@ -1,6 +1,7 @@
 export default {
     name: 'button-zigzag-1',
     key: 'ButtonZigzag1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

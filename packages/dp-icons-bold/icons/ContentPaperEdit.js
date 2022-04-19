@@ -1,6 +1,7 @@
 export default {
     name: 'content-paper-edit',
     key: 'ContentPaperEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

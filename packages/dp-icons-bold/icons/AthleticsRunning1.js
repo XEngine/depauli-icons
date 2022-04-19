@@ -1,6 +1,7 @@
 export default {
     name: 'athletics-running-1',
     key: 'AthleticsRunning1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

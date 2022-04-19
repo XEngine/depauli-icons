@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-lock',
     key: 'CreditCardLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

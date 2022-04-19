@@ -1,6 +1,7 @@
 export default {
     name: 'designer-community-design-float',
     key: 'DesignerCommunityDesignFloat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

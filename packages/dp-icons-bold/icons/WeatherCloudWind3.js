@@ -1,6 +1,7 @@
 export default {
     name: 'weather-cloud-wind-3',
     key: 'WeatherCloudWind3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

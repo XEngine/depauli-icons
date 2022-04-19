@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-school-bus-alternate',
     key: 'RoadSignSchoolBusAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

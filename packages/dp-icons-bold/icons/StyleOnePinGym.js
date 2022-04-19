@@ -1,6 +1,7 @@
 export default {
     name: 'style-one-pin-gym',
     key: 'StyleOnePinGym',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

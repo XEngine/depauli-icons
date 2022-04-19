@@ -1,6 +1,7 @@
 export default {
     name: 'satellite',
     key: 'Satellite',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

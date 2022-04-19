@@ -1,6 +1,7 @@
 export default {
     name: 'sea-transport-wheel-boat',
     key: 'SeaTransportWheelBoat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

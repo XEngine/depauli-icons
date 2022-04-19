@@ -1,6 +1,7 @@
 export default {
     name: 'pencil-write-1-alternate',
     key: 'PencilWrite1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

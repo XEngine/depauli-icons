@@ -1,6 +1,7 @@
 export default {
     name: 'dislike-1',
     key: 'Dislike1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

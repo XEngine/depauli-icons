@@ -1,6 +1,7 @@
 export default {
     name: 'desktop-monitor-lock',
     key: 'DesktopMonitorLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

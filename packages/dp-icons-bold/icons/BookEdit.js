@@ -1,6 +1,7 @@
 export default {
     name: 'book-edit',
     key: 'BookEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

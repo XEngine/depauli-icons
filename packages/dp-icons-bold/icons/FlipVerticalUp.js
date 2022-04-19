@@ -1,6 +1,7 @@
 export default {
     name: 'flip-vertical-up',
     key: 'FlipVerticalUp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

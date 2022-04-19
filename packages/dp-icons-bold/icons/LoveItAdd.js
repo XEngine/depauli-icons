@@ -1,6 +1,7 @@
 export default {
     name: 'love-it-add',
     key: 'LoveItAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

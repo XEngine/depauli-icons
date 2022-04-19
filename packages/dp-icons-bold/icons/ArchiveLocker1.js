@@ -1,6 +1,7 @@
 export default {
     name: 'archive-locker-1',
     key: 'ArchiveLocker1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

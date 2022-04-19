@@ -1,6 +1,7 @@
 export default {
     name: 'bear-body-1',
     key: 'BearBody1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

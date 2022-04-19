@@ -1,6 +1,7 @@
 export default {
     name: 'casino-global-chip',
     key: 'CasinoGlobalChip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

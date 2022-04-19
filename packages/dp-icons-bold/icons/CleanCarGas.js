@@ -1,6 +1,7 @@
 export default {
     name: 'clean-car-gas',
     key: 'CleanCarGas',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

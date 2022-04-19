@@ -1,6 +1,7 @@
 export default {
     name: 'folder-code-alternate',
     key: 'FolderCodeAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

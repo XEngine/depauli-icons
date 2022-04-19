@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-home',
     key: 'CalendarHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

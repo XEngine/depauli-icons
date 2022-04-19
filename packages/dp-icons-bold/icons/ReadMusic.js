@@ -1,6 +1,7 @@
 export default {
     name: 'read-music',
     key: 'ReadMusic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

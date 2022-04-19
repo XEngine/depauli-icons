@@ -1,6 +1,7 @@
 export default {
     name: 'footwear-flip-flops',
     key: 'FootwearFlipFlops',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

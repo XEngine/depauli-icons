@@ -1,6 +1,7 @@
 export default {
     name: 'grid-artboard',
     key: 'GridArtboard',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

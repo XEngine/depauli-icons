@@ -1,6 +1,7 @@
 export default {
     name: 'medical-specialty-pregnancy',
     key: 'MedicalSpecialtyPregnancy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

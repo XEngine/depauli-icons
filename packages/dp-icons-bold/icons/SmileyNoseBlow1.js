@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-nose-blow-1',
     key: 'SmileyNoseBlow1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'road-traffic-lights-1',
     key: 'RoadTrafficLights1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

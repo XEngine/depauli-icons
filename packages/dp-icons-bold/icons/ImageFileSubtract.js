@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-subtract',
     key: 'ImageFileSubtract',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

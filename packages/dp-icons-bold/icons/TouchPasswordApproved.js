@@ -1,6 +1,7 @@
 export default {
     name: 'touch-password-approved',
     key: 'TouchPasswordApproved',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

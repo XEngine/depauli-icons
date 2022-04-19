@@ -1,6 +1,7 @@
 export default {
     name: 'professions-woman-office-2',
     key: 'ProfessionsWomanOffice2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

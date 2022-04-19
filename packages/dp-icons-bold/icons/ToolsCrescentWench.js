@@ -1,6 +1,7 @@
 export default {
     name: 'tools-crescent-wench',
     key: 'ToolsCrescentWench',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

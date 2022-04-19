@@ -1,6 +1,7 @@
 export default {
     name: 'deforestation-cut-tree',
     key: 'DeforestationCutTree',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

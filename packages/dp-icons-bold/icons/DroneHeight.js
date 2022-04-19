@@ -1,6 +1,7 @@
 export default {
     name: 'drone-height',
     key: 'DroneHeight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

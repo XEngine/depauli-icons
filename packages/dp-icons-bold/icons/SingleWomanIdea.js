@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-idea',
     key: 'SingleWomanIdea',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

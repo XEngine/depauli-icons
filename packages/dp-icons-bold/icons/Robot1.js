@@ -1,6 +1,7 @@
 export default {
     name: 'robot-1',
     key: 'Robot1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

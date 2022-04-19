@@ -1,6 +1,7 @@
 export default {
     name: 'vectors-line-path-alternate',
     key: 'VectorsLinePathAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

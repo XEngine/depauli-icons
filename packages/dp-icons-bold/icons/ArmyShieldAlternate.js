@@ -1,6 +1,7 @@
 export default {
     name: 'army-shield-alternate',
     key: 'ArmyShieldAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

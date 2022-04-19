@@ -1,6 +1,7 @@
 export default {
     name: 'uv-medium-1',
     key: 'UvMedium1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

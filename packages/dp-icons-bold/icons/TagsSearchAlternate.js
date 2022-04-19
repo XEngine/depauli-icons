@@ -1,6 +1,7 @@
 export default {
     name: 'tags-search-alternate',
     key: 'TagsSearchAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

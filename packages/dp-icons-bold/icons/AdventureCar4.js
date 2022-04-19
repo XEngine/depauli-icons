@@ -1,6 +1,7 @@
 export default {
     name: 'adventure-car-4',
     key: 'AdventureCar4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

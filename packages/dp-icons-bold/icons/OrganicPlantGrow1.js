@@ -1,6 +1,7 @@
 export default {
     name: 'organic-plant-grow-1',
     key: 'OrganicPlantGrow1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

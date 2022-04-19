@@ -1,6 +1,7 @@
 export default {
     name: 'surveillance-cctv',
     key: 'SurveillanceCctv',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

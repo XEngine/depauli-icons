@@ -1,6 +1,7 @@
 export default {
     name: 'layers-grid-upload',
     key: 'LayersGridUpload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

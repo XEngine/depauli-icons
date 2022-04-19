@@ -1,6 +1,7 @@
 export default {
     name: 'like-ribbon-1',
     key: 'LikeRibbon1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

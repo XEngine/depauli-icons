@@ -1,6 +1,7 @@
 export default {
     name: 'color-palette-sample',
     key: 'ColorPaletteSample',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

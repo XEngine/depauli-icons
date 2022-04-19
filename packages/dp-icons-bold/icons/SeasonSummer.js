@@ -1,6 +1,7 @@
 export default {
     name: 'season-summer',
     key: 'SeasonSummer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

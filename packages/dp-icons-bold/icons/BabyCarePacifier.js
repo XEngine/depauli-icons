@@ -1,6 +1,7 @@
 export default {
     name: 'baby-care-pacifier',
     key: 'BabyCarePacifier',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

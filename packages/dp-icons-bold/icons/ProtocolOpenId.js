@@ -1,6 +1,7 @@
 export default {
     name: 'protocol-open-id',
     key: 'ProtocolOpenId',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

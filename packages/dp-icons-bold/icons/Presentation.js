@@ -1,6 +1,7 @@
 export default {
     name: 'presentation',
     key: 'Presentation',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

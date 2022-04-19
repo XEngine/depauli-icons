@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-bike-lane',
     key: 'RoadSignBikeLane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

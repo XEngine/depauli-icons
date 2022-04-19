@@ -1,6 +1,7 @@
 export default {
     name: 'antique-axe',
     key: 'AntiqueAxe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-cart-empty-1',
     key: 'ShoppingCartEmpty1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

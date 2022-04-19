@@ -1,6 +1,7 @@
 export default {
     name: 'show-rabbit-hat',
     key: 'ShowRabbitHat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

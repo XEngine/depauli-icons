@@ -1,6 +1,7 @@
 export default {
     name: 'army-symbol-platoon',
     key: 'ArmySymbolPlatoon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

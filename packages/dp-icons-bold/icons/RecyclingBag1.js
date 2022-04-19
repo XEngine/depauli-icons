@@ -1,6 +1,7 @@
 export default {
     name: 'recycling-bag-1',
     key: 'RecyclingBag1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

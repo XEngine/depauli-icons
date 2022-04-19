@@ -1,6 +1,7 @@
 export default {
     name: 'police-woman-spy-2',
     key: 'PoliceWomanSpy2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

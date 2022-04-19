@@ -1,6 +1,7 @@
 export default {
     name: 'information-desk-customer',
     key: 'InformationDeskCustomer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

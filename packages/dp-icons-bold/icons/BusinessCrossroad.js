@@ -1,6 +1,7 @@
 export default {
     name: 'business-crossroad',
     key: 'BusinessCrossroad',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

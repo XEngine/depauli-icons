@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-tap-swipe-horizontal',
     key: 'GestureTapSwipeHorizontal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

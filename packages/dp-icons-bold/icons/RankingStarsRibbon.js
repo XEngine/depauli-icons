@@ -1,6 +1,7 @@
 export default {
     name: 'ranking-stars-ribbon',
     key: 'RankingStarsRibbon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

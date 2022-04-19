@@ -1,6 +1,7 @@
 export default {
     name: 'crime-seal-forfeit',
     key: 'CrimeSealForfeit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

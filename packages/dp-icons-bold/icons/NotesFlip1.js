@@ -1,6 +1,7 @@
 export default {
     name: 'notes-flip-1',
     key: 'NotesFlip1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

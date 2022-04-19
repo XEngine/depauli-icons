@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-text',
     key: 'ConversationText',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

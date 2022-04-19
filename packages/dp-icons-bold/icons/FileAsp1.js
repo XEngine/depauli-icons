@@ -1,6 +1,7 @@
 export default {
     name: 'file-asp-1',
     key: 'FileAsp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'office-employee',
     key: 'OfficeEmployee',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

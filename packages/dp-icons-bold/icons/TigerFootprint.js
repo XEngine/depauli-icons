@@ -1,6 +1,7 @@
 export default {
     name: 'tiger-footprint',
     key: 'TigerFootprint',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

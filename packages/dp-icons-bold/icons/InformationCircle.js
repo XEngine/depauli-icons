@@ -1,6 +1,7 @@
 export default {
     name: 'information-circle',
     key: 'InformationCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

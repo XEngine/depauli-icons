@@ -1,6 +1,7 @@
 export default {
     name: 'rain-umbrella',
     key: 'RainUmbrella',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

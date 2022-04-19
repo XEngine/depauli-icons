@@ -1,6 +1,7 @@
 export default {
     name: 'indent-right-alternate',
     key: 'IndentRightAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

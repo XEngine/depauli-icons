@@ -1,6 +1,7 @@
 export default {
     name: 'question-circle',
     key: 'QuestionCircle',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-width":"1.5"},

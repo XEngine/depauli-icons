@@ -1,6 +1,7 @@
 export default {
     name: 'farmer-s-market-kiosk-1',
     key: 'FarmerSMarketKiosk1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

@@ -1,6 +1,7 @@
 export default {
     name: 'alert-diamond',
     key: 'AlertDiamond',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

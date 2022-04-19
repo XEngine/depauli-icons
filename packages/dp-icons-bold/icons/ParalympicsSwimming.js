@@ -1,6 +1,7 @@
 export default {
     name: 'paralympics-swimming',
     key: 'ParalympicsSwimming',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'computer-chip-core',
     key: 'ComputerChipCore',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

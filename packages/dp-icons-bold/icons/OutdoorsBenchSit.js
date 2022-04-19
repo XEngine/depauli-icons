@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-bench-sit',
     key: 'OutdoorsBenchSit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

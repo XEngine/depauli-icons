@@ -1,6 +1,7 @@
 export default {
     name: 'music-genre-80s',
     key: 'MusicGenre80s',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

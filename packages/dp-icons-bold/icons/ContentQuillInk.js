@@ -1,6 +1,7 @@
 export default {
     name: 'content-quill-ink',
     key: 'ContentQuillInk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

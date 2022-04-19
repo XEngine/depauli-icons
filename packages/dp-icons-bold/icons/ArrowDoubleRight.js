@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-double-right',
     key: 'ArrowDoubleRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

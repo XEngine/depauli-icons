@@ -1,6 +1,7 @@
 export default {
     name: 'promo-mail',
     key: 'PromoMail',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

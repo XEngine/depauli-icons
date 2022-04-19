@@ -1,6 +1,7 @@
 export default {
     name: 'book-close-bookmark-1',
     key: 'BookCloseBookmark1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

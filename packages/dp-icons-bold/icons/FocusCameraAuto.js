@@ -1,6 +1,7 @@
 export default {
     name: 'focus-camera-auto',
     key: 'FocusCameraAuto',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

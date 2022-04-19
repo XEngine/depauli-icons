@@ -1,6 +1,7 @@
 export default {
     name: 'business-deal-handshake-1',
     key: 'BusinessDealHandshake1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

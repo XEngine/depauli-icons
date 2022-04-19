@@ -1,6 +1,7 @@
 export default {
     name: 'global-warming-dead-plant',
     key: 'GlobalWarmingDeadPlant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

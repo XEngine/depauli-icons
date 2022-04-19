@@ -1,6 +1,7 @@
 export default {
     name: 'electronics-variable-capacitor',
     key: 'ElectronicsVariableCapacitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

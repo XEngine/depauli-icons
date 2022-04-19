@@ -1,6 +1,7 @@
 export default {
     name: 'mouse-remote',
     key: 'MouseRemote',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

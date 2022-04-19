@@ -1,6 +1,7 @@
 export default {
     name: 'modern-tv-3d',
     key: 'ModernTv3d',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

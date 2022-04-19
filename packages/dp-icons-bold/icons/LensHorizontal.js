@@ -1,6 +1,7 @@
 export default {
     name: 'lens-horizontal',
     key: 'LensHorizontal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

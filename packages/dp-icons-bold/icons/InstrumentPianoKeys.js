@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-piano-keys',
     key: 'InstrumentPianoKeys',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

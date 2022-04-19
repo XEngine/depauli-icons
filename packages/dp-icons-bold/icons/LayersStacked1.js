@@ -1,6 +1,7 @@
 export default {
     name: 'layers-stacked-1',
     key: 'LayersStacked1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

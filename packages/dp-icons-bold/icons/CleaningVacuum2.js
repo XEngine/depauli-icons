@@ -1,6 +1,7 @@
 export default {
     name: 'cleaning-vacuum-2',
     key: 'CleaningVacuum2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

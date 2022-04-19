@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-settings-building-2',
     key: 'RealEstateSettingsBuilding2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

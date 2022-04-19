@@ -1,6 +1,7 @@
 export default {
     name: 'rhino-body',
     key: 'RhinoBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

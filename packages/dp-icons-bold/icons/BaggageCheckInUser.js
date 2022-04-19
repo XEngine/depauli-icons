@@ -1,6 +1,7 @@
 export default {
     name: 'baggage-check-in-user',
     key: 'BaggageCheckInUser',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

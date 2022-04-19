@@ -1,6 +1,7 @@
 export default {
     name: 'fitness-dumbbell-lift',
     key: 'FitnessDumbbellLift',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

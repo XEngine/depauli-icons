@@ -1,6 +1,7 @@
 export default {
     name: 'cash-payment-bill-3',
     key: 'CashPaymentBill3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

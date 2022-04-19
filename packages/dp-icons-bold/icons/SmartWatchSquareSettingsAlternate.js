@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-settings-alternate',
     key: 'SmartWatchSquareSettingsAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

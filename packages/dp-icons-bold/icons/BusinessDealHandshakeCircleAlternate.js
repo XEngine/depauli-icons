@@ -1,6 +1,7 @@
 export default {
     name: 'business-deal-handshake-circle-alternate',
     key: 'BusinessDealHandshakeCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

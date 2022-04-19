@@ -1,6 +1,7 @@
 export default {
     name: 'bulb-1-alternate',
     key: 'Bulb1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

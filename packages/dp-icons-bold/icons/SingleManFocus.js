@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-focus',
     key: 'SingleManFocus',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

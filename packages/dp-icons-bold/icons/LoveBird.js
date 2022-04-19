@@ -1,6 +1,7 @@
 export default {
     name: 'love-bird',
     key: 'LoveBird',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-swipe-vertical-up-2',
     key: 'GestureSwipeVerticalUp2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

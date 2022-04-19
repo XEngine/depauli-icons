@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-lock',
     key: 'ShipmentLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

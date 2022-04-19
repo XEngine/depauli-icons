@@ -1,6 +1,7 @@
 export default {
     name: 'breakfast-cereal-bowl',
     key: 'BreakfastCerealBowl',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cog-circle-alternate',
     key: 'CogCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-blush-alternate',
     key: 'SmileyBlushAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

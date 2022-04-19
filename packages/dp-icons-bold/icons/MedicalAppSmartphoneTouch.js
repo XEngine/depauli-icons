@@ -1,6 +1,7 @@
 export default {
     name: 'medical-app-smartphone-touch',
     key: 'MedicalAppSmartphoneTouch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'monetization-user-monitor',
     key: 'MonetizationUserMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

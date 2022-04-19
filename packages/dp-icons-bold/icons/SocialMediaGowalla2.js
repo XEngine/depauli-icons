@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-gowalla-2',
     key: 'SocialMediaGowalla2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

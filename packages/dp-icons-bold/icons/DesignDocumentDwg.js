@@ -1,6 +1,7 @@
 export default {
     name: 'design-document-dwg',
     key: 'DesignDocumentDwg',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

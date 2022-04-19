@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-actions-video',
     key: 'SingleManActionsVideo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

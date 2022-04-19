@@ -1,6 +1,7 @@
 export default {
     name: 'layout-3',
     key: 'Layout3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

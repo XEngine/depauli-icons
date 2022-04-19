@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-book-1',
     key: 'StyleThreePinBook1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

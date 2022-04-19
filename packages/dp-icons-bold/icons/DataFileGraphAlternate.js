@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-graph-alternate',
     key: 'DataFileGraphAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

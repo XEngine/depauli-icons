@@ -1,6 +1,7 @@
 export default {
     name: 'temperature-celsius-high-alternate',
     key: 'TemperatureCelsiusHighAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

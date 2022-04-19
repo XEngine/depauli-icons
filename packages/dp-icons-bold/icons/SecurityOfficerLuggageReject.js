@@ -1,6 +1,7 @@
 export default {
     name: 'security-officer-luggage-reject',
     key: 'SecurityOfficerLuggageReject',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

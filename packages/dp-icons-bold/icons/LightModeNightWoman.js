@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-night-woman',
     key: 'LightModeNightWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-up-double',
     key: 'DiagramUpDouble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

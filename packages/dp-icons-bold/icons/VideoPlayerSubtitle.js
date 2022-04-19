@@ -1,6 +1,7 @@
 export default {
     name: 'video-player-subtitle',
     key: 'VideoPlayerSubtitle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

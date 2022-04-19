@@ -1,6 +1,7 @@
 export default {
     name: 'vegetables-carrot',
     key: 'VegetablesCarrot',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

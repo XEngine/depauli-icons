@@ -1,6 +1,7 @@
 export default {
     name: 'locker-room-suitcase-key-1',
     key: 'LockerRoomSuitcaseKey1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

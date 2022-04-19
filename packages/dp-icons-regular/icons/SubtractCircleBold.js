@@ -1,6 +1,7 @@
 export default {
     name: 'subtract-circle-bold',
     key: 'SubtractCircleBold',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

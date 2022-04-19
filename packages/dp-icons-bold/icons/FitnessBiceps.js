@@ -1,6 +1,7 @@
 export default {
     name: 'fitness-biceps',
     key: 'FitnessBiceps',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

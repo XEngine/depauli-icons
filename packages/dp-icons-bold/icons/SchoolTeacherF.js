@@ -1,6 +1,7 @@
 export default {
     name: 'school-teacher-f',
     key: 'SchoolTeacherF',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

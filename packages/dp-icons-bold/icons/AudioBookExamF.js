@@ -1,6 +1,7 @@
 export default {
     name: 'audio-book-exam-f',
     key: 'AudioBookExamF',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

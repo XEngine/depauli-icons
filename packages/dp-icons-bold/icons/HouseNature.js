@@ -1,6 +1,7 @@
 export default {
     name: 'house-nature',
     key: 'HouseNature',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tennis-player',
     key: 'TennisPlayer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

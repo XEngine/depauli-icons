@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-eps-1',
     key: 'ImageFileEps1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

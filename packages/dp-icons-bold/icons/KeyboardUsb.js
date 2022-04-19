@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-usb',
     key: 'KeyboardUsb',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

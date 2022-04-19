@@ -1,6 +1,7 @@
 export default {
     name: 'building-daylight',
     key: 'BuildingDaylight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

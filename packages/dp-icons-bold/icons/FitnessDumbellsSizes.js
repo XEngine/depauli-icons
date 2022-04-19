@@ -1,6 +1,7 @@
 export default {
     name: 'fitness-dumbells-sizes',
     key: 'FitnessDumbellsSizes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

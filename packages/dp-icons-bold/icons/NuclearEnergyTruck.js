@@ -1,6 +1,7 @@
 export default {
     name: 'nuclear-energy-truck',
     key: 'NuclearEnergyTruck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

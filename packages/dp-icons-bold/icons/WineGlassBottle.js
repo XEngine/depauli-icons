@@ -1,6 +1,7 @@
 export default {
     name: 'wine-glass-bottle',
     key: 'WineGlassBottle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

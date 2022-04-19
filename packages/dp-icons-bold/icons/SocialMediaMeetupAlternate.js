@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-meetup-alternate',
     key: 'SocialMediaMeetupAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-sync-1',
     key: 'FileCodeSync1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

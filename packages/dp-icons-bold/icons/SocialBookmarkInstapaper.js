@@ -1,6 +1,7 @@
 export default {
     name: 'social-bookmark-instapaper',
     key: 'SocialBookmarkInstapaper',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

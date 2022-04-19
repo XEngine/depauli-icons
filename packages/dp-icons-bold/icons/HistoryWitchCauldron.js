@@ -1,6 +1,7 @@
 export default {
     name: 'history-witch-cauldron',
     key: 'HistoryWitchCauldron',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

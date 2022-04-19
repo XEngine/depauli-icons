@@ -1,6 +1,7 @@
 export default {
     name: 'shorts-2',
     key: 'Shorts2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

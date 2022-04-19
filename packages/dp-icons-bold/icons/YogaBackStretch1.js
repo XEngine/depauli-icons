@@ -1,6 +1,7 @@
 export default {
     name: 'yoga-back-stretch-1',
     key: 'YogaBackStretch1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-dash-circle',
     key: 'DiagramDashCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-shook-alternate',
     key: 'SmileyShookAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

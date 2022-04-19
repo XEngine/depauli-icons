@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-water-ahead-alternate',
     key: 'RoadSignWaterAheadAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

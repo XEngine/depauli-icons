@@ -1,6 +1,7 @@
 export default {
     name: 'tools-shovel',
     key: 'ToolsShovel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'engagement-move-in',
     key: 'EngagementMoveIn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-tap-two-fingers-1',
     key: 'GestureTapTwoFingers1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

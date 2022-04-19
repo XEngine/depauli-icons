@@ -1,6 +1,7 @@
 export default {
     name: 'synchronize-arrows',
     key: 'SynchronizeArrows',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-monitor-payment',
     key: 'CreditCardMonitorPayment',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

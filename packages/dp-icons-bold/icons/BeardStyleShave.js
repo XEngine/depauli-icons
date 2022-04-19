@@ -1,6 +1,7 @@
 export default {
     name: 'beard-style-shave',
     key: 'BeardStyleShave',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

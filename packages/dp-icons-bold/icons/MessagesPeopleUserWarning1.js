@@ -1,6 +1,7 @@
 export default {
     name: 'messages-people-user-warning-1',
     key: 'MessagesPeopleUserWarning1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

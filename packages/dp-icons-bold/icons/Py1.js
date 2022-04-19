@@ -1,6 +1,7 @@
 export default {
     name: 'py-1',
     key: 'Py1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

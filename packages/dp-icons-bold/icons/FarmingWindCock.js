@@ -1,6 +1,7 @@
 export default {
     name: 'farming-wind-cock',
     key: 'FarmingWindCock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

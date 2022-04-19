@@ -1,6 +1,7 @@
 export default {
     name: 'swimming-pool-person',
     key: 'SwimmingPoolPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

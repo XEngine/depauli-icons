@@ -1,6 +1,7 @@
 export default {
     name: 'renewable-energy-solar-power',
     key: 'RenewableEnergySolarPower',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

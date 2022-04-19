@@ -1,6 +1,7 @@
 export default {
     name: 'loading-circle-2',
     key: 'LoadingCircle2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

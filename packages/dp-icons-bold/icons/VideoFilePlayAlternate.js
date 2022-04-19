@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-play-alternate',
     key: 'VideoFilePlayAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

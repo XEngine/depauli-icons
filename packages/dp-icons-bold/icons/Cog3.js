@@ -1,6 +1,7 @@
 export default {
     name: 'cog-3',
     key: 'Cog3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

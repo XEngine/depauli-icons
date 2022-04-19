@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-wifi-1',
     key: 'PhoneActionWifi1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

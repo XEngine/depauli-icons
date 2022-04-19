@@ -1,6 +1,7 @@
 export default {
     name: 'warehouse-cart-package-ribbon',
     key: 'WarehouseCartPackageRibbon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

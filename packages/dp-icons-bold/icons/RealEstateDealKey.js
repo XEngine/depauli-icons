@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-deal-key',
     key: 'RealEstateDealKey',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

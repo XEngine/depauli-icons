@@ -1,6 +1,7 @@
 export default {
     name: 'wild-pig-body',
     key: 'WildPigBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'image-document-jpg-1',
     key: 'ImageDocumentJpg1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'primitive-symbols-bull',
     key: 'PrimitiveSymbolsBull',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

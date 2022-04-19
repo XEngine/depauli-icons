@@ -1,6 +1,7 @@
 export default {
     name: 'cash-user-woman-message',
     key: 'CashUserWomanMessage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

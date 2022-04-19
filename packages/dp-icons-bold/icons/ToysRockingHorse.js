@@ -1,6 +1,7 @@
 export default {
     name: 'toys-rocking-horse',
     key: 'ToysRockingHorse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

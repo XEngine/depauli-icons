@@ -1,6 +1,7 @@
 export default {
     name: 'baby-care-cot-mobile-crib',
     key: 'BabyCareCotMobileCrib',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

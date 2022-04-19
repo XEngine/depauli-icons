@@ -1,6 +1,7 @@
 export default {
     name: 'folder-empty-1',
     key: 'FolderEmpty1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

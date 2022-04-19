@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-text-1',
     key: 'AppWindowText1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

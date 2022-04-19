@@ -1,6 +1,7 @@
 export default {
     name: 'tools-flattener-square',
     key: 'ToolsFlattenerSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

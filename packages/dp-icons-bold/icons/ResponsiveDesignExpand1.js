@@ -1,6 +1,7 @@
 export default {
     name: 'responsive-design-expand-1',
     key: 'ResponsiveDesignExpand1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

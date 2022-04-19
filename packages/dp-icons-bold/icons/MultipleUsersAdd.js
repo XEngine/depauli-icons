@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-users-add',
     key: 'MultipleUsersAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

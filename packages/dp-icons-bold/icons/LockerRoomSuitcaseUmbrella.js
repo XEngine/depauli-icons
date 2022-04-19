@@ -1,6 +1,7 @@
 export default {
     name: 'locker-room-suitcase-umbrella',
     key: 'LockerRoomSuitcaseUmbrella',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

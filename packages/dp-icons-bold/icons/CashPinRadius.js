@@ -1,6 +1,7 @@
 export default {
     name: 'cash-pin-radius',
     key: 'CashPinRadius',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

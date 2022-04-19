@@ -1,6 +1,7 @@
 export default {
     name: 'smart-house-light-on',
     key: 'SmartHouseLightOn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

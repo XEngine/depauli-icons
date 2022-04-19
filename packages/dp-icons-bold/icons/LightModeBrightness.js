@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-brightness',
     key: 'LightModeBrightness',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

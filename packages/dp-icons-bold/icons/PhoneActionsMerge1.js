@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-merge-1',
     key: 'PhoneActionsMerge1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

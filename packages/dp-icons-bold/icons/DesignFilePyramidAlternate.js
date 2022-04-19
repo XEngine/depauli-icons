@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-pyramid-alternate',
     key: 'DesignFilePyramidAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'uv-meter',
     key: 'UvMeter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

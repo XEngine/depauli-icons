@@ -1,6 +1,7 @@
 export default {
     name: 'database-clock',
     key: 'DatabaseClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

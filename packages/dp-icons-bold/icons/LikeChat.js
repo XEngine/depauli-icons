@@ -1,6 +1,7 @@
 export default {
     name: 'like-chat',
     key: 'LikeChat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

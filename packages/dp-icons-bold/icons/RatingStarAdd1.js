@@ -1,6 +1,7 @@
 export default {
     name: 'rating-star-add-1',
     key: 'RatingStarAdd1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

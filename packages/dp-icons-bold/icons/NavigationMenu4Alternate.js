@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-menu-4-alternate',
     key: 'NavigationMenu4Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

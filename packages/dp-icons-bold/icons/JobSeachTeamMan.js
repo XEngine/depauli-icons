@@ -1,6 +1,7 @@
 export default {
     name: 'job-seach-team-man',
     key: 'JobSeachTeamMan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-look-one-eye-alternate',
     key: 'SmileyLookOneEyeAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

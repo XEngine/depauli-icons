@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-swipe-horizontal-left-two-fingers',
     key: 'GestureSwipeHorizontalLeftTwoFingers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

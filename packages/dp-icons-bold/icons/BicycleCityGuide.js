@@ -1,6 +1,7 @@
 export default {
     name: 'bicycle-city-guide',
     key: 'BicycleCityGuide',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

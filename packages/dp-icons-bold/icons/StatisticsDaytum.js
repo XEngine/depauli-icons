@@ -1,6 +1,7 @@
 export default {
     name: 'statistics-daytum',
     key: 'StatisticsDaytum',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

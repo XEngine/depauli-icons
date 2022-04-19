@@ -1,6 +1,7 @@
 export default {
     name: 'drone-controller',
     key: 'DroneController',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

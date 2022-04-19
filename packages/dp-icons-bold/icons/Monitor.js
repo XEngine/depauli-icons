@@ -1,6 +1,7 @@
 export default {
     name: 'monitor',
     key: 'Monitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'microphone-karaoke-1',
     key: 'MicrophoneKaraoke1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'phone-hand-hold-1',
     key: 'PhoneHandHold1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

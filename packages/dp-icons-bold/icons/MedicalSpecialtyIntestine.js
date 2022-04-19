@@ -1,6 +1,7 @@
 export default {
     name: 'medical-specialty-intestine',
     key: 'MedicalSpecialtyIntestine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

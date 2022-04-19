@@ -1,6 +1,7 @@
 export default {
     name: 'layers-grid-magnet',
     key: 'LayersGridMagnet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-smiley-1',
     key: 'LaptopSmiley1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

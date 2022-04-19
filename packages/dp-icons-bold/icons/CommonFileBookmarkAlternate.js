@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-bookmark-alternate',
     key: 'CommonFileBookmarkAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

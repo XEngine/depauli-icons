@@ -1,6 +1,7 @@
 export default {
     name: 'pollution-fish-alternate',
     key: 'PollutionFishAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

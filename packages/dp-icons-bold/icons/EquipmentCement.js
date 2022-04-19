@@ -1,6 +1,7 @@
 export default {
     name: 'equipment-cement',
     key: 'EquipmentCement',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

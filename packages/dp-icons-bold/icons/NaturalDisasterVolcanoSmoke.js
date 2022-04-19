@@ -1,6 +1,7 @@
 export default {
     name: 'natural-disaster-volcano-smoke',
     key: 'NaturalDisasterVolcanoSmoke',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

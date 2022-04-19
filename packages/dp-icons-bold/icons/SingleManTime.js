@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-time',
     key: 'SingleManTime',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

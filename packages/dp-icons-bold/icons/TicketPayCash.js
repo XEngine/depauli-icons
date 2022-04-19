@@ -1,6 +1,7 @@
 export default {
     name: 'ticket-pay-cash',
     key: 'TicketPayCash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

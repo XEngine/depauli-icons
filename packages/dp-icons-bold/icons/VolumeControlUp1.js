@@ -1,6 +1,7 @@
 export default {
     name: 'volume-control-up-1',
     key: 'VolumeControlUp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

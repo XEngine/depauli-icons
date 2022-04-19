@@ -1,6 +1,7 @@
 export default {
     name: 'target-center-monitor',
     key: 'TargetCenterMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

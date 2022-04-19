@@ -1,6 +1,7 @@
 export default {
     name: 'blog-blogger',
     key: 'BlogBlogger',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

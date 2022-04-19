@@ -1,6 +1,7 @@
 export default {
     name: 'diving-gun',
     key: 'DivingGun',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'gymnastics-acrobatic',
     key: 'GymnasticsAcrobatic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

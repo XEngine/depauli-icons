@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-car-pin-1',
     key: 'NavigationCarPin1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

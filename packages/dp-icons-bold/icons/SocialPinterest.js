@@ -1,6 +1,7 @@
 export default {
     name: 'social-pinterest',
     key: 'SocialPinterest',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

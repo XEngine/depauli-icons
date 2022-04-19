@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-data-transfer-1',
     key: 'PhoneActionDataTransfer1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'remove-tab',
     key: 'RemoveTab',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

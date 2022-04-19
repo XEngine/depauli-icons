@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-horn-alternate',
     key: 'RoadSignHornAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

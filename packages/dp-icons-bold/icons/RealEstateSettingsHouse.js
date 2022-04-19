@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-settings-house',
     key: 'RealEstateSettingsHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

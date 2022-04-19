@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-flag-2',
     key: 'SingleWomanFlag2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

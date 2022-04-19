@@ -1,6 +1,7 @@
 export default {
     name: 'layers-show',
     key: 'LayersShow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

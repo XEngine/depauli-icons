@@ -1,6 +1,7 @@
 export default {
     name: 'cleaning-woman',
     key: 'CleaningWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

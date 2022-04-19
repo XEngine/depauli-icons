@@ -1,6 +1,7 @@
 export default {
     name: 'color-picker',
     key: 'ColorPicker',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

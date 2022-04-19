@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-bench-1',
     key: 'StyleThreePinBench1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

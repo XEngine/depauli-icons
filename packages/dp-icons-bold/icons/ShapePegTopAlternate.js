@@ -1,6 +1,7 @@
 export default {
     name: 'shape-peg-top-alternate',
     key: 'ShapePegTopAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cleaning-sign',
     key: 'CleaningSign',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

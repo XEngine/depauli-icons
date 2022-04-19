@@ -1,6 +1,7 @@
 export default {
     name: 'shopping-bag-sad',
     key: 'ShoppingBagSad',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

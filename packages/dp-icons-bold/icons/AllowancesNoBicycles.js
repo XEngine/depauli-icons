@@ -1,6 +1,7 @@
 export default {
     name: 'allowances-no-bicycles',
     key: 'AllowancesNoBicycles',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

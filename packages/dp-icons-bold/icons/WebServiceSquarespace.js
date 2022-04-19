@@ -1,6 +1,7 @@
 export default {
     name: 'web-service-squarespace',
     key: 'WebServiceSquarespace',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'baggage-cart-2',
     key: 'BaggageCart2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

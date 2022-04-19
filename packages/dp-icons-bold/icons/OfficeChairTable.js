@@ -1,6 +1,7 @@
 export default {
     name: 'office-chair-table',
     key: 'OfficeChairTable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

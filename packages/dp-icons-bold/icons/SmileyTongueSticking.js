@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-tongue-sticking',
     key: 'SmileyTongueSticking',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

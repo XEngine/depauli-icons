@@ -1,6 +1,7 @@
 export default {
     name: 'content-pen-3',
     key: 'ContentPen3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

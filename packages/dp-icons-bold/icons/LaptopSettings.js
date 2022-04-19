@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-settings',
     key: 'LaptopSettings',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

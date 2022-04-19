@@ -1,6 +1,7 @@
 export default {
     name: 'finger-tap-1',
     key: 'FingerTap1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

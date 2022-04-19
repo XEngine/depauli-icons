@@ -1,6 +1,7 @@
 export default {
     name: 'feed-sina-weibo',
     key: 'FeedSinaWeibo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

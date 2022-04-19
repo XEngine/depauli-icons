@@ -1,6 +1,7 @@
 export default {
     name: 'swan-1',
     key: 'Swan1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

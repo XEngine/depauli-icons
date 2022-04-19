@@ -1,6 +1,7 @@
 export default {
     name: 'material-tile',
     key: 'MaterialTile',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

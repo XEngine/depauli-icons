@@ -1,6 +1,7 @@
 export default {
     name: 'flag-check',
     key: 'FlagCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

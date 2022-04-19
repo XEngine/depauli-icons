@@ -1,6 +1,7 @@
 export default {
     name: 'couple-house',
     key: 'CoupleHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

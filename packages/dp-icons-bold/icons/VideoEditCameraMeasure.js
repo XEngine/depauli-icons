@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-camera-measure',
     key: 'VideoEditCameraMeasure',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

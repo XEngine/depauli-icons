@@ -1,6 +1,7 @@
 export default {
     name: 'hammer-wench',
     key: 'HammerWench',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

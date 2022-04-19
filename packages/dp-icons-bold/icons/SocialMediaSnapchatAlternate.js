@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-snapchat-alternate',
     key: 'SocialMediaSnapchatAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

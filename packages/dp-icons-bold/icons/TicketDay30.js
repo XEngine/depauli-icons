@@ -1,6 +1,7 @@
 export default {
     name: 'ticket-day-30',
     key: 'TicketDay30',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

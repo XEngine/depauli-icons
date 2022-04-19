@@ -1,6 +1,7 @@
 export default {
     name: 'shirt-plain',
     key: 'ShirtPlain',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

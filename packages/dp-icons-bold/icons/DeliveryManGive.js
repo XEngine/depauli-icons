@@ -1,6 +1,7 @@
 export default {
     name: 'delivery-man-give',
     key: 'DeliveryManGive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'footwear-heels-ankle',
     key: 'FootwearHeelsAnkle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

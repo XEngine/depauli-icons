@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-wat-phra-kaew',
     key: 'LandmarkWatPhraKaew',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

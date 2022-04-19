@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-power-ranger-2',
     key: 'FamousCharacterPowerRanger2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

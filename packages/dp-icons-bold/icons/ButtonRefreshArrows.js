@@ -1,6 +1,7 @@
 export default {
     name: 'button-refresh-arrows',
     key: 'ButtonRefreshArrows',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

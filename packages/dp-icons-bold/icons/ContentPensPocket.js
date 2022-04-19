@@ -1,6 +1,7 @@
 export default {
     name: 'content-pens-pocket',
     key: 'ContentPensPocket',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

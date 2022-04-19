@@ -1,6 +1,7 @@
 export default {
     name: 'renewable-energy-power-socket',
     key: 'RenewableEnergyPowerSocket',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

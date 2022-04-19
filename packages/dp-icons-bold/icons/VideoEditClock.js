@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-clock',
     key: 'VideoEditClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

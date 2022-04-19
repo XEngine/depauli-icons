@@ -1,6 +1,7 @@
 export default {
     name: 'layers-grid-lock',
     key: 'LayersGridLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

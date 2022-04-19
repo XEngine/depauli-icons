@@ -1,6 +1,7 @@
 export default {
     name: 'exotic-food-kebab-shred',
     key: 'ExoticFoodKebabShred',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

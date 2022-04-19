@@ -1,6 +1,7 @@
 export default {
     name: 'discount-bubble',
     key: 'DiscountBubble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

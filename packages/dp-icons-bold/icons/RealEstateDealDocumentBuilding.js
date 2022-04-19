@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-deal-document-building',
     key: 'RealEstateDealDocumentBuilding',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

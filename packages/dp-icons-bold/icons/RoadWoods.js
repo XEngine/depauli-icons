@@ -1,6 +1,7 @@
 export default {
     name: 'road-woods',
     key: 'RoadWoods',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

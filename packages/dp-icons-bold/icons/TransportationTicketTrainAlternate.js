@@ -1,6 +1,7 @@
 export default {
     name: 'transportation-ticket-train-alternate',
     key: 'TransportationTicketTrainAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

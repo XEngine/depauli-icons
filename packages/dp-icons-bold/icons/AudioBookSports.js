@@ -1,6 +1,7 @@
 export default {
     name: 'audio-book-sports',
     key: 'AudioBookSports',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

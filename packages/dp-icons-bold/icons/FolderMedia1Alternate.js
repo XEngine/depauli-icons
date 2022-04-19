@@ -1,6 +1,7 @@
 export default {
     name: 'folder-media-1-alternate',
     key: 'FolderMedia1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'safety-exit-left',
     key: 'SafetyExitLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

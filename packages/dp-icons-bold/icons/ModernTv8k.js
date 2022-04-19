@@ -1,6 +1,7 @@
 export default {
     name: 'modern-tv-8k',
     key: 'ModernTv8k',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

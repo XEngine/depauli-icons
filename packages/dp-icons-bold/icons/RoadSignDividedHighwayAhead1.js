@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-divided-highway-ahead-1',
     key: 'RoadSignDividedHighwayAhead1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

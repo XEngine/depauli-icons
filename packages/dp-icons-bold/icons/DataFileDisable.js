@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-disable',
     key: 'DataFileDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'computer-bug-search',
     key: 'ComputerBugSearch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-formspring',
     key: 'SocialMediaFormspring',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

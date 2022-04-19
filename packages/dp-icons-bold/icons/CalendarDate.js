@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-date',
     key: 'CalendarDate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

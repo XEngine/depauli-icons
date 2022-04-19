@@ -1,6 +1,7 @@
 export default {
     name: 'night-stand-retro',
     key: 'NightStandRetro',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

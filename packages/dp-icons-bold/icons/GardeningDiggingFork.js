@@ -1,6 +1,7 @@
 export default {
     name: 'gardening-digging-fork',
     key: 'GardeningDiggingFork',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'astronomy-solar-system',
     key: 'AstronomySolarSystem',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

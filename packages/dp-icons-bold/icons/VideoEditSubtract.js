@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-subtract',
     key: 'VideoEditSubtract',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-down-circle-alternate',
     key: 'NavigationDownCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

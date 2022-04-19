@@ -1,6 +1,7 @@
 export default {
     name: 'paralympics-weightlifting',
     key: 'ParalympicsWeightlifting',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

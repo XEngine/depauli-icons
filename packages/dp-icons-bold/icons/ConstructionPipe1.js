@@ -1,6 +1,7 @@
 export default {
     name: 'construction-pipe-1',
     key: 'ConstructionPipe1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

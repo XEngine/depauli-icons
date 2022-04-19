@@ -1,6 +1,7 @@
 export default {
     name: 'weather-app-rain',
     key: 'WeatherAppRain',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

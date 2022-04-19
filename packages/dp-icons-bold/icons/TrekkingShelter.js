@@ -1,6 +1,7 @@
 export default {
     name: 'trekking-shelter',
     key: 'TrekkingShelter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

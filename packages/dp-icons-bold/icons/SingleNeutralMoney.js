@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-money',
     key: 'SingleNeutralMoney',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

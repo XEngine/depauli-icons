@@ -1,6 +1,7 @@
 export default {
     name: 'server-upload-1',
     key: 'ServerUpload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

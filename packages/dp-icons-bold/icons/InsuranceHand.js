@@ -1,6 +1,7 @@
 export default {
     name: 'insurance-hand',
     key: 'InsuranceHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

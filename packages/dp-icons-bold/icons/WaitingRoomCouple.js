@@ -1,6 +1,7 @@
 export default {
     name: 'waiting-room-couple',
     key: 'WaitingRoomCouple',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

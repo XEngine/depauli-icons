@@ -1,6 +1,7 @@
 export default {
     name: 'saving-money-egg',
     key: 'SavingMoneyEgg',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

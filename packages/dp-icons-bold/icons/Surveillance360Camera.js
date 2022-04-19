@@ -1,6 +1,7 @@
 export default {
     name: 'surveillance-360-camera',
     key: 'Surveillance360Camera',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

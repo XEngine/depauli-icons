@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-disable',
     key: 'CreditCardDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

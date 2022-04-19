@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-app-house-laptop-1',
     key: 'RealEstateAppHouseLaptop1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

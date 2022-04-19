@@ -1,6 +1,7 @@
 export default {
     name: 'password-denied-1',
     key: 'PasswordDenied1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

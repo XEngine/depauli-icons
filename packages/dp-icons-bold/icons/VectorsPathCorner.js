@@ -1,6 +1,7 @@
 export default {
     name: 'vectors-path-corner',
     key: 'VectorsPathCorner',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

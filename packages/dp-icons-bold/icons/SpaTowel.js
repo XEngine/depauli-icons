@@ -1,6 +1,7 @@
 export default {
     name: 'spa-towel',
     key: 'SpaTowel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

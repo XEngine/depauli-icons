@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-control-gear',
     key: 'VideoGameControlGear',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

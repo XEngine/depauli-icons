@@ -1,6 +1,7 @@
 export default {
     name: 'e-commerce-gift',
     key: 'ECommerceGift',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'cricket-bat-ball',
     key: 'CricketBatBall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

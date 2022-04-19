@@ -1,6 +1,7 @@
 export default {
     name: 'folder-music-1',
     key: 'FolderMusic1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'sd-card-download',
     key: 'SdCardDownload',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

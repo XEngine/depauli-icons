@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-google-plus-1',
     key: 'SocialMediaGooglePlus1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

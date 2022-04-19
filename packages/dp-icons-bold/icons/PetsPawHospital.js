@@ -1,6 +1,7 @@
 export default {
     name: 'pets-paw-hospital',
     key: 'PetsPawHospital',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'composition-window-man-1-alternate',
     key: 'CompositionWindowMan1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'standing-lamp',
     key: 'StandingLamp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

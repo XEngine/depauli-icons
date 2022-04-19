@@ -1,6 +1,7 @@
 export default {
     name: 'transform-inside',
     key: 'TransformInside',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'toilet-sign-1',
     key: 'ToiletSign1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

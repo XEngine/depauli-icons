@@ -1,6 +1,7 @@
 export default {
     name: 'office-file-stamp',
     key: 'OfficeFileStamp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

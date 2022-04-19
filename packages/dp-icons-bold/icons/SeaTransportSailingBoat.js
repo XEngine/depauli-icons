@@ -1,6 +1,7 @@
 export default {
     name: 'sea-transport-sailing-boat',
     key: 'SeaTransportSailingBoat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

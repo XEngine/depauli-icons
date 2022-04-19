@@ -1,6 +1,7 @@
 export default {
     name: 'zip-file-disable',
     key: 'ZipFileDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-japan-castle-1',
     key: 'LandmarkJapanCastle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

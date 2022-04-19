@@ -1,6 +1,7 @@
 export default {
     name: 'professional-tool-dropbox',
     key: 'ProfessionalToolDropbox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

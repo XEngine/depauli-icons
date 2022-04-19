@@ -1,6 +1,7 @@
 export default {
     name: 'pin-add-2',
     key: 'PinAdd2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

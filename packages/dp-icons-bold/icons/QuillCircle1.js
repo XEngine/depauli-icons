@@ -1,6 +1,7 @@
 export default {
     name: 'quill-circle-1',
     key: 'QuillCircle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

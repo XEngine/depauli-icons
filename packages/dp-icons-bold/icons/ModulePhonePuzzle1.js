@@ -1,6 +1,7 @@
 export default {
     name: 'module-phone-puzzle-1',
     key: 'ModulePhonePuzzle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

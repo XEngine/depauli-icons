@@ -1,6 +1,7 @@
 export default {
     name: 'developer-community-stack-overflow',
     key: 'DeveloperCommunityStackOverflow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

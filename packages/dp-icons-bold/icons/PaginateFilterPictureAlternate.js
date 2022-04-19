@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-picture-alternate',
     key: 'PaginateFilterPictureAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

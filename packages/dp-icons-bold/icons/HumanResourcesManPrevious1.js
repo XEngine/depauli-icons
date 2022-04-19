@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-man-previous-1',
     key: 'HumanResourcesManPrevious1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

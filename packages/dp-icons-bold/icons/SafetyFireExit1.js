@@ -1,6 +1,7 @@
 export default {
     name: 'safety-fire-exit-1',
     key: 'SafetyFireExit1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

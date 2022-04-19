@@ -1,6 +1,7 @@
 export default {
     name: 'garbage-bin',
     key: 'GarbageBin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

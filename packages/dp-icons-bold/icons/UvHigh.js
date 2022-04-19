@@ -1,6 +1,7 @@
 export default {
     name: 'uv-high',
     key: 'UvHigh',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

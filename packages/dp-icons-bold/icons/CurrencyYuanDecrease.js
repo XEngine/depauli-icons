@@ -1,6 +1,7 @@
 export default {
     name: 'currency-yuan-decrease',
     key: 'CurrencyYuanDecrease',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

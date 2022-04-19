@@ -1,6 +1,7 @@
 export default {
     name: 'religion-man-muslim-1',
     key: 'ReligionManMuslim1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'mask-star-alternate',
     key: 'MaskStarAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

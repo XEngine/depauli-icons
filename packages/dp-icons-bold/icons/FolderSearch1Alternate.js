@@ -1,6 +1,7 @@
 export default {
     name: 'folder-search-1-alternate',
     key: 'FolderSearch1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'ticket-exchange',
     key: 'TicketExchange',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

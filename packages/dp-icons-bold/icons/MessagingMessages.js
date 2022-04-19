@@ -1,6 +1,7 @@
 export default {
     name: 'messaging-messages',
     key: 'MessagingMessages',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'hotel-bunk-bed-1',
     key: 'HotelBunkBed1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

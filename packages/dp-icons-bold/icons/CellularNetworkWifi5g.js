@@ -1,6 +1,7 @@
 export default {
     name: 'cellular-network-wifi-5g',
     key: 'CellularNetworkWifi5g',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

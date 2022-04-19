@@ -1,6 +1,7 @@
 export default {
     name: 'car-tool-steering-wheel',
     key: 'CarToolSteeringWheel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

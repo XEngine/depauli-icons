@@ -1,6 +1,7 @@
 export default {
     name: 'dresser-double-door-1',
     key: 'DresserDoubleDoor1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

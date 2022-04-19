@@ -1,6 +1,7 @@
 export default {
     name: 'paginate-filter-camera',
     key: 'PaginateFilterCamera',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

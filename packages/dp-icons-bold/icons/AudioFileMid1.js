@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-mid-1',
     key: 'AudioFileMid1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

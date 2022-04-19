@@ -1,6 +1,7 @@
 export default {
     name: 'volleyball-ball',
     key: 'VolleyballBall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-hyves',
     key: 'SocialMediaHyves',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

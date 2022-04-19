@@ -1,6 +1,7 @@
 export default {
     name: 'check-payment-give',
     key: 'CheckPaymentGive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

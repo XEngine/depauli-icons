@@ -1,6 +1,7 @@
 export default {
     name: 'design-drawing-board-education',
     key: 'DesignDrawingBoardEducation',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

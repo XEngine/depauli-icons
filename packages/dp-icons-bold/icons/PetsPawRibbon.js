@@ -1,6 +1,7 @@
 export default {
     name: 'pets-paw-ribbon',
     key: 'PetsPawRibbon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

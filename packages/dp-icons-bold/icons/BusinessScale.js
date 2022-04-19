@@ -1,6 +1,7 @@
 export default {
     name: 'business-scale',
     key: 'BusinessScale',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

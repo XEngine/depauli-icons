@@ -1,6 +1,7 @@
 export default {
     name: 'phone-translate',
     key: 'PhoneTranslate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

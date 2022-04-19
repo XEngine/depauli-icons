@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-cash-1',
     key: 'CalendarCash1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

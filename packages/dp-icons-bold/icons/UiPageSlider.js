@@ -1,6 +1,7 @@
 export default {
     name: 'ui-page-slider',
     key: 'UiPageSlider',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

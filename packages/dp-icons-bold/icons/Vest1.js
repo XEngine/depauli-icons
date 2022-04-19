@@ -1,6 +1,7 @@
 export default {
     name: 'vest-1',
     key: 'Vest1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

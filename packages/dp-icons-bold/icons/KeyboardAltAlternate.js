@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-alt-alternate',
     key: 'KeyboardAltAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

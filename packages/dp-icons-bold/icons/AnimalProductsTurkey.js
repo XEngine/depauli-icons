@@ -1,6 +1,7 @@
 export default {
     name: 'animal-products-turkey',
     key: 'AnimalProductsTurkey',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'tablet-touch',
     key: 'TabletTouch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

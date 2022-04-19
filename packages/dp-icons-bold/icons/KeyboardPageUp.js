@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-page-up',
     key: 'KeyboardPageUp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

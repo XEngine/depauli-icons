@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-smartphone-message-alternate',
     key: 'MeetingSmartphoneMessageAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

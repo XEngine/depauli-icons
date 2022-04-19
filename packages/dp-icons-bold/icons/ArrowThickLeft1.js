@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-thick-left-1',
     key: 'ArrowThickLeft1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

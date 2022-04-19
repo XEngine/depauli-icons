@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-warning',
     key: 'MultipleActionsWarning',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

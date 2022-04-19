@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-renren',
     key: 'SocialMediaRenren',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

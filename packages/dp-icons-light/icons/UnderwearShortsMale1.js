@@ -1,6 +1,7 @@
 export default {
     name: 'underwear-shorts-male-1',
     key: 'UnderwearShortsMale1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

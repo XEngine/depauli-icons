@@ -1,6 +1,7 @@
 export default {
     name: 'drawer-open',
     key: 'DrawerOpen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

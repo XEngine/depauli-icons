@@ -1,6 +1,7 @@
 export default {
     name: 'vegetables-corn',
     key: 'VegetablesCorn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

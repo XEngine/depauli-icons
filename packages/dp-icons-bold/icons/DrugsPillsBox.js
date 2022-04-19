@@ -1,6 +1,7 @@
 export default {
     name: 'drugs-pills-box',
     key: 'DrugsPillsBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

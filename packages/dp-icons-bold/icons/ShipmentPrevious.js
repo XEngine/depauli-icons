@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-previous',
     key: 'ShipmentPrevious',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

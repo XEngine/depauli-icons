@@ -1,6 +1,7 @@
 export default {
     name: 'crime-wanted',
     key: 'CrimeWanted',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

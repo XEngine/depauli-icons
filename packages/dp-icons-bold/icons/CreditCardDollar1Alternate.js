@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-dollar-1-alternate',
     key: 'CreditCardDollar1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'peacock-feathers-up-1',
     key: 'PeacockFeathersUp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

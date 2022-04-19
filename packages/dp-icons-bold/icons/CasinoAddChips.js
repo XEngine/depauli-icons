@@ -1,6 +1,7 @@
 export default {
     name: 'casino-add-chips',
     key: 'CasinoAddChips',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

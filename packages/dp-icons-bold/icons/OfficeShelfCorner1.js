@@ -1,6 +1,7 @@
 export default {
     name: 'office-shelf-corner-1',
     key: 'OfficeShelfCorner1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

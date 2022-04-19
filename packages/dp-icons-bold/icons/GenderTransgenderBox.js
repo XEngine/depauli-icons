@@ -1,6 +1,7 @@
 export default {
     name: 'gender-transgender-box',
     key: 'GenderTransgenderBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

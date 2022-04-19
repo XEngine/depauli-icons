@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-rich-alternate-2',
     key: 'SmileyRichAlternate2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

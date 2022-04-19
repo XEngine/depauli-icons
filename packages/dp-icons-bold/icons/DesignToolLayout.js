@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-layout',
     key: 'DesignToolLayout',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

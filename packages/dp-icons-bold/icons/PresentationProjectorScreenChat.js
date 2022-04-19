@@ -1,6 +1,7 @@
 export default {
     name: 'presentation-projector-screen-chat',
     key: 'PresentationProjectorScreenChat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

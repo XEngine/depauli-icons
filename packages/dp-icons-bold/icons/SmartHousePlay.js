@@ -1,6 +1,7 @@
 export default {
     name: 'smart-house-play',
     key: 'SmartHousePlay',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

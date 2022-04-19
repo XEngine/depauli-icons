@@ -1,6 +1,7 @@
 export default {
     name: 'task-list-pin-alternate',
     key: 'TaskListPinAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

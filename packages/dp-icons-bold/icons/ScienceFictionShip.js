@@ -1,6 +1,7 @@
 export default {
     name: 'science-fiction-ship',
     key: 'ScienceFictionShip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

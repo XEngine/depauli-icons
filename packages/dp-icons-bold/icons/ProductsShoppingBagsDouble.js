@@ -1,6 +1,7 @@
 export default {
     name: 'products-shopping-bags-double',
     key: 'ProductsShoppingBagsDouble',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

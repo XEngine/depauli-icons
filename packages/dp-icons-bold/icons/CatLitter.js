@@ -1,6 +1,7 @@
 export default {
     name: 'cat-litter',
     key: 'CatLitter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

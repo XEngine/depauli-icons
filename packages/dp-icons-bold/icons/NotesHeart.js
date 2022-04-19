@@ -1,6 +1,7 @@
 export default {
     name: 'notes-heart',
     key: 'NotesHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

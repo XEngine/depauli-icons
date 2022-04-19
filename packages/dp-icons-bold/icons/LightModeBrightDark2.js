@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-bright-dark-2',
     key: 'LightModeBrightDark2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

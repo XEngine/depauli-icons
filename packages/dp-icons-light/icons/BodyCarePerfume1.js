@@ -1,6 +1,7 @@
 export default {
     name: 'body-care-perfume-1',
     key: 'BodyCarePerfume1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

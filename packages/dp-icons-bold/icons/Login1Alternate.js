@@ -1,6 +1,7 @@
 export default {
     name: 'login-1-alternate',
     key: 'Login1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

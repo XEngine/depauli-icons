@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-disable-alternate',
     key: 'MessagesBubbleDisableAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

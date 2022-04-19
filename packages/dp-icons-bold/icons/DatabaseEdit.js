@@ -1,6 +1,7 @@
 export default {
     name: 'database-edit',
     key: 'DatabaseEdit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

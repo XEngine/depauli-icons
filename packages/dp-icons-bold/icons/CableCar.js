@@ -1,6 +1,7 @@
 export default {
     name: 'cable-car',
     key: 'CableCar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

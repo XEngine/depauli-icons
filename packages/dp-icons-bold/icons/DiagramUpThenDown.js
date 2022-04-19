@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-up-then-down',
     key: 'DiagramUpThenDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

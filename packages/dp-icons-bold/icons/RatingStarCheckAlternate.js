@@ -1,6 +1,7 @@
 export default {
     name: 'rating-star-check-alternate',
     key: 'RatingStarCheckAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

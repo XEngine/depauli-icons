@@ -1,6 +1,7 @@
 export default {
     name: 'segway-2',
     key: 'Segway2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

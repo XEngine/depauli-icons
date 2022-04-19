@@ -1,6 +1,7 @@
 export default {
     name: 'amusement-park-rollercoaster',
     key: 'AmusementParkRollercoaster',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

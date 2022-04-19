@@ -1,6 +1,7 @@
 export default {
     name: 'breakup-couple-woman-woman-1',
     key: 'BreakupCoupleWomanWoman1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

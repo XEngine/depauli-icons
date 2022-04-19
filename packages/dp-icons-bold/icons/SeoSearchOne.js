@@ -1,6 +1,7 @@
 export default {
     name: 'seo-search-one',
     key: 'SeoSearchOne',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

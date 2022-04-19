@@ -1,6 +1,7 @@
 export default {
     name: 'spa-candle-flower',
     key: 'SpaCandleFlower',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

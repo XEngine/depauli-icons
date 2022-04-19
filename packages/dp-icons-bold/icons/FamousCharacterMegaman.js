@@ -1,6 +1,7 @@
 export default {
     name: 'famous-character-megaman',
     key: 'FamousCharacterMegaman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

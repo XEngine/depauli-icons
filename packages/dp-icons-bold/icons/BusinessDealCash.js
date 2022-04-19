@@ -1,6 +1,7 @@
 export default {
     name: 'business-deal-cash',
     key: 'BusinessDealCash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

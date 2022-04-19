@@ -1,6 +1,7 @@
 export default {
     name: 'footwear-sneakers-1',
     key: 'FootwearSneakers1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'loading-line',
     key: 'LoadingLine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

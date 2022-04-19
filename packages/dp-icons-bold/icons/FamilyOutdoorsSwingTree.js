@@ -1,6 +1,7 @@
 export default {
     name: 'family-outdoors-swing-tree',
     key: 'FamilyOutdoorsSwingTree',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

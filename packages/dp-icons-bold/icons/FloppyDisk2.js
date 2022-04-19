@@ -1,6 +1,7 @@
 export default {
     name: 'floppy-disk-2',
     key: 'FloppyDisk2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

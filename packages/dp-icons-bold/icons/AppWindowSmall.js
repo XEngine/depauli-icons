@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-small',
     key: 'AppWindowSmall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

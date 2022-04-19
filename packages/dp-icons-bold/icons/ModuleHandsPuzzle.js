@@ -1,6 +1,7 @@
 export default {
     name: 'module-hands-puzzle',
     key: 'ModuleHandsPuzzle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

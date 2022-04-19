@@ -1,6 +1,7 @@
 export default {
     name: 'light-bulb-eco-alternate',
     key: 'LightBulbEcoAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

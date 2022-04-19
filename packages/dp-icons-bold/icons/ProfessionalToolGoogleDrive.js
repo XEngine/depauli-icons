@@ -1,6 +1,7 @@
 export default {
     name: 'professional-tool-google-drive',
     key: 'ProfessionalToolGoogleDrive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

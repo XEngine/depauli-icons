@@ -1,6 +1,7 @@
 export default {
     name: 'smart-light-smartphone',
     key: 'SmartLightSmartphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

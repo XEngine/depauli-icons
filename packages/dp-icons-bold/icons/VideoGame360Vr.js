@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-360-vr',
     key: 'VideoGame360Vr',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

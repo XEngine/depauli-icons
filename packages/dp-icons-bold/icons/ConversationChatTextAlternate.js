@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-chat-text-alternate',
     key: 'ConversationChatTextAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

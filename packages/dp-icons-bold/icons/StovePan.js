@@ -1,6 +1,7 @@
 export default {
     name: 'stove-pan',
     key: 'StovePan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

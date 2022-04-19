@@ -1,6 +1,7 @@
 export default {
     name: 'soccer-kick-ball',
     key: 'SoccerKickBall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

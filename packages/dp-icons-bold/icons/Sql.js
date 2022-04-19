@@ -1,6 +1,7 @@
 export default {
     name: 'sql',
     key: 'Sql',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

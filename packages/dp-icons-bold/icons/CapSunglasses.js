@@ -1,6 +1,7 @@
 export default {
     name: 'cap-sunglasses',
     key: 'CapSunglasses',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

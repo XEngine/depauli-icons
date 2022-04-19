@@ -1,6 +1,7 @@
 export default {
     name: 'water-protection-drop-1',
     key: 'WaterProtectionDrop1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'bird-house',
     key: 'BirdHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'professions-man-clerk',
     key: 'ProfessionsManClerk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

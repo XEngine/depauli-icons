@@ -1,6 +1,7 @@
 export default {
     name: 'light-mode-exposure-1',
     key: 'LightModeExposure1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

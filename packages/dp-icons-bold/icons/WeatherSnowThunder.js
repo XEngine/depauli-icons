@@ -1,6 +1,7 @@
 export default {
     name: 'weather-snow-thunder',
     key: 'WeatherSnowThunder',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

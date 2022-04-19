@@ -1,6 +1,7 @@
 export default {
     name: 'responsive-design-cursor',
     key: 'ResponsiveDesignCursor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

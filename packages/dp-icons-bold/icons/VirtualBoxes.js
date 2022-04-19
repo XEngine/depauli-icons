@@ -1,6 +1,7 @@
 export default {
     name: 'virtual-boxes',
     key: 'VirtualBoxes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

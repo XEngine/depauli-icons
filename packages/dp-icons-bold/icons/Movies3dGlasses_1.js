@@ -1,6 +1,7 @@
 export default {
     name: 'movies-3d-glasses-1',
     key: 'Movies3dGlasses_1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

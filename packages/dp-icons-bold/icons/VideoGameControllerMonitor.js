@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-controller-monitor',
     key: 'VideoGameControllerMonitor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

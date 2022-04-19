@@ -1,6 +1,7 @@
 export default {
     name: 'plane',
     key: 'Plane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-browser',
     key: 'ConversationBrowser',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

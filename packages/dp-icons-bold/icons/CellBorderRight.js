@@ -1,6 +1,7 @@
 export default {
     name: 'cell-border-right',
     key: 'CellBorderRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

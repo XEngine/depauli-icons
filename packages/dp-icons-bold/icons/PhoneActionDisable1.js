@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-disable-1',
     key: 'PhoneActionDisable1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'beer-opener-1',
     key: 'BeerOpener1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

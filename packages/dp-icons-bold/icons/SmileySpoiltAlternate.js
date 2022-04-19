@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-spoilt-alternate',
     key: 'SmileySpoiltAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

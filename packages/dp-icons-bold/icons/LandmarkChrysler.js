@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-chrysler',
     key: 'LandmarkChrysler',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

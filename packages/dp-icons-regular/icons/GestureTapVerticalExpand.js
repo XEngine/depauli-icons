@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-tap-vertical-expand',
     key: 'GestureTapVerticalExpand',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

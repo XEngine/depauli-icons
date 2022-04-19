@@ -1,6 +1,7 @@
 export default {
     name: 'sign-badge-bubble-message-alternate',
     key: 'SignBadgeBubbleMessageAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

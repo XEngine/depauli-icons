@@ -1,6 +1,7 @@
 export default {
     name: 'toys-furby',
     key: 'ToysFurby',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

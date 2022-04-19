@@ -1,6 +1,7 @@
 export default {
     name: 'xml-1',
     key: 'Xml1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

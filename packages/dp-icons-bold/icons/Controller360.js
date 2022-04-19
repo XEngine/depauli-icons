@@ -1,6 +1,7 @@
 export default {
     name: 'controller-360',
     key: 'Controller360',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'alarm-bell-disable-1',
     key: 'AlarmBellDisable1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

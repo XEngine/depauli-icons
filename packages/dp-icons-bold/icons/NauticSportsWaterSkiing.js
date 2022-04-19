@@ -1,6 +1,7 @@
 export default {
     name: 'nautic-sports-water-skiing',
     key: 'NauticSportsWaterSkiing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

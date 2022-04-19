@@ -1,6 +1,7 @@
 export default {
     name: 'shield-home',
     key: 'ShieldHome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

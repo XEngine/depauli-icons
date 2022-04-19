@@ -1,6 +1,7 @@
 export default {
     name: 'modern-tv-curvy-edge',
     key: 'ModernTvCurvyEdge',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

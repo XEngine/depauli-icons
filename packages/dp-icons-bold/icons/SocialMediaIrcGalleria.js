@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-irc-galleria',
     key: 'SocialMediaIrcGalleria',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

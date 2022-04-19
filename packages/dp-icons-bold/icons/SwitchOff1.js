@@ -1,6 +1,7 @@
 export default {
     name: 'switch-off-1',
     key: 'SwitchOff1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

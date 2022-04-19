@@ -1,6 +1,7 @@
 export default {
     name: 'programming-hold-code',
     key: 'ProgrammingHoldCode',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

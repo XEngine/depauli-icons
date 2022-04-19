@@ -1,6 +1,7 @@
 export default {
     name: 'feed-dailybooth',
     key: 'FeedDailybooth',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

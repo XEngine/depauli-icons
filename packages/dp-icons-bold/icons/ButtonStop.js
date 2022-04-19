@@ -1,6 +1,7 @@
 export default {
     name: 'button-stop',
     key: 'ButtonStop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

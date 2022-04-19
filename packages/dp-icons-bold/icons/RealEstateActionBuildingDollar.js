@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-action-building-dollar',
     key: 'RealEstateActionBuildingDollar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

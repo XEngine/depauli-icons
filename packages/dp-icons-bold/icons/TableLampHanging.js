@@ -1,6 +1,7 @@
 export default {
     name: 'table-lamp-hanging',
     key: 'TableLampHanging',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

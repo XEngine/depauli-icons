@@ -1,6 +1,7 @@
 export default {
     name: 'brightness-1',
     key: 'Brightness1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

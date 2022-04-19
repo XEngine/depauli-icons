@@ -1,6 +1,7 @@
 export default {
     name: 'paralympics-javelin-throwing',
     key: 'ParalympicsJavelinThrowing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

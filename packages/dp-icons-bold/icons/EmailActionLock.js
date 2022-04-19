@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-lock',
     key: 'EmailActionLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-smirk-glasses-1',
     key: 'SmileySmirkGlasses1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

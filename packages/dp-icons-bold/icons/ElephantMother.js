@@ -1,6 +1,7 @@
 export default {
     name: 'elephant-mother',
     key: 'ElephantMother',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

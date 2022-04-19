@@ -1,6 +1,7 @@
 export default {
     name: 'aircraft-chopper',
     key: 'AircraftChopper',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-favorite-hold-building',
     key: 'RealEstateFavoriteHoldBuilding',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

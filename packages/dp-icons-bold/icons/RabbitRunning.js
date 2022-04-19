@@ -1,6 +1,7 @@
 export default {
     name: 'rabbit-running',
     key: 'RabbitRunning',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

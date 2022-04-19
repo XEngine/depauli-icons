@@ -1,6 +1,7 @@
 export default {
     name: 'gymnastics-weightlifting',
     key: 'GymnasticsWeightlifting',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

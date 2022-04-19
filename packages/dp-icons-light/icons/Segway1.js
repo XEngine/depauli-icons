@@ -1,6 +1,7 @@
 export default {
     name: 'segway-1',
     key: 'Segway1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

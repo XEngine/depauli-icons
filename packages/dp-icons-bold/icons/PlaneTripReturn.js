@@ -1,6 +1,7 @@
 export default {
     name: 'plane-trip-return',
     key: 'PlaneTripReturn',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

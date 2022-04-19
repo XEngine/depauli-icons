@@ -1,6 +1,7 @@
 export default {
     name: 'analytics-bars-circle',
     key: 'AnalyticsBarsCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

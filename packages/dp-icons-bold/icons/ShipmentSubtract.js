@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-subtract',
     key: 'ShipmentSubtract',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

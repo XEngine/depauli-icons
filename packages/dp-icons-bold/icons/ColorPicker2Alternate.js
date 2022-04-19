@@ -1,6 +1,7 @@
 export default {
     name: 'color-picker-2-alternate',
     key: 'ColorPicker2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

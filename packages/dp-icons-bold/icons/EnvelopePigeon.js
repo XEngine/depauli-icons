@@ -1,6 +1,7 @@
 export default {
     name: 'envelope-pigeon',
     key: 'EnvelopePigeon',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

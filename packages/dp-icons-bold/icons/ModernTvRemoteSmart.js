@@ -1,6 +1,7 @@
 export default {
     name: 'modern-tv-remote-smart',
     key: 'ModernTvRemoteSmart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

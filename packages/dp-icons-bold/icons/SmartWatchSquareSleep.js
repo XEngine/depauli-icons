@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-sleep',
     key: 'SmartWatchSquareSleep',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

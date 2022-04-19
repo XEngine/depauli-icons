@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-ttf-1',
     key: 'DesignFileTtf1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

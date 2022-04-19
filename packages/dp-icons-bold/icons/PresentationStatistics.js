@@ -1,6 +1,7 @@
 export default {
     name: 'presentation-statistics',
     key: 'PresentationStatistics',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

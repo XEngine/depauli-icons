@@ -1,6 +1,7 @@
 export default {
     name: 'currency-euro-dollar-exchange',
     key: 'CurrencyEuroDollarExchange',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

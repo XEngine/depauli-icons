@@ -1,6 +1,7 @@
 export default {
     name: 'align-middle-move-vertical',
     key: 'AlignMiddleMoveVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

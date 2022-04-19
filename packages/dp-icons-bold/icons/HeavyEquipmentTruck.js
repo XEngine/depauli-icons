@@ -1,6 +1,7 @@
 export default {
     name: 'heavy-equipment-truck',
     key: 'HeavyEquipmentTruck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

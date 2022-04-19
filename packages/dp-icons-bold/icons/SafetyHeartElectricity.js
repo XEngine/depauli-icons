@@ -1,6 +1,7 @@
 export default {
     name: 'safety-heart-electricity',
     key: 'SafetyHeartElectricity',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

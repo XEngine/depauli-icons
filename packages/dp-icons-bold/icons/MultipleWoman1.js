@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-woman-1',
     key: 'MultipleWoman1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

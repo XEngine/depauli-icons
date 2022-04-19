@@ -1,6 +1,7 @@
 export default {
     name: 'database-alternate',
     key: 'DatabaseAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

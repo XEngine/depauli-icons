@@ -1,6 +1,7 @@
 export default {
     name: 'socket-box',
     key: 'SocketBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

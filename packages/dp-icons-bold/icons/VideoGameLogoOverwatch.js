@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-logo-overwatch',
     key: 'VideoGameLogoOverwatch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

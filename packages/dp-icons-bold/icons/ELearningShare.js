@@ -1,6 +1,7 @@
 export default {
     name: 'e-learning-share',
     key: 'ELearningShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

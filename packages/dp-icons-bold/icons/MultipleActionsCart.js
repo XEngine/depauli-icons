@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-actions-cart',
     key: 'MultipleActionsCart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

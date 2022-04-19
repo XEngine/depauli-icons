@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-bug',
     key: 'LaptopBug',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

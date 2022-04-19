@@ -1,6 +1,7 @@
 export default {
     name: 'style-one-pin-train-1',
     key: 'StyleOnePinTrain1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

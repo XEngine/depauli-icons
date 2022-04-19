@@ -1,6 +1,7 @@
 export default {
     name: 'smart-light-wifi-1',
     key: 'SmartLightWifi1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

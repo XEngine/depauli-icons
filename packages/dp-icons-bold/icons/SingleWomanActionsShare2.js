@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-actions-share-2',
     key: 'SingleWomanActionsShare2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

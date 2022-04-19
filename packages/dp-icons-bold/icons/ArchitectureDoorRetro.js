@@ -1,6 +1,7 @@
 export default {
     name: 'architecture-door-retro',
     key: 'ArchitectureDoorRetro',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

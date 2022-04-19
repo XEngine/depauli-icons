@@ -1,6 +1,7 @@
 export default {
     name: 'seo-search-graph-first-place',
     key: 'SeoSearchGraphFirstPlace',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

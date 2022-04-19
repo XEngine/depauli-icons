@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-double-down',
     key: 'ArrowDoubleDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'hardware-nuts',
     key: 'HardwareNuts',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

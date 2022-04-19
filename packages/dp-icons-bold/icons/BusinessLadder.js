@@ -1,6 +1,7 @@
 export default {
     name: 'business-ladder',
     key: 'BusinessLadder',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

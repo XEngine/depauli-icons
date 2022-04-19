@@ -1,6 +1,7 @@
 export default {
     name: 'deer-target',
     key: 'DeerTarget',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

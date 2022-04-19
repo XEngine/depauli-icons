@@ -1,6 +1,7 @@
 export default {
     name: 'match-fire-alternate',
     key: 'MatchFireAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

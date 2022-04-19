@@ -1,6 +1,7 @@
 export default {
     name: 'human-resources-employee-stress',
     key: 'HumanResourcesEmployeeStress',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'web-service-dzone',
     key: 'WebServiceDzone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

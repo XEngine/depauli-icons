@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-curve-rise-dash',
     key: 'DiagramCurveRiseDash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

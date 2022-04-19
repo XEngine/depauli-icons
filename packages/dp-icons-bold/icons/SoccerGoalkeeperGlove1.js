@@ -1,6 +1,7 @@
 export default {
     name: 'soccer-goalkeeper-glove-1',
     key: 'SoccerGoalkeeperGlove1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

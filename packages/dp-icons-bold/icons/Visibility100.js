@@ -1,6 +1,7 @@
 export default {
     name: 'visibility-100',
     key: 'Visibility100',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

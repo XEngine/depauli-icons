@@ -1,6 +1,7 @@
 export default {
     name: 'controls-previous',
     key: 'ControlsPrevious',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

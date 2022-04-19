@@ -1,6 +1,7 @@
 export default {
     name: 'smart-house-car',
     key: 'SmartHouseCar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

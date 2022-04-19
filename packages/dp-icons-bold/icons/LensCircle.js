@@ -1,6 +1,7 @@
 export default {
     name: 'lens-circle',
     key: 'LensCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

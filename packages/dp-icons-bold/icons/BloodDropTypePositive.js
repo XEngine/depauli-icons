@@ -1,6 +1,7 @@
 export default {
     name: 'blood-drop-type-positive',
     key: 'BloodDropTypePositive',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

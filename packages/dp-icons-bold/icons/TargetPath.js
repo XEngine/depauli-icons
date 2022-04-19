@@ -1,6 +1,7 @@
 export default {
     name: 'target-path',
     key: 'TargetPath',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

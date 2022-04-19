@@ -1,6 +1,7 @@
 export default {
     name: 'paralympics-ball',
     key: 'ParalympicsBall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

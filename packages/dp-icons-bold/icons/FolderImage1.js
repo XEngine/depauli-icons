@@ -1,6 +1,7 @@
 export default {
     name: 'folder-image-1',
     key: 'FolderImage1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

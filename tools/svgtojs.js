@@ -50,6 +50,7 @@ module.exports = async (name, componentName, content, iconPackage) => {
     return `export default {
     name: '${name}',
     key: '${componentName}',
+    type: '${iconPackage.name}',
     width: 24,
     height: 24,
     attributes: ${JSON.stringify(style)},

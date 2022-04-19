@@ -1,6 +1,7 @@
 export default {
     name: 'ecology-leaf',
     key: 'EcologyLeaf',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

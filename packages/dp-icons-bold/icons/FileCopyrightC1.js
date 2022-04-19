@@ -1,6 +1,7 @@
 export default {
     name: 'file-copyright-c-1',
     key: 'FileCopyrightC1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

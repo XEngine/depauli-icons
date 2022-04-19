@@ -1,6 +1,7 @@
 export default {
     name: 'landmark-shrine-of-itsukushima',
     key: 'LandmarkShrineOfItsukushima',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

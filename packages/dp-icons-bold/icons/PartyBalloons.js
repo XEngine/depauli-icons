@@ -1,6 +1,7 @@
 export default {
     name: 'party-balloons',
     key: 'PartyBalloons',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

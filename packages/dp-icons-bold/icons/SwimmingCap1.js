@@ -1,6 +1,7 @@
 export default {
     name: 'swimming-cap-1',
     key: 'SwimmingCap1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

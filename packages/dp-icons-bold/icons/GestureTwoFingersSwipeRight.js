@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-two-fingers-swipe-right',
     key: 'GestureTwoFingersSwipeRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

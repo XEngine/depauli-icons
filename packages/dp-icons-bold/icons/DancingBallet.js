@@ -1,6 +1,7 @@
 export default {
     name: 'dancing-ballet',
     key: 'DancingBallet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

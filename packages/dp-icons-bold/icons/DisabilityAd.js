@@ -1,6 +1,7 @@
 export default {
     name: 'disability-ad',
     key: 'DisabilityAd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

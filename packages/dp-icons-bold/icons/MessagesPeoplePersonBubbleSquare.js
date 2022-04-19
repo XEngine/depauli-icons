@@ -1,6 +1,7 @@
 export default {
     name: 'messages-people-person-bubble-square',
     key: 'MessagesPeoplePersonBubbleSquare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

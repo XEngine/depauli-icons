@@ -1,6 +1,7 @@
 export default {
     name: 'moving-walkway-people',
     key: 'MovingWalkwayPeople',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

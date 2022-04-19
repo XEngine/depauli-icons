@@ -1,6 +1,7 @@
 export default {
     name: 'animal-products-fried-egg-pan',
     key: 'AnimalProductsFriedEggPan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'composition-frame-human',
     key: 'CompositionFrameHuman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

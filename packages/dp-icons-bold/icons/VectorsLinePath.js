@@ -1,6 +1,7 @@
 export default {
     name: 'vectors-line-path',
     key: 'VectorsLinePath',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

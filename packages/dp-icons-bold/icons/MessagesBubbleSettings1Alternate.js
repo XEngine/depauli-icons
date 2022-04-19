@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-settings-1-alternate',
     key: 'MessagesBubbleSettings1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

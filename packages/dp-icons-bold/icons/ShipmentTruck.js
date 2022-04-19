@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-truck',
     key: 'ShipmentTruck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

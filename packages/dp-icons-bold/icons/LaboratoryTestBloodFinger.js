@@ -1,6 +1,7 @@
 export default {
     name: 'laboratory-test-blood-finger',
     key: 'LaboratoryTestBloodFinger',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

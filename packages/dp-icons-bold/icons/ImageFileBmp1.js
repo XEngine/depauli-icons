@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-bmp-1',
     key: 'ImageFileBmp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

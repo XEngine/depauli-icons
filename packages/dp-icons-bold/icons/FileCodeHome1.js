@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-home-1',
     key: 'FileCodeHome1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

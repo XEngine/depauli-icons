@@ -1,6 +1,7 @@
 export default {
     name: 'easter-egg-bunny',
     key: 'EasterEggBunny',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

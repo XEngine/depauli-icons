@@ -1,6 +1,7 @@
 export default {
     name: 'vr-user-controller',
     key: 'VrUserController',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

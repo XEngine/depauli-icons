@@ -1,6 +1,7 @@
 export default {
     name: 'car-tool-spark-plug',
     key: 'CarToolSparkPlug',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

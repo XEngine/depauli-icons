@@ -1,6 +1,7 @@
 export default {
     name: 'shapes',
     key: 'Shapes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

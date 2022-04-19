@@ -1,6 +1,7 @@
 export default {
     name: 'real-estate-message-chat-house',
     key: 'RealEstateMessageChatHouse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

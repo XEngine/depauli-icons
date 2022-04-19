@@ -1,6 +1,7 @@
 export default {
     name: 'agriculture-machine-seeder-3',
     key: 'AgricultureMachineSeeder3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

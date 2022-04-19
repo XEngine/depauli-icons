@@ -1,6 +1,7 @@
 export default {
     name: 'crime-man-thief-2',
     key: 'CrimeManThief2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

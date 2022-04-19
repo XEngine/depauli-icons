@@ -1,6 +1,7 @@
 export default {
     name: 'share-2',
     key: 'Share2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

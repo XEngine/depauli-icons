@@ -1,6 +1,7 @@
 export default {
     name: 'jellyfish-group',
     key: 'JellyfishGroup',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

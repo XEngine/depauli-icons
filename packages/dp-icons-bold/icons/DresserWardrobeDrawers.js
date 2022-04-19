@@ -1,6 +1,7 @@
 export default {
     name: 'dresser-wardrobe-drawers',
     key: 'DresserWardrobeDrawers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

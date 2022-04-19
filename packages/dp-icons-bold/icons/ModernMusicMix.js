@@ -1,6 +1,7 @@
 export default {
     name: 'modern-music-mix',
     key: 'ModernMusicMix',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

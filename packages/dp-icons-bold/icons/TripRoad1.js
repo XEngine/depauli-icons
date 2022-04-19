@@ -1,6 +1,7 @@
 export default {
     name: 'trip-road-1',
     key: 'TripRoad1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

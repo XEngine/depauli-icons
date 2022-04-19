@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-pacman-1',
     key: 'VideoGamePacman1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

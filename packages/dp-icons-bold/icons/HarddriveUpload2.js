@@ -1,6 +1,7 @@
 export default {
     name: 'harddrive-upload-2',
     key: 'HarddriveUpload2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

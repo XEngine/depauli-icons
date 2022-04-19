@@ -1,6 +1,7 @@
 export default {
     name: 'vide-document-mp4',
     key: 'VideDocumentMp4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

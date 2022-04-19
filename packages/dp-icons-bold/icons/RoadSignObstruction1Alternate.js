@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-obstruction-1-alternate',
     key: 'RoadSignObstruction1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

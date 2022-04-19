@@ -1,6 +1,7 @@
 export default {
     name: 'crafts-origami-1',
     key: 'CraftsOrigami1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

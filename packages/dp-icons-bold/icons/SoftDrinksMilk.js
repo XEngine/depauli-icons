@@ -1,6 +1,7 @@
 export default {
     name: 'soft-drinks-milk',
     key: 'SoftDrinksMilk',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

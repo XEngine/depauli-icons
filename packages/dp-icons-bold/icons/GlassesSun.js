@@ -1,6 +1,7 @@
 export default {
     name: 'glasses-sun',
     key: 'GlassesSun',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

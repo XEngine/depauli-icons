@@ -1,6 +1,7 @@
 export default {
     name: 'tools-pickaxe',
     key: 'ToolsPickaxe',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

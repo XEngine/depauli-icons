@@ -1,6 +1,7 @@
 export default {
     name: 'ui-phone-slider-vertical-alternate',
     key: 'UiPhoneSliderVerticalAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

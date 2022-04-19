@@ -1,6 +1,7 @@
 export default {
     name: 'brain-chip',
     key: 'BrainChip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

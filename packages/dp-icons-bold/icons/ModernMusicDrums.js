@@ -1,6 +1,7 @@
 export default {
     name: 'modern-music-drums',
     key: 'ModernMusicDrums',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

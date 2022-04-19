@@ -1,6 +1,7 @@
 export default {
     name: 'business-trip-plane',
     key: 'BusinessTripPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

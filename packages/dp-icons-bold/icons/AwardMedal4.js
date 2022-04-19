@@ -1,6 +1,7 @@
 export default {
     name: 'award-medal-4',
     key: 'AwardMedal4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-square-heart-1',
     key: 'MessagesBubbleSquareHeart1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

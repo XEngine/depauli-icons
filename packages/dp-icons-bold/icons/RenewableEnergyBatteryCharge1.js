@@ -1,6 +1,7 @@
 export default {
     name: 'renewable-energy-battery-charge-1',
     key: 'RenewableEnergyBatteryCharge1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'hierarchy-4',
     key: 'Hierarchy4',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

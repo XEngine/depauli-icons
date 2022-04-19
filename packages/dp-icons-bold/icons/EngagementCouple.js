@@ -1,6 +1,7 @@
 export default {
     name: 'engagement-couple',
     key: 'EngagementCouple',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

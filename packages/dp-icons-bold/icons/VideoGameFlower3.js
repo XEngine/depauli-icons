@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-flower-3',
     key: 'VideoGameFlower3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

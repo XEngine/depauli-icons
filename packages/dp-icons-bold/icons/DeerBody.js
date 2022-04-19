@@ -1,6 +1,7 @@
 export default {
     name: 'deer-body',
     key: 'DeerBody',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

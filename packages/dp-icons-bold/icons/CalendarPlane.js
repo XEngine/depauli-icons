@@ -1,6 +1,7 @@
 export default {
     name: 'calendar-plane',
     key: 'CalendarPlane',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

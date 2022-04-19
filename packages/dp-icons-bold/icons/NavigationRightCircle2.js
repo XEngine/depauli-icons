@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-right-circle-2',
     key: 'NavigationRightCircle2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

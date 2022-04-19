@@ -1,11 +1,12 @@
-import Vue from 'vue'
+import {createApp} from 'vue'
 import Demo from './demo.vue'
 import DPIcons, {Library} from './index.js'
-import Bin1 from '../../dp-icons-light/icons/Bin1.js'
+import Bin1 from '../../dp-icons-regular/icons/Bin1.js'
+import ArrowRight from '../../dp-icons-bold/icons/ArrowRight.js'
 
 Library.add(Bin1)
+Library.add(ArrowRight)
 
-Vue.use(DPIcons)
-const app = new Vue({
-    render: h => h(Demo)
-}).$mount('#app')
+const app = createApp(Demo)
+app.use(DPIcons)
+app.mount('#app')

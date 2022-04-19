@@ -1,6 +1,7 @@
 export default {
     name: 'voice-id-denied',
     key: 'VoiceIdDenied',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

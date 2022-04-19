@@ -1,6 +1,7 @@
 export default {
     name: 'diamond',
     key: 'Diamond',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

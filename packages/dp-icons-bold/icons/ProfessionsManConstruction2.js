@@ -1,6 +1,7 @@
 export default {
     name: 'professions-man-construction-2',
     key: 'ProfessionsManConstruction2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

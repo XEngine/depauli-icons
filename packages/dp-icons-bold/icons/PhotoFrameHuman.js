@@ -1,6 +1,7 @@
 export default {
     name: 'photo-frame-human',
     key: 'PhotoFrameHuman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

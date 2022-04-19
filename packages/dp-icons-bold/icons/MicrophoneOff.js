@@ -1,6 +1,7 @@
 export default {
     name: 'microphone-off',
     key: 'MicrophoneOff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

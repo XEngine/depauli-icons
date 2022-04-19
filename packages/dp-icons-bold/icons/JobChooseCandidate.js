@@ -1,6 +1,7 @@
 export default {
     name: 'job-choose-candidate',
     key: 'JobChooseCandidate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

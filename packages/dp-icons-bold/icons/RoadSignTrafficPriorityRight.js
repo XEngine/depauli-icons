@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-traffic-priority-right',
     key: 'RoadSignTrafficPriorityRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

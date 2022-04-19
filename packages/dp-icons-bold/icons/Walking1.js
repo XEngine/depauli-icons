@@ -1,6 +1,7 @@
 export default {
     name: 'walking-1',
     key: 'Walking1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

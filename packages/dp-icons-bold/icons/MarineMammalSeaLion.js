@@ -1,6 +1,7 @@
 export default {
     name: 'marine-mammal-sea-lion',
     key: 'MarineMammalSeaLion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'toys-fidget-spinner',
     key: 'ToysFidgetSpinner',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'programming-user-head',
     key: 'ProgrammingUserHead',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

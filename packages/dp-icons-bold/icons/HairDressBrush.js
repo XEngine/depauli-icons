@@ -1,6 +1,7 @@
 export default {
     name: 'hair-dress-brush',
     key: 'HairDressBrush',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

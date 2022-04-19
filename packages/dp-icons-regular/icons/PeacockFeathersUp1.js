@@ -1,6 +1,7 @@
 export default {
     name: 'peacock-feathers-up-1',
     key: 'PeacockFeathersUp1',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

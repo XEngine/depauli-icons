@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-statics-2',
     key: 'SingleNeutralStatics2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

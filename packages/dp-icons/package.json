@@ -21,12 +21,12 @@
     "node": ">=14"
   },
   "peerDependencies": {
-    "vue": "^2.0.0"
+    "vue": "^3.2.33"
   },
   "devDependencies": {
     "vite": "^2.9.0",
-    "vite-plugin-vue2": "1.9.3",
-    "vue": "^2.6.14"
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vue": "^3.2.33"
   },
   "gitHead": "7c0532ca9c5f8bfa310f3165b4fd3da850fc80bd"
 }

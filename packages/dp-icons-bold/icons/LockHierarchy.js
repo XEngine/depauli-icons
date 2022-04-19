@@ -1,6 +1,7 @@
 export default {
     name: 'lock-hierarchy',
     key: 'LockHierarchy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

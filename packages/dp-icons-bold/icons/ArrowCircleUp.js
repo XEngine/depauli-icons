@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-circle-up',
     key: 'ArrowCircleUp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

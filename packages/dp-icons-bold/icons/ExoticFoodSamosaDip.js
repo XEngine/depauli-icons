@@ -1,6 +1,7 @@
 export default {
     name: 'exotic-food-samosa-dip',
     key: 'ExoticFoodSamosaDip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

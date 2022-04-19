@@ -1,6 +1,7 @@
 export default {
     name: 'taxi-van',
     key: 'TaxiVan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

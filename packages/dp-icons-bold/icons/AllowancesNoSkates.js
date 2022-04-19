@@ -1,6 +1,7 @@
 export default {
     name: 'allowances-no-skates',
     key: 'AllowancesNoSkates',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

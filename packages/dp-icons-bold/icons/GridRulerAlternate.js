@@ -1,6 +1,7 @@
 export default {
     name: 'grid-ruler-alternate',
     key: 'GridRulerAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'wireless-payment-credit-card-dollar',
     key: 'WirelessPaymentCreditCardDollar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

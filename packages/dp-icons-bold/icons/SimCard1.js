@@ -1,6 +1,7 @@
 export default {
     name: 'sim-card-1',
     key: 'SimCard1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

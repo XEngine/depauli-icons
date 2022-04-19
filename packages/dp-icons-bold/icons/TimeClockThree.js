@@ -1,6 +1,7 @@
 export default {
     name: 'time-clock-three',
     key: 'TimeClockThree',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

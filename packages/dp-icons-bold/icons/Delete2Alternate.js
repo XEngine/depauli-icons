@@ -1,6 +1,7 @@
 export default {
     name: 'delete-2-alternate',
     key: 'Delete2Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

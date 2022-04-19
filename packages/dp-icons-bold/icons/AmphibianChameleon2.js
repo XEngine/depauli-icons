@@ -1,6 +1,7 @@
 export default {
     name: 'amphibian-chameleon-2',
     key: 'AmphibianChameleon2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

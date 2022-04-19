@@ -1,6 +1,7 @@
 export default {
     name: 'website-build',
     key: 'WebsiteBuild',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

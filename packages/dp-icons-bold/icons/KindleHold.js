@@ -1,6 +1,7 @@
 export default {
     name: 'kindle-hold',
     key: 'KindleHold',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

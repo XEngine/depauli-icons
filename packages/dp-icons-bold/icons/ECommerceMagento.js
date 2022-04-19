@@ -1,6 +1,7 @@
 export default {
     name: 'e-commerce-magento',
     key: 'ECommerceMagento',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

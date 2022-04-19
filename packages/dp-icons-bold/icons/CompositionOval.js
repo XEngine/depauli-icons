@@ -1,6 +1,7 @@
 export default {
     name: 'composition-oval',
     key: 'CompositionOval',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

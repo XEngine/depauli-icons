@@ -1,6 +1,7 @@
 export default {
     name: 'weather-night-wind',
     key: 'WeatherNightWind',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

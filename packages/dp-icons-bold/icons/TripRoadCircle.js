@@ -1,6 +1,7 @@
 export default {
     name: 'trip-road-circle',
     key: 'TripRoadCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

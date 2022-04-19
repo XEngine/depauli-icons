@@ -1,6 +1,7 @@
 export default {
     name: 'wolf-1',
     key: 'Wolf1',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

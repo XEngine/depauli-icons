@@ -1,6 +1,7 @@
 export default {
     name: 'database-heart',
     key: 'DatabaseHeart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

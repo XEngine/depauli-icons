@@ -1,6 +1,7 @@
 export default {
     name: 'pasta-bowl-warm',
     key: 'PastaBowlWarm',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

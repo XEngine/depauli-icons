@@ -1,6 +1,7 @@
 export default {
     name: 'pencil-2',
     key: 'Pencil2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'animal-products-cheese',
     key: 'AnimalProductsCheese',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'asian-interior-bonsai-tree-1',
     key: 'AsianInteriorBonsaiTree1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

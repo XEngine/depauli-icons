@@ -1,6 +1,7 @@
 export default {
     name: 'ticket-remove',
     key: 'TicketRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

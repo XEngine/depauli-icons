@@ -1,6 +1,7 @@
 export default {
     name: 'farming-wheat',
     key: 'FarmingWheat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

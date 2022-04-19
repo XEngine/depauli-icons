@@ -1,6 +1,7 @@
 export default {
     name: 'camera-small',
     key: 'CameraSmall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

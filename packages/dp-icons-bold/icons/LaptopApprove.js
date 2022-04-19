@@ -1,6 +1,7 @@
 export default {
     name: 'laptop-approve',
     key: 'LaptopApprove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

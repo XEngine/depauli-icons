@@ -1,6 +1,7 @@
 export default {
     name: 'settings-user',
     key: 'SettingsUser',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

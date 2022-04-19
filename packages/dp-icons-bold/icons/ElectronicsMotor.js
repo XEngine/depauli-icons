@@ -1,6 +1,7 @@
 export default {
     name: 'electronics-motor',
     key: 'ElectronicsMotor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

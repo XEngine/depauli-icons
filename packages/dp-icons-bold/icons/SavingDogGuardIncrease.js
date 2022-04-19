@@ -1,6 +1,7 @@
 export default {
     name: 'saving-dog-guard-increase',
     key: 'SavingDogGuardIncrease',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

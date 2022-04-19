@@ -1,6 +1,7 @@
 export default {
     name: 'pin-3',
     key: 'Pin3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

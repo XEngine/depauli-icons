@@ -1,6 +1,7 @@
 export default {
     name: 'vintage-car-luggage',
     key: 'VintageCarLuggage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

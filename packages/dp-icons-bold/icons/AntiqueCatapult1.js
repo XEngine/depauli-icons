@@ -1,6 +1,7 @@
 export default {
     name: 'antique-catapult-1',
     key: 'AntiqueCatapult1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

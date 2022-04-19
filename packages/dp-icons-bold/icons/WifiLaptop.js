@@ -1,6 +1,7 @@
 export default {
     name: 'wifi-laptop',
     key: 'WifiLaptop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

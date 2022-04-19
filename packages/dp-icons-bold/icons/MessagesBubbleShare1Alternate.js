@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-share-1-alternate',
     key: 'MessagesBubbleShare1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

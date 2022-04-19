@@ -1,6 +1,7 @@
 export default {
     name: 'season-winter',
     key: 'SeasonWinter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

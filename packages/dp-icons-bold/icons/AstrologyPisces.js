@@ -1,6 +1,7 @@
 export default {
     name: 'astrology-pisces',
     key: 'AstrologyPisces',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

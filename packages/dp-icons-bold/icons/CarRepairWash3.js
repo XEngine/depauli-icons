@@ -1,6 +1,7 @@
 export default {
     name: 'car-repair-wash-3',
     key: 'CarRepairWash3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'religion-hands',
     key: 'ReligionHands',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

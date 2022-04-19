@@ -1,6 +1,7 @@
 export default {
     name: 'vr-360-remote-controller',
     key: 'Vr360RemoteController',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

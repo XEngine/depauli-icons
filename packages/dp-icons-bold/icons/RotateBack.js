@@ -1,6 +1,7 @@
 export default {
     name: 'rotate-back',
     key: 'RotateBack',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

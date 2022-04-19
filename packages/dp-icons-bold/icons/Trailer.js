@@ -1,6 +1,7 @@
 export default {
     name: 'trailer',
     key: 'Trailer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

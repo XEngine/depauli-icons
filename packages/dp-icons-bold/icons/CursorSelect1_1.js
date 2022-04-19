@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-select-1-1',
     key: 'CursorSelect1_1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

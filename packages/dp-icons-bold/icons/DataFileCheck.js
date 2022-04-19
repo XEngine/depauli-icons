@@ -1,6 +1,7 @@
 export default {
     name: 'data-file-check',
     key: 'DataFileCheck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

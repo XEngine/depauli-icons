@@ -1,6 +1,7 @@
 export default {
     name: 'ym-1',
     key: 'Ym1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

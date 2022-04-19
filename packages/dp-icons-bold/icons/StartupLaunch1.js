@@ -1,6 +1,7 @@
 export default {
     name: 'startup-launch-1',
     key: 'StartupLaunch1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

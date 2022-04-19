@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-upload-1',
     key: 'EmailActionUpload1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

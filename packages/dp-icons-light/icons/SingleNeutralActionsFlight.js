@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-actions-flight',
     key: 'SingleNeutralActionsFlight',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},

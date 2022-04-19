@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-payment',
     key: 'CreditCardPayment',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

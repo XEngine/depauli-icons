@@ -1,6 +1,7 @@
 export default {
     name: 'love-arrow-bow',
     key: 'LoveArrowBow',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

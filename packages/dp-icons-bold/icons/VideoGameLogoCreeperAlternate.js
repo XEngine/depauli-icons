@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-logo-creeper-alternate',
     key: 'VideoGameLogoCreeperAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

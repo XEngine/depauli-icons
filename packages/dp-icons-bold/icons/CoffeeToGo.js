@@ -1,6 +1,7 @@
 export default {
     name: 'coffee-to-go',
     key: 'CoffeeToGo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

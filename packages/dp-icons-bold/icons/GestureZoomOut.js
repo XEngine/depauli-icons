@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-zoom-out',
     key: 'GestureZoomOut',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

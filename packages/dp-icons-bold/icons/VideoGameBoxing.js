@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-boxing',
     key: 'VideoGameBoxing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

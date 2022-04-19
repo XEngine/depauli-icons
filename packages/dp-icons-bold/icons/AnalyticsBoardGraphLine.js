@@ -1,6 +1,7 @@
 export default {
     name: 'analytics-board-graph-line',
     key: 'AnalyticsBoardGraphLine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

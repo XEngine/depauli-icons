@@ -1,6 +1,7 @@
 export default {
     name: 'smart-house-music',
     key: 'SmartHouseMusic',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

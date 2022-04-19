@@ -1,6 +1,7 @@
 export default {
     name: 'swan-water',
     key: 'SwanWater',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

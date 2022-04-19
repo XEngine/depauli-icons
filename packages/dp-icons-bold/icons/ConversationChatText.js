@@ -1,6 +1,7 @@
 export default {
     name: 'conversation-chat-text',
     key: 'ConversationChatText',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

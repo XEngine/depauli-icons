@@ -1,6 +1,7 @@
 export default {
     name: 'connect-device-exchange',
     key: 'ConnectDeviceExchange',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

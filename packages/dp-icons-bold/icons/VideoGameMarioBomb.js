@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-mario-bomb',
     key: 'VideoGameMarioBomb',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

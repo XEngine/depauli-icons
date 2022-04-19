@@ -1,6 +1,7 @@
 export default {
     name: 'bathroom-tub-person',
     key: 'BathroomTubPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

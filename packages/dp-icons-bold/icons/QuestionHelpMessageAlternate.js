@@ -1,6 +1,7 @@
 export default {
     name: 'question-help-message-alternate',
     key: 'QuestionHelpMessageAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

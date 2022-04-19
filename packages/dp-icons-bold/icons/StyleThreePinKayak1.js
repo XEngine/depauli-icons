@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-kayak-1',
     key: 'StyleThreePinKayak1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

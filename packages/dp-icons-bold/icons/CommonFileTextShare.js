@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-text-share',
     key: 'CommonFileTextShare',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'volume-control-off',
     key: 'VolumeControlOff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'fireworks',
     key: 'Fireworks',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

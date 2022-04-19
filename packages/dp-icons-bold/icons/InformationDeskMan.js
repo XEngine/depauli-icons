@@ -1,6 +1,7 @@
 export default {
     name: 'information-desk-man',
     key: 'InformationDeskMan',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

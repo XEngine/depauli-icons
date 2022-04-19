@@ -1,6 +1,7 @@
 export default {
     name: 'plane-trip-take-off-cancel',
     key: 'PlaneTripTakeOffCancel',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

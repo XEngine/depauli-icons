@@ -1,6 +1,7 @@
 export default {
     name: 'laboratory-chromosome',
     key: 'LaboratoryChromosome',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

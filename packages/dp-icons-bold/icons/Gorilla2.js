@@ -1,6 +1,7 @@
 export default {
     name: 'gorilla-2',
     key: 'Gorilla2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

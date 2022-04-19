@@ -1,6 +1,7 @@
 export default {
     name: 'data-transfer-ftp',
     key: 'DataTransferFtp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

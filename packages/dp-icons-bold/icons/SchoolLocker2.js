@@ -1,6 +1,7 @@
 export default {
     name: 'school-locker-2',
     key: 'SchoolLocker2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

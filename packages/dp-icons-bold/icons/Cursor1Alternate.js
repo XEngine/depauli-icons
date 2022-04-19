@@ -1,6 +1,7 @@
 export default {
     name: 'cursor-1-alternate',
     key: 'Cursor1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

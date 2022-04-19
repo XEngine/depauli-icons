@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-camera-circle-alternate',
     key: 'MeetingCameraCircleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

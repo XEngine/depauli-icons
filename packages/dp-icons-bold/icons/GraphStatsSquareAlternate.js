@@ -1,6 +1,7 @@
 export default {
     name: 'graph-stats-square-alternate',
     key: 'GraphStatsSquareAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

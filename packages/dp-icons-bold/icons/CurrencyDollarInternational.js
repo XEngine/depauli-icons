@@ -1,6 +1,7 @@
 export default {
     name: 'currency-dollar-international',
     key: 'CurrencyDollarInternational',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

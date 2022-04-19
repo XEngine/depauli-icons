@@ -1,6 +1,7 @@
 export default {
     name: 'team-approve-disapprove',
     key: 'TeamApproveDisapprove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

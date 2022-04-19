@@ -1,6 +1,7 @@
 export default {
     name: 'gymnastics-horse',
     key: 'GymnasticsHorse',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

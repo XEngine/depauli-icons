@@ -1,6 +1,7 @@
 export default {
     name: 'email-action-star',
     key: 'EmailActionStar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

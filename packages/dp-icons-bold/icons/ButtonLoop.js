@@ -1,6 +1,7 @@
 export default {
     name: 'button-loop',
     key: 'ButtonLoop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'aircraft-hot-air-balloon-1',
     key: 'AircraftHotAirBalloon1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

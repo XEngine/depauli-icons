@@ -1,6 +1,7 @@
 export default {
     name: 'paragraph-indent-first-line',
     key: 'ParagraphIndentFirstLine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

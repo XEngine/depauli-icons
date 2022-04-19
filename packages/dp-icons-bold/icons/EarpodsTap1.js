@@ -1,6 +1,7 @@
 export default {
     name: 'earpods-tap-1',
     key: 'EarpodsTap1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

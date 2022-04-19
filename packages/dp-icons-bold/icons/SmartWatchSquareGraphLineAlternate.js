@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-graph-line-alternate',
     key: 'SmartWatchSquareGraphLineAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'messaging-kik-1',
     key: 'MessagingKik1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'plane-boarding-pass-1',
     key: 'PlaneBoardingPass1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

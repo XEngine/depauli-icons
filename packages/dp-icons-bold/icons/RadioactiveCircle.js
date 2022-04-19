@@ -1,6 +1,7 @@
 export default {
     name: 'radioactive-circle',
     key: 'RadioactiveCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

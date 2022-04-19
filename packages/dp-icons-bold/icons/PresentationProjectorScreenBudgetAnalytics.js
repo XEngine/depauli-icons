@@ -1,6 +1,7 @@
 export default {
     name: 'presentation-projector-screen-budget-analytics',
     key: 'PresentationProjectorScreenBudgetAnalytics',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

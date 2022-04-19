@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-pacman-enemy',
     key: 'VideoGamePacmanEnemy',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

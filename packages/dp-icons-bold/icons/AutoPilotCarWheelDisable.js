@@ -1,6 +1,7 @@
 export default {
     name: 'auto-pilot-car-wheel-disable',
     key: 'AutoPilotCarWheelDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

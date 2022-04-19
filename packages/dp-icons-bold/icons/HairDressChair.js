@@ -1,6 +1,7 @@
 export default {
     name: 'hair-dress-chair',
     key: 'HairDressChair',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

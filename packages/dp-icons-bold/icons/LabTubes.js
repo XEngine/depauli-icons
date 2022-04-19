@@ -1,6 +1,7 @@
 export default {
     name: 'lab-tubes',
     key: 'LabTubes',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'composition-woman',
     key: 'CompositionWoman',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

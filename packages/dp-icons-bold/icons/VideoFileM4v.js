@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-m4v',
     key: 'VideoFileM4v',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

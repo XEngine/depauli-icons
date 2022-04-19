@@ -1,6 +1,7 @@
 export default {
     name: 'envelope-back-front',
     key: 'EnvelopeBackFront',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

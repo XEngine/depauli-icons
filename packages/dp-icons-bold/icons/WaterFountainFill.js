@@ -1,6 +1,7 @@
 export default {
     name: 'water-fountain-fill',
     key: 'WaterFountainFill',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

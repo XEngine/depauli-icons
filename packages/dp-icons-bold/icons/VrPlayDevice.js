@@ -1,6 +1,7 @@
 export default {
     name: 'vr-play-device',
     key: 'VrPlayDevice',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

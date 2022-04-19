@@ -1,6 +1,7 @@
 export default {
     name: 'wind-cloud',
     key: 'WindCloud',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

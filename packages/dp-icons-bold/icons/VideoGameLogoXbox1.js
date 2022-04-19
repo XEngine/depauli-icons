@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-logo-xbox-1',
     key: 'VideoGameLogoXbox1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

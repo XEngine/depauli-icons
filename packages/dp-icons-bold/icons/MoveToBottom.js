@@ -1,6 +1,7 @@
 export default {
     name: 'move-to-bottom',
     key: 'MoveToBottom',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

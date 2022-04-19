@@ -1,6 +1,7 @@
 export default {
     name: 'meeting-remote',
     key: 'MeetingRemote',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

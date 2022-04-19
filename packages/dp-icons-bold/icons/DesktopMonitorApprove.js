@@ -1,6 +1,7 @@
 export default {
     name: 'desktop-monitor-approve',
     key: 'DesktopMonitorApprove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

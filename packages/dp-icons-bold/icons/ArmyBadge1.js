@@ -1,6 +1,7 @@
 export default {
     name: 'army-badge-1',
     key: 'ArmyBadge1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

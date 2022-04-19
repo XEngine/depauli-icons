@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-two-fingers-scroll',
     key: 'GestureTwoFingersScroll',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'keyboard-asterisk-2',
     key: 'KeyboardAsterisk2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

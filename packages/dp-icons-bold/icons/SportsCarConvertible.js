@@ -1,6 +1,7 @@
 export default {
     name: 'sports-car-convertible',
     key: 'SportsCarConvertible',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

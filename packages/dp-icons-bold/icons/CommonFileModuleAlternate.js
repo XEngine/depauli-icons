@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-module-alternate',
     key: 'CommonFileModuleAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

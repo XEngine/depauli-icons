@@ -1,6 +1,7 @@
 export default {
     name: 'camera-settings-pin',
     key: 'CameraSettingsPin',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

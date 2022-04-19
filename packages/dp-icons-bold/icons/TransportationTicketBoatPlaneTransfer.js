@@ -1,6 +1,7 @@
 export default {
     name: 'transportation-ticket-boat-plane-transfer',
     key: 'TransportationTicketBoatPlaneTransfer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

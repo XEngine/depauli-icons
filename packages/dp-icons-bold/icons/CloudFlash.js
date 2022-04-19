@@ -1,6 +1,7 @@
 export default {
     name: 'cloud-flash',
     key: 'CloudFlash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

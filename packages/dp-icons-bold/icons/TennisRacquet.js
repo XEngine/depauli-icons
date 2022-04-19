@@ -1,6 +1,7 @@
 export default {
     name: 'tennis-racquet',
     key: 'TennisRacquet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

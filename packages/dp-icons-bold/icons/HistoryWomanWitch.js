@@ -1,6 +1,7 @@
 export default {
     name: 'history-woman-witch',
     key: 'HistoryWomanWitch',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'file-rb-1',
     key: 'FileRb1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

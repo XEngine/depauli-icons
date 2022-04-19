@@ -1,6 +1,7 @@
 export default {
     name: 'toys-train',
     key: 'ToysTrain',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

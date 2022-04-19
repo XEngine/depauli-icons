@@ -1,6 +1,7 @@
 export default {
     name: 'security-remote-lock',
     key: 'SecurityRemoteLock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

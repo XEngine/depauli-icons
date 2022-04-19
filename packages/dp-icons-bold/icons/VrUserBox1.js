@@ -1,6 +1,7 @@
 export default {
     name: 'vr-user-box-1',
     key: 'VrUserBox1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-tiff',
     key: 'ImageFileTiff',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

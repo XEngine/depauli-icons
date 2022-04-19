@@ -1,6 +1,7 @@
 export default {
     name: 'science-molecule-strucutre',
     key: 'ScienceMoleculeStrucutre',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

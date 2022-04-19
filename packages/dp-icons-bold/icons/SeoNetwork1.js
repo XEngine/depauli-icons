@@ -1,6 +1,7 @@
 export default {
     name: 'seo-network-1',
     key: 'SeoNetwork1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

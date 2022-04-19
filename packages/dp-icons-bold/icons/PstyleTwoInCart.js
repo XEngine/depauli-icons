@@ -1,6 +1,7 @@
 export default {
     name: 'pstyle-two-in-cart',
     key: 'PstyleTwoInCart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

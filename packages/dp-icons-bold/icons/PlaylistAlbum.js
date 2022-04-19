@@ -1,6 +1,7 @@
 export default {
     name: 'playlist-album',
     key: 'PlaylistAlbum',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

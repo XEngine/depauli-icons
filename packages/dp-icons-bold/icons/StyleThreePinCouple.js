@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-couple',
     key: 'StyleThreePinCouple',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

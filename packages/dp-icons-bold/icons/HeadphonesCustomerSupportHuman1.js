@@ -1,6 +1,7 @@
 export default {
     name: 'headphones-customer-support-human-1',
     key: 'HeadphonesCustomerSupportHuman1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

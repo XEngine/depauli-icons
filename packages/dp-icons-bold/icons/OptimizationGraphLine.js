@@ -1,6 +1,7 @@
 export default {
     name: 'optimization-graph-line',
     key: 'OptimizationGraphLine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

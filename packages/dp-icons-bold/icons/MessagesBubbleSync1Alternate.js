@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-sync-1-alternate',
     key: 'MessagesBubbleSync1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

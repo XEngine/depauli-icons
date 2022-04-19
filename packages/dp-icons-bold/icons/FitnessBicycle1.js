@@ -1,6 +1,7 @@
 export default {
     name: 'fitness-bicycle-1',
     key: 'FitnessBicycle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-question',
     key: 'SingleNeutralQuestion',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

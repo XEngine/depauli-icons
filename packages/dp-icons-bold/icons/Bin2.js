@@ -1,6 +1,7 @@
 export default {
     name: 'bin-2',
     key: 'Bin2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

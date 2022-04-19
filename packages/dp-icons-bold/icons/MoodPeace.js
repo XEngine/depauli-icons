@@ -1,6 +1,7 @@
 export default {
     name: 'mood-peace',
     key: 'MoodPeace',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'vegetables-bean-soup',
     key: 'VegetablesBeanSoup',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

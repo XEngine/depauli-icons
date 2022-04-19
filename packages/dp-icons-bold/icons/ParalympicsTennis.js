@@ -1,6 +1,7 @@
 export default {
     name: 'paralympics-tennis',
     key: 'ParalympicsTennis',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

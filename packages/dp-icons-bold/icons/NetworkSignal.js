@@ -1,6 +1,7 @@
 export default {
     name: 'network-signal',
     key: 'NetworkSignal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-circle-flash',
     key: 'SmartWatchCircleFlash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

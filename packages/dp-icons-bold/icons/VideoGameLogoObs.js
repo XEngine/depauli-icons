@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-logo-obs',
     key: 'VideoGameLogoObs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

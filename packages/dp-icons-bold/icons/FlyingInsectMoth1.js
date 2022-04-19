@@ -1,6 +1,7 @@
 export default {
     name: 'flying-insect-moth-1',
     key: 'FlyingInsectMoth1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

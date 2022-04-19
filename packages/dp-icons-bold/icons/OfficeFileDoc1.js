@@ -1,6 +1,7 @@
 export default {
     name: 'office-file-doc-1',
     key: 'OfficeFileDoc1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

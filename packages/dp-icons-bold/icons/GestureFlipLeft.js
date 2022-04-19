@@ -1,6 +1,7 @@
 export default {
     name: 'gesture-flip-left',
     key: 'GestureFlipLeft',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-settings-1',
     key: 'FileCodeSettings1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

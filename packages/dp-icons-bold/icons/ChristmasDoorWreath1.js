@@ -1,6 +1,7 @@
 export default {
     name: 'christmas-door-wreath-1',
     key: 'ChristmasDoorWreath1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

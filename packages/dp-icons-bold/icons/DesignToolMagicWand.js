@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-magic-wand',
     key: 'DesignToolMagicWand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

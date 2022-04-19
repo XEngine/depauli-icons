@@ -1,6 +1,7 @@
 export default {
     name: 'religion-angel-1',
     key: 'ReligionAngel1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

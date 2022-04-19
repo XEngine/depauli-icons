@@ -1,6 +1,7 @@
 export default {
     name: 'car-actions-shield-1',
     key: 'CarActionsShield1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

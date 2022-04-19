@@ -1,6 +1,7 @@
 export default {
     name: 'pollution-rain-skull',
     key: 'PollutionRainSkull',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

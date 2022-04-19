@@ -1,6 +1,7 @@
 export default {
     name: 'settings-vertical-1',
     key: 'SettingsVertical1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

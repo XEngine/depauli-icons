@@ -1,6 +1,7 @@
 export default {
     name: 'water-straw',
     key: 'WaterStraw',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'messaging-we-chat',
     key: 'MessagingWeChat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

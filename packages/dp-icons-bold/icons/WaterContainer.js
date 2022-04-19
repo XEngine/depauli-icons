@@ -1,6 +1,7 @@
 export default {
     name: 'water-container',
     key: 'WaterContainer',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

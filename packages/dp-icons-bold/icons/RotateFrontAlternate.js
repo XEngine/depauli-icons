@@ -1,6 +1,7 @@
 export default {
     name: 'rotate-front-alternate',
     key: 'RotateFrontAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

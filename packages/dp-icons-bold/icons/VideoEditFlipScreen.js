@@ -1,6 +1,7 @@
 export default {
     name: 'video-edit-flip-screen',
     key: 'VideoEditFlipScreen',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

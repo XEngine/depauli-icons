@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-slide-right-alternate',
     key: 'RoadSignSlideRightAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

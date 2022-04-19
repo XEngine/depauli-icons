@@ -1,6 +1,7 @@
 export default {
     name: 'video-file-avi-1',
     key: 'VideoFileAvi1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

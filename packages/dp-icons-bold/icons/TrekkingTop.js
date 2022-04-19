@@ -1,6 +1,7 @@
 export default {
     name: 'trekking-top',
     key: 'TrekkingTop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

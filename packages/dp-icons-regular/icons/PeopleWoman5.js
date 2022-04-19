@@ -1,6 +1,7 @@
 export default {
     name: 'people-woman-5',
     key: 'PeopleWoman5',
+    type: 'regular',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},

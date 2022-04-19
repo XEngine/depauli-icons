@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-console',
     key: 'VideoGameConsole',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

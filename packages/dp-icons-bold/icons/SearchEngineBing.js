@@ -1,6 +1,7 @@
 export default {
     name: 'search-engine-bing',
     key: 'SearchEngineBing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'analytics-net',
     key: 'AnalyticsNet',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

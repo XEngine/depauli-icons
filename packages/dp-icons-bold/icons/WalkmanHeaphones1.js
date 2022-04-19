@@ -1,6 +1,7 @@
 export default {
     name: 'walkman-heaphones-1',
     key: 'WalkmanHeaphones1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

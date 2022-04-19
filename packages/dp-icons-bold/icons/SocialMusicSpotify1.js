@@ -1,6 +1,7 @@
 export default {
     name: 'social-music-spotify-1',
     key: 'SocialMusicSpotify1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

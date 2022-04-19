@@ -1,6 +1,7 @@
 export default {
     name: 'mobile-shopping-cart',
     key: 'MobileShoppingCart',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

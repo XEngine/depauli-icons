@@ -1,6 +1,7 @@
 export default {
     name: 'social-media-twitter-1',
     key: 'SocialMediaTwitter1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

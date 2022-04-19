@@ -1,6 +1,7 @@
 export default {
     name: 'tools-slip-joint-pliers',
     key: 'ToolsSlipJointPliers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

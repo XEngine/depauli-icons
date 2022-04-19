@@ -1,6 +1,7 @@
 export default {
     name: 'disability-blind-read-book-1',
     key: 'DisabilityBlindReadBook1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

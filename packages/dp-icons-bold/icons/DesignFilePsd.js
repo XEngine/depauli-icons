@@ -1,6 +1,7 @@
 export default {
     name: 'design-file-psd',
     key: 'DesignFilePsd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

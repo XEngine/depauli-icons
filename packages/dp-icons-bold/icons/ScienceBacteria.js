@@ -1,6 +1,7 @@
 export default {
     name: 'science-bacteria',
     key: 'ScienceBacteria',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

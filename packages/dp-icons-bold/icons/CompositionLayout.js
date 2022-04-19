@@ -1,6 +1,7 @@
 export default {
     name: 'composition-layout',
     key: 'CompositionLayout',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

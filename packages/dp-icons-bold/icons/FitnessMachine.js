@@ -1,6 +1,7 @@
 export default {
     name: 'fitness-machine',
     key: 'FitnessMachine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

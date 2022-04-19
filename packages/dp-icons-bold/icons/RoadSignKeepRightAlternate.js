@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-keep-right-alternate',
     key: 'RoadSignKeepRightAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

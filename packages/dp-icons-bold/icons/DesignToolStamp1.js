@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-stamp-1',
     key: 'DesignToolStamp1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

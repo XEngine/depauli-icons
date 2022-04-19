@@ -1,6 +1,7 @@
 export default {
     name: 'agriculture-machine-harvester-1',
     key: 'AgricultureMachineHarvester1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

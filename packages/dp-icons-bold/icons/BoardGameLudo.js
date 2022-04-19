@@ -1,6 +1,7 @@
 export default {
     name: 'board-game-ludo',
     key: 'BoardGameLudo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

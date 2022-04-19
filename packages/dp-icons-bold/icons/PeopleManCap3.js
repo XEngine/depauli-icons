@@ -1,6 +1,7 @@
 export default {
     name: 'people-man-cap-3',
     key: 'PeopleManCap3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

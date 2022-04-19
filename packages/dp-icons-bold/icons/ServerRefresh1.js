@@ -1,6 +1,7 @@
 export default {
     name: 'server-refresh-1',
     key: 'ServerRefresh1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

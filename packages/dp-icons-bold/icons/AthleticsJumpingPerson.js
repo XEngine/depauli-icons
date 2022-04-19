@@ -1,6 +1,7 @@
 export default {
     name: 'athletics-jumping-person',
     key: 'AthleticsJumpingPerson',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'vide-document-flv-1',
     key: 'VideDocumentFlv1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

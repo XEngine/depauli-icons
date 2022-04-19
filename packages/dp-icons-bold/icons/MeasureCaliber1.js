@@ -1,6 +1,7 @@
 export default {
     name: 'measure-caliber-1',
     key: 'MeasureCaliber1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

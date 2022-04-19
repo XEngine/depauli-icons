@@ -1,6 +1,7 @@
 export default {
     name: 'browser-page-media',
     key: 'BrowserPageMedia',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

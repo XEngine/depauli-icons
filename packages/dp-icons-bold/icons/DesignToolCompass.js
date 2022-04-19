@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-compass',
     key: 'DesignToolCompass',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

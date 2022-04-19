@@ -1,6 +1,7 @@
 export default {
     name: 'controls-movie-forward',
     key: 'ControlsMovieForward',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

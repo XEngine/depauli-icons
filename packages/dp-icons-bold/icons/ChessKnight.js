@@ -1,6 +1,7 @@
 export default {
     name: 'chess-knight',
     key: 'ChessKnight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

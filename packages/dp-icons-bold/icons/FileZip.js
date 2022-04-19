@@ -1,6 +1,7 @@
 export default {
     name: 'file-zip',
     key: 'FileZip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

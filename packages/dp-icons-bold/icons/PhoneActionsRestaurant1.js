@@ -1,6 +1,7 @@
 export default {
     name: 'phone-actions-restaurant-1',
     key: 'PhoneActionsRestaurant1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

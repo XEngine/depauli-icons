@@ -1,6 +1,7 @@
 export default {
     name: 'arrow-button-circle-right',
     key: 'ArrowButtonCircleRight',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'dancing-ballet-dress',
     key: 'DancingBalletDress',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

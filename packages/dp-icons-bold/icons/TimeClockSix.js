@@ -1,6 +1,7 @@
 export default {
     name: 'time-clock-six',
     key: 'TimeClockSix',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

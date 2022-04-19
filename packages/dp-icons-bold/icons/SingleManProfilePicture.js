@@ -1,6 +1,7 @@
 export default {
     name: 'single-man-profile-picture',
     key: 'SingleManProfilePicture',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

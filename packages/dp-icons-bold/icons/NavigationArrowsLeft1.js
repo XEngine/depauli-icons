@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-arrows-left-1',
     key: 'NavigationArrowsLeft1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

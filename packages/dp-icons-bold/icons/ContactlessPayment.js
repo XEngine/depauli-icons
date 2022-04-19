@@ -1,6 +1,7 @@
 export default {
     name: 'contactless-payment',
     key: 'ContactlessPayment',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

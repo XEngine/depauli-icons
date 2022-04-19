@@ -1,6 +1,7 @@
 export default {
     name: 'web-service-amazon-web-services',
     key: 'WebServiceAmazonWebServices',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

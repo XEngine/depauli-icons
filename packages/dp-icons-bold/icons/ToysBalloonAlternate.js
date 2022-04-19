@@ -1,6 +1,7 @@
 export default {
     name: 'toys-balloon-alternate',
     key: 'ToysBalloonAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-fall-down',
     key: 'DiagramFallDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

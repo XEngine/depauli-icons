@@ -1,6 +1,7 @@
 export default {
     name: 'gardening-sprinkle-bottle-1',
     key: 'GardeningSprinkleBottle1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'wild-bird-nest',
     key: 'WildBirdNest',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'smiley-mad-1',
     key: 'SmileyMad1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

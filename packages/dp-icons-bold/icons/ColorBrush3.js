@@ -1,6 +1,7 @@
 export default {
     name: 'color-brush-3',
     key: 'ColorBrush3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

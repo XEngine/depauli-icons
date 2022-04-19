@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-text-1',
     key: 'MessagesBubbleText1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

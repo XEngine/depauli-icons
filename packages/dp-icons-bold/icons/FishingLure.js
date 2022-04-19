@@ -1,6 +1,7 @@
 export default {
     name: 'fishing-lure',
     key: 'FishingLure',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

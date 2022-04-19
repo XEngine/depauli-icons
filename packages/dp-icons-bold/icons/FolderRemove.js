@@ -1,6 +1,7 @@
 export default {
     name: 'folder-remove',
     key: 'FolderRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

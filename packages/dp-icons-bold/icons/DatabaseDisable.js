@@ -1,6 +1,7 @@
 export default {
     name: 'database-disable',
     key: 'DatabaseDisable',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

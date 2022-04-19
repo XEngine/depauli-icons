@@ -1,6 +1,7 @@
 export default {
     name: 'laundry-machine-1',
     key: 'LaundryMachine1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

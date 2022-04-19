@@ -1,6 +1,7 @@
 export default {
     name: 'crime-woman-thief',
     key: 'CrimeWomanThief',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

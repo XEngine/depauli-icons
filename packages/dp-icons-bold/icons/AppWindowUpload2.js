@@ -1,6 +1,7 @@
 export default {
     name: 'app-window-upload-2',
     key: 'AppWindowUpload2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

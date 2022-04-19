@@ -1,6 +1,7 @@
 export default {
     name: 'kitchen-storage',
     key: 'KitchenStorage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

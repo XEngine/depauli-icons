@@ -1,6 +1,7 @@
 export default {
     name: 'technology-chip-hold',
     key: 'TechnologyChipHold',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

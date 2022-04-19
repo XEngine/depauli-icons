@@ -1,6 +1,7 @@
 export default {
     name: 'code-write',
     key: 'CodeWrite',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

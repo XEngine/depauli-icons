@@ -1,6 +1,7 @@
 export default {
     name: 'safety-drown-hand',
     key: 'SafetyDrownHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

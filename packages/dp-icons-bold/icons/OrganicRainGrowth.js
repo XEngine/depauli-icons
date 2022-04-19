@@ -1,6 +1,7 @@
 export default {
     name: 'organic-rain-growth',
     key: 'OrganicRainGrowth',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

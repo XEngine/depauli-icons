@@ -1,6 +1,7 @@
 export default {
     name: 'timer-0',
     key: 'Timer0',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

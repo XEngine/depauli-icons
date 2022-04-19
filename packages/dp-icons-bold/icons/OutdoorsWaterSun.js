@@ -1,6 +1,7 @@
 export default {
     name: 'outdoors-water-sun',
     key: 'OutdoorsWaterSun',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'saving-bull-decrease',
     key: 'SavingBullDecrease',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

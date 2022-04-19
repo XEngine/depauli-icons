@@ -1,6 +1,7 @@
 export default {
     name: 'business-paper-boat',
     key: 'BusinessPaperBoat',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

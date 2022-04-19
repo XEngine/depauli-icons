@@ -1,6 +1,7 @@
 export default {
     name: 'rotate-vertical',
     key: 'RotateVertical',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

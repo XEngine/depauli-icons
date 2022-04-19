@@ -1,6 +1,7 @@
 export default {
     name: 'drone-add',
     key: 'DroneAdd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

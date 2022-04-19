@@ -1,6 +1,7 @@
 export default {
     name: 'athletics-long-jumping',
     key: 'AthleticsLongJumping',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

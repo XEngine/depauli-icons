@@ -1,6 +1,7 @@
 export default {
     name: 'phone-action-music-1',
     key: 'PhoneActionMusic1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

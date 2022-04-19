@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-smartphone',
     key: 'ShipmentSmartphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

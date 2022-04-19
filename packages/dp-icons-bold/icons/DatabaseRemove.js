@@ -1,6 +1,7 @@
 export default {
     name: 'database-remove',
     key: 'DatabaseRemove',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

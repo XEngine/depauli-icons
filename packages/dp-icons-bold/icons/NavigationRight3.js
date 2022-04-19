@@ -1,6 +1,7 @@
 export default {
     name: 'navigation-right-3',
     key: 'NavigationRight3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

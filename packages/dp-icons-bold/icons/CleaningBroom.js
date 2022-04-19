@@ -1,6 +1,7 @@
 export default {
     name: 'cleaning-broom',
     key: 'CleaningBroom',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

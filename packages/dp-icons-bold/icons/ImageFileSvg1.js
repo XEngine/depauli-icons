@@ -1,6 +1,7 @@
 export default {
     name: 'image-file-svg-1',
     key: 'ImageFileSvg1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

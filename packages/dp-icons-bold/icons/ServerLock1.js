@@ -1,6 +1,7 @@
 export default {
     name: 'server-lock-1',
     key: 'ServerLock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

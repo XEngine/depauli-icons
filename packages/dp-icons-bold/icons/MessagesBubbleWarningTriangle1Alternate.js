@@ -1,6 +1,7 @@
 export default {
     name: 'messages-bubble-warning-triangle-1-alternate',
     key: 'MessagesBubbleWarningTriangle1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

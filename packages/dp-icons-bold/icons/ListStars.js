@@ -1,6 +1,7 @@
 export default {
     name: 'list-stars',
     key: 'ListStars',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

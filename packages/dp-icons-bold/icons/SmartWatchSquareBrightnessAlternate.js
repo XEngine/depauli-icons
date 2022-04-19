@@ -1,6 +1,7 @@
 export default {
     name: 'smart-watch-square-brightness-alternate',
     key: 'SmartWatchSquareBrightnessAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

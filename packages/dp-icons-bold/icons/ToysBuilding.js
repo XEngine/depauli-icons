@@ -1,6 +1,7 @@
 export default {
     name: 'toys-building',
     key: 'ToysBuilding',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

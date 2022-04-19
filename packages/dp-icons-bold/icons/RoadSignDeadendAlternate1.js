@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-deadend-alternate-1',
     key: 'RoadSignDeadendAlternate1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

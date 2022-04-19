@@ -1,6 +1,7 @@
 export default {
     name: 'flag-plain-3',
     key: 'FlagPlain3',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

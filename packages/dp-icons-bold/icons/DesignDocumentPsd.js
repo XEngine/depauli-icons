@@ -1,6 +1,7 @@
 export default {
     name: 'design-document-psd',
     key: 'DesignDocumentPsd',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

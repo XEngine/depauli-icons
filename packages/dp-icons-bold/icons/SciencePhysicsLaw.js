@@ -1,6 +1,7 @@
 export default {
     name: 'science-physics-law',
     key: 'SciencePhysicsLaw',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

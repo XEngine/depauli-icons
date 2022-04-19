@@ -1,6 +1,7 @@
 export default {
     name: 'ice-cream-truck',
     key: 'IceCreamTruck',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

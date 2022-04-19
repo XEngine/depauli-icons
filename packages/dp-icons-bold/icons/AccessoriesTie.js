@@ -1,6 +1,7 @@
 export default {
     name: 'accessories-tie',
     key: 'AccessoriesTie',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'farming-barn-silo',
     key: 'FarmingBarnSilo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

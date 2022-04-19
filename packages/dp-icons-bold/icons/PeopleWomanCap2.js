@@ -1,6 +1,7 @@
 export default {
     name: 'people-woman-cap-2',
     key: 'PeopleWomanCap2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

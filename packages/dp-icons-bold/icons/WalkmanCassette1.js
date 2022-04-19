@@ -1,6 +1,7 @@
 export default {
     name: 'walkman-cassette-1',
     key: 'WalkmanCassette1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

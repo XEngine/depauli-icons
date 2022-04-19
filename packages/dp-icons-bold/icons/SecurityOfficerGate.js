@@ -1,6 +1,7 @@
 export default {
     name: 'security-officer-gate',
     key: 'SecurityOfficerGate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

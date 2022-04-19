@@ -1,6 +1,7 @@
 export default {
     name: 'beanie-winter',
     key: 'BeanieWinter',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

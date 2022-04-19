@@ -1,6 +1,7 @@
 export default {
     name: 'hardware-drill-carbide',
     key: 'HardwareDrillCarbide',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

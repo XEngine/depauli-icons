@@ -1,6 +1,7 @@
 export default {
     name: 'single-neutral-folder-box',
     key: 'SingleNeutralFolderBox',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

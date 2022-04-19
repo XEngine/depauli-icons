@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-bowl-city',
     key: 'VideoGameBowlCity',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

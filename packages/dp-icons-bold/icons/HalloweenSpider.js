@@ -1,6 +1,7 @@
 export default {
     name: 'halloween-spider',
     key: 'HalloweenSpider',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

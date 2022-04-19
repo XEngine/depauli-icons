@@ -1,6 +1,7 @@
 export default {
     name: 'exotic-food-passion-fruit',
     key: 'ExoticFoodPassionFruit',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

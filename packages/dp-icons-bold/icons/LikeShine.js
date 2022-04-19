@@ -1,6 +1,7 @@
 export default {
     name: 'like-shine',
     key: 'LikeShine',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

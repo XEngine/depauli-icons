@@ -1,6 +1,7 @@
 export default {
     name: 'expand-6-alternate',
     key: 'Expand6Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

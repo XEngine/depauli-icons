@@ -1,6 +1,7 @@
 export default {
     name: 'ceiling-lamp-chandelier',
     key: 'CeilingLampChandelier',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'farmer-s-market-vendor',
     key: 'FarmerSMarketVendor',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

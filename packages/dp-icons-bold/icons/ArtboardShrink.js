@@ -1,6 +1,7 @@
 export default {
     name: 'artboard-shrink',
     key: 'ArtboardShrink',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

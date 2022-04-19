@@ -1,6 +1,7 @@
 export default {
     name: 'concert-guitarist',
     key: 'ConcertGuitarist',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

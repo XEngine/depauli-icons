@@ -1,6 +1,7 @@
 export default {
     name: 'cog-square-alternate',
     key: 'CogSquareAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

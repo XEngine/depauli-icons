@@ -1,6 +1,7 @@
 export default {
     name: 'truck-moving',
     key: 'TruckMoving',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

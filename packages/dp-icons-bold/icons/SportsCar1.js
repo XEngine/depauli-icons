@@ -1,6 +1,7 @@
 export default {
     name: 'sports-car-1',
     key: 'SportsCar1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'multiple-neutral-circle',
     key: 'MultipleNeutralCircle',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

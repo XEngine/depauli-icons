@@ -1,6 +1,7 @@
 export default {
     name: 'designer-community-design-bump',
     key: 'DesignerCommunityDesignBump',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'toys-car-push',
     key: 'ToysCarPush',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

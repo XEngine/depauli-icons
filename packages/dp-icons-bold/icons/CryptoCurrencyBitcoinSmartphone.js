@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-bitcoin-smartphone',
     key: 'CryptoCurrencyBitcoinSmartphone',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

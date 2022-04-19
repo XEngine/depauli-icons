@@ -1,6 +1,7 @@
 export default {
     name: 'instrument-harp',
     key: 'InstrumentHarp',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

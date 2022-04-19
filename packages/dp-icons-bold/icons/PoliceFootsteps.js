@@ -1,6 +1,7 @@
 export default {
     name: 'police-footsteps',
     key: 'PoliceFootsteps',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

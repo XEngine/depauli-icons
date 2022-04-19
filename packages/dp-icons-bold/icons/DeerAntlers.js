@@ -1,6 +1,7 @@
 export default {
     name: 'deer-antlers',
     key: 'DeerAntlers',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

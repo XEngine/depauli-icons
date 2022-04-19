@@ -1,6 +1,7 @@
 export default {
     name: 'pregnancy-eggs',
     key: 'PregnancyEggs',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

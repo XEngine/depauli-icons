@@ -1,6 +1,7 @@
 export default {
     name: 'car-insurance',
     key: 'CarInsurance',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

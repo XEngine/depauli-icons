@@ -1,6 +1,7 @@
 export default {
     name: 'allowances-no-pushing',
     key: 'AllowancesNoPushing',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

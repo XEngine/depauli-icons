@@ -1,6 +1,7 @@
 export default {
     name: 'shark-hammer-fish',
     key: 'SharkHammerFish',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

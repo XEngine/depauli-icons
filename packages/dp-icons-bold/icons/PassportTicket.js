@@ -1,6 +1,7 @@
 export default {
     name: 'passport-ticket',
     key: 'PassportTicket',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

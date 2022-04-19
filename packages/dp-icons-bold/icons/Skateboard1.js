@@ -1,6 +1,7 @@
 export default {
     name: 'skateboard-1',
     key: 'Skateboard1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

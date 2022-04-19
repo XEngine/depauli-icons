@@ -1,6 +1,7 @@
 export default {
     name: 'e-learning-exchange',
     key: 'ELearningExchange',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

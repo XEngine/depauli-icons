@@ -1,6 +1,7 @@
 export default {
     name: 'chair-bar',
     key: 'ChairBar',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'notes-book-1-alternate',
     key: 'NotesBook1Alternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

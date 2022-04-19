@@ -1,6 +1,7 @@
 export default {
     name: 'design-tool-fibonacci',
     key: 'DesignToolFibonacci',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

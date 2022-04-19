@@ -1,6 +1,7 @@
 export default {
     name: 'skiing-slide-down',
     key: 'SkiingSlideDown',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-actions-flash',
     key: 'SingleWomanActionsFlash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'accessories-necklace-pendant',
     key: 'AccessoriesNecklacePendant',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

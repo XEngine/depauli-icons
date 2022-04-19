@@ -1,6 +1,7 @@
 export default {
     name: 'car-repair-24h-service',
     key: 'CarRepair24hService',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

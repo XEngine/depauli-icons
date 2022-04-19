@@ -1,6 +1,7 @@
 export default {
     name: 'products-purse-2',
     key: 'ProductsPurse2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

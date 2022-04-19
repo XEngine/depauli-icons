@@ -1,6 +1,7 @@
 export default {
     name: 'science-projection',
     key: 'ScienceProjection',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

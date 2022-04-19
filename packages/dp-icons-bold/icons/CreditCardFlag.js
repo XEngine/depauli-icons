@@ -1,6 +1,7 @@
 export default {
     name: 'credit-card-flag',
     key: 'CreditCardFlag',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'single-woman-setting',
     key: 'SingleWomanSetting',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'module-four',
     key: 'ModuleFour',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

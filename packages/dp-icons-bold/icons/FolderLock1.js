@@ -1,6 +1,7 @@
 export default {
     name: 'folder-lock-1',
     key: 'FolderLock1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

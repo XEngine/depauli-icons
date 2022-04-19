@@ -1,6 +1,7 @@
 export default {
     name: 'data-transfer-square-horizontal',
     key: 'DataTransferSquareHorizontal',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

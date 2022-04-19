@@ -1,6 +1,7 @@
 export default {
     name: 'sea-transport-bark',
     key: 'SeaTransportBark',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

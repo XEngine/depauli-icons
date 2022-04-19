@@ -1,6 +1,7 @@
 export default {
     name: 'crypto-currency-bitcoin-world-alternate',
     key: 'CryptoCurrencyBitcoinWorldAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'diagram-arrow-down-right-corner',
     key: 'DiagramArrowDownRightCorner',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

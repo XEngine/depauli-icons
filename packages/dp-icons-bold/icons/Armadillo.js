@@ -1,6 +1,7 @@
 export default {
     name: 'armadillo',
     key: 'Armadillo',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

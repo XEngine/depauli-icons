@@ -1,6 +1,7 @@
 export default {
     name: 'button-rewind',
     key: 'ButtonRewind',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

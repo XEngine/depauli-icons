@@ -1,6 +1,7 @@
 export default {
     name: 'family-child-hold-hand',
     key: 'FamilyChildHoldHand',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

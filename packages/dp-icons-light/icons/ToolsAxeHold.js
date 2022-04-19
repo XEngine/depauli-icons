@@ -1,6 +1,7 @@
 export default {
     name: 'tools-axe-hold',
     key: 'ToolsAxeHold',
+    type: 'light',
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor"},

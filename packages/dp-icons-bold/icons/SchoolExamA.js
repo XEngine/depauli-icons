@@ -1,6 +1,7 @@
 export default {
     name: 'school-exam-a',
     key: 'SchoolExamA',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

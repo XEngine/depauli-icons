@@ -1,6 +1,7 @@
 export default {
     name: 'protection-shield-2',
     key: 'ProtectionShield2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

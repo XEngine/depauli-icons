@@ -1,6 +1,7 @@
 export default {
     name: 'mouse-2',
     key: 'Mouse2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'shipment-upload-information',
     key: 'ShipmentUploadInformation',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

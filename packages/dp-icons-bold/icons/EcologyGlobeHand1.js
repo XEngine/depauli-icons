@@ -1,6 +1,7 @@
 export default {
     name: 'ecology-globe-hand-1',
     key: 'EcologyGlobeHand1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

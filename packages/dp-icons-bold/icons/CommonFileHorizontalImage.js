@@ -1,6 +1,7 @@
 export default {
     name: 'common-file-horizontal-image',
     key: 'CommonFileHorizontalImage',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

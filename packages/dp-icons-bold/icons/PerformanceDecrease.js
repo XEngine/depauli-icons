@@ -1,6 +1,7 @@
 export default {
     name: 'performance-decrease',
     key: 'PerformanceDecrease',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

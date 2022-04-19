@@ -1,6 +1,7 @@
 export default {
     name: 'power-button-2',
     key: 'PowerButton2',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

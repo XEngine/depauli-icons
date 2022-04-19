@@ -1,6 +1,7 @@
 export default {
     name: 'reception-bell-call',
     key: 'ReceptionBellCall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

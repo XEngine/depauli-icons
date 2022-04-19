@@ -1,6 +1,7 @@
 export default {
     name: 'road-sign-4m-wide-alternate',
     key: 'RoadSign4mWideAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

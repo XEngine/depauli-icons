@@ -1,7 +1,7 @@
 import Library from './library'
+import {h, ref, watch} from 'vue'
 
 export default {
-    functional: true,
     props: {
         icon: {
             type: String,
@@ -10,39 +10,38 @@ export default {
         size: {
             type: String,
             default: '1.5x'
+        },
+        type: {
+            type: String,
+            default: 'regular'
         }
     },
-    render(createElement, {props, data}) {
-        let svg = Library.get(props.icon)
-
-        if (!svg) {
-            return createElement('span')
-        }
+    setup(props, context) {
+        const theIcon = ref(null)
+        watch([() => props.icon, () => props.type], () => {
+            theIcon.value = Library.get(props.icon, props.type)
+        }, {
+            immediate: true
+        })
 
         let size = props.size.slice(-1) === 'x' ? props.size.slice(0, props.size.length - 1) + 'rem' : parseInt(props.size) + 'px';
         let attrs = {
-            width: data.attrs.width || size,
-            height: data.attrs.height || size,
+            width: context.attrs.width || size,
+            height: context.attrs.height || size,
         };
 
-        return createElement(
-            'svg', {
-                ...data,
-                attrs: {
-                    viewBox: '0 0 24 24',
-                    ...attrs
-                },
-            }, [
-                createElement('g', {attrs: {...svg.attributes ?? {}}}, [...svg.svgPathData.map(x => {
-                    return createElement('path', {
-                        attrs: {
-                            d: x,
-                        }
-                    })
-                })])
-            ]
-        );
-    }
-};
+        return () => {
+            if (!theIcon.value) {
+                return h('span')
+            }
 
+            return h('svg', {
+                viewBox: '0 0 24 24',
+                ...attrs,
+            }, [props.icon, h('g', {...theIcon.value.attributes ?? {}}, [...theIcon.value.svgPathData.map(x => {
+                return h('path', {d: x})
+            })])])
+        }
+    }
+}
 

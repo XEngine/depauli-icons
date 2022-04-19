@@ -1,6 +1,7 @@
 export default {
     name: 'diving-mask-fish',
     key: 'DivingMaskFish',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

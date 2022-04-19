@@ -1,6 +1,7 @@
 export default {
     name: 'controls-stop',
     key: 'ControlsStop',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

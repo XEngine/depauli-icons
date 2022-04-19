@@ -1,6 +1,7 @@
 export default {
     name: 'vip-crown-king-1',
     key: 'VipCrownKing1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

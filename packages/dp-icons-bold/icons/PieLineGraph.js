@@ -1,6 +1,7 @@
 export default {
     name: 'pie-line-graph',
     key: 'PieLineGraph',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

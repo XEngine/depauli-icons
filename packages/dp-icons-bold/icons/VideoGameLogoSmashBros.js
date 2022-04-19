@@ -1,6 +1,7 @@
 export default {
     name: 'video-game-logo-smash-bros',
     key: 'VideoGameLogoSmashBros',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

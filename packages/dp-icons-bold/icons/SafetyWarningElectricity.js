@@ -1,6 +1,7 @@
 export default {
     name: 'safety-warning-electricity',
     key: 'SafetyWarningElectricity',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

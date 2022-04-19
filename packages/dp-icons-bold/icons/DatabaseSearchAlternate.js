@@ -1,6 +1,7 @@
 export default {
     name: 'database-search-alternate',
     key: 'DatabaseSearchAlternate',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

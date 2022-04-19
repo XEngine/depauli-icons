@@ -1,6 +1,7 @@
 export default {
     name: 'office-outdoors-1',
     key: 'OfficeOutdoors1',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

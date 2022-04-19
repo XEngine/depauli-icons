@@ -1,6 +1,7 @@
 export default {
     name: 'style-three-pin-braille',
     key: 'StyleThreePinBraille',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

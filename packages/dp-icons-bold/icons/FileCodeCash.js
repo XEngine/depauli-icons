@@ -1,6 +1,7 @@
 export default {
     name: 'file-code-cash',
     key: 'FileCodeCash',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

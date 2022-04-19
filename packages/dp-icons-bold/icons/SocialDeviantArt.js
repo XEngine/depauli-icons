@@ -1,6 +1,7 @@
 export default {
     name: 'social-deviant-art',
     key: 'SocialDeviantArt',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

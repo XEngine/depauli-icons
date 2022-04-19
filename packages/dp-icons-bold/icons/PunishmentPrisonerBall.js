@@ -1,6 +1,7 @@
 export default {
     name: 'punishment-prisoner-ball',
     key: 'PunishmentPrisonerBall',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

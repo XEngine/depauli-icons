@@ -1,6 +1,7 @@
 export default {
     name: 'stove-induction',
     key: 'StoveInduction',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

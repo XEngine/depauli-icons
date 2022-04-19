@@ -1,6 +1,7 @@
 export default {
     name: 'audio-file-clock',
     key: 'AudioFileClock',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

@@ -1,6 +1,7 @@
 export default {
     name: 'notes-text-flip',
     key: 'NotesTextFlip',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},

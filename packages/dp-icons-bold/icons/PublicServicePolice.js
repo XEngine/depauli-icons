@@ -1,6 +1,7 @@
 export default {
     name: 'public-service-police',
     key: 'PublicServicePolice',
+    type: 'bold',
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},
