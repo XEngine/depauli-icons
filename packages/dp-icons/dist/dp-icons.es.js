@@ -1,6 +1,4 @@
 var __defProp = Object.defineProperty;
-var __defProps = Object.defineProperties;
-var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
 var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
 var __propIsEnum = Object.prototype.propertyIsEnumerable;
@@ -16,33 +14,30 @@ var __spreadValues = (a, b) => {
     }
   return a;
 };
-var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
+import { ref, watch, h } from "vue";
 class Library {
   constructor() {
-    this.store = {};
+    this.store = /* @__PURE__ */ new Map();
   }
   add(icon) {
-    this.store[icon.name] = icon;
-  }
-  addRange(icons) {
-    icons.forEach((icon) => {
-      this.store[icon.name] = icon;
-    });
+    this.store.set(`${icon.name}_${icon.type}`, icon);
   }
   has(name) {
-    return !!this.store[name];
+    return this.store.has(name);
   }
-  get(name) {
-    if (this.has(name)) {
-      return this.store[name];
+  get(name, type = "regular") {
+    if (!name) {
+      return null;
     }
-    console.warn(`Unable to find icon : ${name}`);
+    if (name && this.has(`${name}_${type}`)) {
+      return this.store.get(`${name}_${type}`);
+    }
+    console.warn(`Unable to find icon : ${name} in ${type} type`);
     return null;
   }
 }
 var Library$1 = new Library();
 var Component = {
-  functional: true,
   props: {
     icon: {
       type: String,
@@ -51,32 +46,35 @@ var Component = {
     size: {
       type: String,
       default: "1.5x"
+    },
+    type: {
+      type: String,
+      default: "regular"
     }
   },
-  render(createElement, { props, data }) {
-    var _a;
-    let svg = Library$1.get(props.icon);
-    if (!svg) {
-      return createElement("span");
-    }
+  setup(props, context) {
+    const theIcon = ref(null);
+    watch([() => props.icon, () => props.type], () => {
+      theIcon.value = Library$1.get(props.icon, props.type);
+    }, {
+      immediate: true
+    });
     let size = props.size.slice(-1) === "x" ? props.size.slice(0, props.size.length - 1) + "rem" : parseInt(props.size) + "px";
     let attrs = {
-      width: data.attrs.width || size,
-      height: data.attrs.height || size
+      width: context.attrs.width || size,
+      height: context.attrs.height || size
     };
-    return createElement("svg", __spreadProps(__spreadValues({}, data), {
-      attrs: __spreadValues({
+    return () => {
+      var _a;
+      if (!theIcon.value) {
+        return h("span");
+      }
+      return h("svg", __spreadValues({
         viewBox: "0 0 24 24"
-      }, attrs)
-    }), [
-      createElement("g", { attrs: __spreadValues({}, (_a = svg.attributes) != null ? _a : {}) }, [...svg.svgPathData.map((x) => {
-        return createElement("path", {
-          attrs: {
-            d: x
-          }
-        });
-      })])
-    ]);
+      }, attrs), [props.icon, h("g", __spreadValues({}, (_a = theIcon.value.attributes) != null ? _a : {}), [...theIcon.value.svgPathData.map((x) => {
+        return h("path", { d: x });
+      })])]);
+    };
   }
 };
 const DPIcon = {
