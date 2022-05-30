@@ -2360,6 +2360,52 @@ var Key = {
   }
 };
 
+var Klarna = {
+  name: 'klarna',
+  props: {
+    size: {
+      type: String,
+      default: '24',
+      validator: function validator(s) {
+        return !isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length - 1)) && s.slice(-1) === 'x';
+      }
+    }
+  },
+  functional: true,
+  render: function render(h, ctx) {
+    var size = ctx.props.size.slice(-1) === 'x' ? ctx.props.size.slice(0, ctx.props.size.length - 1) + 'em' : parseInt(ctx.props.size) + 'px';
+    var attrs = ctx.data.attrs || {};
+    attrs.width = attrs.width || size;
+    attrs.height = attrs.height || size;
+    ctx.data.attrs = attrs;
+    return h("svg", _mergeJSXProps__default["default"]([{
+      "attrs": {
+        "viewBox": "0 0 45 25",
+        "height": "25",
+        "width": "45",
+        "xmlns": "http://www.w3.org/2000/svg"
+      }
+    }, ctx.data]), [h("g", {
+      "attrs": {
+        "fill-rule": "nonzero",
+        "fill": "none"
+      }
+    }, [h("rect", {
+      "attrs": {
+        "width": "45",
+        "height": "25",
+        "rx": "4.321",
+        "fill": "#FFF"
+      }
+    }), h("path", {
+      "attrs": {
+        "d": "M40.794 14.646a1.07 1.07 0 0 0-1.066 1.076 1.07 1.07 0 0 0 1.066 1.076c.588 0 1.066-.482 1.066-1.076a1.07 1.07 0 0 0-1.066-1.076zm-3.508-.831c0-.814-.689-1.473-1.539-1.473s-1.539.66-1.539 1.473c0 .813.69 1.472 1.54 1.472s1.538-.659 1.538-1.472zm.006-2.863h1.698v5.725h-1.698v-.366a2.96 2.96 0 0 1-1.684.524c-1.653 0-2.993-1.352-2.993-3.02s1.34-3.02 2.993-3.02c.625 0 1.204.193 1.684.524v-.367zm-13.592.746v-.745h-1.739v5.724h1.743v-2.673c0-.902.968-1.386 1.64-1.386h.02v-1.665c-.69 0-1.323.298-1.664.745zm-4.332 2.117c0-.814-.689-1.473-1.539-1.473s-1.539.66-1.539 1.473c0 .813.69 1.472 1.54 1.472.85 0 1.538-.659 1.538-1.472zm.006-2.863h1.699v5.725h-1.699v-.366c-.48.33-1.059.524-1.684.524-1.653 0-2.993-1.352-2.993-3.02s1.34-3.02 2.993-3.02c.625 0 1.204.193 1.684.524v-.367zm10.223-.153c-.678 0-1.32.212-1.75.798v-.644h-1.691v5.724h1.712v-3.008c0-.87.578-1.297 1.275-1.297.746 0 1.176.45 1.176 1.285v3.02h1.696v-3.64c0-1.332-1.05-2.238-2.418-2.238zm-17.374 5.878h1.778V8.402h-1.778v8.275zm-7.81.002h1.883V8.4H4.414v8.279zM10.999 8.4c0 1.792-.692 3.46-1.926 4.699l2.602 3.58H9.35l-2.827-3.89.73-.552A4.768 4.768 0 0 0 9.155 8.4h1.842z",
+        "fill": "#0A0B09"
+      }
+    })])]);
+  }
+};
+
 var LikeAdd = {
   name: 'like-add',
   props: {
@@ -3672,6 +3718,7 @@ exports.Information = Information;
 exports.Insight = Insight;
 exports.Invoice = Invoice;
 exports.Key = Key;
+exports.Klarna = Klarna;
 exports.Library = Library$1;
 exports.LikeAdd = LikeAdd;
 exports.NavigationMenu4 = NavigationMenu4;
