@@ -7,11 +7,12 @@ export default defineConfig({
         lib: {
             entry: './src/index.js',
             name: 'DPIcon',
-            fileName: (format) => `dp-icons.${format}.js`
+            fileName: (format) => `dp-icons-react.${format}.js`
         },
         rollupOptions: {
             external: ["react", "react-dom"],
             output: {
+                exports: 'named',
                 globals: {
                     react: "React",
                     "react-dom": "ReactDOM",
