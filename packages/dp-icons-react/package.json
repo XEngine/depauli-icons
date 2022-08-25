@@ -1,0 +1,30 @@
+{
+  "name": "@depaulisystems/dp-icons-react",
+  "author": "T. Cem Yilmaz",
+  "version": "3.0.0",
+  "description": "Icon pack for DePauli AG",
+  "main": "./dist/dp-icons-react.umd.js",
+  "module": "./dist/dp-icons-react.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/dp-icons-react.es.js",
+      "require": "./dist/dp-icons-react.umd.js"
+    }
+  },
+  "jsnext:main": "dist/index.es.js",
+  "private": false,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.0.1",
+    "vite": "^3.0.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "gitHead": "7c0532ca9c5f8bfa310f3165b4fd3da850fc80bd"
+}
