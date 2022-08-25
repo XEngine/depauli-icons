@@ -1,6 +1,6 @@
 {
   "name": "@depaulisystems/dp-icons-regular",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "main": "./dist/dp-icons-regular.umd.js",
   "module": "./dist/dp-icons-regular.es.js",
   "exports": {
