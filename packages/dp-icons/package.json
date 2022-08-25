@@ -1,7 +1,7 @@
 {
   "name": "@depaulisystems/dp-icons",
   "author": "T. Cem Yilmaz",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Icon pack for DePauli AG",
   "main": "./dist/dp-icons.umd.js",
   "module": "./dist/dp-icons.es.js",
@@ -28,5 +28,5 @@
     "vite": "^2.9.0",
     "vue": "^3.2.33"
   },
-  "gitHead": "7c0532ca9c5f8bfa310f3165b4fd3da850fc80bd"
+  "gitHead": "8b99a8f98d1cc8ba53126e01ee485eb79d89ccc2"
 }
