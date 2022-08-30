@@ -1,8 +1,10 @@
 import Library from './library'
 import {useEffect, useRef} from "react";
 
-const DpIcon = ({icon = '', type = 'regular', size = '1.5x', width, height, className}) => {
+const DpIcon = ({icon = '', type = 'regular', size = '1.5x', width, height, className, fill, stroke}) => {
     const theIcon = useRef(null)
+    const fillRef = useRef('none')
+    const strokeRef = useRef('currentColor')
 
     useEffect(() => {
         theIcon.current = Library.get(icon, type)
@@ -30,14 +32,29 @@ const DpIcon = ({icon = '', type = 'regular', size = '1.5x', width, height, clas
         }, {})
     }
 
+    const {fill: defaultFill, stroke: defaultStroke, ...groupAttributes} = theIcon.current.attributes
+
+    useEffect(() => {
+        fillRef.current = fill
+    }, [fill])
+
+    fillRef.current = fill === undefined ? defaultFill : fill
+
+    useEffect(() => {
+        strokeRef.current = stroke
+    }, [stroke])
+
+    strokeRef.current = stroke === undefined ? defaultStroke : stroke
+
     return (
         <>
             {
                 !theIcon.current
                     ? <span></span>
                     : <svg viewBox='0 0 24 24' width={attrs.width} height={attrs.height} className={className}>
-                        <g {...reactifyAttributes(theIcon.current.attributes) ?? {}}>
-                            {theIcon.current.svgPathData.map((path, index) => (<path key={theIcon.current.name + index} d={path}/>))}
+                        <g fill={fillRef.current} stroke={strokeRef.current} {...reactifyAttributes(groupAttributes) ?? {}}>
+                            {theIcon.current.svgPathData.map((path, index) => (
+                                <path key={theIcon.current.name + index} d={path}/>))}
                         </g>
                     </svg>
             }
