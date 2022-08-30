@@ -1,64 +1,20 @@
 import Library from './library'
-import {useEffect, useRef} from "react";
+import {useEffect, useRef, createElement, useState} from "react";
+import {reactifyAttributes, sizeCalculate} from "./utils";
 
-const DpIcon = ({icon = '', type = 'regular', size = '1.5x', width, height, className, fill, stroke}) => {
-    const theIcon = useRef(null)
-    const fillRef = useRef('none')
-    const strokeRef = useRef('currentColor')
+const DpIcon = (props) => {
+    const icon = Library.get(props.icon, props.type)
 
-    useEffect(() => {
-        theIcon.current = Library.get(icon, type)
-    }, [icon, type])
+    return (icon ? createElement(IconComponent, {...props, icon: icon}) : '?')
+}
 
-    //immediate true amk
-    theIcon.current = Library.get(icon, type)
+const IconComponent = ({icon, size = '1.5x', width, height, fill, stroke, ...props}) => {
+    const calculatedSize = sizeCalculate(size)
 
-    let theSize = size.slice(-1) === 'x' ? size.slice(0, size.length - 1) + 'rem' : parseInt(size) + 'px';
-
-    let attrs = {
-        width: width || theSize,
-        height: height || theSize,
-    };
-
-    const reactifyAttributes = (attrs) => {
-        return Object.keys(attrs).reduce((acc, key) => {
-            const leKey = key.split('-')
-                .map((x, index) => index !== 0
-                    ? x.charAt(0).toUpperCase() + x.substring(1)
-                    : x)
-                .join('')
-            acc[leKey] = attrs[key]
-            return acc
-        }, {})
-    }
-
-    const {fill: defaultFill, stroke: defaultStroke, ...groupAttributes} = theIcon.current.attributes
-
-    useEffect(() => {
-        fillRef.current = fill
-    }, [fill])
-
-    fillRef.current = fill === undefined ? defaultFill : fill
-
-    useEffect(() => {
-        strokeRef.current = stroke
-    }, [stroke])
-
-    strokeRef.current = stroke === undefined ? defaultStroke : stroke
-
-    return (
-        <>
-            {
-                !theIcon.current
-                    ? <span></span>
-                    : <svg viewBox='0 0 24 24' width={attrs.width} height={attrs.height} className={className}>
-                        <g fill={fillRef.current} stroke={strokeRef.current} {...reactifyAttributes(groupAttributes) ?? {}}>
-                            {theIcon.current.svgPathData.map((path, index) => (
-                                <path key={theIcon.current.name + index} d={path}/>))}
-                        </g>
-                    </svg>
-            }
-        </>
+    return createElement('svg', {viewBox: '0 0 24 24', width: width ?? calculatedSize, height: height ?? calculatedSize, ...props},
+        createElement('g', {...reactifyAttributes(icon.attributes), stroke: stroke || icon.attributes.stroke, fill: fill || icon.attributes.fill},
+            icon.svgPathData.map((path, index) => createElement('path', {key: index, d: path}))
+        )
     )
 }
 export default DpIcon

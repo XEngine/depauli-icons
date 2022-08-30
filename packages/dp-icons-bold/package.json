@@ -9,6 +9,10 @@
       "require": "./dist/dp-icons-bold.umd.js"
     }
   },
+  "files": [
+    "icons",
+    "dist"
+  ],
   "private": false,
   "scripts": {
     "build": "vite build"
