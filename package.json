@@ -18,7 +18,8 @@
     "dev": "vite",
     "prepublishOnly": "cross-env NODE_ENV=production node ./tools/converter.js",
     "build": "vite build",
-    "publish": "node tools/converter.js && lerna bootstrap && lerna run --scope @depaulisystems/dp-icons build && lerna publish --yes --force-publish"
+    "publish": "node tools/converter.js && lerna bootstrap && lerna run --scope @depaulisystems/dp-icons build && lerna publish --yes --force-publish",
+    "publish-wo-build": "lerna run --scope @depaulisystems/dp-icons build && lerna run --scope @depaulisystems/dp-icons-react build && lerna publish --yes --force-publish"
   },
   "engines": {
     "node": ">=14"
