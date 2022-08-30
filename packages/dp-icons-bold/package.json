@@ -1,6 +1,6 @@
 {
   "name": "@depaulisystems/dp-icons-bold",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "main": "./dist/dp-icons-bold.umd.js",
   "module": "./dist/dp-icons-bold.es.js",
   "exports": {
