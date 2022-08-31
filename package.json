@@ -18,12 +18,17 @@
     "dev": "vite",
     "prepublishOnly": "cross-env NODE_ENV=production node ./tools/converter.js",
     "build": "vite build",
-    "publish": "node tools/converter.js && lerna bootstrap && lerna run --scope @depaulisystems/dp-icons build && lerna publish --yes --force-publish",
+    "init": "lerna exec --parallel npm install",
+    "icons-build": "node tools/converter.js  && lerna run --parallel build",
+    "publish": "node tools/converter.js && lerna bootstrap && lerna run --parallel build && lerna publish --yes --force-publish",
     "publish-wo-build": "lerna run --scope @depaulisystems/dp-icons build && lerna run --scope @depaulisystems/dp-icons-react build && lerna publish --yes --force-publish"
   },
   "engines": {
     "node": ">=14"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "cross-env": "^7.0.3",
     "fast-glob": "^3.2.11",
@@ -32,7 +37,7 @@
     "svg-path-converter": "^1.0.12",
     "svgo": "^2.3.0",
     "css": "^3.0.0",
-    "lerna": "^4.0.0",
+    "lerna": "^5.4.3",
     "svg-slim": "^2.0.3",
     "svgson": "^5.2.1"
   }

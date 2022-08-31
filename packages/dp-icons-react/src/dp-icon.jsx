@@ -1,5 +1,5 @@
 import Library from './library'
-import {useEffect, useRef, createElement, useState} from "react";
+import {createElement} from "react";
 import {reactifyAttributes, sizeCalculate} from "./utils";
 
 const DpIcon = (props) => {

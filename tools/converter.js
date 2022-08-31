@@ -13,14 +13,14 @@ async function main() {
 
     const icons = [
         {
-            name: 'light',
-            package: 'dp-icons-light',
-            path: './svg/light/',
-        },
-        {
             name: 'bold',
             package: 'dp-icons-bold',
             path: './svg/bold/',
+        },
+        {
+            name: 'light',
+            package: 'dp-icons-light',
+            path: './svg/light/',
         },
         {
             name: 'regular',
@@ -31,20 +31,22 @@ async function main() {
 
     for (const iconPackage of icons) {
 
-/*        if(iconPackage.package !== 'dp-icons-light'){
-            continue
-        }*/
+        /*        if(iconPackage.package !== 'dp-icons-light'){
+                    continue
+                }*/
 
         const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
         const indexContent = []
         const iconNameContent = []
+        const packageJsonEntries = {}
+
         for (const icon of iconFiles) {
             const fileName = icon.split('/').pop().split('.')[0]
             const iconName = componentify(fileName);
 
-          /*  if(iconName !== "Shop"){
-                continue;
-            }*/
+            /*  if(iconName !== "Shop"){
+                  continue;
+              }*/
 
             if (startsWithNumber(iconName)) {
                 continue;
@@ -53,7 +55,10 @@ async function main() {
             const svg = await fs.readFile(icon, "utf8");
             try {
                 const component = await svgToVue(fileName, iconName, svg, iconPackage);
-                await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
+                packageJsonEntries[`./${iconName}`] = {import: `./dist/${iconName}.es.js`, require: `./dist/${iconName}.umd.js`}
+                fs.writeFile(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
+                console.log(iconPackage.package, iconName, 'done')
+
             } catch (e) {
                 console.log(icon, iconName)
                 console.log(e)
@@ -64,6 +69,10 @@ async function main() {
         }
 
         const indexFileResult = `${[...new Set(indexContent)].join('\n')}\n\nexport {${[...new Set(iconNameContent)].join(',\n')}}`
+
+        const packageJson = fs.readJsonSync(`./packages/${iconPackage.package}/package.json`)
+        packageJson.exports = {...packageJson.exports, ...packageJsonEntries}
+        fs.writeJsonSync(`./packages/${iconPackage.package}/package.json`, packageJson, {spaces: 4})
 
         fs.writeFileSync(`./packages/${iconPackage.package}/index.js`, indexFileResult, "utf8");
     }

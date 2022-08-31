@@ -16,15 +16,6 @@
                 console.log('lol')
             }
 
-            setTimeout(() => {
-                icon.value = 'bin-1'
-                type.value = 'regular'
-            }, 3000)
-            setTimeout(() => {
-                icon.value = 'arrow-right'
-                type.value = 'bold'
-            }, 6000)
-
             return {
                 lol,
                 icon,

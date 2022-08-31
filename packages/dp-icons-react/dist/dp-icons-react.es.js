@@ -13,41 +13,40 @@ class b {
     return t ? t && this.has(`${t}_${e}`) ? this.store.get(`${t}_${e}`) : (console.warn(`Unable to find icon : ${t} in ${e} type`), null) : null;
   }
 }
-const $ = new b(), f = (r) => Object.keys(r).reduce((t, e) => {
-  const n = e.split("-").map((s, o) => o !== 0 ? s.charAt(0).toUpperCase() + s.substring(1) : s).join("");
-  return t[n] = r[e], t;
-}, {}), y = (r) => r.slice(-1) === "x" ? r.slice(0, r.length - 1) + "rem" : parseInt(r) + "px", m = (r) => {
-  const t = $.get(r.icon, r.type);
-  return t ? a(g, {
+const p = new b(), $ = (r) => Object.keys(r).reduce((t, e) => {
+  const s = e.split("-").map((n, o) => o !== 0 ? n.charAt(0).toUpperCase() + n.substring(1) : n).join("");
+  return t[s] = r[e], t;
+}, {}), f = (r) => r.slice(-1) === "x" ? r.slice(0, r.length - 1) + "rem" : parseInt(r) + "px", d = (r) => {
+  const t = p.get(r.icon, r.type);
+  return t ? a(y, {
     ...r,
     icon: t
   }) : "?";
-}, g = ({
+}, y = ({
   icon: r,
-  type: t = "regular",
-  size: e = "1.5x",
-  width: n,
+  size: t = "1.5x",
+  width: e,
   height: s,
-  fill: o,
-  stroke: c,
+  fill: n,
+  stroke: o,
   ...i
 }) => {
-  const l = y(e);
+  const c = f(t);
   return a("svg", {
     viewBox: "0 0 24 24",
-    width: n != null ? n : l,
-    height: s != null ? s : l,
+    width: e != null ? e : c,
+    height: s != null ? s : c,
     ...i
   }, a("g", {
-    ...f(r.attributes),
-    stroke: c || r.attributes.stroke,
-    fill: o || r.attributes.fill
-  }, r.svgPathData.map((u, p) => a("path", {
-    key: p,
-    d: u
+    ...$(r.attributes),
+    stroke: o || r.attributes.stroke,
+    fill: n || r.attributes.fill
+  }, r.svgPathData.map((l, u) => a("path", {
+    key: u,
+    d: l
   }))));
 };
 export {
-  $ as Library,
-  m as default
+  p as Library,
+  d as default
 };
