@@ -1,6 +1,6 @@
 {
     "name": "@depaulisystems/dp-icons-bold",
-    "version": "4.1.5",
+    "version": "4.1.6",
     "main": "./dist/DPIconBold.umd.js",
     "module": "./dist/DPIconBold.es.js",
     "files": [
@@ -20,8 +20,8 @@
     },
     "gitHead": "8b99a8f98d1cc8ba53126e01ee485eb79d89ccc2",
     "devDependencies": {
-        "vite": "^3.0.9",
-        "piscina": "^3.2.0"
+        "piscina": "^3.2.0",
+        "vite": "^3.0.9"
     },
     "exports": {
         ".": {
