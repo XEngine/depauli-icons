@@ -1,0 +1,9 @@
+export default {
+    name: 'trash',
+    key: 'Trash',
+    type: 'misc',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"currentColor", "stroke": "none"},
+    svgPathData: ["M8.71 8.57h1.75v10.29H8.71zm5.25 0h1.75v10.29h-1.75zM1.71 3.43v1.71h1.75v17.14c0 .95.78 1.71 1.75 1.71H19.2c.96 0 1.75-.77 1.75-1.71V5.14h1.75V3.43zm3.5 18.86V5.14H19.2v17.14zM8.71 0h7v1.71h-7z"],
+}

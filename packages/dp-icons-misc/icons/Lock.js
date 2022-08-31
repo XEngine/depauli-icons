@@ -1,0 +1,9 @@
+export default {
+    name: 'lock',
+    key: 'Lock',
+    type: 'misc',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"currentColor", "stroke": "none"},
+    svgPathData: ["M17.82 8.8h-.8v-4C17.01 2.15 14.84 0 12.16 0S7.31 2.15 7.31 4.8v4H6.5c-1.78 0-3.23 1.43-3.23 3.2v8.8C3.28 22.57 4.72 24 6.5 24h11.31c1.79 0 3.23-1.43 3.23-3.2V12c0-1.77-1.45-3.2-3.23-3.2zm-2.42 0H8.93v-4c0-1.77 1.45-3.2 3.23-3.2s3.23 1.43 3.23 3.2z"],
+}
