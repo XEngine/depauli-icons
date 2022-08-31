@@ -1,0 +1,12 @@
+const e = {
+  name: "audio-file-search",
+  key: "AudioFileSearch",
+  type: "light",
+  width: 24,
+  height: 24,
+  attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round" },
+  svgPathData: ["m9.5,23.5h-8a1,1,0,01-1-1v-21a1,1,0,011-1h13.29a1,1,0,01.71.29l3.71,3.71a1,1,0,01.29.71V9.5", "m9.5,14c0,.93-1.12,1.69-2.5,1.69S4.5,14.93,4.5,14,5.62,12.31,7,12.31s2.5.76,2.5,1.69z", "M9.5 14V7.22a1 1 0 0 1 1.5-.87l2 1.15M17.03 12.5A4.53 4.53 0 1 0 17.03 21.560000000000002 4.53 4.53 0 1 0 17.03 12.5zM23.5 23.5l-3.25-3.25"]
+};
+export {
+  e as default
+};
