@@ -1,7 +1,6 @@
 import Library from './library'
 import {createElement} from "react";
 import {reactifyAttributes, sizeCalculate} from "./utils";
-
 const DpIcon = (props) => {
     const icon = Library.get(props.icon, props.type)
 

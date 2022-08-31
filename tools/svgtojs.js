@@ -5,7 +5,6 @@ const {parseSync} = require('svgson')
 const svgSlim = require('svg-slim');
 
 module.exports = async (name, componentName, content, iconPackage) => {
-
     let test = await svgSlim(content, {
         "rules": {
             'apply-style': false,
