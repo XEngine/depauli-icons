@@ -13,6 +13,11 @@ async function main() {
 
     const icons = [
         {
+            name: 'misc',
+            package: 'dp-icons-misc',
+            path: './svg/misc/',
+        },
+        /*{
             name: 'bold',
             package: 'dp-icons-bold',
             path: './svg/bold/',
@@ -26,7 +31,7 @@ async function main() {
             name: 'regular',
             package: 'dp-icons-regular',
             path: './svg/regular/',
-        },
+        },*/
     ]
 
     for (const iconPackage of icons) {

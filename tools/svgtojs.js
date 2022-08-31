@@ -22,6 +22,7 @@ module.exports = async (name, componentName, content, iconPackage) => {
                     convertArcs: true,
                 }
             },
+            'convertPathData',
             //css,
             customConvertShapeToPath,
             'mergePaths',
