@@ -14,6 +14,7 @@ import Confetti from './icons/Confetti'
 import CreditCard from './icons/CreditCard'
 import EyeHideLine from './icons/EyeHideLine'
 import EyeLine from './icons/EyeLine'
+import Filter from './icons/Filter'
 import Footer1 from './icons/Footer1'
 import Footer2 from './icons/Footer2'
 import Footer3 from './icons/Footer3'
@@ -32,6 +33,7 @@ import Recycling from './icons/Recycling'
 import RoundedArrowLeft from './icons/RoundedArrowLeft'
 import RoundedArrowRight from './icons/RoundedArrowRight'
 import Search from './icons/Search'
+import Sort from './icons/Sort'
 import Star from './icons/Star'
 import ThreeColomn from './icons/ThreeColomn'
 import TrashFill from './icons/TrashFill'
@@ -55,6 +57,7 @@ Confetti,
 CreditCard,
 EyeHideLine,
 EyeLine,
+Filter,
 Footer1,
 Footer2,
 Footer3,
@@ -73,6 +76,7 @@ Recycling,
 RoundedArrowLeft,
 RoundedArrowRight,
 Search,
+Sort,
 Star,
 ThreeColomn,
 TrashFill,
