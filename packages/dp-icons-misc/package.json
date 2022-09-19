@@ -93,6 +93,10 @@
             "import": "./dist/EyeLine.es.js",
             "require": "./dist/EyeLine.umd.js"
         },
+        "./Filter": {
+            "import": "./dist/Filter.es.js",
+            "require": "./dist/Filter.umd.js"
+        },
         "./Footer1": {
             "import": "./dist/Footer1.es.js",
             "require": "./dist/Footer1.umd.js"
@@ -172,6 +176,10 @@
         "./Search": {
             "import": "./dist/Search.es.js",
             "require": "./dist/Search.umd.js"
+        },
+        "./Sort": {
+            "import": "./dist/Sort.es.js",
+            "require": "./dist/Sort.umd.js"
         },
         "./Star": {
             "import": "./dist/Star.es.js",
