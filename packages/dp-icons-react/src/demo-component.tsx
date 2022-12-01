@@ -1,4 +1,4 @@
-import DPIcon from "./dp-icon.jsx"
+import DPIcon from "./dp-icon.tsx"
 import {useState} from "react";
 
 export default function DemoComponent() {
