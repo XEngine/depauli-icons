@@ -1,11 +1,11 @@
 {
   "name": "@depaulisystems/dp-icons-react",
   "author": "T. Cem Yilmaz",
-  "version": "4.1.16",
+  "version": "4.1.17",
   "description": "React Icon pack for DePauli AG",
   "main": "./dist/dp-icon.umd.js",
   "module": "./dist/dp-icon.es.js",
-  "types": "./dist/index.d.ts",
+  "types": "./dist/types/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/dp-icon.es.js",
