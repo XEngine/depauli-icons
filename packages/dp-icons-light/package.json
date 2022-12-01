@@ -1,6 +1,6 @@
 {
     "name": "@depaulisystems/dp-icons-light",
-    "version": "4.1.12",
+    "version": "4.1.13",
     "main": "./dist/DPIconLight.umd.js",
     "module": "./dist/DPIconLight.es.js",
     "files": [
@@ -19,7 +19,7 @@
         "access": "public",
         "registry": "https://registry.npmjs.org/"
     },
-    "gitHead": "8b99a8f98d1cc8ba53126e01ee485eb79d89ccc2",
+    "gitHead": "e958e3aed32d67e3c9881662bef939fcb048b397",
     "devDependencies": {
         "piscina": "^3.2.0",
         "vite": "^3.0.9"
