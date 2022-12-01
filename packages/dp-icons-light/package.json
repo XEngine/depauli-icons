@@ -1,6 +1,6 @@
 {
     "name": "@depaulisystems/dp-icons-light",
-    "version": "4.1.14",
+    "version": "4.1.15",
     "main": "./dist/DPIconLight.umd.js",
     "module": "./dist/DPIconLight.es.js",
     "files": [

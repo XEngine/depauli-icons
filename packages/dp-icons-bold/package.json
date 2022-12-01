@@ -1,6 +1,6 @@
 {
     "name": "@depaulisystems/dp-icons-bold",
-    "version": "4.1.14",
+    "version": "4.1.15",
     "main": "./dist/DPIconBold.umd.js",
     "module": "./dist/DPIconBold.es.js",
     "files": [
