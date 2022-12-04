@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FishJar : IconType = {
+    name: 'fish-jar',
+    key: 'FishJar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.01 17.25S11.32 12 13.51 12a5.3 5.3 0 0 1 4.46 2.25 5.29 5.29 0 0 1-4.46 2.25c-2.2 0-7.5-5.25-7.5-5.25","M5.26 5.25h13.5a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H5.26a3 3 0 0 1-3-3v-12a3 3 0 0 1 3-3zm12.75 0v-3a1.5 1.5 0 0 0-1.5-1.5h-9a1.5 1.5 0 0 0-1.5 1.5v3m8.25 0V.75m-4.5 4.5V.75"],
+}
+export default FishJar

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NavigationSmartphone : IconType = {
+    name: 'navigation-smartphone',
+    key: 'NavigationSmartphone',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8 .76h7.5a3 3 0 0 1 3 3v16.5a3 3 0 0 1-3 3H8a3 3 0 0 1-3-3V3.76a3 3 0 0 1 3-3zm-3 18h13.5m-9-11.25v3.75","M9.5 4.51a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm0 6.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM14 6.01h1.5M14 12.76h1.5"],
+}
+export default NavigationSmartphone

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeFileAdobeAlternate : IconType = {
+    name: 'office-file-adobe-alternate',
+    key: 'OfficeFileAdobeAlternate',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.52 6.72a3.95 3.95 0 0 0-.51-1.47 1.57 1.57 0 0 0-1.29-.75 1.5 1.5 0 0 0-1.33 1.28 2.76 2.76 0 0 0 .49 1.89 42.29 42.29 0 0 0 3.94 3.97 17.63 17.63 0 0 0 5.24 2.93 3.79 3.79 0 0 0 1.66.35 1.38 1.38 0 0 0 1.27-.98 1.31 1.31 0 0 0-.48-1.21 2.75 2.75 0 0 0-1.24-.54 10.79 10.79 0 0 0-5.32.56c-1.62.5-6.36 2.07-6.14 6.05a.86.86 0 0 0 .09.38.76.76 0 0 0 .76.28 2.58 2.58 0 0 0 1.71-1.19c1.09-1.54 1.21-3.51 1.35-5.33a24.06 24.06 0 0 0-.18-6.25zm14.29-1.16a1.5 1.5 0 0 1 .44 1.06V21A2.25 2.25 0 0 1 21 23.25H3A2.25 2.25 0 0 1 .75 21V3A2.25 2.25 0 0 1 3 .75h14.38a1.5 1.5 0 0 1 1.06.44zM17.25.75v4.5a1.5 1.5 0 0 0 1.5 1.5h4.5"],
+}
+export default OfficeFileAdobeAlternate

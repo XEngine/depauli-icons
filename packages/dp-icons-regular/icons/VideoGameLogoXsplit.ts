@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameLogoXsplit : IconType = {
+    name: 'video-game-logo-xsplit',
+    key: 'VideoGameLogoXsplit',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 8.23a.53.53 0 0 0-.44-.52L5.86 5.26a.53.53 0 0 0-.61.52v8.48a.53.53 0 0 0 .44.52l7.81 1.68v2.98l2.55-2.55 2.09.35a.53.53 0 0 0 .61-.52z","M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z"],
+}
+export default VideoGameLogoXsplit

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FolderFileStar : IconType = {
+    name: 'folder-file-star',
+    key: 'FolderFileStar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.31 1.02a.49.49 0 0 1 .87 0l1.02 2.04a.49.49 0 0 0 .37.26l2.27.33a.48.48 0 0 1 .39.33.47.47 0 0 1-.12.49l-1.65 1.6a.48.48 0 0 0-.14.42l.39 2.26a.48.48 0 0 1-.19.47.49.49 0 0 1-.51.03l-2.02-1.06a.49.49 0 0 0-.45 0L16.5 9.24a.49.49 0 0 1-.51-.03.48.48 0 0 1-.19-.47l.39-2.26a.48.48 0 0 0-.14-.42l-1.65-1.6a.47.47 0 0 1-.12-.49.48.48 0 0 1 .39-.33l2.27-.33a.49.49 0 0 0 .36-.26zm-1.06 22.23a1.5 1.5 0 0 0 1.5-1.5v-6a1.5 1.5 0 0 0-1.5-1.5h-9v-1.5a1.5 1.5 0 0 0-1.5-1.5h-4.5a1.5 1.5 0 0 0-1.5 1.5v9a1.5 1.5 0 0 0 1.5 1.5zm6-12v7.5a1.5 1.5 0 0 1-1.5 1.5h-3m-12-9v-9a1.5 1.5 0 0 1 1.5-1.5h6"],
+}
+export default FolderFileStar

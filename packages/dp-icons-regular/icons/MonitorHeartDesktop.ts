@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MonitorHeartDesktop : IconType = {
+    name: 'monitor-heart-desktop',
+    key: 'MonitorHeartDesktop',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 21.75h-7.5l.75-4.5h6l.75 4.5zm-9.75 0h12M3 2.25h18a2.25 2.25 0 0 1 2.25 2.25V15A2.25 2.25 0 0 1 21 17.25H3A2.25 2.25 0 0 1 .75 15V4.5A2.25 2.25 0 0 1 3 2.25z","M19.93 9.75h-2.48a.37.37 0 0 1-.31-.17l-2.53-3.8a.38.38 0 0 0-.65.04l-3.92 7.84a.38.38 0 0 1-.65.04L6.86 9.92a.37.37 0 0 0-.31-.17H3.43"],
+}
+export default MonitorHeartDesktop

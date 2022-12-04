@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GridRuler1 : IconType = {
+    name: 'grid-ruler-1',
+    key: 'GridRuler1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.674 18.083 15.463 4.294a1.5 1.5 0 0 1 2.121 0l2.122 2.122a1.5 1.5 0 0 1 0 2.121L5.917 22.326a1.5 1.5 0 0 1-2.121 0l-2.122-2.122a1.5 1.5 0 0 1 0-2.121z","M15.9 3.99 8.49 1.28a.75.75 0 0 0-.79.17L6.45 2.71a.75.75 0 0 0 0 1.06l4.77 4.77m8.79-.44 2.71 7.41a.75.75 0 0 1-.17.79l-1.25 1.26a.75.75 0 0 1-1.06 0l-4.77-4.77m-5.61 5.6-1.75-1.75m5.5-2-1.75-1.75m5.5-2.01-1.75-1.75"],
+}
+export default GridRuler1

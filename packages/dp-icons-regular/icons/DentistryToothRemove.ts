@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DentistryToothRemove : IconType = {
+    name: 'dentistry-tooth-remove',
+    key: 'DentistryToothRemove',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 3.75a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M19.5 7.5 15 12m0-4.5 4.5 4.5M15.69.75a6.05 6.05 0 0 0-4.44 1.95A6.05 6.05 0 0 0 .75 6.75a11.91 11.91 0 0 0 2.45 6.41 1.44 1.44 0 0 1 .18 1.48 12.01 12.01 0 0 0-1.13 4.86v1.88a2.06 2.06 0 0 0 2.14 1.88 1.95 1.95 0 0 0 2.01-1.88 4.29 4.29 0 0 1 4.44-4.13h.81a4.29 4.29 0 0 1 4.45 4.13 1.95 1.95 0 0 0 2.02 1.88 2.06 2.06 0 0 0 2.14-1.88V19.5"],
+}
+export default DentistryToothRemove

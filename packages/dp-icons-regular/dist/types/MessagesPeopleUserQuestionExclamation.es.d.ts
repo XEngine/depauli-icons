@@ -1,0 +1,3 @@
+export * from './MessagesPeopleUserQuestionExclamation'
+import MessagesPeopleUserQuestionExclamation from './MessagesPeopleUserQuestionExclamation'
+export default MessagesPeopleUserQuestionExclamation

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SpeakersStand : IconType = {
+    name: 'speakers-stand',
+    key: 'SpeakersStand',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6 10.5A2.25 2.25 0 1 0 6 15a2.25 2.25 0 1 0 0-4.5zm0-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M2.75.75h6.5a2 2 0 0 1 2 2V16a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2V2.75a2 2 0 0 1 2-2zM6 18v5.25m-2.25 0h4.5M18 10.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M13.63 1.63a2.99 2.99 0 0 1 2.12-.88h4.5a3 3 0 0 1 3 3V15a3 3 0 0 1-3 3h-4.5a2.99 2.99 0 0 1-2.12-.88M18 18v5.25m-2.25 0h4.5"],
+}
+export default SpeakersStand

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FileCodeEdit1 : IconType = {
+    name: 'file-code-edit-1',
+    key: 'FileCodeEdit1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m22.62 14.87-7.63 7.63-3.75.75.75-3.75 7.63-7.63a2.12 2.12 0 0 1 2.99 0l.01.01a2.12 2.12 0 0 1 0 3zM8.24 20.25h-6a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h10.63a1.5 1.5 0 0 1 1.06.44l2.87 2.87a1.5 1.5 0 0 1 .44 1.06v3.13M8.99 6l2.25 2.25-2.25 2.25m-3-4.5L3.74 8.25l2.25 2.25"],
+}
+export default FileCodeEdit1

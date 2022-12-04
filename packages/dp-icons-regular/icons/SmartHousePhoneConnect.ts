@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmartHousePhoneConnect : IconType = {
+    name: 'smart-house-phone-connect',
+    key: 'SmartHousePhoneConnect',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 11.25h4.5a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5zm-1.5 9h7.5M10.5 3.56v6.94H3V3.56M.75 5.25l6-4.5 6 4.5m7.26.47a8.95 8.95 0 0 1 1.32 2.68M10.1 20.82a9.77 9.77 0 0 1-2.81-1.02m-3.31-3a9.81 9.81 0 0 1-1.3-2.69M13.3 1.59a9.83 9.83 0 0 1 2.87.85"],
+}
+export default SmartHousePhoneConnect

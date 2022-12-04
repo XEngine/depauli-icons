@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BreakfastCroissant : IconType = {
+    name: 'breakfast-croissant',
+    key: 'BreakfastCroissant',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.77 8.84a.87.87 0 0 1-.81.56H9.97a.87.87 0 0 1-.81-.56l-2.14-5.7a.86.86 0 0 1 .38-1.05 8.46 8.46 0 0 1 9.14 0 .87.87 0 0 1 .37 1.05zM9.1 8.68 6.45 9.71a.66.66 0 0 1-.73-.18L2.65 6.08a.61.61 0 0 1-.02-.85A7.51 7.51 0 0 1 7.1 3.3M2.7 6.14a6.18 6.18 0 0 0-1.77 5.89.75.75 0 0 0 .53.57.67.67 0 0 0 .75-.2 6.23 6.23 0 0 1 3.26-3.15m9.43-.57 2.65 1.03a.66.66 0 0 0 .73-.18l3.08-3.45a.61.61 0 0 0 .03-.85 7.51 7.51 0 0 0-4.47-1.93m4.38 2.84a6.18 6.18 0 0 1 1.76 5.89.75.75 0 0 1-.53.57.67.67 0 0 1-.75-.2 6.23 6.23 0 0 0-3.26-3.15m2.48 14a2.25 2.25 0 1 0-1.61-3.82 3 3 0 0 0-5.14-1.17 3 3 0 0 0-4.5 0 3 3 0 0 0-5.14 1.17A2.25 2.25 0 1 0 3 23.25zm-18-4.5A2.25 2.25 0 0 1 5.25 21m2.25-3.75a3 3 0 0 1 3 3m1.5-3a3 3 0 0 1 3 3m1.5-3a3 3 0 0 1 3 3"],
+}
+export default BreakfastCroissant

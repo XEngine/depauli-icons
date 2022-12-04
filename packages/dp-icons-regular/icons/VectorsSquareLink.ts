@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VectorsSquareLink : IconType = {
+    name: 'vectors-square-link',
+    key: 'VectorsSquareLink',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m17.55 21.79-.96.96a1.85 1.85 0 0 1-2.62-.06l-.67-.67a1.85 1.85 0 0 1-.06-2.62l2.74-2.74a1.59 1.59 0 0 1 2.24.06l.53.53","m18.34 14.3 1.01-1a1.9 1.9 0 0 1 2.68 0l.67.67a1.9 1.9 0 0 1 0 2.68l-2.87 2.87a1.63 1.63 0 0 1-2.3 0l-.54-.52M1.31.74h3.38a.56.56 0 0 1 .56.56v3.38a.56.56 0 0 1-.56.56H1.31a.56.56 0 0 1-.56-.56V1.3a.56.56 0 0 1 .56-.56zm18 0h3.38a.56.56 0 0 1 .56.56v3.38a.56.56 0 0 1-.56.56h-3.38a.56.56 0 0 1-.56-.56V1.3a.56.56 0 0 1 .56-.56zM5.25 2.99h13.5m-13.5 16.5h5.25m-9.19-2.25h3.38a.56.56 0 0 1 .56.56v3.38a.56.56 0 0 1-.56.56H1.31a.56.56 0 0 1-.56-.56V17.8a.56.56 0 0 1 .56-.56zm1.69 0v-12m18 5.25V5.24"],
+}
+export default VectorsSquareLink

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FastFoodWrap : IconType = {
+    name: 'fast-food-wrap',
+    key: 'FastFoodWrap',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.34 13.03a2.96 2.96 0 0 0 3.52-.35 2.9 2.9 0 0 0 .23-3.8 2.78 2.78 0 0 0 .34-.29 2.91 2.91 0 0 0 0-4.08 2.82 2.82 0 0 0-2.05-.85 2.9 2.9 0 0 0-.84-2.07 2.82 2.82 0 0 0-4.03 0 2.82 2.82 0 0 0-.28.35 2.81 2.81 0 0 0-3.75.23 2.93 2.93 0 0 0-.54 3.47m0-.01 3.25 9.41a2.98 2.98 0 0 1-3.41 3.73L.74 16.25M10.96 5.64l-10 10a.75.75 0 0 0 0 1.05l6.33 6.33a.74.74 0 0 0 1.05 0l10-10L13 11.57m4.79-3.14a3.73 3.73 0 0 0-1.03-3.31 3.79 3.79 0 0 0-5.8.52m7.38 7.39a2.78 2.78 0 0 0 .13-4.09 2.98 2.98 0 0 0-5.02 2.75m-4.09-.44a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0 3.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default FastFoodWrap

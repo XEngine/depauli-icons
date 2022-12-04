@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const InformationDeskTicket : IconType = {
+    name: 'information-desk-ticket',
+    key: 'InformationDeskTicket',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm0 18.75v3.75m3 0V15a1.5 1.5 0 0 0 3 0v-3a4.5 4.5 0 0 0-4.5-4.5H16.1a4.5 4.5 0 0 0-4.03 2.49l-.18.35A3 3 0 0 1 9.22 12H9a1.5 1.5 0 0 0 0 3h.22a5.96 5.96 0 0 0 5.03-2.75v11m6-8.25v-3M4.5 2.25a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-3.75 9a3 3 0 0 1 3-3h3l3.22-3.22M.75 14.25H7.7m-5.45 9v-9","M10.25.75h2a.5.5 0 0 1 .5.5v3.5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-3.5a.5.5 0 0 1 .5-.5z"],
+}
+export default InformationDeskTicket

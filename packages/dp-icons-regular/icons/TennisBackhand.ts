@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TennisBackhand : IconType = {
+    name: 'tennis-backhand',
+    key: 'TennisBackhand',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.5.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM21 17.62a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38m0 .75a.38.38 0 0 1-.37-.37m.75 0a.38.38 0 0 1-.38.38M17.752 4.72a3.75 2.81-59.39 1 0 4.836 2.86 3.75 2.81-59.39 1 0-4.836-2.86z","m16.86 11.74 1.4-2.36m-6.91 4.5a1.5 1.5 0 0 0 .99.37h3.41a1.5 1.5 0 1 0 0-3h-3.23L9.67 8.11a1.5 1.5 0 0 0-2.45.34l-3 5.99a4.53 4.53 0 0 0-.48 2.01v2.29l-2.4 1.8a1.5 1.5 0 0 0 1.8 2.4l2.4-1.8a3.01 3.01 0 0 0 1.2-2.4v-.73l2.59 1.11 1.27 3.17a1.5 1.5 0 1 0 2.79-1.12L12.12 18a2.98 2.98 0 0 0-1.6-1.64L7.3 15l1.63-3.25z"],
+}
+export default TennisBackhand

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleManPhoneBook : IconType = {
+    name: 'single-man-phone-book',
+    key: 'SingleManPhoneBook',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.5 6.41a3.11 3.11 0 1 0 0 6.22 3.11 3.11 0 1 0 0-6.22z","M16.87 16.09a5.55 5.55 0 0 0-8.75 0m7.48-6.46a6.23 6.23 0 0 1-1.73.24 6.2 6.2 0 0 1-4.21-1.64M5.25.75v22.5M23.25 3v3m0 3v3m0 3v3","M2.25.75h16.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z"],
+}
+export default SingleManPhoneBook

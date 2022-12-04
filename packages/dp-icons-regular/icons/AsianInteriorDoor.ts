@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AsianInteriorDoor : IconType = {
+    name: 'asian-interior-door',
+    key: 'AsianInteriorDoor',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 3.75h6a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5zm1.5 0v13.5m3-13.5v13.5m-6 0h9m-9-6h9m6-7.5h6a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5zm1.5 0v13.5m3-13.5v13.5m-6 0h9m-9-6h9M.75.75h22.5"],
+}
+export default AsianInteriorDoor

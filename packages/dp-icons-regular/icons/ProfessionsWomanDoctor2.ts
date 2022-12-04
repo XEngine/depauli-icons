@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProfessionsWomanDoctor2 : IconType = {
+    name: 'professions-woman-doctor-2',
+    key: 'ProfessionsWomanDoctor2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.71 19.14a10.57 10.57 0 0 0-3.48 4.11m18.95 0a10.49 10.49 0 0 0-9.48-6m.01-12S11.28 8.85 7.68 9a5.25 5.25 0 1 0 10.06 0c-3.6-.15-5.03-3.75-5.03-3.75zm-9.75 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M16.46 17.25a3.75 3.75 0 0 1-7.5 0m-4.5-4.41a3 3 0 0 1 2.25 2.91V21a2.25 2.25 0 0 0 2.25 2.25h1.5A2.25 2.25 0 0 0 12.71 21M4.46 9a8.25 8.25 0 0 1 16.5 0v2.08a4.5 4.5 0 0 0 .36 1.77l1.38 3.21a1.5 1.5 0 0 1-.76 1.96 14.58 14.58 0 0 1-3.39 1.01"],
+}
+export default ProfessionsWomanDoctor2

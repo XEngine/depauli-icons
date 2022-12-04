@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MobileQrCode : IconType = {
+    name: 'mobile-qr-code',
+    key: 'MobileQrCode',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25.75h7.5a3 3 0 0 1 3 3v16.5a3 3 0 0 1-3 3h-7.5a3 3 0 0 1-3-3V3.75a3 3 0 0 1 3-3z","M5.25 19.13h13.5M8.25 6.38v-1.5h1.5m3 0h3v3h-3zm-4.5 7.5h3v3h-3zm0-3h3m2.25 1.5h2.25m0 3v1.5H13.5"],
+}
+export default MobileQrCode

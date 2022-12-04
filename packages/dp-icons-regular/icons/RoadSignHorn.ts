@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignHorn : IconType = {
+    name: 'road-sign-horn',
+    key: 'RoadSignHorn',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M19.5 12h-9m0 0-5.25 2.25v-4.5L10.5 12zm5.25-1.5V12m-3-1.5V12m-3 1.88a1.87 1.87 0 0 0 1.88 1.88h3.75a1.88 1.88 0 0 0 0-3.75h-3.75a1.87 1.87 0 0 0-1.88 1.88z"],
+}
+export default RoadSignHorn

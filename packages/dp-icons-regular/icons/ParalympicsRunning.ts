@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ParalympicsRunning : IconType = {
+    name: 'paralympics-running',
+    key: 'ParalympicsRunning',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.56 1.29a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26z","M23.16 20.73a1.5 1.5 0 0 1-2.82 1.03l-1.75-4.66m-16.8 2.4a1.5 1.5 0 1 1 .91-2.86l3.17 1.28M20.89 6.17a1.5 1.5 0 0 1 1.72 2.46l-2.62 1.82a4.47 4.47 0 0 1-3.85.63l-1.38-.4-.78 3.14 1.83.61a4.48 4.48 0 0 1 2.79 2.68 1.5 1.5 0 0 1-2.81 1.05 1.49 1.49 0 0 0-.93-.9l-2.55-.85-2.74 1.37a4.51 4.51 0 0 1-3.69.15A1.5 1.5 0 0 1 7 15.15a1.49 1.49 0 0 0 1.23-.05l2.68-1.34.98-3.93-2.11-.62a1.48 1.48 0 0 0-1.39.29l-.84.7a1.5 1.5 0 0 1-1.93-2.3l.84-.71a4.48 4.48 0 0 1 4.16-.87l6.37 1.88a1.49 1.49 0 0 0 1.28-.21z"],
+}
+export default ParalympicsRunning

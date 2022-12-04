@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShipmentBarcode : IconType = {
+    name: 'shipment-barcode',
+    key: 'ShipmentBarcode',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 9.16a.52.52 0 0 1-.27.46.55.55 0 0 1-.54-.01L12 8.25 9.03 9.69a.54.54 0 0 1-.53-.02.52.52 0 0 1-.26-.45V.75h7.5zm1.5 11.09v-6m-3 6v-1.38m-3 1.38v-5.78","M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5zm12 15.68v-1.96m6 5.56v-1.38m0-2.45v-1.95"],
+}
+export default ShipmentBarcode

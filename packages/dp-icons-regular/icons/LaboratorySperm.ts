@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LaboratorySperm : IconType = {
+    name: 'laboratory-sperm',
+    key: 'LaboratorySperm',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M10.15 15.53c.8.95.94 2.15.31 2.69s-1.8.2-2.6-.75-.94-2.15-.31-2.69 1.8-.2 2.6.75zm-2.6-.75S3.35 12.39 5.25 9s6-.75 8.25-3m2.25 6.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM18 7.88a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default LaboratorySperm

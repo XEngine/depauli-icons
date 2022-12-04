@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VrUserPlay1 : IconType = {
+    name: 'vr-user-play-1',
+    key: 'VrUserPlay1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 17.25h6a1.5 1.5 0 0 0 1.5-1.5V2.25a1.5 1.5 0 0 0-1.5-1.5H8.25a1.5 1.5 0 0 0-1.5 1.5V6","M11.25 7.5V6.11a.86.86 0 0 1 1.24-.77l5.79 2.89a.86.86 0 0 1 0 1.53l-3.96 1.98M2.25 12.75h9a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5z","M5.25 15.75h3m-6.63-2.86C2.1 10.41 3.92 9 6.75 9s4.66 1.41 5.13 3.89m-.74 5.86c-.87 2.4-2.38 4.5-4.39 4.5s-3.52-2.11-4.39-4.5"],
+}
+export default VrUserPlay1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BrowserPageHierarchy : IconType = {
+    name: 'browser-page-hierarchy',
+    key: 'BrowserPageHierarchy',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 2.25h18a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V3.75A1.5 1.5 0 0 1 3 2.25zm-1.5 4.5h21m-10.5 6v3","M11.25 9.75h1.5a.75.75 0 0 1 .75.75V12a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1-.75-.75v-1.5a.75.75 0 0 1 .75-.75zm0 6h1.5a.75.75 0 0 1 .75.75V18a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1-.75-.75v-1.5a.75.75 0 0 1 .75-.75zm-6 0h1.5a.75.75 0 0 1 .75.75V18a.75.75 0 0 1-.75.75h-1.5A.75.75 0 0 1 4.5 18v-1.5a.75.75 0 0 1 .75-.75zm12 0h1.5a.75.75 0 0 1 .75.75V18a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1-.75-.75v-1.5a.75.75 0 0 1 .75-.75zm-6.75-4.5h-3a1.5 1.5 0 0 0-1.5 1.5v3m7.5-4.5h3a1.5 1.5 0 0 1 1.5 1.5v3"],
+}
+export default BrowserPageHierarchy

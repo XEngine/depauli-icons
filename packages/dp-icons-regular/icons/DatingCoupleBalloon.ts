@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DatingCoupleBalloon : IconType = {
+    name: 'dating-couple-balloon',
+    key: 'DatingCoupleBalloon',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.99 12.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm4.25 10.5a4.5 4.5 0 0 0-8.49 0m17.49 0a4.5 4.5 0 0 0-8.49 0m4.24-10.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M10.99 15.75s0 3.75-2.25 3.75m8.25-3.75s0 3.75 2.25 3.75m4.01 3.75v-4.93a8.71 8.71 0 0 0-4.09-7.38 4.06 4.06 0 0 1-1.91-3.44m3.93-6.16a1.9 1.9 0 0 0-2.75 0l-1.18 1.22-1.18-1.22a1.9 1.9 0 0 0-2.75 0 2.06 2.06 0 0 0 0 2.85l3.51 3.14a.58.58 0 0 0 .84 0l3.51-3.14a2.06 2.06 0 0 0 0-2.85z"],
+}
+export default DatingCoupleBalloon

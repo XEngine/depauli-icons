@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmartWatchCirclePower : IconType = {
+    name: 'smart-watch-circle-power',
+    key: 'SmartWatchCirclePower',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 17.03v4.72a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-4.72M17.25.75v5.14m4.24-2.64a6 6 0 1 1-8.49 0M10.5.75h-6A1.5 1.5 0 0 0 3 2.25v4.72m5.52-1.62a6.71 6.71 0 0 0-1.02-.1 6.75 6.75 0 1 0 5.72 10.29"],
+}
+export default SmartWatchCirclePower

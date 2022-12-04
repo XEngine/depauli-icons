@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Discount30 : IconType = {
+    name: 'discount-30',
+    key: 'Discount30',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 12a3.75 3.75 0 0 0-2.62-3.58 3.75 3.75 0 0 0-5.06-5.06 3.75 3.75 0 0 0-7.15 0 3.75 3.75 0 0 0-5.06 5.06 3.75 3.75 0 0 0 0 7.15 3.75 3.75 0 0 0 5.06 5.06 3.75 3.75 0 0 0 7.15 0 3.75 3.75 0 0 0 5.06-5.06A3.75 3.75 0 0 0 23.25 12zM7.55 7.11A1.5 1.5 0 1 1 9 9a1.5 1.5 0 1 1-1.45 1.9m8.95-.4a1.5 1.5 0 0 1-3 0v-3a1.5 1.5 0 0 1 3 0zm-6.38 3.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M13.87 18a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-4.13.75 4.5-4.5"],
+}
+export default Discount30

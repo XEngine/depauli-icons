@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FoxBody : IconType = {
+    name: 'fox-body',
+    key: 'FoxBody',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 22.72v-7.48a3.53 3.53 0 0 1 3.73-3.74h2.24c2.24 0 4.49-1.5 4.49-2.99V6.27c0-3.74 2.99-3.74 2.99-3.74l.75 2.24s2.24 0 2.99 1.5 2.99 1.5 2.99 1.5.75 2.99-2.99 3.74c-2.32.46-2.99 2.99-2.99 4.49v6.72M3 19.73s3.74.75 4.49-2.99m-.59 1.49h5.82a4.64 4.64 0 0 0 4.52-2.83m-13.84-2L3 13A8.26 8.26 0 0 1 .75 7.76a6.55 6.55 0 0 1 5.24-6.73c1.5.75 1.5 2.99 0 5.98a7.34 7.34 0 0 0-.75 4.49l.05.24M2.25 3.27s0 3.18 4.09 2.98m11.99 1.51a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default FoxBody

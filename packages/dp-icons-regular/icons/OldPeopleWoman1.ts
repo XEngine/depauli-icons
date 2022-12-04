@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OldPeopleWoman1 : IconType = {
+    name: 'old-people-woman-1',
+    key: 'OldPeopleWoman1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.22 14.19V15a3.75 3.75 0 0 0 7.5 0v-.81M11.97.75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z","M22.45 23.25a10.5 10.5 0 0 0-20.95 0m5.28-16.5S6.72 10.5 3.72 12m13.45-5.25s.05 3.75 3.05 5.25m-18-5.25h19.5"],
+}
+export default OldPeopleWoman1

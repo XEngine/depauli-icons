@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TeaPot : IconType = {
+    name: 'tea-pot',
+    key: 'TeaPot',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.89 21.38h10.39a7.87 7.87 0 0 0 3.14-6.25 8.17 8.17 0 0 0-8.33-8 8.17 8.17 0 0 0-8.33 8 7.87 7.87 0 0 0 3.14 6.25z","M12.01 2.63a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-7.75 9.75h17.5a1.5 1.5 0 0 1 1.5 1.5v3M3.75 15.12l-3-2.75"],
+}
+export default TeaPot

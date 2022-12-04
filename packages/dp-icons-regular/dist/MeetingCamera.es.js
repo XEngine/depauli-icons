@@ -5,7 +5,7 @@ const e = {
   width: 24,
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
-  svgPathData: ["M3.75 5.26H12.75A3 3 0 0 1 15.75 8.26V15.759999999999998A3 3 0 0 1 12.75 18.759999999999998H3.75A3 3 0 0 1 .75 15.759999999999998V8.26A3 3 0 0 1 3.75 5.26zM18.75 15.01l3.42 1.71a.75.75 0 0 0 1.09-.67V7.97a.75.75 0 0 0-1.09-.67l-3.42 1.71"]
+  svgPathData: ["M3.75 5.26h9a3 3 0 0 1 3 3v7.5a3 3 0 0 1-3 3h-9a3 3 0 0 1-3-3v-7.5a3 3 0 0 1 3-3zm15 9.75 3.42 1.71a.75.75 0 0 0 1.09-.67V7.97a.75.75 0 0 0-1.09-.67l-3.42 1.71"]
 };
 export {
   e as default

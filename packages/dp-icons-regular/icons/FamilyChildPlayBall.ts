@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamilyChildPlayBall : IconType = {
+    name: 'family-child-play-ball',
+    key: 'FamilyChildPlayBall',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m22.68 11.69-2.12-2.12a4.47 4.47 0 0 0-3.18-1.32h-5.8a1.51 1.51 0 0 1-1.29-.73L8.92 5.23a1.5 1.5 0 0 0-2.57 1.54l1.38 2.3a4.53 4.53 0 0 0 3.86 2.18h1.86l-.48 3h-2.34a4.48 4.48 0 0 0-4.18 2.83l-.75 1.87a1.5 1.5 0 0 0 2.79 1.11l.75-1.86a1.49 1.49 0 0 1 1.39-.94h1.86l-.13.81a4.49 4.49 0 0 0 .69 3.27l.84 1.25a1.5 1.5 0 0 0 2.5-1.66l-.83-1.25a1.52 1.52 0 0 1-.23-1.12l1.16-7.3h.9a1.51 1.51 0 0 1 1.06.44l2.12 2.12a1.5 1.5 0 0 0 2.12-2.12zM15.5.74a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM3.13 11.25a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default FamilyChildPlayBall

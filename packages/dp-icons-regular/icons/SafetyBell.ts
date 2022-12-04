@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SafetyBell : IconType = {
+    name: 'safety-bell',
+    key: 'SafetyBell',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 2.25a7.5 7.5 0 1 0 0 15 7.5 7.5 0 1 0 0-15zm-4.5 15h9a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5zm1.5 3h6m9-12a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M20.25 11.25v6a3 3 0 0 1-3 3h-3m3-18.84a7.15 7.15 0 0 1 5.99 0m-4.49 3.08a4.17 4.17 0 0 1 3 0M8.25 6.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6z"],
+}
+export default SafetyBell

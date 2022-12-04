@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PetsPawHospital : IconType = {
+    name: 'pets-paw-hospital',
+    key: 'PetsPawHospital',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 12V8.25a1.5 1.5 0 0 0-1.5-1.5h-4.5v-4.5a1.5 1.5 0 0 0-1.5-1.5h-4.5a1.5 1.5 0 0 0-1.5 1.5v4.5h-4.5a1.5 1.5 0 0 0-1.5 1.5v4.5a1.5 1.5 0 0 0 1.5 1.5h4.5v4.5a1.5 1.5 0 0 0 1.5 1.5h4.5m6.13-5.63a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.39-.37m.75 0a.38.38 0 0 1-.38.38m-3.75.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m7.5-.75a.38.38 0 0 1 .38.37m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-2.86 2.24a1.25 1.25 0 0 0-1.77 0l-1.99 2a1.26 1.26 0 0 0 .89 2.14h3.98a1.26 1.26 0 0 0 .89-2.14z"],
+}
+export default PetsPawHospital

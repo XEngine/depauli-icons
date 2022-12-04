@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RobotHead1 : IconType = {
+    name: 'robot-head-1',
+    key: 'RobotHead1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 14.25C22.5 3.75 16.09.75 12 .75s-10.5 3-6.75 13.5","m21.75 23.25.82-5.56a3 3 0 0 0-2.97-3.44H4.4a3.01 3.01 0 0 0-2.97 3.44l.82 5.56M15 6.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-6 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6.75 12h3m-3 3h3M19.88 9h3.38M4.12 9H.75","M6 18.75h6a.75.75 0 0 1 .75.75v3a.75.75 0 0 1-.75.75H6a.75.75 0 0 1-.75-.75v-3a.75.75 0 0 1 .75-.75z"],
+}
+export default RobotHead1

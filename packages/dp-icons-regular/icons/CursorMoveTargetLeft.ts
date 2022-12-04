@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CursorMoveTargetLeft : IconType = {
+    name: 'cursor-move-target-left',
+    key: 'CursorMoveTargetLeft',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 8.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5z","M4.5 11.62a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m9 2.62-2.25-2.25 2.25-2.25M18.75 12h-7.5m-6.54 6.75a10.5 10.5 0 1 0 0-13.5"],
+}
+export default CursorMoveTargetLeft

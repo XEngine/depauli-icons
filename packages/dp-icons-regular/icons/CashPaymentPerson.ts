@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CashPaymentPerson : IconType = {
+    name: 'cash-payment-person',
+    key: 'CashPaymentPerson',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.1 15.75h10a1 1 0 0 1 1 1v5.5a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1v-5.5a1 1 0 0 1 1-1z","m10.88 15.75.67-2.75a1.5 1.5 0 0 1 1.81-1.11L22.11 14a1.5 1.5 0 0 1 1.11 1.81l-1.06 4.37a1.5 1.5 0 0 1-2.05 1.03m-5.85-2.09a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M.75 17.25a6.76 6.76 0 0 1 8.84-6.42M3.94 2.78a6.85 6.85 0 0 0 7.64 1.53","M7.5.75a4.13 4.13 0 1 0 0 8.26 4.13 4.13 0 1 0 0-8.26z"],
+}
+export default CashPaymentPerson

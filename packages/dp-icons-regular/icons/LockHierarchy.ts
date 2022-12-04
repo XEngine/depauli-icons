@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LockHierarchy : IconType = {
+    name: 'lock-hierarchy',
+    key: 'LockHierarchy',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 18.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm9 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm9 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM9 6h6a1.5 1.5 0 0 1 1.5 1.5v3.75a1.5 1.5 0 0 1-1.5 1.5H9a1.5 1.5 0 0 1-1.5-1.5V7.5A1.5 1.5 0 0 1 9 6zm3 12.75v-6m-9 6v-3h18v3M9 6V3.75a3 3 0 0 1 6 0V6"],
+}
+export default LockHierarchy

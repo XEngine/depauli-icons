@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MedicalAppSmartphoneListen : IconType = {
+    name: 'medical-app-smartphone-listen',
+    key: 'MedicalAppSmartphoneListen',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21 15a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM.75 6.75v4.5a7.5 7.5 0 0 0 15 0v-4.5","M18.75 17.25a3 3 0 0 0-3 3 3 3 0 0 1-3 3h-1.5a3 3 0 0 1-3-3v-1.5m-3-18h6a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","M8.25 10.88a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default MedicalAppSmartphoneListen

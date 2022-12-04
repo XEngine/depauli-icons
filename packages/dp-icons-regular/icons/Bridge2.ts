@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Bridge2 : IconType = {
+    name: 'bridge-2',
+    key: 'Bridge2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75.75h22.5M.75 8.25h22.5m-18 10.5V15a2.25 2.25 0 0 1 4.5 0v3.75m3 0V15a2.25 2.25 0 0 1 4.5 0v3.75m3 0V15a2.25 2.25 0 0 1 2.99-2.13m-22.48.01A2.25 2.25 0 0 1 2.25 15v3.75m7.5-10.5h-3v-3a1.5 1.5 0 0 1 3 0zm7.5 0h-3v-3a1.5 1.5 0 0 1 3 0zm4.5 0v-3a1.5 1.5 0 0 1 1.5-1.5m-22.5 0a1.5 1.5 0 0 1 1.5 1.5v3m21 15A2.55 2.55 0 0 1 20.78 21c0 1.24-1.31 2.25-2.93 2.25s-2.93-1.01-2.93-2.25c0 1.24-1.31 2.25-2.93 2.25S9.08 22.24 9.08 21c0 1.24-1.31 2.25-2.93 2.25S3.23 22.24 3.23 21a2.55 2.55 0 0 1-2.48 2.25"],
+}
+export default Bridge2

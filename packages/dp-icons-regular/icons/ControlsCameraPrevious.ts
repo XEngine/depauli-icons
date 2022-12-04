@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ControlsCameraPrevious : IconType = {
+    name: 'controls-camera-previous',
+    key: 'ControlsCameraPrevious',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 12.75h-4.5a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5h12a1.5 1.5 0 0 1 1.5 1.5V9m3.83 1.17 2.59 1.29a.75.75 0 0 0 1.09-.67V2.71a.75.75 0 0 0-1.09-.67l-2.59 1.29a1.5 1.5 0 0 0-.83 1.34v4.15a1.5 1.5 0 0 0 .83 1.34zm-1.53 7.98a.75.75 0 0 0 0 1.2l4 3a.75.75 0 0 0 1.2-.6v-6a.75.75 0 0 0-1.2-.6zm-5.3-3.9h1.5A.75.75 0 0 1 15 15v7.5a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1-.75-.75V15a.75.75 0 0 1 .75-.75z"],
+}
+export default ControlsCameraPrevious

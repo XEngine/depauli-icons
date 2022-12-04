@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CogPlay : IconType = {
+    name: 'cog-play',
+    key: 'CogPlay',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.54 2.44a1.96 1.96 0 0 0 2.91 0l.94-1.04a1.96 1.96 0 0 1 3.41 1.41l-.07 1.4a1.96 1.96 0 0 0 2.06 2.06l1.4-.07a1.96 1.96 0 0 1 1.41 3.41l-1.04.94a1.96 1.96 0 0 0 0 2.91l1.04.94a1.96 1.96 0 0 1-1.41 3.41l-1.4-.07a1.96 1.96 0 0 0-2.06 2.06l.07 1.4a1.96 1.96 0 0 1-3.41 1.41l-.94-1.04a1.96 1.96 0 0 0-2.91 0l-.94 1.04a1.96 1.96 0 0 1-3.41-1.41l.07-1.4a1.96 1.96 0 0 0-2.06-2.06l-1.4.07a1.96 1.96 0 0 1-1.41-3.41l1.04-.94a1.96 1.96 0 0 0 0-2.91l-1.04-.94A1.96 1.96 0 0 1 2.81 6.2l1.4.07a1.96 1.96 0 0 0 2.06-2.06l-.07-1.4A1.96 1.96 0 0 1 9.6 1.4zm4.45 9.8-6-3.52v7.03l6-3.52z"],
+}
+export default CogPlay

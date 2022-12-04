@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DatabaseClock : IconType = {
+    name: 'database-clock',
+    key: 'DatabaseClock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M19.9 17.25h-2.65V14.6m2.36-6.04c2.24-.82 3.64-2 3.64-3.31 0-2.49-5.04-4.5-11.25-4.5S.75 2.77.75 5.25 5.79 9.75 12 9.75M.75 11.25c0 1.98 3.21 3.67 7.67 4.27M.75 5.25v12c0 2.13 3.68 3.91 8.64 4.38m13.86-11.09V5.25m-3.64 3.31c2.24-.82 3.64-2 3.64-3.31 0-2.49-5.04-4.5-11.25-4.5S.75 2.77.75 5.25 5.79 9.75 12 9.75M.75 11.25c0 1.98 3.21 3.67 7.67 4.27M.75 5.25v12c0 2.13 3.68 3.91 8.64 4.38m13.86-11.09V5.25"],
+}
+export default DatabaseClock

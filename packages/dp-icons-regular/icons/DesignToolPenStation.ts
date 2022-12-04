@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DesignToolPenStation : IconType = {
+    name: 'design-tool-pen-station',
+    key: 'DesignToolPenStation',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.16.76c2.6 2.33 1.98 1.39 3.32 2.26a2.16 2.16 0 0 1 .78.93 2.25 2.25 0 1 1-4.11 1.84 5.69 5.69 0 0 1 0-5.03zm2.07 6.36.93 2.64m6.75 13.5h-4.5a4.5 4.5 0 0 1-4.5-4.5v-9h13.5v9a4.5 4.5 0 0 1-4.5 4.5zm6-4.5h-1.5v-9h1.5a4.5 4.5 0 0 1 0 9zM6.24 5.85l2.43 3.91m.98 0 2.02-5.73 3.4-3.29.59 4.7-1.52 4.32m1.29-3.66a3.53 3.53 0 0 1-3.99-1.41"],
+}
+export default DesignToolPenStation

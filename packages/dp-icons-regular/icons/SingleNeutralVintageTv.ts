@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleNeutralVintageTv : IconType = {
+    name: 'single-neutral-vintage-tv',
+    key: 'SingleNeutralVintageTv',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 5.25a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm-4.5 10.5a4.5 4.5 0 0 1 9 0","M2.25 2.25h19.5a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V3.75a1.5 1.5 0 0 1 1.5-1.5z","M15.75 2.25v16.5m3-7.5h1.5m-1.5 3h1.5M19.5 7.5zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38M2.25 21.75l3-3m16.5 3-3-3"],
+}
+export default SingleNeutralVintageTv

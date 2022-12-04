@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Network1 : IconType = {
+    name: 'network-1',
+    key: 'Network1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a9 9 0 1 0 0 18 9 9 0 1 0 0-18z","M.75 23.25h22.5M12 18.75v4.5m0-22.5a11.86 11.86 0 0 0-3.75 9 11.86 11.86 0 0 0 3.75 9m0-18a11.86 11.86 0 0 1 3.75 9 11.86 11.86 0 0 1-3.75 9m-8.49-12h16.97m-16.97 6h16.97"],
+}
+export default Network1

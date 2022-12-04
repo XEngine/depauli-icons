@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DiscountArrow : IconType = {
+    name: 'discount-arrow',
+    key: 'DiscountArrow',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25.75.75 23.25M23.25 7.5V.75H16.5m-11.25 3a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm12 12a3 3 0 1 0 0 6 3 3 0 1 0 0-6z"],
+}
+export default DiscountArrow

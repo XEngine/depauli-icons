@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PeopleWoman4 : IconType = {
+    name: 'people-woman-4',
+    key: 'PeopleWoman4',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.97 5.25S10.54 8.85 6.94 9A5.25 5.25 0 1 0 17 9c-3.59-.15-5.03-3.75-5.03-3.75z","M16.72 12.75h2a1.5 1.5 0 0 0 1.5-1.5v-1.9A8.49 8.49 0 0 0 12.78.79 8.25 8.25 0 0 0 3.72 9v2.25a1.5 1.5 0 0 0 1.5 1.5h2.01m-2.01 0a1.5 2.25 0 1 0 0 4.5 1.5 2.25 0 1 0 0-4.5zm13.5 0a1.5 2.25 0 1 0 0 4.5 1.5 2.25 0 1 0 0-4.5z","M21.45 23.25a10.57 10.57 0 0 0-1.92-2.78m-15.11 0a10.57 10.57 0 0 0-1.92 2.78m14.73-4.59a10.48 10.48 0 0 0-10.5 0m0 .09c0 .83-1.5 3-1.5 3s-1.5-2.17-1.5-3a1.5 1.5 0 0 1 3 0zm10.5 0c0 .83 1.5 3 1.5 3s1.5-2.17 1.5-3a1.5 1.5 0 0 0-3 0zm-9.06-.79v.79a3.75 3.75 0 0 0 7.5 0v-.83"],
+}
+export default PeopleWoman4

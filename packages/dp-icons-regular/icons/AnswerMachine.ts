@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AnswerMachine : IconType = {
+    name: 'answer-machine',
+    key: 'AnswerMachine',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 2.25h1.5a3 3 0 0 1 3 3v13.5a3 3 0 0 1-3 3h-1.5a3 3 0 0 1-3-3V5.25a3 3 0 0 1 3-3z","M4.15 20.25h-.4a3 3 0 0 1-3-3V6.75a3 3 0 0 1 3-3h.4m6.7 16.5h9.4a3 3 0 0 0 3-3V6.75a3 3 0 0 0-3-3h-9.4m4.15 3h4.5m-.38 4.5zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m0 3.75zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-3.75-3.75zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m0 3.75zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38"],
+}
+export default AnswerMachine

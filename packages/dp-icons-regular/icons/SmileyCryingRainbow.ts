@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyCryingRainbow : IconType = {
+    name: 'smiley-crying-rainbow',
+    key: 'SmileyCryingRainbow',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.48 9a2.25 2.25 0 0 0-4.24 0M9.73 9a2.25 2.25 0 0 0-4.24 0M12 14.25h0a1.5 1.5 0 0 1 1.5 1.5v1.5a1.5 1.5 0 0 1-1.5 1.5h0a1.5 1.5 0 0 1-1.5-1.5v-1.5a1.5 1.5 0 0 1 1.5-1.5z","M4.5 12.75v7.5a2.25 2.25 0 0 0-2.25 2.25.75.75 0 0 0 .75.75h6a.75.75 0 0 0 .75-.75 2.25 2.25 0 0 0-2.25-2.25v-7.5m9 0v7.5a2.25 2.25 0 0 0-2.25 2.25.75.75 0 0 0 .75.75h6a.75.75 0 0 0 .75-.75 2.25 2.25 0 0 0-2.25-2.25v-7.5m3.1 3a11.25 11.25 0 1 0-21.19 0"],
+}
+export default SmileyCryingRainbow

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LoveGiftCoupleBox : IconType = {
+    name: 'love-gift-couple-box',
+    key: 'LoveGiftCoupleBox',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.75 9.75H2.25v12a1.5 1.5 0 0 0 1.5 1.5h16.5a1.5 1.5 0 0 0 1.5-1.5zm0-4.5H2.25a1.5 1.5 0 0 0-1.5 1.5v3h22.5v-3a1.5 1.5 0 0 0-1.5-1.5z","M9.75 5.25h4.5v4.5h-4.5zm2.25 0L7.5.75m4.5 4.5 4.5-4.5M8.25 13.5a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM12 23.25a3.75 3.75 0 0 0-7.5 0m11.25-9.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm3.75 9.75a3.75 3.75 0 0 0-7.5 0"],
+}
+export default LoveGiftCoupleBox

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PhoneExpand1 : IconType = {
+    name: 'phone-expand-1',
+    key: 'PhoneExpand1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 5.25h4.5a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5V6.75a1.5 1.5 0 0 1 1.5-1.5zm6 10.5h-7.5m2.25-13.5L12 .75l1.5 1.5m-3 19.5 1.5 1.5 1.5-1.5m6.75-11.25 1.5 1.5-1.5 1.5m-16.5-3L2.25 12l1.5 1.5"],
+}
+export default PhoneExpand1

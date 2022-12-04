@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignLightGuide : IconType = {
+    name: 'road-sign-light-guide',
+    key: 'RoadSignLightGuide',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7 .75h10a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","m18 21-6-5.25L6 21m12-6.75L12 9l-6 5.25M18 7.5l-6-5.25L6 7.5"],
+}
+export default RoadSignLightGuide

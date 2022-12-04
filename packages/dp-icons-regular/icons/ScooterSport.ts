@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ScooterSport : IconType = {
+    name: 'scooter-sport',
+    key: 'ScooterSport',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 16a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm-2.37-8.61L2.25 8.5a1.5 1.5 0 0 0 0 3h1.74a6 6 0 0 1 4.56 2.1l2.25 2.63a1.5 1.5 0 0 0 1.14.52h1.61a1.5 1.5 0 0 0 1.15-.54l2.03-2.43A4.25 4.25 0 0 1 23 13.5l.26.26M3.75 16a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M20.25 19 17.13 3.69a1.5 1.5 0 0 0-1.47-1.19h-1.78M3.75 19l5.74-4.3m4.76-7.05V10a1.5 1.5 0 0 1-1.5 1.5h-1.63a1.5 1.5 0 0 1-1.06-.44L7.15 8.15m14.98 1.1a1.88 1.88 0 0 1 0-3.75h.75v3.75z"],
+}
+export default ScooterSport

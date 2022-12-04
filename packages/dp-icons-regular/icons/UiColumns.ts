@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const UiColumns : IconType = {
+    name: 'ui-columns',
+    key: 'UiColumns',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm1.5 3h7.27m-7.27 3 4.45.01M15 .75v9","M19.5 3.75 18 5.25l1.5 1.5m-17.25 7.5h19.5a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5z","M3.75 17.25h7.27m-7.27 3 4.45.01m6.8-6.01v9m4.5-6-1.5 1.5 1.5 1.5"],
+}
+export default UiColumns

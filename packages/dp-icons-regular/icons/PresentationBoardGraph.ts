@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PresentationBoardGraph : IconType = {
+    name: 'presentation-board-graph',
+    key: 'PresentationBoardGraph',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 17.25v3m0 0-3 3m3-3 3 3M3 .75h18a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V2.25A1.5 1.5 0 0 1 3 .75z","M4.5 9.75h3l1.5-3L12 12l2.25-3.75 2.25 1.5 3-3.75"],
+}
+export default PresentationBoardGraph

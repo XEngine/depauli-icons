@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const JobSeachMan : IconType = {
+    name: 'job-seach-man',
+    key: 'JobSeachMan',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.5 1.5a9 9 0 1 0 0 18 9 9 0 1 0 0-18zm6.36 15.37 5.64 5.63","M10.5 4.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm0 7.5v4.5m4.22-1.5a4.47 4.47 0 0 0-8.45 0"],
+}
+export default JobSeachMan

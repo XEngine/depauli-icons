@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ComputerChip64 : IconType = {
+    name: 'computer-chip-64',
+    key: 'ComputerChip64',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 7.5v-3m3 3v-3m-6 6h-3m3 6h-3m3-3h-3m9 9v-3m9-3h-3m-9 6v-3m6 3v-3m3-6V18a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5V9a1.5 1.5 0 0 1 1.5-1.5h6","M7.5 10.5H12a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75H7.5a.75.75 0 0 1-.75-.75v-4.5a.75.75 0 0 1 .75-.75zm9.75-9A2.25 2.25 0 0 0 15 3.75V6","M16.5 4.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6.75.75h-3V4.5a3 3 0 0 1 3-3v6"],
+}
+export default ComputerChip64

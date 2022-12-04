@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PoolTriangle : IconType = {
+    name: 'pool-triangle',
+    key: 'PoolTriangle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 5.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm0 12a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-6 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm12 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-9-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M20.25 23.25a3 3 0 0 0 2.68-4.34L14.67 2.38a3 3 0 0 0-5.34 0L1.07 18.91a3 3 0 0 0 2.68 4.34z"],
+}
+export default PoolTriangle

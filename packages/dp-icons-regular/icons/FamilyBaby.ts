@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamilyBaby : IconType = {
+    name: 'family-baby',
+    key: 'FamilyBaby',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .93a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm1.19 15.69 2.08 2.08-1.47 1.96a1.5 1.5 0 0 0 2.4 1.8l1.47-1.96a3.01 3.01 0 0 0-.28-3.92l-1.64-1.64v-3.98a2.95 2.95 0 0 1 .26.23l1.68 1.68a1.5 1.5 0 1 0 2.12-2.12l-1.68-1.68a6.04 6.04 0 0 0-4.24-1.76h-3.77a6.04 6.04 0 0 0-4.24 1.76L4.2 10.75a1.5 1.5 0 0 0 2.12 2.12L8 11.19a2.95 2.95 0 0 1 .26-.23v3.98l-1.64 1.64a3.01 3.01 0 0 0-.28 3.92l1.47 1.96a1.5 1.5 0 0 0 2.4-1.8L8.73 18.7l2.08-2.08zm-4.94-3.31 2.56 3.31h2.38l2.56-3.31v-.75a7.29 7.29 0 0 0-7.5 0z"],
+}
+export default FamilyBaby

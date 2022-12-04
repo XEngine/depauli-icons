@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamilyChildJumpingRope : IconType = {
+    name: 'family-child-jumping-rope',
+    key: 'FamilyChildJumpingRope',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.38 6.37A2.63 2.63 0 1 1 12 9a2.63 2.63 0 0 1-2.62-2.63m11.94 3.81a1.5 1.5 0 0 0-2.12 0l-.72.72a1.49 1.49 0 0 1-1.73.28l-1.07-.53a1.5 1.5 0 0 0-.68-.15H9a1.5 1.5 0 0 0-.67.16l-1.07.53a1.5 1.5 0 0 1-1.73-.28l-.72-.72a1.5 1.5 0 0 0-2.12 2.12l.72.72a4.49 4.49 0 0 0 5.19.84l.38-.19a2.98 2.98 0 0 1-.3 1.2L7.5 17.25H9v1.34a1.49 1.49 0 0 1-.25.83l-1 1.49a1.5 1.5 0 1 0 2.5 1.66l1-1.49a4.48 4.48 0 0 0 .76-2.5 4.48 4.48 0 0 0 .76 2.5l1 1.49a1.5 1.5 0 0 0 2.5-1.66l-1-1.49a1.49 1.49 0 0 1-.26-.83v-1.34h1.5l-1.18-2.37a2.98 2.98 0 0 1-.3-1.2l.38.19a4.49 4.49 0 0 0 5.19-.84l.72-.72a1.5 1.5 0 0 0 0-2.12zm-1.19-2.67a8.25 8.25 0 0 0-16.24 0"],
+}
+export default FamilyChildJumpingRope

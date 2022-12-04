@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProductsGifts : IconType = {
+    name: 'products-gifts',
+    key: 'ProductsGifts',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.05 20.25h3m-3-15.75v9M.8 9h10.5M3.8.75 6.05 4.5M8.3.75 6.05 4.5m9.75 18.75a3 3 0 0 0-3-3H9.05a3 3 0 0 0-3-3H.8v6zM1.3 4.5h9.5a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-.5.5H1.3a.5.5 0 0 1-.5-.5V5a.5.5 0 0 1 .5-.5zm12.56 4.08.36-2.68a.75.75 0 0 1 .74-.65h6.19a.75.75 0 0 1 .74.65l1.3 9.75a.77.77 0 0 1-.74.85H12.8m3-11.25v-1.5a2.25 2.25 0 0 1 4.5 0v1.5"],
+}
+export default ProductsGifts

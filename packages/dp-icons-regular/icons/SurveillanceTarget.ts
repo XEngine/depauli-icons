@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SurveillanceTarget : IconType = {
+    name: 'surveillance-target',
+    key: 'SurveillanceTarget',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M12 5.25a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 1 0 0-13.5z","M12 9.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm1.58.65 6.44-6.29m-.15 13.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-12.75-4.5a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m6-12a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M3.75 7.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default SurveillanceTarget

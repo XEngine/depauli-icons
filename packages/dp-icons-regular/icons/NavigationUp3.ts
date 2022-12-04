@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NavigationUp3 : IconType = {
+    name: 'navigation-up-3',
+    key: 'NavigationUp3',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-width":"1.5"},
+    svgPathData: ["M9.75 15.03v6.72a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V11.69A10.79 10.79 0 0 1 11.68.75a10.5 10.5 0 0 1 10.82 10.5v10.5a1.5 1.5 0 0 1-1.5 1.5h-5.25a1.5 1.5 0 0 1-1.5-1.5v-6.72","m9.75 15.03-.92.92a1.88 1.88 0 0 1-2.65-2.65l4.5-4.5a1.88 1.88 0 0 1 2.65 0l4.5 4.5a1.88 1.88 0 1 1-2.65 2.65l-.92-.92"],
+}
+export default NavigationUp3

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DecorationFlowerVase : IconType = {
+    name: 'decoration-flower-vase',
+    key: 'DecorationFlowerVase',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.12 11.07H6.63a6.75 6.75 0 1 0 8.48 0zm-10.61 7.5h12.73m-4.11 0-6-15m-3 3L8.8 7.74M10.13.95a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M2.63 3.2a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0 6a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m9 1.87s4.5-3.75 4.5-7.5m-.83 3h3.83m.75-4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m1.5 7.88a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default DecorationFlowerVase

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CryptoCurrencyLitecoin : IconType = {
+    name: 'crypto-currency-litecoin',
+    key: 'CryptoCurrencyLitecoin',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M10.5 4.5 8.54 16.63a.52.52 0 0 0 .11.43.51.51 0 0 0 .4.19h8.58M5.86 13.53l8.18-3.58"],
+}
+export default CryptoCurrencyLitecoin

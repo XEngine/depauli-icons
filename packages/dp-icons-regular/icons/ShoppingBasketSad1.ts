@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShoppingBasketSad1 : IconType = {
+    name: 'shopping-basket-sad-1',
+    key: 'ShoppingBasketSad1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9 2.01A7.95 7.95 0 0 0 4.42 6m15.16 0A7.95 7.95 0 0 0 15 2.01M10.13.75h3.74A1.13 1.13 0 0 1 15 1.88v.74a1.13 1.13 0 0 1-1.13 1.13h-3.74A1.13 1.13 0 0 1 9 2.62v-.74A1.13 1.13 0 0 1 10.13.75zm8.81 22.5H5.06a1.44 1.44 0 0 1-1.38-1.14l-2.14-10.5a1.48 1.48 0 0 1 1.39-1.86h18.15a1.48 1.48 0 0 1 1.38 1.86l-2.14 10.5a1.44 1.44 0 0 1-1.38 1.14zM9 13.02a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m1.21 7.23a5.06 5.06 0 0 0-8.42 0"],
+}
+export default ShoppingBasketSad1

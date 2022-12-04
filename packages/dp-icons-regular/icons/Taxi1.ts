@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Taxi1 : IconType = {
+    name: 'taxi-1',
+    key: 'Taxi1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 17.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm13.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M20.25 19h1.5a1.5 1.5 0 0 0 1.5-1.5v-3a1.5 1.5 0 0 0-1.5-1.5h-3a6 6 0 0 0-6-6h-3a1.92 1.92 0 0 0-1.86 1.46L6.75 13h-3a3 3 0 0 0-3 3v1.5a1.5 1.5 0 0 0 1.5 1.5h1.5m3 0h10.5m-10.5-6h12m-10.5 3H9m3 0h.75m3 0h.75M9.75 7V5.5a1.5 1.5 0 0 1 1.5-1.5H12a1.5 1.5 0 0 1 1.5 1.5v1.55"],
+}
+export default Taxi1

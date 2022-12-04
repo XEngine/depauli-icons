@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CasinoChipBuy : IconType = {
+    name: 'casino-chip-buy',
+    key: 'CasinoChipBuy',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M17.25 15a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0 0v-3.75m1.95 4.88 3.25-1.88m-7.15 1.88-3.25-1.88m5.2 5.25v3.75m1.95-4.88 3.25 1.88m-7.15-1.88-3.25 1.88m11.2-9.75V2.37A1.62 1.62 0 0 0 21.64.75H2.36A1.61 1.61 0 0 0 .75 2.36v16.28a1.62 1.62 0 0 0 1.62 1.62h5.88m-7.5-15h22.5"],
+}
+export default CasinoChipBuy

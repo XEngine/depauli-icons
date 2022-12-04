@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Glasses : IconType = {
+    name: 'glasses',
+    key: 'Glasses',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 17.25h4.5m-13.5 1.5V6c0-2.41 1.34-3.75 3-3.75h.75m18.75 13.5V5.25a3 3 0 0 0-3-3h-.75","M15.25 14.25h7a1 1 0 0 1 1 1v5.5a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-5.5a1 1 0 0 1 1-1zm-13.5 0h7a1 1 0 0 1 1 1v5.5a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-5.5a1 1 0 0 1 1-1z"],
+}
+export default Glasses

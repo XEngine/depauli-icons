@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VinylRecordPlayer2 : IconType = {
+    name: 'vinyl-record-player-2',
+    key: 'VinylRecordPlayer2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.13 7.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38","M23.08 17.9a3.56 3.56 0 0 0 .17-1.08 3.39 3.39 0 0 0-.17-1.08L19.69 3.29a1.44 1.44 0 0 0-1.33-1.04H5.64a1.44 1.44 0 0 0-1.33 1.04L.92 15.75a3.39 3.39 0 0 0-.17 1.08 3.56 3.56 0 0 0 .17 1.07l1.46 2.8a1.42 1.42 0 0 0 1.31 1.05h16.63a1.42 1.42 0 0 0 1.31-1.05z","m17.14 5.11.9 2.25a2.95 2.95 0 0 1-.9 3.4l-.56.45M10.13 4.5a4.13 3.38 0 1 0 0 6.76 4.13 3.38 0 1 0 0-6.76zm-9.36 12h22.47m-17.98-3h1.5"],
+}
+export default VinylRecordPlayer2

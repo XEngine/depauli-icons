@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ChristmasLights : IconType = {
+    name: 'christmas-lights',
+    key: 'ChristmasLights',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 2.33a33.32 33.32 0 0 0 22.5 0M5.69 9.59l-2.91-.37.19-1.46a1.47 1.47 0 0 1 2.91.37zm-1.23 8.55c-.5.49-.79.89-1.44.81s-.82-.54-1.19-1.15a7.04 7.04 0 0 1 .83-8.6l3.14.4a7.04 7.04 0 0 1-1.34 8.54zm8.51-7.01h-2.94V9.66a1.47 1.47 0 0 1 2.94 0zm-.14 8.64c-.44.55-.67.99-1.32.99s-.88-.43-1.32-.99a7.04 7.04 0 0 1-.26-8.64h3.16a7.04 7.04 0 0 1-.26 8.64zm4.56-10.18 2.91-.37-.18-1.46a1.47 1.47 0 0 0-1.64-1.27 1.47 1.47 0 0 0-1.27 1.64zm1.23 8.55c.51.49.79.89 1.44.81s.82-.54 1.19-1.14a7.04 7.04 0 0 0-.83-8.6l-3.14.4a7.04 7.04 0 0 0 1.34 8.53zM11.51 8.2V4.28m-6.9 2.21.4-2.97m13.48 2.97-.44-2.78"],
+}
+export default ChristmasLights

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Screwdriver : IconType = {
+    name: 'screwdriver',
+    key: 'Screwdriver',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m12.23 13.89-2.12-2.12a1.5 1.5 0 0 0-2.12 0l-6.36 6.36a3 3 0 0 0 4.24 4.24l6.36-6.36a1.5 1.5 0 0 0 0-2.12zm6.8-12.43a1.58 1.58 0 0 1 2.43-.24l1.32 1.32a1.58 1.58 0 0 1-.24 2.43l-2.47 1.65a1.94 1.94 0 0 1-2.69-2.69zm-1.41 4.92-6.45 6.45"],
+}
+export default Screwdriver

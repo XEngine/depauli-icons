@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArrowButtonRight2 : IconType = {
+    name: 'arrow-button-right-2',
+    key: 'ArrowButtonRight2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","fill-rule":"evenodd","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.12 11.36 3.88 1.6a.75.75 0 0 0-1.13.64v19.53a.75.75 0 0 0 1.13.64l17.25-9.76a.73.73 0 0 0 0-1.27z"],
+}
+export default ArrowButtonRight2

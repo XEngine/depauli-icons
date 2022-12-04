@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DataTransferFtp : IconType = {
+    name: 'data-transfer-ftp',
+    key: 'DataTransferFtp',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 5.25h19.5a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V6.75a1.5 1.5 0 0 1 1.5-1.5z","M4.5 15.75v-6A1.5 1.5 0 0 1 6 8.25h1.5m-3 4.5h2.25m5.25 3v-7.5m-1.5 0h3m3 7.5v-7.5m0 0h.75a2.25 2.25 0 0 1 0 4.5h-.75m-6.75 9 2.25 1.5 2.25-1.5m0-19.5L12 .75l-2.25 1.5"],
+}
+export default DataTransferFtp

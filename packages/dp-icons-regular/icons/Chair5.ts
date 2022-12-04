@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Chair5 : IconType = {
+    name: 'chair-5',
+    key: 'Chair5',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 8.93A14.51 14.51 0 0 1 1.24 4.64a2.05 2.05 0 0 1 3.11-2.67A10.47 10.47 0 0 0 12 4.84a10.47 10.47 0 0 0 7.67-2.88 2.05 2.05 0 0 1 3.09 2.68A14.51 14.51 0 0 1 12 8.93zM3.49 6.5l17.72 16.24m-.7-16.23L2.79 22.74"],
+}
+export default Chair5

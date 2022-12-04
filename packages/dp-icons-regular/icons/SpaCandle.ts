@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SpaCandle : IconType = {
+    name: 'spa-candle',
+    key: 'SpaCandle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.75 17.48a2.09 2.09 0 0 0-3.18-1.79 2.07 2.07 0 0 0 .03-.31 2.1 2.1 0 0 0-4.2 0 2.07 2.07 0 0 0 .03.31 2.1 2.1 0 1 0-1.14 3.89 2.09 2.09 0 1 0 3.21 2.58 2.09 2.09 0 1 0 3.21-2.58 2.1 2.1 0 0 0 2.04-2.09zm-5.25.68a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M7.06.75a2.99 2.99 0 0 1 .3 3.41 1.07 1.07 0 0 1-1.13-.91 2.41 2.41 0 0 0-1.25 2.27A2.73 2.73 0 0 0 7.7 8.25a2.76 2.76 0 0 0 2.73-2.73A4.53 4.53 0 0 0 7.06.75zM9 20.25H3.75a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5h7.5a1.5 1.5 0 0 1 1.5 1.5v3m-10.5-1.5h1.5a1.5 1.5 0 0 1 1.5 1.5v1.5a1.5 1.5 0 0 0 3 0v-1.5a1.5 1.5 0 0 1 1.5-1.5h3"],
+}
+export default SpaCandle

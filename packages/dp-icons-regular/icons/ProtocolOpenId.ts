@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProtocolOpenId : IconType = {
+    name: 'protocol-open-id',
+    key: 'ProtocolOpenId',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.06 9.78a18.15 18.15 0 0 0-6.61-2.22V1.73l-3.9 2.45v3.3C.26 8.2-5.22 19.13 11 22.27L14.45 20v-9.29a18.27 18.27 0 0 1 4.42 1.39l-2 1.24 6.34 1.23V8.32zm-10.51.91v8.15c-10.31-1.4-6.55-8.15 0-8.15z"],
+}
+export default ProtocolOpenId

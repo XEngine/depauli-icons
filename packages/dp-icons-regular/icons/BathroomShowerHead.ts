@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BathroomShowerHead : IconType = {
+    name: 'bathroom-shower-head',
+    key: 'BathroomShowerHead',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.25 9.91a10.5 10.5 0 0 0-20.13 0zm-10.07-7.5V.91m-.31 12.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0 6a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m12 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-9-3a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-6 6a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m12 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default BathroomShowerHead

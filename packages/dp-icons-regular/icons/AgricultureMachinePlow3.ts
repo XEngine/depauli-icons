@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AgricultureMachinePlow3 : IconType = {
+    name: 'agriculture-machine-plow-3',
+    key: 'AgricultureMachinePlow3',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 22.87h-3v-9.75a1.5 1.5 0 0 1 3 0zm19.5 0h-3v-9.75a1.5 1.5 0 0 1 3 0zM6.93 10.12l.57-6m9.57 6-.57-6m-8-3h7a1 1 0 0 1 1 1v2h-9v-2a1 1 0 0 1 1-1zm-4.75 12h16.5m-16.5 7.5h16.5M7.5 13.12v2.25m4.5-2.25v2.25m4.5-2.25v2.25m-9 5.25v2.25m4.5-2.25v2.25m4.5-2.25v2.25M3.75 17.62h16.5"],
+}
+export default AgricultureMachinePlow3

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PerformanceMoneyIncrease : IconType = {
+    name: 'performance-money-increase',
+    key: 'PerformanceMoneyIncrease',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.75.75 14.4 8.1a1.5 1.5 0 0 1-1.93.16l-3.3-2.35a1.5 1.5 0 0 0-1.81.05L.75 11.25m15-10.5h6v6M15 20.25h7.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V21a.75.75 0 0 1 .75-.75zm-12 0h7.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H3a.75.75 0 0 1-.75-.75V21a.75.75 0 0 1 .75-.75zm-1.5-3H9a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H1.5a.75.75 0 0 1-.75-.75V18a.75.75 0 0 1 .75-.75zm1.5-3h7.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H3a.75.75 0 0 1-.75-.75V15a.75.75 0 0 1 .75-.75zm10.5 3H21a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75h-7.5a.75.75 0 0 1-.75-.75V18a.75.75 0 0 1 .75-.75zm1.5-3h7.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V15a.75.75 0 0 1 .75-.75zm0-3h7.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V12a.75.75 0 0 1 .75-.75z"],
+}
+export default PerformanceMoneyIncrease

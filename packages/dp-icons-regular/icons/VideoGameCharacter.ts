@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameCharacter : IconType = {
+    name: 'video-game-character',
+    key: 'VideoGameCharacter',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.88 8.25A8.74 8.74 0 0 1 6 6.75a6 6 0 0 1 12 0 8.74 8.74 0 0 1 .12 1.5m-.5 3.42A10.47 10.47 0 0 1 12 18a10.47 10.47 0 0 1-5.62-6.33m11.74-3.42 2.74 2.35a.75.75 0 0 1-.53 1.32A34.95 34.95 0 0 1 12 10.5a34.95 34.95 0 0 1-8.33 1.42.75.75 0 0 1-.53-1.32l2.74-2.35zM9.75 5.63a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75A.38.38 0 0 1 9.38 6m.75 0a.38.38 0 0 1-.38.38m4.5-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M8.16 15H6.79a3 3 0 0 0-2.44 1.26L1.5 20.25m3.75 3L7.5 19.5v3.75M15.84 15h1.37a3 3 0 0 1 2.44 1.26l2.85 3.99m-3.75 3L16.5 19.5v3.75"],
+}
+export default VideoGameCharacter

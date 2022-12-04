@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const UiBrowserSlider : IconType = {
+    name: 'ui-browser-slider',
+    key: 'UiBrowserSlider',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75.75h16.5a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3v-12a3 3 0 0 1 3-3z","M7.5 22.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m4.5 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m4.5 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M5.71 7.5 3.75 9.75 5.71 12M18.3 7.5l1.96 2.25L18.29 12"],
+}
+export default UiBrowserSlider

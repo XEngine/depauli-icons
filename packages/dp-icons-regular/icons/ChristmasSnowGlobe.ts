@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ChristmasSnowGlobe : IconType = {
+    name: 'christmas-snow-globe',
+    key: 'ChristmasSnowGlobe',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.66 18.75a10.5 10.5 0 1 1 14.7-.01m.15 0h-15l-1.45 2.17a1.5 1.5 0 0 0 1.24 2.34h15.4a1.5 1.5 0 0 0 1.25-2.33zm-12-4.5 4.5-4.5 4.5 4.5M8.25 5.63a.38.38 0 0 1 .38.37m-.75 0a.38.38 0 0 1 .38-.38m0 .75A.38.38 0 0 1 7.88 6m.75 0a.38.38 0 0 1-.38.38m-3 4.5a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m10.5-4.5a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-3-3.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m6.75 5.25a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M9 12.75v6m6-6v6"],
+}
+export default ChristmasSnowGlobe

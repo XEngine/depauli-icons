@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const UsbPort1 : IconType = {
+    name: 'usb-port-1',
+    key: 'UsbPort1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 17.25a3 3 0 1 0 0 6 3 3 0 1 0 0-6zM9.75 3 12 .75 14.25 3M12 .75v16.5m4.5-12h3v3h-3zM6 8.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm12 0v1.67a3 3 0 0 1-1.95 2.81L12 14.25m-6-3v1.41a3 3 0 0 0 2.27 2.91l3.73.93"],
+}
+export default UsbPort1

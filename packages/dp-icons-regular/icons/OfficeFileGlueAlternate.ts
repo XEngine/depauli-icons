@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeFileGlueAlternate : IconType = {
+    name: 'office-file-glue-alternate',
+    key: 'OfficeFileGlueAlternate',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.25 14.25H4.5m4.5 4.5H4.5m12-9h-12m13.12 12.44a.75.75 0 0 1-1.06 0l-3.18-3.18a.75.75 0 0 1 0-1.06l2.06-2.06a.69.69 0 0 1 .13-.1l5.26-3.35a.75.75 0 0 1 .93.1l1.27 1.27a.75.75 0 0 1 .1.93L19.79 20a.79.79 0 0 1-.1.13zm-1.59-.53-1.59 1.59H10.5l3.41-3.71M7.5 23.25H3A2.25 2.25 0 0 1 .75 21V3A2.25 2.25 0 0 1 3 .75h14.38a1.5 1.5 0 0 1 1.06.44l4.37 4.37a1.5 1.5 0 0 1 .44 1.06v3.13m-6-9v4.5a1.5 1.5 0 0 0 1.5 1.5h4.5"],
+}
+export default OfficeFileGlueAlternate

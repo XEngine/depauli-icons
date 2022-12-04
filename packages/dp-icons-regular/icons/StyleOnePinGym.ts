@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const StyleOnePinGym : IconType = {
+    name: 'style-one-pin-gym',
+    key: 'StyleOnePinGym',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.5 7.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.5 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M13.75 9.75a2.62 2.62 0 0 0-1.5-.75 2.62 2.62 0 0 0-1.5.75m10.5 0a9 9 0 1 0-10.8 8.82l1.8 4.68 1.8-4.68a9 9 0 0 0 7.2-8.82z"],
+}
+export default StyleOnePinGym

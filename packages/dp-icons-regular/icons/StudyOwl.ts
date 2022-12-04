@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const StudyOwl : IconType = {
+    name: 'study-owl',
+    key: 'StudyOwl',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.4 5.14 20.25 3 12.4.86a1.51 1.51 0 0 0-.79 0L3.75 3l7.86 2.14a1.51 1.51 0 0 0 .8 0zm4.85 2.01V3.82m-9.75.2v2.82M3.75 3v3m4.5.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M8.25 9.38a.38.38 0 0 0-.38.38m.76-.01a.38.38 0 0 0-.38-.38m0 .76a.38.38 0 0 0 .38-.38","M7.88 9.75a.38.38 0 0 0 .38.38m7.49-3.38a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M15.75 9.38a.38.38 0 0 0-.38.38m.75 0a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38m-6.27 2.36L12 15l2.52-2.52M18 15v2.34a6 6 0 0 1-12 0V15m12.23-3.55a3.13 3.13 0 0 1 3.53 3.08v2.07a5.22 5.22 0 0 1-5.73 5.14M5.66 11.26a3.15 3.15 0 0 0-3.41 3.14v2.1a5.25 5.25 0 0 0 5.73 5.23"],
+}
+export default StudyOwl

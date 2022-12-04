@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DroneRemote : IconType = {
+    name: 'drone-remote',
+    key: 'DroneRemote',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 5.25a1.5 1.5 0 0 0-1.5-1.5h-1.49a4.36 4.36 0 0 1-3.34-1.42 4.5 4.5 0 0 0-6.84 0 4.36 4.36 0 0 1-3.34 1.42H5.25a1.5 1.5 0 0 0 0 3h1.49a4.36 4.36 0 0 1 3.34 1.42 4.5 4.5 0 0 0 6.84 0 4.36 4.36 0 0 1 3.34-1.42h1.49a1.5 1.5 0 0 0 1.5-1.5zM3.75.75h3m13.5 0h3","M8.93 7.27a9.12 9.12 0 0 0-2.8 3.23m11.94-3.23a8.73 8.73 0 0 1 3.48 5.12 1.52 1.52 0 0 1-1.46 1.86h-1.34m-5.25-4.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-11.25 4.5h3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-3a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5z","M3.75 19.88a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38"],
+}
+export default DroneRemote

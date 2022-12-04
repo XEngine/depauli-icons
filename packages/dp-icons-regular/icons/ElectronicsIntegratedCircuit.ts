@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ElectronicsIntegratedCircuit : IconType = {
+    name: 'electronics-integrated-circuit',
+    key: 'ElectronicsIntegratedCircuit',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 8.25h3m-3 3.75h3m-3 3.75h3m10.5-7.5h3m-3 3.75h3m-3 3.75h3m-10.5-12v-3m4.5 3v-3m-4.5 22.5v-3m4.5 3v-3m-6-16.5h7.5a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5h-7.5a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5z"],
+}
+export default ElectronicsIntegratedCircuit

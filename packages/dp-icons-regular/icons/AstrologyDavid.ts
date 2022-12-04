@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AstrologyDavid : IconType = {
+    name: 'astrology-david',
+    key: 'AstrologyDavid',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.02.75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M1.18 15h21.69L4.7 3.46l7.32 19.79 7.33-19.79L1.18 15z"],
+}
+export default AstrologyDavid

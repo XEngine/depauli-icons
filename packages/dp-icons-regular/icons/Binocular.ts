@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Binocular : IconType = {
+    name: 'binocular',
+    key: 'Binocular',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 13.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z","M9.75 18V4.13a2.63 2.63 0 0 0-5.16-.7L.91 16.81m17.84-3.31a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z","M14.25 18V4.13a2.63 2.63 0 0 1 5.16-.7l3.68 13.38M9.75 9v3h4.5V9z"],
+}
+export default Binocular

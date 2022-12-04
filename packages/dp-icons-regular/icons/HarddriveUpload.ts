@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HarddriveUpload : IconType = {
+    name: 'harddrive-upload',
+    key: 'HarddriveUpload',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 17.25a3 3 0 0 1 0 6H3.75a3 3 0 0 1 0-6zM7.5 6.75H6.14a3 3 0 0 0-2.93 2.33L.83 19.58m22.35 0-2.39-10.5a3 3 0 0 0-2.93-2.33H16.5m2.63 13.13a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-9.38.38H4.5M15 3.75l-3-3-3 3m3-3v12"],
+}
+export default HarddriveUpload

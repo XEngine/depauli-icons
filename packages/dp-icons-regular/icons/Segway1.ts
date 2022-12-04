@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Segway1 : IconType = {
+    name: 'segway-1',
+    key: 'Segway1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 12.75A2.25 2.25 0 0 0 .75 15v6a2.25 2.25 0 0 0 4.5 0v-6A2.25 2.25 0 0 0 3 12.75zm18 0A2.25 2.25 0 0 0 18.75 15v6a2.25 2.25 0 0 0 4.5 0v-6A2.25 2.25 0 0 0 21 12.75zm-10.5-7.5h3v15h-3z","M10.5 20.25h-3a2.25 2.25 0 0 1-2.14-2.96l1.27-3.79a3.29 3.29 0 0 1 3.12-2.25h.75m3 9h3a2.25 2.25 0 0 0 2.14-2.96l-1.27-3.79a3.29 3.29 0 0 0-3.12-2.25h-.75M8.5.75h7a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1zm-1 3H3m13.5 0H21"],
+}
+export default Segway1

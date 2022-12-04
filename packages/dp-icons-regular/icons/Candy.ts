@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Candy : IconType = {
+    name: 'candy',
+    key: 'Candy',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.97 5.92a6.08 6.08 0 1 0 0 12.16 6.08 6.08 0 1 0 0-12.16z","M17.27 9a7.29 7.29 0 0 1-4.76 1.71A7.16 7.16 0 0 1 7.1 8.36m10.96 3.35A6.99 6.99 0 0 1 11.97 15a6.98 6.98 0 0 1-6.08-3.29M17.44 1.37a.75.75 0 0 0-1.17.14c-1.19 1.97-1.36 4.83.01 6.19s4.21 1.2 6.19.01a.75.75 0 0 0 .14-1.17zm-16.1 16.1a.75.75 0 0 1 .14-1.17c1.97-1.2 4.82-1.36 6.19 0s1.2 4.21.01 6.19a.75.75 0 0 1-1.17.14z"],
+}
+export default Candy

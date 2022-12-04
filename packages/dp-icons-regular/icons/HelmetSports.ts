@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HelmetSports : IconType = {
+    name: 'helmet-sports',
+    key: 'HelmetSports',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.32 11.96a9.78 9.78 0 1 0-19.57 0c0 5.4 2.91 9.79 8.31 9.79a3.43 3.43 0 0 0 3.43-3.42v-5.38a.98.98 0 0 1 .98-.98h9.78","M7.5 14.92a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm9.75-2.95v4.46a5.26 5.26 0 0 1-6.78 5.03"],
+}
+export default HelmetSports

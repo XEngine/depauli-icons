@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VinylRecordAlbum : IconType = {
+    name: 'vinyl-record-album',
+    key: 'VinylRecordAlbum',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 22.5h13.5a1.5 1.5 0 0 0 1.5-1.5V3a1.5 1.5 0 0 0-1.5-1.5H.75","M3.38 13.5a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm7.5-2.25a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z","M5.25 15.38V8.75a1.5 1.5 0 0 1 1.03-1.42l4.5-1.25a1.5 1.5 0 0 1 1.97 1.42v5.63m3 .99a2.23 2.23 0 0 0 .75.14 2.25 2.25 0 0 0 0-4.5 2.23 2.23 0 0 0-.75.14m0 8.79a6.61 6.61 0 0 0 .75.08 6.75 6.75 0 0 0 0-13.5 6.61 6.61 0 0 0-.75.08"],
+}
+export default VinylRecordAlbum

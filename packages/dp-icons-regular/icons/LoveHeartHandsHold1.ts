@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LoveHeartHandsHold1 : IconType = {
+    name: 'love-heart-hands-hold-1',
+    key: 'LoveHeartHandsHold1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 23.25h15a3 3 0 0 0-3-3H9a3 3 0 0 0-3-3H.75m5.25 3h3M23.25.75h-15a3 3 0 0 0 3 3H15a3 3 0 0 0 3 3h5.25m-5.25-3h-3m.93 5.84a1.9 1.9 0 0 0-2.75 0L12 10.81l-1.18-1.22a1.9 1.9 0 0 0-2.75 0 2.06 2.06 0 0 0 0 2.85l3.51 3.63a.58.58 0 0 0 .84 0l3.51-3.63a2.06 2.06 0 0 0 0-2.85z"],
+}
+export default LoveHeartHandsHold1

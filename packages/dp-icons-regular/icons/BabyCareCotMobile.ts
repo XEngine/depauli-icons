@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BabyCareCotMobile : IconType = {
+    name: 'baby-care-cot-mobile',
+    key: 'BabyCareCotMobile',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.25 5.25h18m-9 9v-9m3 15a3 3 0 0 1-6 0c0-1.66 3-6 3-6s3 4.34 3 6zm-10.5-15v6m7.5-10.5v4.5m-7.5 6a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm12.58 4.5a.38.38 0 0 1-.34-.53L19.75 9l2.77 6.22a.38.38 0 0 1-.34.53zm2.42-10.5V9"],
+}
+export default BabyCareCotMobile

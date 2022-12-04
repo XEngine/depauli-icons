@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoomServiceFood : IconType = {
+    name: 'room-service-food',
+    key: 'RoomServiceFood',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.17 21.25 18.67 8.5a1.5 1.5 0 0 0-1.3-.99 1.52 1.52 0 0 0-1.44.8c-.05.09-1.22 2.19-4.67 2.19a1.5 1.5 0 0 0 0 3 8.81 8.81 0 0 0 5.41-1.67l.92 2.62-2.25 1.93a4.51 4.51 0 0 0-1.25 1.75l-1.23 3.07a1.5 1.5 0 1 0 2.79 1.11l1.23-3.06a1.5 1.5 0 0 1 .42-.58l1.37-1.17 1.68 4.76a1.5 1.5 0 1 0 2.83-1zM19.13 4.13a2.63 2.63 0 0 1-5.25 0 1.51 1.51 0 0 1 .05-.38h5.16a1.51 1.51 0 0 1 .05.38z","M11.25 13.5v5.25a1.5 1.5 0 0 1-1.5 1.5h-9m.75 2.63a.38.38 0 1 1 .38-.38.37.37 0 0 1-.38.38m6.75 0a.38.38 0 1 1 .38-.38.37.37 0 0 1-.38.38M19.5 3.75h-6l.75-3h4.5l.75 3z","M1.25 12.75h6.5a.5.5 0 0 1 .5.5v3.5a.5.5 0 0 1-.5.5h-6.5a.5.5 0 0 1-.5-.5v-3.5a.5.5 0 0 1 .5-.5zm1.75 0v-1.5a1.5 1.5 0 0 1 3 0v1.5"],
+}
+export default RoomServiceFood

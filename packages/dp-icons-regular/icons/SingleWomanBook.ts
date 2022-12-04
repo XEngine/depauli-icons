@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleWomanBook : IconType = {
+    name: 'single-woman-book',
+    key: 'SingleWomanBook',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21 23.25H5.25A2.25 2.25 0 0 1 3 21M6 .75a3 3 0 0 0-3 3V21a2.25 2.25 0 0 1 2.25-2.25H19.5a1.5 1.5 0 0 0 1.5-1.5v-15a1.5 1.5 0 0 0-1.5-1.5zm13.5 22.5v-4.5","M16.22 15a4.51 4.51 0 0 0-2.38-2.59L12 15.75l-1.84-3.34A4.52 4.52 0 0 0 7.78 15M12 4.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M9 7.5s0 3.75-2.25 3.75M15 7.5s0 3.75 2.25 3.75"],
+}
+export default SingleWomanBook

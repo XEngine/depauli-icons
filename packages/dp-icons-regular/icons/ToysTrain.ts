@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToysTrain : IconType = {
+    name: 'toys-train',
+    key: 'ToysTrain',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.5 16.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6zM6 16.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm3 3h4.5","M19.5 19.5h.75a1.5 1.5 0 0 0 1.5-1.5V4.5h-10.5V12h-9a1.5 1.5 0 0 0-1.5 1.5V18a1.5 1.5 0 0 0 1.5 1.5H3M23.25 3a1.5 1.5 0 0 1-1.5 1.5h-10.5a1.5 1.5 0 0 1 0-3h10.5a1.5 1.5 0 0 1 1.5 1.5z","M3.75 7.5h3V12h-3zm-1.5 0h6m8.25 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM11.25 12v7.5"],
+}
+export default ToysTrain

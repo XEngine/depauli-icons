@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SoccerField : IconType = {
+    name: 'soccer-field',
+    key: 'SoccerField',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75 3.75h20.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V4.75a1 1 0 0 1 1-1zm10.25 0v16.5","M12 9a3 3 0 1 0 0 6 3 3 0 1 0 0-6zM.75 8.25h3a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-3m22.5-7.5h-3a1.5 1.5 0 0 0-1.5 1.5v4.5a1.5 1.5 0 0 0 1.5 1.5h3"],
+}
+export default SoccerField

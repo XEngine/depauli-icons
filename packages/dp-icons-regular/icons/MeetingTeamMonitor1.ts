@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MeetingTeamMonitor1 : IconType = {
+    name: 'meeting-team-monitor-1',
+    key: 'MeetingTeamMonitor1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15 3.76a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M15 9.01a3.75 3.75 0 0 1 3.75 3.75M2.25 4.51V2.26a1.5 1.5 0 0 1 1.5-1.5h18a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5h-7.5m3 0v3m-1.5 0h3.75M.75 23.26a6.75 6.75 0 0 1 13.5 0","M7.5 6.76a4.13 4.13 0 1 0 0 8.26 4.13 4.13 0 1 0 0-8.26z"],
+}
+export default MeetingTeamMonitor1

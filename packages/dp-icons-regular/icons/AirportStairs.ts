@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AirportStairs : IconType = {
+    name: 'airport-stairs',
+    key: 'AirportStairs',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.32 18v-4.5a1.5 1.5 0 0 0-1.5-1.5H5.49a1.5 1.5 0 0 0-1.34.83L3.07 15l-1.59 1.05a1.5 1.5 0 0 0-.66 1.25v2.2a1.5 1.5 0 0 0 1.5 1.5H4.7","M6.82 18a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm11.25 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M23 16.76 11.01 2.02a1.5 1.5 0 0 0-1.13-.52H4.57a.75.75 0 0 0-.75.75v3a.75.75 0 0 0 .75.75h4.5l9 12h4.37a.75.75 0 0 0 .56-1.24zM8.32 18h9.75m-9.13 3h7.01"],
+}
+export default AirportStairs

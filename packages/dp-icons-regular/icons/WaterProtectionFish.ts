@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WaterProtectionFish : IconType = {
+    name: 'water-protection-fish',
+    key: 'WaterProtectionFish',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 4.8a5.51 5.51 0 0 0 4.5-1.5 4.55 4.55 0 0 0 6.75 0 4.55 4.55 0 0 0 6.75 0 5.51 5.51 0 0 0 4.5 1.5M2.33 19.88c4.82-4.82 6.37-7.18 10.72-7.18a8.78 8.78 0 0 1 7.2 3.78 8.78 8.78 0 0 1-7.2 3.78c-4.23 0-5.68-2.13-10.77-7.23M15 15.68a.38.38 0 0 1-.38.38m0-.75a.38.38 0 0 1 .38.38m-.75-.01a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m7.13-2.62a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m0-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m-1.5-3.75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m0-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38"],
+}
+export default WaterProtectionFish

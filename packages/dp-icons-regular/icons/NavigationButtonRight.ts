@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NavigationButtonRight : IconType = {
+    name: 'navigation-button-right',
+    key: 'NavigationButtonRight',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 6h9a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5z","M6.75 12h-6M3 14.25.75 12 3 9.75M14.25 12h6M18 14.25 20.25 12 18 9.75"],
+}
+export default NavigationButtonRight

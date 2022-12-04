@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CashPaymentBag : IconType = {
+    name: 'cash-payment-bag',
+    key: 'CashPaymentBag',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 14.25v9m0-1.5h16.5a3 3 0 0 0-3-3H10.5a3 3 0 0 0-3-3H.75m6 3h3.75m9.74-.74a7.48 7.48 0 0 0-2.02-13.06l1.85-3.17a.68.68 0 0 0 0-.69.71.71 0 0 0-.61-.34h-7.42a.71.71 0 0 0-.61.34.68.68 0 0 0 0 .69l1.85 3.17A7.48 7.48 0 0 0 8.25 12m5.45 1.84a2.22 2.22 0 0 0 1.86.88c1.14 0 2.06-.69 2.06-1.55s-.92-1.55-2.06-1.55-2.06-.69-2.06-1.55.92-1.55 2.06-1.55a2.22 2.22 0 0 1 1.86.88m-1.86 5.31v1.03m0-8.24v1.03"],
+}
+export default CashPaymentBag

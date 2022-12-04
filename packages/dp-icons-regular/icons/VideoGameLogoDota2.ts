@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameLogoDota2 : IconType = {
+    name: 'video-game-logo-dota2',
+    key: 'VideoGameLogoDota2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 22.27a.98.98 0 0 1-.98.98H1.73a.98.98 0 0 1-.98-.98V1.73a.98.98 0 0 1 .98-.98h11.54a.49.49 0 0 1 .35.14l1.33 1.32.38-1.13a.49.49 0 0 1 .46-.33h6.5a.98.98 0 0 1 .98.98zM15.16 4.89a.49.49 0 0 0-.17.8l3.79 3.8a.49.49 0 0 0 .81-.19l1.11-3.33a.49.49 0 0 0-.16-.54l-1.96-1.57a.49.49 0 0 0-.48-.08zm-11.92.38a.49.49 0 0 1 .25-.8l2.89-.72a.49.49 0 0 1 .44.1l13.79 11.9a.49.49 0 0 1 .17.43l-.41 3.28a.49.49 0 0 1-.42.42l-3.28.41a.49.49 0 0 1-.43-.16zm1.61 9.38a.49.49 0 0 1 .81-.13l3.9 4.29a.49.49 0 0 1-.19.79L6.4 20.7a.49.49 0 0 1-.49-.08L3.48 18.6a.49.49 0 0 1-.13-.57z"],
+}
+export default VideoGameLogoDota2

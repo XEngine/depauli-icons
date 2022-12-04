@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const IrisScanSearch : IconType = {
+    name: 'iris-scan-search',
+    key: 'IrisScanSearch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.75 9.7c.38-.36.74-.73 1.07-1.09a1.66 1.66 0 0 0 0-2.23C20.2 3.5 16.03.68 12 .75 7.97.68 3.8 3.5 1.18 6.39a1.66 1.66 0 0 0 0 2.23 18.85 18.85 0 0 0 7.08 4.96","M9.75 10.5a3.75 3.75 0 1 1 6.01-3m-.01 3a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm7.5 12.75-3.76-3.76"],
+}
+export default IrisScanSearch

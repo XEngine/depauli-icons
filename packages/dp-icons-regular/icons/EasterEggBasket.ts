@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const EasterEggBasket : IconType = {
+    name: 'easter-egg-basket',
+    key: 'EasterEggBasket',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.27 10.5H1.73a.98.98 0 0 0-.98.98v.23A9.32 9.32 0 0 0 10.04 21h3.91a9.32 9.32 0 0 0 9.29-9.29v-.23a.98.98 0 0 0-.98-.98zM.93 13.51C3.08 13.34 2.97 15 4.91 15c1.83 0 1.83-1.5 3.67-1.5S10.4 15 12.24 15s1.83-1.5 3.67-1.5 1.84 1.5 3.67 1.5c1.78 0 1.84-1.4 3.5-1.5M3.94 18.7c2.45.36 2.25-1.45 4.27-1.45 1.83 0 1.83 1.5 3.67 1.5s1.83-1.5 3.67-1.5 1.84 1.5 3.67 1.5a2.44 2.44 0 0 0 1.02-.2M2.57 10.5c-.26-2.6.82-4.91 2.77-5.53 2.37-.76 5.13 1.26 6.17 4.51a7.97 7.97 0 0 1 .25 1.02m1.23 0a6.91 6.91 0 0 1 .37-2.48c1.06-3.24 3.84-5.24 6.2-4.46 2.28.75 3.35 3.81 2.46 6.94"],
+}
+export default EasterEggBasket

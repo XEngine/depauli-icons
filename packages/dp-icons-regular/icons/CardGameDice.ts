@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CardGameDice : IconType = {
+    name: 'card-game-dice',
+    key: 'CardGameDice',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.75 12.75h8.5a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1h-8.5a1 1 0 0 1-1-1v-8.5a1 1 0 0 1 1-1z","M19.88 15.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m0 3a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M9.75 19.11l-2.88 1.05a1.5 1.5 0 0 1-1.92-.9L.84 7.99a1.5 1.5 0 0 1 .9-1.92l6.51-2.38m10.5 9.06V2.25a1.5 1.5 0 0 0-1.5-1.5h-7.5a1.5 1.5 0 0 0-1.5 1.5v12a1.5 1.5 0 0 0 1.5 1.5h3","M13.5 6a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default CardGameDice

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WebpageLive : IconType = {
+    name: 'webpage-live',
+    key: 'WebpageLive',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 5.21V.75m2.25 0v1.29a5.12 5.12 0 0 0 1.13 3.17 5.12 5.12 0 0 0 1.13-3.17V.75m-9.01 0v3.53a1.06 1.06 0 0 0 1.13.97H7.5m10.92 0h-.96a.93.93 0 0 1-.96-.9v-2.7a.93.93 0 0 1 .96-.9h.96M16.5 3h2.25","M2.25.75a1.5 1.5 0 0 0-1.5 1.5v19.5a1.5 1.5 0 0 0 1.5 1.5h19.5a1.5 1.5 0 0 0 1.5-1.5V2.25a1.5 1.5 0 0 0-1.5-1.5","M6 8.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm4.5 0h6m-6 3h3m-7.5 3a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm4.5 0h6m-6 3h3m-12.75 3h22.5m-4.5 0v3"],
+}
+export default WebpageLive

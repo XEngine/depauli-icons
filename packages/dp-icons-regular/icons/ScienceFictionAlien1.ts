@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ScienceFictionAlien1 : IconType = {
+    name: 'science-fiction-alien-1',
+    key: 'ScienceFictionAlien1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.75 10.5c0 4.14-4.37 12-9.75 12s-9.75-7.86-9.75-12 4.37-9 9.75-9 9.75 4.86 9.75 9zM5.34 9.84a3.25 3.25 0 0 1 3.18 1.06 3.25 3.25 0 0 1 1.06 3.18 3.25 3.25 0 0 1-3.18-1.06 3.25 3.25 0 0 1-1.06-3.18zm13.33 0a3.25 3.25 0 0 0-3.18 1.06 3.25 3.25 0 0 0-1.06 3.18 3.25 3.25 0 0 0 3.18-1.06 3.25 3.25 0 0 0 1.06-3.18z"],
+}
+export default ScienceFictionAlien1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NetworkCash : IconType = {
+    name: 'network-cash',
+    key: 'NetworkCash',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 14.25h-2.03a1.34 1.34 0 0 0-.5 2.59l2.06.83a1.34 1.34 0 0 1-.5 2.59h-2.03m1.5-6.01v-.75m0 7.5v-.75","M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M11.23 23.22a11.25 11.25 0 1 1 11.91-12.77M9.29 22.92C7.77 20.69 6.75 16.63 6.75 12S7.77 3.31 9.29 1.08M.78 11.25h9.52m-7.3-6h18m-18.95 12h6.2m6.46-16.17a16.96 16.96 0 0 1 2.3 7.11"],
+}
+export default NetworkCash

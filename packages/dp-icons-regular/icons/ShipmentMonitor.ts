@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShipmentMonitor : IconType = {
+    name: 'shipment-monitor',
+    key: 'ShipmentMonitor',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.13 12.75h10.24a.88.88 0 0 1 .88.88v8.74a.88.88 0 0 1-.88.88H12.13a.88.88 0 0 1-.88-.88v-8.74a.88.88 0 0 1 .88-.88z","M15.75 12.75h3V18h-3zm-7.5 0H2.4a1.58 1.58 0 0 1-1.65-1.5v-9A1.58 1.58 0 0 1 2.4.75h13.2a1.58 1.58 0 0 1 1.65 1.5v7.5m-9 3v3m-2.25 0h2.25M.75 9h16.5"],
+}
+export default ShipmentMonitor

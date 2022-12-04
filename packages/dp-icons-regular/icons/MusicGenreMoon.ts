@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MusicGenreMoon : IconType = {
+    name: 'music-genre-moon',
+    key: 'MusicGenreMoon',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.92 9.82a9.99 9.99 0 0 1 .57-6.95.5.5 0 0 0-.58-.7 10 10 0 1 0 10.56 15.72.5.5 0 0 0-.43-.8c-.15.01-.3.01-.45.01a10.03 10.03 0 0 1-2.4-.28","M13.13 11.3a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm7.5-2.25a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z","M15.01 13.18V6.39a1.5 1.5 0 0 1 1.03-1.42l4.5-1.25a1.5 1.5 0 0 1 1.98 1.42v5.79"],
+}
+export default MusicGenreMoon

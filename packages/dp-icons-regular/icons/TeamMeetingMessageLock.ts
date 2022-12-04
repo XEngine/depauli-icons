@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TeamMeetingMessageLock : IconType = {
+    name: 'team-meeting-message-lock',
+    key: 'TeamMeetingMessageLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.51 23.25a28.43 28.43 0 0 0-4.18-1.73c-.7-.26-.59-2.09-.28-2.43a5.16 5.16 0 0 0 1.35-4 3.38 3.38 0 0 0-3.28-3.7 3.38 3.38 0 0 0-3.28 3.7 5.16 5.16 0 0 0 1.35 4c.31.34.43 2.17-.28 2.43l-1.17.43m22.34-7.69a4.87 4.87 0 0 1 .07.83 5.16 5.16 0 0 1-1.35 4c-.31.34-.43 2.17.28 2.43l1.17.43m-9.75 1.29a28.75 28.75 0 0 1 4.17-1.73c.7-.26.59-2.09.28-2.43a4.58 4.58 0 0 1-1.26-2.69M21 .75h.75a1.5 1.5 0 0 1 1.5 1.5v8.25a1.5 1.5 0 0 1-1.5 1.5h-4.5l-4.5 4.5V12h-3a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h1.5","M15.75 6.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38","M12.25 3.75h7a.25.25 0 0 1 .25.25v5.5a.25.25 0 0 1-.25.25h-7A.25.25 0 0 1 12 9.5V4a.25.25 0 0 1 .25-.25zm1.5 0v-1a2 2 0 0 1 4 0v1"],
+}
+export default TeamMeetingMessageLock

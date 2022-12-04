@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TaskListUpload1 : IconType = {
+    name: 'task-list-upload-1',
+    key: 'TaskListUpload1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 11.26a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M17.25 20.26v-6m0 0 2.25 2.25m-2.25-2.25L15 16.51m-9.75-6h5.25m-5.25 3.75h3m-3 3.75h3m1.5 5.25h-7.5a1.5 1.5 0 0 1-1.5-1.5V6.01a1.5 1.5 0 0 1 1.5-1.5H6a3.75 3.75 0 0 1 7.5 0h3.75a1.5 1.5 0 0 1 1.5 1.5v2.25m-9-4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default TaskListUpload1

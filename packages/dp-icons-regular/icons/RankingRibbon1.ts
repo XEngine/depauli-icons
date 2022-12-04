@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RankingRibbon1 : IconType = {
+    name: 'ranking-ribbon-1',
+    key: 'RankingRibbon1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m12.53 1.18 1.25 2.46h2.13a.58.58 0 0 1 .42 1l-1.96 1.92 1.08 2.49a.59.59 0 0 1-.84.74L12 8.31 9.39 9.78a.59.59 0 0 1-.84-.74l1.08-2.48-1.95-1.92a.58.58 0 0 1 .42-1h2.13l1.25-2.45a.6.6 0 0 1 1.06 0zM5.25 2.36a.59.59 0 0 0-.53.33L3.47 5.14H1.34a.58.58 0 0 0-.42 1l1.96 1.92-1.08 2.49a.59.59 0 0 0 .84.74l2.61-1.48.69.39m12.81-7.84a.59.59 0 0 1 .53.33l1.25 2.46h2.13a.58.58 0 0 1 .42 1l-1.96 1.91 1.08 2.49a.59.59 0 0 1-.84.74l-2.61-1.48-.69.39M.75 13.77v3s3-3 11.25-3 11.25 3 11.25 3v-3M2.64 18.54a3.75 3.75 0 0 1-1.89 1.6h1.5a1.5 1.5 0 0 1 1.5 1.5v1.5s4.04-.68 4.46-6.51m13.15 1.91a3.75 3.75 0 0 0 1.89 1.6h-1.5a1.5 1.5 0 0 0-1.5 1.5v1.5s-4.04-.68-4.46-6.51"],
+}
+export default RankingRibbon1

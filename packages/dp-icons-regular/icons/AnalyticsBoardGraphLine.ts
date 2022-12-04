@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AnalyticsBoardGraphLine : IconType = {
+    name: 'analytics-board-graph-line',
+    key: 'AnalyticsBoardGraphLine',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 3.75h19.5a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5z","M3.75 15 6.9 9.75 9.75 15l3-3 3 3 4.5-6.75"],
+}
+export default AnalyticsBoardGraphLine

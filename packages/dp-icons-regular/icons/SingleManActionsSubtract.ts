@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleManActionsSubtract : IconType = {
+    name: 'single-man-actions-subtract',
+    key: 'SingleManActionsSubtract',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 17.25a6.75 6.75 0 0 1 9.4-6.21m-6.2-8.26a6.85 6.85 0 0 0 4.93 2.09 6.84 6.84 0 0 0 2.71-.56","M7.5.75a4.13 4.13 0 1 0 0 8.26 4.13 4.13 0 1 0 0-8.26zm9.75 10.5a6 6 0 1 0 0 12 6 6 0 1 0 0-12zm-3 6h6"],
+}
+export default SingleManActionsSubtract

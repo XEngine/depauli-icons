@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PresentationMicrophone1 : IconType = {
+    name: 'presentation-microphone-1',
+    key: 'PresentationMicrophone1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.67 22.5v-8.25a.75.75 0 0 1 .75-.75h1.5a.75.75 0 0 1 .75.75v8.25","M10.67 16.5H7.21a1.5 1.5 0 0 1-1.41-.97l-1.5-4.01A.75.75 0 0 1 5 10.5h14.34a.75.75 0 0 1 .7 1.01l-1.5 4.01a1.5 1.5 0 0 1-1.4.97h-3.47M12.17 1.5h0a2.25 2.25 0 0 1 2.25 2.25v1.5a2.25 2.25 0 0 1-2.25 2.25h0a2.25 2.25 0 0 1-2.25-2.25v-1.5a2.25 2.25 0 0 1 2.25-2.25z","M12.17 7.5v3m6-5.25a3.33 3.33 0 0 1 1.25 4.01l-.5 1.24M6.15 5.25A3.33 3.33 0 0 0 4.9 9.26l.5 1.24"],
+}
+export default PresentationMicrophone1

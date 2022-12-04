@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FruitGrapes : IconType = {
+    name: 'fruit-grapes',
+    key: 'FruitGrapes',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.5.75a2.73 2.73 0 0 0-1.66 3.01M5.25 6.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm6.75 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0 12a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-3.75-6a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.5 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm3-6a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-9-6h6"],
+}
+export default FruitGrapes

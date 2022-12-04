@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WineRestaurant : IconType = {
+    name: 'wine-restaurant',
+    key: 'WineRestaurant',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 8.63v10.5m0-4.5h3a1.5 1.5 0 0 1 1.5 1.5v3m18-10.5v10.5m0-4.5h-3a1.5 1.5 0 0 0-1.5 1.5v3m-12-9h10.5m-5.25 0v9m-2.25 0h4.5m3-14.25a2.25 2.25 0 0 1-4.5 0zM15 7.13v3"],
+}
+export default WineRestaurant

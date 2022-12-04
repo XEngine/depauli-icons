@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OutdoorsCampFireMarshmallows : IconType = {
+    name: 'outdoors-camp-fire-marshmallows',
+    key: 'OutdoorsCampFireMarshmallows',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.85 8.83a.75.75 0 0 0-1.1.86 5.44 5.44 0 0 1-.49 4.16 1.9 1.9 0 0 1-2.03-1.59A4.2 4.2 0 0 0 3 16.23 4.82 4.82 0 0 0 7.87 21a4.89 4.89 0 0 0 4.87-4.77 7.69 7.69 0 0 0-3.9-7.41zm.58 11.92 5.57 2.5m-8.68-2.5-5.57 2.5m19.57-8.99 2.93 6.08M16.74 6.83l1.63 3.38m-1.58.762 3.154-1.52a.5.5 0 0 1 .667.234l1.52 3.152a.5.5 0 0 1-.233.668l-3.153 1.52a.5.5 0 0 1-.667-.233l-1.52-3.153a.5.5 0 0 1 .233-.668zm-3.584-7.439 3.153-1.52a.5.5 0 0 1 .668.233l1.52 3.153a.5.5 0 0 1-.233.668l-3.153 1.52a.5.5 0 0 1-.668-.233L12.973 4.2a.5.5 0 0 1 .233-.668zm1.574-.753L13.8.75"],
+}
+export default OutdoorsCampFireMarshmallows

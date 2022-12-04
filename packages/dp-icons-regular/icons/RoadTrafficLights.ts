@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadTrafficLights : IconType = {
+    name: 'road-traffic-lights',
+    key: 'RoadTrafficLights',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 9.76a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-6a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0 12a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M8.75.76h6.5a2 2 0 0 1 2 2v18.5a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2V2.76a2 2 0 0 1 2-2z","M6.75 3.76H3.23a.98.98 0 0 0-.54 1.79l4.07 2.71m0 1.5H3.23a.98.98 0 0 0-.54 1.79l4.07 2.71m0 1.5H3.23a.98.98 0 0 0-.54 1.79l4.07 2.71m10.5-16.5h3.52a.98.98 0 0 1 .54 1.79l-4.07 2.71m0 1.5h3.52a.98.98 0 0 1 .54 1.79l-4.07 2.71m0 1.5h3.52a.98.98 0 0 1 .54 1.79l-4.07 2.71"],
+}
+export default RoadTrafficLights

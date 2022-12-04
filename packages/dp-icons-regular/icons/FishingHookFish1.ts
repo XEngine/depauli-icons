@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FishingHookFish1 : IconType = {
+    name: 'fishing-hook-fish-1',
+    key: 'FishingHookFish1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 2.25h12m9 0h1.5m-6-1.5V3m0 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-4.5 5.25V9a2.25 2.25 0 0 0 4.5 0V6M.75 15s3.75 8.25 10.5 8.25c6 0 6.75-4.5 6.75-4.5s-.75-4.5-6.75-4.5C4.5 14.25.75 22.5.75 22.5m13.5-4.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default FishingHookFish1

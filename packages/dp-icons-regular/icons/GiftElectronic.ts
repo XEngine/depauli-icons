@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GiftElectronic : IconType = {
+    name: 'gift-electronic',
+    key: 'GiftElectronic',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.5 15.75v4.77a2.73 2.73 0 0 1-2.73 2.73H4.23a2.73 2.73 0 0 1-2.73-2.73V4.98a2.73 2.73 0 0 1 2.73-2.73h5.52M1.5 18.75h12m1.5-15h6a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm3 0-3-3m6 0-3 3m0 0v9m4.5-4.5h-9m-3-1.5h-6m6 3H6.75"],
+}
+export default GiftElectronic

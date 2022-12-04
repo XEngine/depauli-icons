@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RadioactiveCircle : IconType = {
+    name: 'radioactive-circle',
+    key: 'RadioactiveCircle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 11.63a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M10.31 9.08 7.87 4.86A8.25 8.25 0 0 0 3.75 12h4.88a3.37 3.37 0 0 1 1.69-2.92zm0 5.84-2.44 4.22a8.25 8.25 0 0 0 8.25 0l-2.44-4.22a3.37 3.37 0 0 1-3.37 0zM15.38 12h4.88a8.25 8.25 0 0 0-4.13-7.14l-2.44 4.22A3.38 3.38 0 0 1 15.38 12z"],
+}
+export default RadioactiveCircle

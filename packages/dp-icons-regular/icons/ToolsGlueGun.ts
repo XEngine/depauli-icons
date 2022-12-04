@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToolsGlueGun : IconType = {
+    name: 'tools-glue-gun',
+    key: 'ToolsGlueGun',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.41 5.58 12.7 9.29a.75.75 0 0 1-1.06 0l-1.06-1.06a.75.75 0 0 1 0-1.06l2.65-2.65zM5.48 11.54l-2.85 5.71 5.71-2.85m9.14-12L19.12.75m-5.36 17.03a3.75 3.75 0 0 0 .07-5.24m8.3-3.37-.41-.41a3 3 0 0 1 0-4.24l-6.55-3.28a3 3 0 0 0-3.47.56L5.8 7.7a3 3 0 0 0 0 4.24l2.12 2.12a3 3 0 0 0 4.24 0L13.23 13a3 3 0 0 1 4.24 0l4.65 4.65m-20.25 3.5 1.3 1.56a1.5 1.5 0 0 0 2.3 0l1.45-1.73a1.5 1.5 0 0 1 2.3 0l1.45 1.73a1.5 1.5 0 0 0 2.3 0l1.45-1.73a1.5 1.5 0 0 1 2.3 0l1.45 1.73a1.5 1.5 0 0 0 2.3 0l1.3-1.56"],
+}
+export default ToolsGlueGun

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PlaneTrip : IconType = {
+    name: 'plane-trip',
+    key: 'PlaneTrip',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m16.81 8.29-8.89 2.99-1.19-1.19-1.77.59a.75.75 0 0 0-.32 1.21l2.39 2.67a1.5 1.5 0 0 0 1.6.42l2.62-.88-.53 3.78a.75.75 0 0 0 .98.82l1.36-.46a.75.75 0 0 0 .46-.44l1.99-5.13 2.49-.83a1.88 1.88 0 0 0-1.2-3.56zm-2.49.84-2.78-1.92a.75.75 0 0 0-.66-.09l-1.34.45a.75.75 0 0 0-.29 1.24l1.52 1.51","M5.25.75h13.5a4.5 4.5 0 0 1 4.5 4.5v13.5a4.5 4.5 0 0 1-4.5 4.5H5.25a4.5 4.5 0 0 1-4.5-4.5V5.25a4.5 4.5 0 0 1 4.5-4.5z"],
+}
+export default PlaneTrip

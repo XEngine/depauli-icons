@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProjectNotesBuildings : IconType = {
+    name: 'project-notes-buildings',
+    key: 'ProjectNotesBuildings',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9 19.12h6V9.37a.75.75 0 0 0-.75-.75h-4.5a.75.75 0 0 0-.75.75zm3-6.75h3m-3 3h3m1.5 3.75H15m-6 0H7.5M15.75 4.5h3.75A1.5 1.5 0 0 1 21 6v15.75a1.5 1.5 0 0 1-1.5 1.5h-15a1.5 1.5 0 0 1-1.5-1.5V6a1.5 1.5 0 0 1 1.5-1.5h3.75a3.75 3.75 0 0 1 7.5 0zM12 3.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.37.38"],
+}
+export default ProjectNotesBuildings

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToysCaterpillar : IconType = {
+    name: 'toys-caterpillar',
+    key: 'ToysCaterpillar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.63 6.75a.38.38 0 0 1 .37.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75A.38.38 0 0 1 9 7.13m.75 0a.38.38 0 0 1-.38.38m-2.74 5.93a5.25 5.25 0 1 1 4.57-1.47m-1.19-8.32L12 .75m-7.03 2.9L3 .75m14.23 16.91a3 3 0 1 1-1.41 3.28m-3.81-10.02a4.5 4.5 0 1 1-7.26 1.81m8.75 1.52a3.75 3.75 0 1 1-3.69 4.43"],
+}
+export default ToysCaterpillar

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AutoPilotCarSoundWarning : IconType = {
+    name: 'auto-pilot-car-sound-warning',
+    key: 'AutoPilotCarSoundWarning',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15 14.51a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M23.25 16.76h-6m-4.5 0H10.5a1.5 1.5 0 0 1-1.5-1.5v-2.25a3 3 0 0 1 3-3h3l2.17-4.34a3 3 0 0 1 2.68-1.66h3.4m0 6H15m-9.18 6.35a4.5 4.5 0 0 1 0-6.36m-2.65 9.02a8.25 8.25 0 0 1 0-11.67"],
+}
+export default AutoPilotCarSoundWarning

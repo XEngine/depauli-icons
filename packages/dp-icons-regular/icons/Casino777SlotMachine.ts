@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Casino777SlotMachine : IconType = {
+    name: 'casino-777-slot-machine',
+    key: 'Casino777SlotMachine',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75 5.25h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1h-16a1 1 0 0 1-1-1v-16a1 1 0 0 1 1-1z","M.75 8.25h18m-18 7.5h18m-12-7.5v7.5m6-7.5v7.5m3.75-10.5v-.38C16.5 2.6 13.48.75 9.75.75S3 2.6 3 4.88v.38m.75 15h3m15-8.25v5.25a3 3 0 0 1-3 3m-15-8.63a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m6-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m6-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m6-3.38a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z"],
+}
+export default Casino777SlotMachine

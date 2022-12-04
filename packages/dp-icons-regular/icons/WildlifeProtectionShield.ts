@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WildlifeProtectionShield : IconType = {
+    name: 'wildlife-protection-shield',
+    key: 'WildlifeProtectionShield',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 8.36a2.25 2.25 0 0 0-4.49-.14 5.5 5.5 0 0 0-4.53 0 2.25 2.25 0 1 0-2.52 2.36 4.44 4.44 0 0 0-.47 1.97A5.05 5.05 0 0 0 12 17.36a5.05 5.05 0 0 0 5.25-4.81 4.44 4.44 0 0 0-.47-1.97 2.24 2.24 0 0 0 1.97-2.22zm-9 3.38a.38.38 0 0 1 .38.38m-.75-.01a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m4.5-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-12-8.56v7.61a11.91 11.91 0 0 0 7.63 11.12l1.04.4a3 3 0 0 0 2.15 0l1.04-.4a11.91 11.91 0 0 0 7.63-11.11V3.92a1.49 1.49 0 0 0-.87-1.36A21.7 21.7 0 0 0 12 .75a21.7 21.7 0 0 0-8.88 1.81 1.49 1.49 0 0 0-.87 1.36z"],
+}
+export default WildlifeProtectionShield

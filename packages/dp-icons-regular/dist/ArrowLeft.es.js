@@ -5,7 +5,7 @@ const t = {
   width: 24,
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
-  svgPathData: ["m23.25,12H.75", "m11.25,1.5L.75,12l10.5,10.5"]
+  svgPathData: ["M23.25 12H.75", "M11.25 1.5.75 12l10.5 10.5"]
 };
 export {
   t as default

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Pelican : IconType = {
+    name: 'pelican',
+    key: 'Pelican',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 21.75c1.5 0 2.25 1.5 3.75 1.5s2.25-1.5 3.75-1.5 2.25 1.5 3.75 1.5 2.25-1.5 3.75-1.5 2.25 1.5 3.75 1.5 2.25-1.5 3.75-1.5m-12-7.5 4.09-10.23a1.5 1.5 0 0 0-.53-1.79A7.71 7.71 0 0 0 10.5.75 3.74 3.74 0 0 0 6.75 3l-6 3.75S.75 12 5.25 12s5.25-4.5 5.25-4.5m-9.69 0H6m6.44 3.78 7.75-.78s0 7.5-6.75 7.5m6.58-5.96 3.17-.79s.75 6.75-3 8.25M8.16 11.18 7.5 12s-3 3.75-.75 7.5m4.13-15.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default Pelican

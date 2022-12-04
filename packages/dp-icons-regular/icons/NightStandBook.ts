@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NightStandBook : IconType = {
+    name: 'night-stand-book',
+    key: 'NightStandBook',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 5.25h19.5a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V6.75a1.5 1.5 0 0 1 1.5-1.5z","M18.75 3a2.25 2.25 0 0 1-4.5 0V.75h4.5zm-18 8.25h22.5m-12-3h1.5m-7.5 6h3v4.5h-3zm3 0h3v4.5h-3zm7.5 0h3v4.5h-3zm-12 4.5-1.5 4.5m18-4.5 1.5 4.5"],
+}
+export default NightStandBook

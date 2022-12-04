@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PresentationProjector1 : IconType = {
+    name: 'presentation-projector-1',
+    key: 'PresentationProjector1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 12.75h18a.75.75 0 0 1 .75.75V15a.75.75 0 0 1-.75.75H3a.75.75 0 0 1-.75-.75v-1.5a.75.75 0 0 1 .75-.75zm17.25 3H3.75v6a1.5 1.5 0 0 0 1.5 1.5h13.5a1.5 1.5 0 0 0 1.5-1.5zm-6-9h-6V1.5A.75.75 0 0 1 9 .75h4.5a.75.75 0 0 1 .75.75zm0-3h4.5a1.5 1.5 0 0 1 1.5 1.5v7.5m-13.5-6h9m-4.5-3.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6 15.38v1.5"],
+}
+export default PresentationProjector1

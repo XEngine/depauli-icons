@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleNeutralCircle : IconType = {
+    name: 'single-neutral-circle',
+    key: 'SingleNeutralCircle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 4.5A5.25 5.25 0 1 0 12 15a5.25 5.25 0 1 0 0-10.5zm6.91 16.38a9.75 9.75 0 0 0-13.83 0","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z"],
+}
+export default SingleNeutralCircle

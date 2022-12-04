@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MapsPin1 : IconType = {
+    name: 'maps-pin-1',
+    key: 'MapsPin1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 9V4.65a1.5 1.5 0 0 0-.94-1.39l-6-2.4a1.5 1.5 0 0 0-1.11 0L8.81 3.41a1.5 1.5 0 0 1-1.11 0L1.78 1.05a.75.75 0 0 0-1.03.7v14.37a1.5 1.5 0 0 0 .94 1.39l6 2.4a1.5 1.5 0 0 0 1.11 0l2.88-1.15M8.25 3.52v16.5M15.75.75v7.5m3 7.2a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m0-4.88a4.5 4.5 0 0 1 4.5 4.5c0 1.92-2.69 5.58-3.91 7.14a.75.75 0 0 1-1.18 0c-1.22-1.56-3.91-5.22-3.91-7.14a4.5 4.5 0 0 1 4.5-4.5z"],
+}
+export default MapsPin1

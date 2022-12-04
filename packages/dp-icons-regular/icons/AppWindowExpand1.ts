@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AppWindowExpand1 : IconType = {
+    name: 'app-window-expand-1',
+    key: 'AppWindowExpand1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.76 2.25h16.5a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5H3.76a1.5 1.5 0 0 1-1.5-1.5V3.75a1.5 1.5 0 0 1 1.5-1.5z","M5.26 9V5.25h3.75m6 0h3.75V9m-13.5 6v3.75h3.75m6 0h3.75V15M5.26 5.25l13.5 13.5m0-13.5-13.5 13.5"],
+}
+export default AppWindowExpand1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const InsectMantis : IconType = {
+    name: 'insect-mantis',
+    key: 'InsectMantis',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.64 10.04c-1.29 2.59-3.06 2.97-3.67 2.97s-2.39-.4-3.67-2.97","M15.98 4.97a1.83 2.56 0 1 0 0 5.12 1.83 2.56 0 1 0 0-5.12zm-8.03 0a1.83 2.56 0 1 0 0 5.12 1.83 2.56 0 1 0 0-5.12z","M8.65 5.17a7.55 7.55 0 0 1 3.31-.93 7.54 7.54 0 0 1 3.31.93m-.39-2.39a5.58 5.58 0 0 1 3.65-1.46 6.39 6.39 0 0 1 4.38 1.46m-13.87 0a5.58 5.58 0 0 0-3.65-1.46 6.39 6.39 0 0 0-4.38 1.46m13.15 18.26 3.8-6.97a1.46 1.46 0 0 1 1.86-.64 5.04 5.04 0 0 1 3.11 3.23 6.34 6.34 0 0 1-1.46 5.84s-.8-5.57-4.87-5.91m-6.81 4.45-3.8-6.97a1.46 1.46 0 0 0-1.86-.64 5.04 5.04 0 0 0-3.11 3.23 6.34 6.34 0 0 0 1.45 5.84s.8-5.57 4.87-5.91"],
+}
+export default InsectMantis

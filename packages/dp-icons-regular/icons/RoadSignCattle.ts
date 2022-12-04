@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignCattle : IconType = {
+    name: 'road-sign-cattle',
+    key: 'RoadSignCattle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.019 11.357 11.357 1.019a.91.91 0 0 1 1.286 0l10.338 10.338a.91.91 0 0 1 0 1.286L12.643 22.981a.91.91 0 0 1-1.286 0L1.019 12.643a.91.91 0 0 1 0-1.286z","M10.38 11.25a1.5 1.5 0 0 0-1.41 2l1.27 3.57A1.5 1.5 0 0 0 11.7 18h.6a1.5 1.5 0 0 0 1.46-1.18l1.27-3.57a1.5 1.5 0 0 0-1.41-2zm4.47.64 1.65.86m-7.35-.86-1.65.86M17.16 9a3 3 0 0 1-2.91 2.25h-.75M6.81 9a3 3 0 0 0 2.91 2.25h.75"],
+}
+export default RoadSignCattle

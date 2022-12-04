@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MakeUpLipstick1 : IconType = {
+    name: 'make-up-lipstick-1',
+    key: 'MakeUpLipstick1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75 12.75h7a1 1 0 0 1 1 1v9a.5.5 0 0 1-.5.5h-8a.5.5 0 0 1-.5-.5v-9a1 1 0 0 1 1-1zm13-1.5h8a.5.5 0 0 1 .5.5v11a.5.5 0 0 1-.5.5h-8a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5zm-12.5 1.5V2.25a.75.75 0 0 1 1.2-.6l4.2 3.15a1.5 1.5 0 0 1 .6 1.2v6.75m-4.5 7.5h3m7.5-3h9m-9 3h9"],
+}
+export default MakeUpLipstick1

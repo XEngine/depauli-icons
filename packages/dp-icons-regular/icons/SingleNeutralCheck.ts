@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleNeutralCheck : IconType = {
+    name: 'single-neutral-check',
+    key: 'SingleNeutralCheck',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm2.25 22.5.75-7.5h1.5v-3a4.5 4.5 0 0 0-9 0v3h1.5l.75 7.5zm15.75-16.5a6 6 0 1 1-6-6m6 1.5-5.47 5.47a.75.75 0 0 1-1.06 0L15 6"],
+}
+export default SingleNeutralCheck

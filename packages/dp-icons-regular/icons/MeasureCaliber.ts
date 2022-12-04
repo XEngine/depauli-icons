@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MeasureCaliber : IconType = {
+    name: 'measure-caliber',
+    key: 'MeasureCaliber',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.195 15.31 15.316 1.187a1.5 1.5 0 0 1 2.122 0l5.38 5.381a1.5 1.5 0 0 1 0 2.122L8.699 22.81a1.5 1.5 0 0 1-2.122 0l-5.38-5.38a1.5 1.5 0 0 1 0-2.122z","M15.75 6a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-7.5 7.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default MeasureCaliber

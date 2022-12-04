@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Wifi : IconType = {
+    name: 'wifi',
+    key: 'Wifi',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 15.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm5.3-2.3a7.5 7.5 0 0 0-10.61 0m13.79-3.18a12 12 0 0 0-16.97 0m19.74-3.59a16.5 16.5 0 0 0-22.5 0"],
+}
+export default Wifi

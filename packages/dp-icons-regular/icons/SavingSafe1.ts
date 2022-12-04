@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SavingSafe1 : IconType = {
+    name: 'saving-safe-1',
+    key: 'SavingSafe1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 3.75h19.5a1.5 1.5 0 0 1 1.5 1.5v15a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-15a1.5 1.5 0 0 1 1.5-1.5z","M6.75 6.75h12a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-12a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5z","M3.75 21.75v1.5m16.5-1.5v1.5m-16.5-12h3m-3 4.5h3m7.13-1.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m3 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-3-3.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m3 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default SavingSafe1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeFileTextGraphAlternate : IconType = {
+    name: 'office-file-text-graph-alternate',
+    key: 'OfficeFileTextGraphAlternate',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 15h2.25m-3.75-4.5h3.75m-5.25 9h5.25M9 9.75a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z","M5.29 16.72 9 14.25v-4.5m13.81-4.19a1.5 1.5 0 0 1 .44 1.06V21A2.25 2.25 0 0 1 21 23.25H3A2.25 2.25 0 0 1 .75 21V3A2.25 2.25 0 0 1 3 .75h14.38a1.5 1.5 0 0 1 1.06.44zM17.25.75v4.5a1.5 1.5 0 0 0 1.5 1.5h4.5"],
+}
+export default OfficeFileTextGraphAlternate

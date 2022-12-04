@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PetsHairRoller : IconType = {
+    name: 'pets-hair-roller',
+    key: 'PetsHairRoller',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.92 22.71a1.85 1.85 0 0 1-2.62-2.62l6.55-6.55 2.62 2.62z","m17.46 1.148 5.395 5.395a1 1 0 0 1 0 1.414l-9.588 9.588a1 1 0 0 1-1.414 0L6.458 12.15a1 1 0 0 1 0-1.414l9.588-9.588a1 1 0 0 1 1.414 0z","m18.85 2.54.79-.79a1.85 1.85 0 0 1 2.62 2.62l-.79.79"],
+}
+export default PetsHairRoller

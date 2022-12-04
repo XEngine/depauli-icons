@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DataTransferSquareVertical : IconType = {
+    name: 'data-transfer-square-vertical',
+    key: 'DataTransferSquareVertical',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 9v8.25m3-3-3 3-3-3m-4.5.75V6.75m-3 3 3-3 3 3","M3.75.75h16.5a3 3 0 0 1 3 3v16.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3V3.75a3 3 0 0 1 3-3z"],
+}
+export default DataTransferSquareVertical

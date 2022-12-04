@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VintageCameraFlash1 : IconType = {
+    name: 'vintage-camera-flash-1',
+    key: 'VintageCameraFlash1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.25 18.75v3a1.5 1.5 0 0 1-1.5 1.5h-7.5a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5h3M15.75.75a7.5 7.5 0 1 0 0 15 7.5 7.5 0 1 0 0-15z","M15.75 5.25a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm5.3-2.3-3.18 3.18m-4.24 4.24-3.18 3.18m7.42-3.18 3.18 3.18m-7.42-7.42-3.18-3.18M6 15a2.25 2.25 0 1 0 0 4.5A2.25 2.25 0 1 0 6 15zm9.75.75v2.07a1.5 1.5 0 0 1-.83 1.34L11.25 21"],
+}
+export default VintageCameraFlash1

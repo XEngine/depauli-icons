@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const StyleThreePinPalette : IconType = {
+    name: 'style-three-pin-palette',
+    key: 'StyleThreePinPalette',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.75.8a9 9 0 0 1 9 9c0 7.9-6.93 12.33-8.63 13.3a.75.75 0 0 1-.74 0c-1.7-.97-8.63-5.4-8.63-13.3a9 9 0 0 1 9-9zm1.5 13.03c0-.65.6-3.49 3.45-3.36a.28.28 0 0 0 .29-.29c-.16-4.22-4.27-4.98-5.24-4.98a5.25 5.25 0 0 0 0 10.5 4.99 4.99 0 0 0 1.05-.11.75.75 0 0 0 .57-.93 3.23 3.23 0 0 1-.11-.83zm-.37-5.63a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-3 .75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default StyleThreePinPalette

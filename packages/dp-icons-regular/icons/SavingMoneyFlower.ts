@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SavingMoneyFlower : IconType = {
+    name: 'saving-money-flower',
+    key: 'SavingMoneyFlower',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.95 12.75v10.5m0 0s-1.13-3.09-6.31-6.39M3.66 19c1.03 1.12 2.64 1.52 3.62-.56 2.43-1.44 1.43-3.25.05-4.21a7.22 7.22 0 0 0-6.52.1c1.66 1.61 1.58 3.28 2.85 4.67zm8.29 4.25s1.13-3.09 6.31-6.39M20.23 19c-1.03 1.12-2.64 1.52-3.62-.56-2.43-1.44-1.43-3.26-.05-4.21a7.22 7.22 0 0 1 6.52.1c-1.66 1.61-1.57 3.28-2.85 4.67zM13.45 3.75h-2.03a1.34 1.34 0 0 0-.5 2.59l2.06.83a1.34 1.34 0 0 1-.5 2.59h-2.03m1.5-6V3m0 7.5v-.75","M11.95.75a6 6 0 1 0 0 12 6 6 0 1 0 0-12z"],
+}
+export default SavingMoneyFlower

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ReligionJainism : IconType = {
+    name: 'religion-jainism',
+    key: 'ReligionJainism',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.5 12.75a7.21 7.21 0 0 0-4.89 2.47.71.71 0 0 0 0 .98 7.2 7.2 0 0 0 4.89 2.47 7.2 7.2 0 0 0 4.89-2.47.71.71 0 0 0 0-.98 7.21 7.21 0 0 0-4.89-2.47zm0 2.58a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m6.75-2.59V5.25a1.5 1.5 0 0 0-3 0v4.5m-11 3.3a1.54 1.54 0 0 0-2.24 2.06l2.9 5.47a6 6 0 0 0 4.99 2.67h3.23a5.12 5.12 0 0 0 3.62-1.5 5.13 5.13 0 0 0 1.42-2.72m-8.92-9.28v-6a1.5 1.5 0 0 0-3 0v6.75m6-6.75v-1.5a1.5 1.5 0 0 0-3 0v1.5m6 1.5v-1.5a1.5 1.5 0 0 0-3 0v6"],
+}
+export default ReligionJainism

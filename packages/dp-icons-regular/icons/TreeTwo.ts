@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TreeTwo : IconType = {
+    name: 'tree-two',
+    key: 'TreeTwo',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25.75.81 16.83a1.5 1.5 0 0 0 1.44 1.92h6a1.5 1.5 0 0 0 1.44-1.92z","M5.25 17.25c0-2.25-1.5-4.5-3-4.5h-.31m3.31 4.5c0-2.25 1.5-4.5 3-4.5h.31M5.25 10.5v12.75m12-19.5a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M17.25 23.25v-15m0 5.25c0-2.25 1.5-3 2.25-3m-2.25 3c0-2.25-1.5-3-2.25-3"],
+}
+export default TreeTwo

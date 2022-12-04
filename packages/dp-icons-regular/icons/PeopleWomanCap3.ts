@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PeopleWomanCap3 : IconType = {
+    name: 'people-woman-cap-3',
+    key: 'PeopleWomanCap3',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z","M6.8 6.75h10.39m-5.95-3h1.5m-1.5 13.49v6.01m4.13-3.75a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m.3-5.33a3.75 3.75 0 0 1-7.4 0M6.8 6.75S6.75 10.5 3.75 12M17.2 6.75s.05 3.75 3.05 5.25m2.2 11.25a10.5 10.5 0 0 0-20.95 0"],
+}
+export default PeopleWomanCap3

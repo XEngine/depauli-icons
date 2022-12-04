@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleManSearch : IconType = {
+    name: 'single-man-search',
+    key: 'SingleManSearch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.5.75a9.75 9.75 0 1 0 0 19.5 9.75 9.75 0 1 0 0-19.5zm6.89 16.64 5.86 5.86","M10.5 4.87a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 1 0 0-6.4z","M15 14.82a5.71 5.71 0 0 0-9 0m7.7-6.65a6.43 6.43 0 0 1-1.78.25A6.37 6.37 0 0 1 7.6 6.74"],
+}
+export default SingleManSearch

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ReligionShield1 : IconType = {
+    name: 'religion-shield-1',
+    key: 'ReligionShield1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.76 9a.75.75 0 0 0-.75-.75h-1.5a.75.75 0 0 1-.75-.75V6a.75.75 0 0 0-.75-.75h-1.5a.75.75 0 0 0-.75.75v1.5a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 0-.75.75v1.5a.75.75 0 0 0 .75.75h1.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 0 .75.75h1.5a.75.75 0 0 0 .75-.75V12a.75.75 0 0 1 .75-.75h1.5a.75.75 0 0 0 .75-.75zM3.26 3.95v7.47a12 12 0 0 0 7.01 11.22l.96.4a2.57 2.57 0 0 0 2 0l.96-.4a12.04 12.04 0 0 0 7.07-11.22V3.95a1.51 1.51 0 0 0-.8-1.37A18.71 18.71 0 0 0 12.24.75a18.41 18.41 0 0 0-8.17 1.83 1.51 1.51 0 0 0-.8 1.37z"],
+}
+export default ReligionShield1

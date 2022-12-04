@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const InstrumentDrums : IconType = {
+    name: 'instrument-drums',
+    key: 'InstrumentDrums',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.72 5.37a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm-1.32.56L1.71 1.49m13.76 4.02a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm1.38.61 5.86-4.21m-.53 10.08H1.5m-.21 10.5 21 .03m-19.5-.03L7.5 12.11l4.29 10.39 4.71-10.51 4.29 10.53m-18-10.53v10.5m18-10.47v10.5"],
+}
+export default InstrumentDrums

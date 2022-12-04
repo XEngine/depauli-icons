@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CryptoCurrencyBitcoinWorld : IconType = {
+    name: 'crypto-currency-bitcoin-world',
+    key: 'CryptoCurrencyBitcoinWorld',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.5 23.15A11.25 11.25 0 1 1 23.15 10.5","M9.29 22.92C7.77 20.69 6.75 16.63 6.75 12S7.77 3.31 9.29 1.08M.75 11.25h9M3 5.25h18m-18.95 12h6.2m6.46-16.17a17.01 17.01 0 0 1 2.31 7.17m.23 3a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M15.75 20.25v-6H18a1.5 1.5 0 0 1 0 3 1.5 1.5 0 0 1 0 3zm0-3H18m-.75-3v-.75m0 6.75V21"],
+}
+export default CryptoCurrencyBitcoinWorld

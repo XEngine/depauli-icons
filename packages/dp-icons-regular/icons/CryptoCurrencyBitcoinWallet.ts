@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CryptoCurrencyBitcoinWallet : IconType = {
+    name: 'crypto-currency-bitcoin-wallet',
+    key: 'CryptoCurrencyBitcoinWallet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 18.66a2.25 2.25 0 0 0 0-4.5 2.25 2.25 0 0 0 0-4.5h-3v9zm-3-4.5h3.19M12 9.66v-1.5m0 12v-1.5","M1.75 5.16h20.5a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1v-16a1 1 0 0 1 1-1z","M20.25 5.16V2.34A1.5 1.5 0 0 0 18.58.85L3.41 2.6A3 3 0 0 0 .75 5.58v1.08"],
+}
+export default CryptoCurrencyBitcoinWallet

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HeavyEquipmentCleaner1 : IconType = {
+    name: 'heavy-equipment-cleaner-1',
+    key: 'HeavyEquipmentCleaner1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.25 17.25h11a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2z","M12 19.88a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M6.75 15.75a1.5 1.5 0 0 0 1.5 1.5h13.5a1.5 1.5 0 0 0 1.5-1.5V2.25a1.5 1.5 0 0 0-1.5-1.5h-5.63a1.5 1.5 0 0 0-1.44 1.07l-1.61 5.36a1.5 1.5 0 0 1-1.44 1.07H9.75a1.5 1.5 0 0 0-1.5 1.5zm3-4.5h4.5m-12 0H7.5m-5.25 3h4.5m3 0h4.5M.83 5.53l.82.52a1.5 1.5 0 0 1 .6 1.2V18.5a1.5 1.5 0 0 1-.6 1.2l-.86.55m10.84-12H22.5"],
+}
+export default HeavyEquipmentCleaner1

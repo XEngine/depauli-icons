@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BeanieWinter : IconType = {
+    name: 'beanie-winter',
+    key: 'BeanieWinter',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 20.25a3 3 0 0 1-3 3H3.75a3 3 0 0 1 0-6h16.5a3 3 0 0 1 3 3zm-3-3H3.75V13.5a8.25 8.25 0 0 1 16.5 0z","M12 .75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-3.75 16.5v6m7.5-6v6"],
+}
+export default BeanieWinter

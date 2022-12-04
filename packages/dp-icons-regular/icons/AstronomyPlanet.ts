@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AstronomyPlanet : IconType = {
+    name: 'astronomy-planet',
+    key: 'AstronomyPlanet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.5 8.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12zm3 11.2 1.13 1.95M4.3 17.25l-1.95 1.13m12.35-7.13 1.95-1.13M6.5 9.05 5.38 7.11m9.32 10.14 1.95 1.13M6.5 19.45 5.37 21.4M12.5 9.05l1.13-1.95M4.3 11.25l-1.95-1.13m13.15 4.13h2.25m-8.25 6v2.25m0-14.25V6m-6 8.25H1.25","M11.75 12.38a.38.38 0 0 1 .38.38","M11.38 12.75a.38.38 0 0 1 .38-.38m-.01.76a.38.38 0 0 1-.38-.38m.76 0a.38.38 0 0 1-.38.38M8 11.63a.38.38 0 0 1 .38.38M7.63 12a.38.38 0 0 1 .37-.37m0 .75a.38.38 0 0 1-.37-.38","M8.38 12a.38.38 0 0 1-.38.38m.75 3.75a.38.38 0 0 1 .38.38","M8.38 16.5a.38.38 0 0 1 .38-.38m-.01.76a.38.38 0 0 1-.38-.38m.76 0a.38.38 0 0 1-.38.38M19.25 3a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-1.5V3m2.25 2.25H23M19.25 7.5V9M17 5.25h-1.5m6.4-2.65-1.06 1.06m0 3.18L21.9 7.9m-4.24-1.06L16.6 7.9m1.06-4.24L16.6 2.6"],
+}
+export default AstronomyPlanet

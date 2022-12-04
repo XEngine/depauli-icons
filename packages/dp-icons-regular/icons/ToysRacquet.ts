@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToysRacquet : IconType = {
+    name: 'toys-racquet',
+    key: 'ToysRacquet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.4 18.9a7.83 7.83 0 0 1-8.8 0m6.36 4.04a6.31 6.31 0 0 1-3.91 0M12 4.5V.75m0 3.75a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M12 7.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6z"],
+}
+export default ToysRacquet

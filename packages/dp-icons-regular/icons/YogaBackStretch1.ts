@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const YogaBackStretch1 : IconType = {
+    name: 'yoga-back-stretch-1',
+    key: 'YogaBackStretch1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m15.88 9.5.92.92-2.8 2.41-2.69-3.59 2.99-2.49h3.2a1.5 1.5 0 0 0 0-3h-3.75a1.51 1.51 0 0 0-.96.35l-4.5 3.75a1.5 1.5 0 0 0-.24 2.05l4.2 5.6v6.25a1.5 1.5 0 0 0 3 0v-6.06l4.73-4.05a1.5 1.5 0 0 0 .09-2.2M5.5.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm6.18 13.99 2.31-1.92"],
+}
+export default YogaBackStretch1

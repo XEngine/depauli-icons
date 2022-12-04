@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NaturalDisasterFire : IconType = {
+    name: 'natural-disaster-fire',
+    key: 'NaturalDisasterFire',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.16 11.18a4.07 4.07 0 0 1-2.99 3.57 1.45 1.45 0 0 1-.22-1.97 3.28 3.28 0 0 0-3.39.98 3.71 3.71 0 0 0 0 5.25 3.76 3.76 0 0 0 5.25 0 6.17 6.17 0 0 0 1.35-7.83zm-8.71-.66a7.5 7.5 0 0 0 .45 11.03 7.72 7.72 0 0 0 10.42-.68 33.64 33.64 0 0 0 7.16-10.45.75.75 0 0 0-.94-.99l-3.3 1.1 4-7.2a.75.75 0 0 0-1.03-1.02l-5.09 2.91.72-3.57a.75.75 0 0 0-1.16-.77 81.95 81.95 0 0 0-11.23 9.65z"],
+}
+export default NaturalDisasterFire

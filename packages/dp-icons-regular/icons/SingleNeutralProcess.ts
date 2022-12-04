@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleNeutralProcess : IconType = {
+    name: 'single-neutral-process',
+    key: 'SingleNeutralProcess',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm2.25 22.5.75-7.5h1.5v-3a4.5 4.5 0 0 0-9 0v3h1.5l.75 7.5zm12.75-12a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm-9-10.5 4.5 4.5m0-4.5-4.5 4.5m7.5-3h4.5v4.5m0-4.5L12.75 12"],
+}
+export default SingleNeutralProcess

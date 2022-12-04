@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameMarioQuestionBox : IconType = {
+    name: 'video-game-mario-question-box',
+    key: 'VideoGameMarioQuestionBox',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.5.75h19a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1h-19a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","M9 9a3 3 0 1 1 4 2.83 1.5 1.5 0 0 0-1 1.41v1.01m0 3a.38.38 0 1 0 0 .76.38.38 0 1 0 0-.76zM5.25 4.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m13.5-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M5.25 19.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m13.5-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default VideoGameMarioQuestionBox

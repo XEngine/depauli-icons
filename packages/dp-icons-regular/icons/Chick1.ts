@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Chick1 : IconType = {
+    name: 'chick-1',
+    key: 'Chick1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.66.79a6.17 6.17 0 0 0-5.41 6.23v.49a6 6 0 0 1-6 6H.75a9.75 9.75 0 0 0 10.05 9.75 10.02 10.02 0 0 0 9.45-10.16V6.76A6 6 0 0 0 13.66.79zM15 15.76a3.75 3.75 0 0 1-7.5 0h3m9.75-9a2.94 2.94 0 0 1 3 3h-3m-5.63-3.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.37.37 0 0 1-.38-.38m.75 0a.37.37 0 0 1-.38.38"],
+}
+export default Chick1

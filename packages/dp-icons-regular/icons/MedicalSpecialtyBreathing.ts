@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MedicalSpecialtyBreathing : IconType = {
+    name: 'medical-specialty-breathing',
+    key: 'MedicalSpecialtyBreathing',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.5 23.25v-6.27A9.37 9.37 0 0 0 13.13.75C5.99.75 4.45 6.63 1.9 13.23a.75.75 0 0 0 .7 1.02h1.9v3a3 3 0 0 0 3 3H9v3m6 0v-8.12a5.38 5.38 0 0 0-5.38-5.38A5.12 5.12 0 0 0 6 11.25"],
+}
+export default MedicalSpecialtyBreathing

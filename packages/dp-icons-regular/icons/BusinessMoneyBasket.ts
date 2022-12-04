@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BusinessMoneyBasket : IconType = {
+    name: 'business-money-basket',
+    key: 'BusinessMoneyBasket',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.72 5.73 2.05 7.79a1.5 1.5 0 0 0-.77 1.98l2.64 5.99m8.09 0 10.26-4.53a1.5 1.5 0 0 0 .77-1.98l-3.36-7.61A1.5 1.5 0 0 0 17.7.87l-5.09 2.25M3.88 18.4l1.54 4.77m3.6-4.77.79 4.77m12.05 0 1.36-3.44a1.1 1.1 0 0 0-1.07-1.33H1.85a1.1 1.1 0 0 0-1.07 1.33l1.36 3.44m17.99-4.77-1.54 4.77m-3.62-4.76-.77 4.77m-3.48-11.94a2.22 2.22 0 0 0 2.05.09 1.86 1.86 0 0 0 1.31-2.22 1.86 1.86 0 0 0-2.5-.63 1.86 1.86 0 0 1-2.5-.64 1.86 1.86 0 0 1 1.31-2.22 2.22 2.22 0 0 1 2.05.09m.33 5.62.4.95M9.99 4.67l.4.95"],
+}
+export default BusinessMoneyBasket

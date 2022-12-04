@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SettingsSliderDesktopHorizontal : IconType = {
+    name: 'settings-slider-desktop-horizontal',
+    key: 'SettingsSliderDesktopHorizontal',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 3.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm1.5 1.5h7.5m-13.5 0h3m6 4.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-1.5 1.5h-7.5m13.5 0h-3m-2.25 7.5a8.93 8.93 0 0 0 1.5 4.5H9a8.93 8.93 0 0 0 1.5-4.5m-3.75 4.5h10.5m-16.5-7.5h22.5","M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v15a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-15a1.5 1.5 0 0 1 1.5-1.5z"],
+}
+export default SettingsSliderDesktopHorizontal

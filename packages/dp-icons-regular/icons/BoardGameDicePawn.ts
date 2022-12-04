@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BoardGameDicePawn : IconType = {
+    name: 'board-game-dice-pawn',
+    key: 'BoardGameDicePawn',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2 12.75h8.5a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-8.5a1 1 0 0 1 1-1z","M4.38 15.75a.38.38 0 0 0-.38.38m.75 0a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38m3.75-.75a.38.38 0 0 0-.38.38m.75 0a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38m0 3a.38.38 0 0 0-.38.38m.75 0a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38m-3.75-.75a.38.38 0 0 0-.38.38m.75 0a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38m9.91-3.01 1.02-7.07a4.89 4.89 0 1 1 3.64 0l1.35 8.19h1.29a1.5 1.5 0 0 1 1.46 1.14l.15 1.99a1.5 1.5 0 0 1-1.48 1.76h-6.47"],
+}
+export default BoardGameDicePawn

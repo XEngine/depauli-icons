@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficialBuilding2 : IconType = {
+    name: 'official-building-2',
+    key: 'OfficialBuilding2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2 6.75h20a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H2a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 .5-.5zm19 0c0-3-4.5-6-9-6s-9 3-9 6m-.75 10.5h19.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H2.25a.75.75 0 0 1-.75-.75V18a.75.75 0 0 1 .75-.75zm-.75 6h21M3 9.75v7.5m3-7.5v7.5m3-7.5v7.5m6-7.5v7.5m6-7.5v7.5m-3-7.5v7.5"],
+}
+export default OfficialBuilding2

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CanoeSingle : IconType = {
+    name: 'canoe-single',
+    key: 'CanoeSingle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.75 23.25a1.5 1.5 0 0 1-1.5-1.5v-9.9a15.3 15.3 0 0 1 3.06-9.18l.84-1.12a.75.75 0 0 1 1.2 0l.84 1.12a15.3 15.3 0 0 1 3.06 9.18v9.9a1.5 1.5 0 0 1-1.5 1.5zM5.5 7.75v8.5M4 .75a.75.75 0 0 0-.75.75V5a.75.75 0 0 0 .15.45l1.5 2a.75.75 0 0 0 1.2 0l1.5-2A.75.75 0 0 0 7.75 5V1.5A.75.75 0 0 0 7 .75zm0 22.5a.75.75 0 0 1-.75-.75V19a.75.75 0 0 1 .15-.45l1.5-2a.75.75 0 0 1 1.2 0l1.5 2a.75.75 0 0 1 .15.45v3.5a.75.75 0 0 1-.75.75z","M16.75 12a2.25 3 0 1 0 0 6 2.25 3 0 1 0 0-6z"],
+}
+export default CanoeSingle

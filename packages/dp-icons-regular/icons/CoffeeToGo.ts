@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CoffeeToGo : IconType = {
+    name: 'coffee-to-go',
+    key: 'CoffeeToGo',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 3.75h15a1.5 1.5 0 0 1 1.5 1.5v1.5a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 3 6.75v-1.5a1.5 1.5 0 0 1 1.5-1.5zm13.65 18.17a1.5 1.5 0 0 1-1.49 1.33H7.34a1.5 1.5 0 0 1-1.49-1.33L4.5 8.25h15zm.27-20.34a1.5 1.5 0 0 0-1.35-.83H6.93a1.5 1.5 0 0 0-1.34.83L4.5 3.75h15z","M12 12.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6z"],
+}
+export default CoffeeToGo

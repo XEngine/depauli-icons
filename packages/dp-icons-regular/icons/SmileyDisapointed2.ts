@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyDisapointed2 : IconType = {
+    name: 'smiley-disapointed-2',
+    key: 'SmileyDisapointed2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M10.5 10.5 9.75 12m3.75-1.5.75 1.5M7.02 9.14a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m9.96 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-1.32 9.61a.76.76 0 0 0 .74-.9 4.5 4.5 0 0 0-8.82 0 .76.76 0 0 0 .74.9 9.33 9.33 0 0 1 7.33 0zM8.52 6.08a3.54 3.54 0 0 0-2.34.29A3.54 3.54 0 0 0 4.5 8.02m10.98-1.93a3.69 3.69 0 0 1 4.02 1.93"],
+}
+export default SmileyDisapointed2

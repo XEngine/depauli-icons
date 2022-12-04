@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BabyCareClothes : IconType = {
+    name: 'baby-care-clothes',
+    key: 'BabyCareClothes',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.5 8.25h2.25a1.5 1.5 0 0 0 1.5-1.5V4.04a1.5 1.5 0 0 0-.98-1.41C20.58 2 17.25.76 17.25.75h-1.5a3.75 3.75 0 0 1-7.5 0h-1.5C6.75.76 3.43 2 1.73 2.64a1.5 1.5 0 0 0-.98 1.4v2.71a1.5 1.5 0 0 0 1.5 1.5H4.5v12.38a2.63 2.63 0 0 0 5.25 0v-3.38a2.25 2.25 0 0 1 4.5 0v3.38a2.63 2.63 0 0 0 5.25 0zm-7.5 3a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0A.38.38 0 0 1 12 12m0-4.5a.38.38 0 0 1 .38.38m-.75 0A.38.38 0 0 1 12 7.5m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.37.38"],
+}
+export default BabyCareClothes

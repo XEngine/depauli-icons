@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Bird : IconType = {
+    name: 'bird',
+    key: 'Bird',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.46 7.1a.38.38 0 0 1 .38.38m-.75-.01a.38.38 0 0 1 .38-.37m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m7.12-.75a.38.38 0 0 0-.38.38m.75-.01a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38m-.56 15.26-.73-3.66M9.02 23.1l.73-3.66M12.02.75a9.46 9.46 0 0 0-9.24 11.63L.82 17.27a.79.79 0 0 0 1.01 1.03l3.52-1.32a9.48 9.48 0 0 0 13.33 0l3.52 1.32a.79.79 0 0 0 1.01-1.03l-1.96-4.89A9.46 9.46 0 0 0 12.02.75zM8.06 12.4l3.95 3.95 3.95-3.95a5.06 5.06 0 0 0-7.91 0z"],
+}
+export default Bird

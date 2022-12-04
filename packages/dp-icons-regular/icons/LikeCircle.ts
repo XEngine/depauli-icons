@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LikeCircle : IconType = {
+    name: 'like-circle',
+    key: 'LikeCircle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M7.5 16.4a3.58 3.58 0 0 1 .91.13l2.12.59a3.58 3.58 0 0 0 .96.13h2.85a3.46 3.46 0 0 0 3.48-3.06L18 11.3a2.56 2.56 0 0 0-1.99-2.6l-.85-.18a.85.85 0 0 1-.66-.82V5.77a1.31 1.31 0 0 0-2.63 0v.88A4.31 4.31 0 0 1 7.5 10.9zM5.8 9.75h1.7v7.5H5.8"],
+}
+export default LikeCircle

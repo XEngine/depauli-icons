@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PowerButton2 : IconType = {
+    name: 'power-button-2',
+    key: 'PowerButton2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.25 7.5h1.5a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1-.75-.75v-7.5a.75.75 0 0 1 .75-.75z","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z"],
+}
+export default PowerButton2

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CashSearch : IconType = {
+    name: 'cash-search',
+    key: 'CashSearch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7.89 11.59a2.22 2.22 0 0 0 1.86.88c1.14 0 2.06-.69 2.06-1.55s-.92-1.55-2.06-1.55-2.06-.69-2.06-1.55.92-1.54 2.06-1.54a2.22 2.22 0 0 1 1.86.88m-1.86 5.31v1.03m0-8.25v1.03","M9.81.75a9.06 9.06 0 1 0 0 18.12 9.06 9.06 0 1 0 0-18.12zm6.41 15.47 7.03 7.03"],
+}
+export default CashSearch

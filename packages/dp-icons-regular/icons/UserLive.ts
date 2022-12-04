@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const UserLive : IconType = {
+    name: 'user-live',
+    key: 'UserLive',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.15 23.23v-4.46m3 0v1.29a5.13 5.13 0 0 0 1.13 3.17 5.12 5.12 0 0 0 1.13-3.17v-1.29m-10.51 0v3.53a1.06 1.06 0 0 0 1.13.97h1.12m13.17 0h-.96a.93.93 0 0 1-.96-.9v-2.7a.93.93 0 0 1 .96-.9h.96m-1.92 2.25h2.25M6.2 11.91a6 6 0 1 1 11.14.02","M4.69 14.41a8.66 8.66 0 1 1 14.17 0","M11.77 6.67a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM16 15.68a4.47 4.47 0 0 0-8.45 0z"],
+}
+export default UserLive

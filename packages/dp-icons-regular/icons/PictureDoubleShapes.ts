@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PictureDoubleShapes : IconType = {
+    name: 'picture-double-shapes',
+    key: 'PictureDoubleShapes',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 5.25v-.98a2.01 2.01 0 0 0-2-2.02h-14a2.01 2.01 0 0 0-2 2.02v9.46a2.01 2.01 0 0 0 2 2.02M10 13.5h3.25a1 1 0 0 1 1 1v3.25a1 1 0 0 1-1 1H10a1 1 0 0 1-1-1V14.5a1 1 0 0 1 1-1zm6.75 5.25h2.63a.88.88 0 0 0 .88-.88.86.86 0 0 0-.1-.4l-3.2-6.21a.72.72 0 0 0-1.28 0c-.07.13-.16.3-.25.49","M7 8.25h15.25a1 1 0 0 1 1 1v11.5a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V9.25a1 1 0 0 1 1-1z"],
+}
+export default PictureDoubleShapes

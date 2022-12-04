@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DatabaseDisable : IconType = {
+    name: 'database-disable',
+    key: 'DatabaseDisable',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 9.75C5.79 9.75.75 7.74.75 5.25S5.79.75 12 .75s11.25 2.01 11.25 4.5c0 1.18-1.14 2.26-3 3.06m3 2.19V5.25","M.75 5.25v6c0 1.96 3.14 3.63 7.52 4.25","M.75 11.25v6c0 1.95 3.11 3.61 7.45 4.24m9.05-10.24a6 6 0 1 0 0 12 6 6 0 1 0 0-12zm-4.24 10.24 8.48-8.48"],
+}
+export default DatabaseDisable

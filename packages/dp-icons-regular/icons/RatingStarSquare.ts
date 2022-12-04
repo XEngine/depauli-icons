@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RatingStarSquare : IconType = {
+    name: 'rating-star-square',
+    key: 'RatingStarSquare',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m12.68 6.59 1.6 3.16h2.75a.75.75 0 0 1 .53 1.28l-2.51 2.47 1.39 3.19a.75.75 0 0 1-1.06.96L12 15.75l-3.38 1.9a.75.75 0 0 1-1.06-.96l1.39-3.19-2.5-2.46a.75.75 0 0 1 .53-1.29h2.73l1.6-3.16a.76.76 0 0 1 1.37 0z","M3.75.75h16.5a3 3 0 0 1 3 3v16.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3V3.75a3 3 0 0 1 3-3z"],
+}
+export default RatingStarSquare

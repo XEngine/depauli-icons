@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Bear : IconType = {
+    name: 'bear',
+    key: 'Bear',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.75 3.62a9.58 9.58 0 0 0-9.87 0m7.19 9.88a2.25 2.25 0 0 1-4.5 0v-.75h4.5zm-2.25 3a2.25 2.25 0 0 1-2.25 2.25m4.5 0a2.25 2.25 0 0 1-2.25-2.25v-.75M8.44 9a.38.38 0 0 1 .38.38m-.75 0A.38.38 0 0 1 8.44 9m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M15.18 9a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M8.44 2.86a3.75 3.75 0 1 0-5.31 4.85 12.23 12.23 0 0 0-1.31 4.54c-.37 4.06-.74 7.84-1.06 11M15.14 2.84a3.75 3.75 0 1 1 5.35 4.84 12.24 12.24 0 0 1 1.33 4.57c.37 4.06.74 7.84 1.06 11"],
+}
+export default Bear

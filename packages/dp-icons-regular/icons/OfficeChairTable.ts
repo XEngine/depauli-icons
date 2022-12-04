@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeChairTable : IconType = {
+    name: 'office-chair-table',
+    key: 'OfficeChairTable',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 21.75V8.25m15 3h7.5v7.5h-7a.5.5 0 0 1-.5-.5v-7zm0 0h7.5V9a.75.75 0 0 0-.75-.75h-6.75m7.5 10.5v3m-3.75-7.13a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-6.75 7.13v-15a4.5 4.5 0 0 0-9 0v15m0-6h9"],
+}
+export default OfficeChairTable

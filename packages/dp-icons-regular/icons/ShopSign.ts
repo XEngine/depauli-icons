@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShopSign : IconType = {
+    name: 'shop-sign',
+    key: 'ShopSign',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.03.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-9.8 12h19.55a1.45 1.45 0 0 1 1.45 1.45v7.6a1.45 1.45 0 0 1-1.45 1.45H2.23A1.45 1.45 0 0 1 .78 21.8v-7.6a1.45 1.45 0 0 1 1.45-1.45zm4.55-3 3.68-5.14m6.83 5.14-3.67-5.14"],
+}
+export default ShopSign

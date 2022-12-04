@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CreditCardSmartphone : IconType = {
+    name: 'credit-card-smartphone',
+    key: 'CreditCardSmartphone',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 8.25v-6a1.5 1.5 0 0 0-1.5-1.5H2.25a1.5 1.5 0 0 0-1.5 1.5v12a1.5 1.5 0 0 0 1.5 1.5h10.5m-12-10.5h19.5M3.75 9h6m-6 3h3","M17.25 11.25h4.5a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5zm-1.5 9h7.5"],
+}
+export default CreditCardSmartphone

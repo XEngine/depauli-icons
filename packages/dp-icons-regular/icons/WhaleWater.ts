@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WhaleWater : IconType = {
+    name: 'whale-water',
+    key: 'WhaleWater',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 21c1.5 0 2.25 1.5 3.75 1.5S6.75 21 8.25 21s2.25 1.5 3.75 1.5 2.25-1.5 3.75-1.5 2.25 1.5 3.75 1.5 2.25-1.5 3.75-1.5M1.5 18c0-7.5 7.07-5.76 9.75-3.75C14.25 16.5 15 18 15 18m8.25 0a11.54 11.54 0 0 0-1.5-6 3.13 3.13 0 0 0 1.34-2.17.75.75 0 0 0-1.12-.81L19.5 10.5a11.64 11.64 0 0 1-2.64-.42.75.75 0 0 0-.89.98 4.26 4.26 0 0 0 2.78 2.44 7.92 7.92 0 0 1 0 4.5M6.38 15.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.39-.37m.75 0a.38.38 0 0 1-.38.38M1.5 4.5a3 3 0 0 1 6 0m6 0a3 3 0 0 0-6 0v5.25"],
+}
+export default WhaleWater

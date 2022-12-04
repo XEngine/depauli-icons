@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MonitorLock : IconType = {
+    name: 'monitor-lock',
+    key: 'MonitorLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 21.75h9.75m3 0h9.75M12 17.25v3M14.25.75H6a1.5 1.5 0 0 0-1.5 1.5v7.5a1.5 1.5 0 0 0 1.5 1.5h7.5m-1.5 0v3m-2.25 0h4.5m-9.75-6h8.25m-.75 12a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm5.25-16.5h4.5a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5z","M19.5 6.38zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-2.25-2.63V3a2.25 2.25 0 0 1 4.5 0v.75"],
+}
+export default MonitorLock

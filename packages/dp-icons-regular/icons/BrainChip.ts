@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BrainChip : IconType = {
+    name: 'brain-chip',
+    key: 'BrainChip',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 12a3 3 0 0 0-2.18-2.89 2.25 2.25 0 0 0-1.38-3.86 2.29 2.29 0 0 0-.41-.36 3 3 0 0 0-5.46-2.48 2.25 2.25 0 0 0-3.62 0 3 3 0 0 0-5.46 2.48 2.29 2.29 0 0 0-.41.36 2.25 2.25 0 0 0-1.38 3.86 3 3 0 0 0 0 5.77 2.25 2.25 0 0 0 1.38 3.86 2.29 2.29 0 0 0 .41.36 3 3 0 0 0 5.46 2.48 2.25 2.25 0 0 0 3.62 0 3 3 0 0 0 5.46-2.48 2.29 2.29 0 0 0 .41-.36 2.25 2.25 0 0 0 1.38-3.86A3 3 0 0 0 23.25 12z","M9 7.5h6A1.5 1.5 0 0 1 16.5 9v6a1.5 1.5 0 0 1-1.5 1.5H9A1.5 1.5 0 0 1 7.5 15V9A1.5 1.5 0 0 1 9 7.5z","M9.75 7.5V6m4.5 1.5V6m-4.5 12v-1.5m4.5 1.5v-1.5m2.25-6.75H18m-1.5 4.5H18M6 9.75h1.5M6 14.25h1.5m3-3.75h3v3h-3z"],
+}
+export default BrainChip

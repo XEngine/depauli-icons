@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ECommerceGift : IconType = {
+    name: 'e-commerce-gift',
+    key: 'ECommerceGift',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 15.75a1.5 1.5 0 0 1-1.5-1.5v-7.5a1.5 1.5 0 0 1 1.5-1.5h6m10.5 18H2.25a1.5 1.5 0 0 1-1.34-2.17l1.84-3.67a3 3 0 0 1 2.68-1.66h13.14a3 3 0 0 1 2.68 1.66l1.84 3.67a1.5 1.5 0 0 1-1.34 2.17zm-11.25-3h3m2.25-16.5h6a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm3 0v9m-4.5-4.5h9M16.5.75l2.25 3m2.25-3-2.25 3"],
+}
+export default ECommerceGift

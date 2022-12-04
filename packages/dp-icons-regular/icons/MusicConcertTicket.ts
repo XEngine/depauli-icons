@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MusicConcertTicket : IconType = {
+    name: 'music-concert-ticket',
+    key: 'MusicConcertTicket',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.5 12a3.75 3.75 0 0 1 3.75-3.75V4.5a1.5 1.5 0 0 0-1.5-1.5H2.25a1.5 1.5 0 0 0-1.5 1.5v3.75a3.75 3.75 0 0 1 0 7.5v3.75a1.5 1.5 0 0 0 1.5 1.5h19.5a1.5 1.5 0 0 0 1.5-1.5v-3.75A3.75 3.75 0 0 1 19.5 12z","M8.25 15a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6-1.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M15.75 15v-4.08a1.5 1.5 0 0 0-1.86-1.46l-3 .75a1.5 1.5 0 0 0-1.14 1.46v4.83M4.88 6a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m4.5 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m5.25 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m4.5 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default MusicConcertTicket

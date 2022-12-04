@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MedicalRoomClockMan : IconType = {
+    name: 'medical-room-clock-man',
+    key: 'MedicalRoomClockMan',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25.75a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z","M5.25 3v2.25h1.5m16.5 18v-3h-1.5m-21 3v-3h6","M11.25 20.25h-4.5a1.5 1.5 0 0 1-1.14-.52l-4.5-5.25a1.5 1.5 0 0 1 2.28-1.95l4.05 4.72h3.81m10.5 0a1.5 1.5 0 0 1 0 3m-5.25-18a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM17.25 9h-1.5a3 3 0 0 0-3 3v2.25a1.5 1.5 0 0 0 1.5 1.5v6a1.5 1.5 0 0 0 1.5 1.5h1.5a1.5 1.5 0 0 0 1.5-1.5v-6a1.5 1.5 0 0 0 1.5-1.5V12a3 3 0 0 0-3-3z"],
+}
+export default MedicalRoomClockMan

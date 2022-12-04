@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ButtonStop : IconType = {
+    name: 'button-stop',
+    key: 'ButtonStop',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M9 8.25h6a.75.75 0 0 1 .75.75v6a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75V9A.75.75 0 0 1 9 8.25z"],
+}
+export default ButtonStop

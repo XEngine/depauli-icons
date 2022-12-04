@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FlashDriveLock : IconType = {
+    name: 'flash-drive-lock',
+    key: 'FlashDriveLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 15.75h6a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z","M15.75 15.75V13.5a3 3 0 0 1 6 0v2.25m-10.5-7.5h-9V1.5A.75.75 0 0 1 3 .75h7.5a.75.75 0 0 1 .75.75zm-6-4.5v1.5m3-1.5v1.5m2.79 12.53a4.48 4.48 0 0 1-2.79.97h-3a4.5 4.5 0 0 1-4.5-4.5v-4.5a1.5 1.5 0 0 1 1.5-1.5h9a1.5 1.5 0 0 1 1.5 1.5v3m-6 6v4.5m12-4.13a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38"],
+}
+export default FlashDriveLock

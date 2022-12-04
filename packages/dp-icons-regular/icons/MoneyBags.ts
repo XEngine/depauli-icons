@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MoneyBags : IconType = {
+    name: 'money-bags',
+    key: 'MoneyBags',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.05 7.99c2.04 1.41 4.7 4.81 4.7 7.87 0 3.11-3.36 5.63-6.75 5.63s-6.75-2.52-6.75-5.63c0-3.06 2.66-6.46 4.71-7.88L8.4 4.28a.9.9 0 0 1 .42-1.27 10.2 10.2 0 0 1 6.36 0 .9.9 0 0 1 .42 1.27zm-4.09 0h4.09M4.5 20.74c-3 0-3.75-3-3.75-5.11a7.51 7.51 0 0 1 3.58-6.14L3.07 7.67a.75.75 0 0 1 .62-1.18H6m4.33 10.84a2.23 2.23 0 0 0 1.86.88c1.14 0 2.06-.69 2.06-1.55s-.92-1.55-2.06-1.55-2.06-.69-2.06-1.55.92-1.55 2.06-1.55a2.22 2.22 0 0 1 1.86.88m-1.86 5.31v1.03m0-8.25v1.03m7.31 8.72c3 0 3.75-3 3.75-5.11a7.51 7.51 0 0 0-3.58-6.14l1.26-1.82a.75.75 0 0 0-.62-1.18H18"],
+}
+export default MoneyBags

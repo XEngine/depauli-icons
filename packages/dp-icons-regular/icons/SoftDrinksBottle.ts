@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SoftDrinksBottle : IconType = {
+    name: 'soft-drinks-bottle',
+    key: 'SoftDrinksBottle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m10.51 3.76-.09.88a8.44 8.44 0 0 1-1.35 3.8l-.78 1.31a6.99 6.99 0 0 0-.34 5.86c.7 1.87-.09 4.21-.45 5.81a1.5 1.5 0 0 0 1.46 1.83h6a1.5 1.5 0 0 0 1.46-1.83c-.36-1.6-1.07-3.94-.37-5.81a6.99 6.99 0 0 0-.34-5.86l-.78-1.32a8.44 8.44 0 0 1-1.35-3.8l-.09-.88m-3.53-3h4a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1z","M9.19 8.25h5.62m-1.72 3a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0 5.25a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-2.25-3a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m.75 6a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default SoftDrinksBottle

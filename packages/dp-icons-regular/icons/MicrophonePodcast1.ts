@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MicrophonePodcast1 : IconType = {
+    name: 'microphone-podcast-1',
+    key: 'MicrophonePodcast1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 18v2.25m0-19.5h0a4.5 4.5 0 0 1 4.5 4.5v5.25A4.5 4.5 0 0 1 12 15h0a4.5 4.5 0 0 1-4.5-4.5V5.25A4.5 4.5 0 0 1 12 .75z","M19.5 8.25v2.57A7.37 7.37 0 0 1 12 18a7.37 7.37 0 0 1-7.5-7.18V8.25m.01 3h14.97M3 23.25h2.25m3 0h2.25m3 0h2.25m3 0H21"],
+}
+export default MicrophonePodcast1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Brightness1 : IconType = {
+    name: 'brightness-1',
+    key: 'Brightness1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 9a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm0-7.5v2.25m0 16.5v2.25M22.5 12h-2.25m-16.5 0H1.5m17.92-7.42-1.59 1.59M6.17 17.83l-1.59 1.59m14.85 0-1.59-1.59M6.17 6.17 4.58 4.58"],
+}
+export default Brightness1

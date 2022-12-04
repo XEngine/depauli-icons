@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToolBox : IconType = {
+    name: 'tool-box',
+    key: 'ToolBox',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 6.75h19.5a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-12a1.5 1.5 0 0 1 1.5-1.5z","M16.5 6.75a4.5 4.5 0 0 0-9 0m-6.75 6h9.75m3 0h9.75M12 15a1.5 1.5 0 0 1-1.5-1.5V12a1.5 1.5 0 1 1 3 0v1.5A1.5 1.5 0 0 1 12 15z"],
+}
+export default ToolBox

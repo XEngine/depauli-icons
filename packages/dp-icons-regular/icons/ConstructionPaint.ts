@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ConstructionPaint : IconType = {
+    name: 'construction-paint',
+    key: 'ConstructionPaint',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 15.66V13.5a1.51 1.51 0 0 0-1.5-1.5H3.38a2.63 2.63 0 0 1 0-5.25h.38m5.99 16.5a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 3 0v4.5a1.5 1.5 0 0 1-1.5 1.5z","M4.75 4.5h10a1 1 0 0 1 1 1V8a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1V5.5a1 1 0 0 1 1-1z","M.75.75h21a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5h-7.5m-9 0H1.5M18.75.75v15a3 3 0 0 1-3 3h-1.5m-9 0A2.25 2.25 0 0 1 3 16.5V15"],
+}
+export default ConstructionPaint

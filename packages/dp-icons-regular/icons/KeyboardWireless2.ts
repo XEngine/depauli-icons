@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const KeyboardWireless2 : IconType = {
+    name: 'keyboard-wireless-2',
+    key: 'KeyboardWireless2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.17 7.57a6.5 6.5 0 0 0-6.33 0m7.91-2.58a9.72 9.72 0 0 0-9.49 0m11.05-2.56a12.69 12.69 0 0 0-12.62 0M1.5 11.25h21a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-21a.75.75 0 0 1-.75-.75V12a.75.75 0 0 1 .75-.75z","M4.5 17.25h15m-15-3h15m-14.25 9v-3h13.5v3"],
+}
+export default KeyboardWireless2

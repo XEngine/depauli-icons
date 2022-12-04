@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ImageFileLight : IconType = {
+    name: 'image-file-light',
+    key: 'ImageFileLight',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.5 21.75a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V2.25A1.5 1.5 0 0 1 3 .75h15.05a1.5 1.5 0 0 1 1.05.43l2.95 2.88a1.5 1.5 0 0 1 .45 1.07z","M14.25 11.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5z","M12.5 11.68 9.41 6.11l-4.16 8.14h5.33"],
+}
+export default ImageFileLight

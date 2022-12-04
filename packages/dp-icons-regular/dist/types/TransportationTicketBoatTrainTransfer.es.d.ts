@@ -1,0 +1,3 @@
+export * from './TransportationTicketBoatTrainTransfer'
+import TransportationTicketBoatTrainTransfer from './TransportationTicketBoatTrainTransfer'
+export default TransportationTicketBoatTrainTransfer

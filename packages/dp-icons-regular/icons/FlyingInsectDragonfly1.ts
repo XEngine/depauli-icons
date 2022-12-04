@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FlyingInsectDragonfly1 : IconType = {
+    name: 'flying-insect-dragonfly-1',
+    key: 'FlyingInsectDragonfly1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.94 23.25v-10.5m0 0a5.59 5.59 0 0 0 4.5 3.75 9.4 9.4 0 0 0 4.72-.19.75.75 0 0 0 .21-1.33L17.19 12","M9.86 10.92A5.13 5.13 0 0 1 6.69 12a5.09 5.09 0 0 1-4.83-2.66.75.75 0 0 1 .67-1.09h18.81a.75.75 0 0 1 .67 1.09A5.09 5.09 0 0 1 17.19 12a5.13 5.13 0 0 1-3.18-1.08","M11.94 12.75a5.59 5.59 0 0 1-4.5 3.75 9.4 9.4 0 0 1-4.72-.19.75.75 0 0 1-.21-1.33L6.69 12m8.25-9.75a1.5 1.88 0 1 0 0 3.76 1.5 1.88 0 1 0 0-3.76zm-6 0a1.5 1.88 0 1 0 0 3.76 1.5 1.88 0 1 0 0-3.76zm0 0a4.25 4.25 0 0 1 3-1.5 4.25 4.25 0 0 1 3 1.5"],
+}
+export default FlyingInsectDragonfly1

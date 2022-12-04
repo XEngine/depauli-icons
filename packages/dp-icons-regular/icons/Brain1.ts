@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Brain1 : IconType = {
+    name: 'brain-1',
+    key: 'Brain1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 12a3 3 0 0 0-2.18-2.89 2.25 2.25 0 0 0-1.38-3.86 2.29 2.29 0 0 0-.41-.36 3 3 0 0 0-5.46-2.48 2.25 2.25 0 0 0-3.62 0 3 3 0 0 0-5.46 2.48 2.29 2.29 0 0 0-.41.36 2.25 2.25 0 0 0-1.38 3.86 3 3 0 0 0 0 5.77 2.25 2.25 0 0 0 1.38 3.86 2.29 2.29 0 0 0 .41.36 3 3 0 0 0 5.46 2.48 2.25 2.25 0 0 0 3.62 0 3 3 0 0 0 5.46-2.48 2.29 2.29 0 0 0 .41-.36 2.25 2.25 0 0 0 1.38-3.86A3 3 0 0 0 23.25 12zM12 22.5V8.25","M12 5.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-3 13.5v-3l-2.25-1.5V12m0-3a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM15 18.75v-3l2.25-1.5V12m0-3a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z"],
+}
+export default Brain1

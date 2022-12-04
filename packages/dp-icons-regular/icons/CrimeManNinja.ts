@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CrimeManNinja : IconType = {
+    name: 'crime-man-ninja',
+    key: 'CrimeManNinja',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm-9.75 22.5a9.75 9.75 0 0 1 19.5 0m-13.5 0 8.51-8.51m-9.52 0L12 19.5m2.25 3.75 3.27-8.04M6.81 5.25H17.2m-9.94 3h9.49m3.5 1.5v8.31m-1.5-5.31h3"],
+}
+export default CrimeManNinja

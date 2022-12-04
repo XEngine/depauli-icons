@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToysBuilding : IconType = {
+    name: 'toys-building',
+    key: 'ToysBuilding',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.49 17.63h6a1.5 1.5 0 0 1 1.5 1.5v2.25a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-2.25a1.5 1.5 0 0 1 1.5-1.5z","M5.49 12.38h6a1.5 1.5 0 0 1 1.5 1.5v2.25a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-2.25a1.5 1.5 0 0 1 1.5-1.5zm-3-5.25h6a1.5 1.5 0 0 1 1.5 1.5v2.25a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5V8.63a1.5 1.5 0 0 1 1.5-1.5zm3-5.25h6a1.5 1.5 0 0 1 1.5 1.5v2.25a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5V3.38a1.5 1.5 0 0 1 1.5-1.5zm13.99 9.85 1.51 11.15M16.548 6.825l4.46-.605a1.5 1.5 0 0 1 1.687 1.285l.303 2.23a1.5 1.5 0 0 1-1.285 1.688l-4.46.604a1.5 1.5 0 0 1-1.687-1.285l-.303-2.23a1.5 1.5 0 0 1 1.285-1.687zm.192-3.445V1.13m3 3 1.5-1.5"],
+}
+export default ToysBuilding

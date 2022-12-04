@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MultipleActionsSetting : IconType = {
+    name: 'multiple-actions-setting',
+    key: 'MultipleActionsSetting',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6 .75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm3.68 9A5.25 5.25 0 0 0 .75 13.5v2.25H3l.75 7.5h4.5l.52-5.22M17.25 15a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","m18.53 10.7.44 1.45a.99.99 0 0 0 1.17.68l1.47-.34a1.34 1.34 0 0 1 1.27 2.22l-1.03 1.11a1 1 0 0 0 0 1.36l1.03 1.11a1.34 1.34 0 0 1-1.27 2.22l-1.47-.34a.99.99 0 0 0-1.17.68l-.44 1.45a1.33 1.33 0 0 1-2.55 0l-.44-1.45a.99.99 0 0 0-1.17-.68l-1.47.34a1.34 1.34 0 0 1-1.27-2.22l1.03-1.11a1 1 0 0 0 0-1.36l-1.03-1.11a1.34 1.34 0 0 1 1.27-2.22l1.47.34a.99.99 0 0 0 1.17-.68l.44-1.45a1.33 1.33 0 0 1 2.55.01zM16.5.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM20.4 9a4.5 4.5 0 0 0-7.29-.71"],
+}
+export default MultipleActionsSetting

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoomServiceStaff : IconType = {
+    name: 'room-service-staff',
+    key: 'RoomServiceStaff',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.63 3.75a3 3 0 0 1-6 0v-3h6zm-3 13.5v4.5m3-9.75-.01 9.75a1.5 1.5 0 1 1-3 0 1.5 1.5 0 1 1-3 0V12m6 5.25a3 3 0 0 0 3-3v-3a3 3 0 0 0-3-3h-6a3 3 0 0 0-3 3 1.5 1.5 0 0 1-1.5 1.5H4.87a1.5 1.5 0 1 0 0 3h3.75m3-12h6"],
+}
+export default RoomServiceStaff

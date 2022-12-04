@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShipmentHook : IconType = {
+    name: 'shipment-hook',
+    key: 'ShipmentHook',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.3 12.75h15.41a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1H4.3a1 1 0 0 1-1-1v-8.5a1 1 0 0 1 1-1zm3.97 3v4.5m3.73-4.5v4.5m3.73-4.5v4.5M13.8 6a1.88 1.88 0 1 1-1.88-1.88V.75m-6.14 12 3.11-3m9.33 3-3.11-3"],
+}
+export default ShipmentHook

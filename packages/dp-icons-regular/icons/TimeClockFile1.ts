@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TimeClockFile1 : IconType = {
+    name: 'time-clock-file-1',
+    key: 'TimeClockFile1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 6.75a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M14.65 12.75H12V10.1m10.5 11.65a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V2.25A1.5 1.5 0 0 1 3 .75h15a1.5 1.5 0 0 1 1.05.43l3 2.88a1.5 1.5 0 0 1 .45 1.07z"],
+}
+export default TimeClockFile1

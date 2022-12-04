@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSign66_1 : IconType = {
+    name: 'road-sign-66-1',
+    key: 'RoadSign66_1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 9a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M9 6a3 3 0 0 0-3 3v2.25M15.75 9a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M16.5 6a3 3 0 0 0-3 3v2.25M21.94.75a1.31 1.31 0 0 1 1.31 1.34c-.34 13.6-5.8 21.16-11.25 21.16-5.41 0-10.84-7.44-11.25-20.84A1.61 1.61 0 0 1 2.36.75z"],
+}
+export default RoadSign66_1

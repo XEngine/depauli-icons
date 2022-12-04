@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LoveGiftBoxHeart : IconType = {
+    name: 'love-gift-box-heart',
+    key: 'LoveGiftBoxHeart',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.37 6.8a3.64 3.64 0 0 1-1.06 4.5l-7.43 5.37a1.5 1.5 0 0 1-1.76 0L3.69 11.3a3.6 3.6 0 0 1-.92-4.72 5.14 5.14 0 0 1 3.98-2.02M2.25 8.3v6.48a3.3 3.3 0 0 0 1.44 2.52l7.43 5.37a1.5 1.5 0 0 0 1.76 0l7.43-5.37a3.3 3.3 0 0 0 1.44-2.52V8.3m-2.16-3.66c-.88.88-4.77 1.59-4.77 1.59s.71-3.89 1.59-4.77a2.25 2.25 0 0 1 3.18 3.18zm-9.55 0c.88.88 4.77 1.59 4.77 1.59s-.71-3.89-1.59-4.77a2.25 2.25 0 0 0-3.18 3.18zm4.77 1.59-3 3m3-3 3 3"],
+}
+export default LoveGiftBoxHeart

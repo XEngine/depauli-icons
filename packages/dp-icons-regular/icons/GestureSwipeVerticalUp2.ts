@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GestureSwipeVerticalUp2 : IconType = {
+    name: 'gesture-swipe-vertical-up-2',
+    key: 'GestureSwipeVerticalUp2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m2.25 12.11 3.09-3.79a1.63 1.63 0 0 1 1.68-.57 1.64 1.64 0 0 1 1.07 2.32l-.59 1.18h6.75a1.5 1.5 0 0 1 0 3h-4.5l-.33 1.99a3 3 0 0 1-2.96 2.51H2.25m19.5-18h-6v6m2.62 16.5A18 18 0 0 0 17.16.75"],
+}
+export default GestureSwipeVerticalUp2

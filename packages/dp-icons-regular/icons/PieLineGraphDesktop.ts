@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PieLineGraphDesktop : IconType = {
+    name: 'pie-line-graph-desktop',
+    key: 'PieLineGraphDesktop',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15 23.25H9l.75-4.5h4.5l.75 4.5zm-8.25 0h10.5M3.75.75h16.5a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3v-12a3 3 0 0 1 3-3z","m.75 11.25 3.97-3.97a.75.75 0 0 1 1.06 0l1.94 1.94a.75.75 0 0 0 1.06 0l3.97-3.97m-12 10.5h22.5m-9-6V12m6-2.25V12m-3-4.5V12"],
+}
+export default PieLineGraphDesktop

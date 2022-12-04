@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DatabaseEdit : IconType = {
+    name: 'database-edit',
+    key: 'DatabaseEdit',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 4.5 0 1 0 0 9 11.25 4.5 0 1 0 0-9z","M23.25 9.01V5.25m-22.5 0v6c0 2.37 4.59 4.32 10.42 4.49M.75 11.25v6c0 2.08 3.54 3.83 8.34 4.35m13.54-6.73L15 22.5l-3.75.75.75-3.75 7.63-7.63a2.12 2.12 0 0 1 2.99 0l.01.01a2.12 2.12 0 0 1 0 2.99z"],
+}
+export default DatabaseEdit

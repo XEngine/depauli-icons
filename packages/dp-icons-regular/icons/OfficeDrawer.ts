@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeDrawer : IconType = {
+    name: 'office-drawer',
+    key: 'OfficeDrawer',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.73 12.81h20.54a.98.98 0 0 1 .98.98v8.48a.98.98 0 0 1-.98.98H1.73a.98.98 0 0 1-.98-.98v-8.48a.98.98 0 0 1 .98-.98z","M2.25 12.81V6.98A.98.98 0 0 1 3.24 6h8.39a.99.99 0 0 1 .79.39l1.18 1.86h6.41a.98.98 0 0 1 .99.98v3.59M9.07 15.75h5.87m4.8-10.5V3.98a.98.98 0 0 0-.99-.98H13.6l-1.19-1.86a.99.99 0 0 0-.79-.39H4.5a.98.98 0 0 0-.99.98v1.04"],
+}
+export default OfficeDrawer

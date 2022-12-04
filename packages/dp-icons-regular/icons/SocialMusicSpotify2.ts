@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SocialMusicSpotify2 : IconType = {
+    name: 'social-music-spotify-2',
+    key: 'SocialMusicSpotify2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.99.75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M6.94 7.09a1.53 1.53 0 0 1 1.35-1.68 19 19 0 0 1 9.49 1.38 1.54 1.54 0 0 1 .74 2.15 1.34 1.34 0 0 1-1.72.57 15.68 15.68 0 0 0-4.17-1.17 15.71 15.71 0 0 0-4.16 0 1.36 1.36 0 0 1-1.53-1.25zm.42 5.03a1.29 1.29 0 0 1 1.17-1.32 16.51 16.51 0 0 1 3.72.11 16.27 16.27 0 0 1 4 1.06 1.29 1.29 0 0 1 .76 1.5 1.24 1.24 0 0 1-1.69.84 14.12 14.12 0 0 0-6.57-1 1.24 1.24 0 0 1-1.35-1.19zm8.36 6.23a1.18 1.18 0 0 1-1.6.82 12.38 12.38 0 0 0-2.93-.78 12.63 12.63 0 0 0-2.43-.11 1.18 1.18 0 0 1-1.24-1.18 1.08 1.08 0 0 1 1-1.08 14.86 14.86 0 0 1 3 .12 14.55 14.55 0 0 1 3.59 1 1.06 1.06 0 0 1 .61 1.21z"],
+}
+export default SocialMusicSpotify2

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Playlist : IconType = {
+    name: 'playlist',
+    key: 'Playlist',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 5.25v15m22.5-15v15m-18-18h13.5a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5V3.75a1.5 1.5 0 0 1 1.5-1.5z","M7.88 14.25a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm7.5-2.25a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z","M9.75 16.13V9.5a1.5 1.5 0 0 1 1.03-1.42l4.5-1.25a1.5 1.5 0 0 1 1.97 1.42v5.63"],
+}
+export default Playlist

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CoupleTv : IconType = {
+    name: 'couple-tv',
+    key: 'CoupleTv',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7.5 12.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M8.98 13.14a3 3 0 0 1-4.45 2.22m7.21 7.89a4.5 4.5 0 0 0-8.49 0m17.49 0a4.5 4.5 0 0 0-8.49 0m4.25-10.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M13.5 15.75s0 3.75-2.25 3.75m8.25-3.75s0 3.75 2.25 3.75m-19.5 0A1.5 1.5 0 0 1 .75 18V6.75a1.5 1.5 0 0 1 1.5-1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v9.75M8.25.75 12 5.25l3.75-4.5"],
+}
+export default CoupleTv

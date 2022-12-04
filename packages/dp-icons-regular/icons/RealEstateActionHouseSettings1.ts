@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RealEstateActionHouseSettings1 : IconType = {
+    name: 'real-estate-action-house-settings-1',
+    key: 'RealEstateActionHouseSettings1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 10.5V21a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5V10.5M.75 9l10.36-7.6a1.5 1.5 0 0 1 1.77 0L23.25 9m-4.5-7.5h3v3","M12 11.55a2.7 2.7 0 1 0 0 5.4 2.7 2.7 0 1 0 0-5.4zm0 0v-1.8m0 9v-1.8m2.7-2.7h1.8m-9 0h1.8m-.06 3.18 1.08-1.08m-1.08-5.29 1.08 1.08m4.45 5.29-1.08-1.08m1.07-5.28-1.08 1.08"],
+}
+export default RealEstateActionHouseSettings1

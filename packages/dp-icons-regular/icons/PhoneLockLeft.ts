@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PhoneLockLeft : IconType = {
+    name: 'phone-lock-left',
+    key: 'PhoneLockLeft',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 6h6a1.5 1.5 0 0 1 1.5 1.5V12a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5V7.5a1.5 1.5 0 0 1 1.5-1.5z","M18.75 1.5a3 3 0 0 0-3 3V6h6V4.5a3 3 0 0 0-3-3zm0 7.9zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-.33 7.37-3.18 3.18a1.5 1.5 0 0 1-2.12 0l-7.43-7.43a1.5 1.5 0 0 1 0-2.12l3.18-3.18a1.5 1.5 0 0 1 2.12 0M6.75 18v4.5H1.5m2.87-18a11.21 11.21 0 0 0-3.62 8.25 11.56 11.56 0 0 0 6 9.75"],
+}
+export default PhoneLockLeft

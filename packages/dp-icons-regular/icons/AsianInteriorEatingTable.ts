@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AsianInteriorEatingTable : IconType = {
+    name: 'asian-interior-eating-table',
+    key: 'AsianInteriorEatingTable',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 17.25v6m19.5-6v6m-20.25-9h21a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75h-21a.75.75 0 0 1-.75-.75V15a.75.75 0 0 1 .75-.75zm12-4.5h-3l-.75 4.5h4.5l-.75-4.5zm5.25-7.5a3 3 0 0 1-3 3H13.5a1.5 1.5 0 0 0-1.5 1.5v3m-5.25-7.5a4.5 4.5 0 0 0 4.5 4.5H12m9-1.88a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.37M4.5 6.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M11.25.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default AsianInteriorEatingTable

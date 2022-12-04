@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ELearningLaptopMath : IconType = {
+    name: 'e-learning-laptop-math',
+    key: 'ELearningLaptopMath',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 15.75V5.25a1.5 1.5 0 0 1 1.5-1.5h16.5a1.5 1.5 0 0 1 1.5 1.5v10.5m-7.17 0a2.98 2.98 0 0 1-5.17 0H.75v1.5a3 3 0 0 0 3 3h16.5a3 3 0 0 0 3-3v-1.5zM6 8.25a1.5 1.5 0 1 1 3 0 2.14 2.14 0 0 1-.47 1.34L6 12.75h3m6.75-6h.75a.75.75 0 0 1 .75.75v5.25m-1.5 0h3m-7.5-3h3m-1.5-1.5v3"],
+}
+export default ELearningLaptopMath

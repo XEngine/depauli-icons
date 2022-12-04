@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignHairpinTurnRight : IconType = {
+    name: 'road-sign-hairpin-turn-right',
+    key: 'RoadSignHairpinTurnRight',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.019 11.357 11.357 1.019a.91.91 0 0 1 1.286 0l10.338 10.338a.91.91 0 0 1 0 1.286L12.643 22.981a.91.91 0 0 1-1.286 0L1.019 12.643a.91.91 0 0 1 0-1.286z","M8.25 15.75V10.5a3.75 3.75 0 0 1 7.5 0v3m-2.25-2.25 2.25 2.25L18 11.25"],
+}
+export default RoadSignHairpinTurnRight

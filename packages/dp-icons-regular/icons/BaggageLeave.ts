@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BaggageLeave : IconType = {
+    name: 'baggage-leave',
+    key: 'BaggageLeave',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm1.49 14.73-2.35-.94a4.52 4.52 0 0 1-2.4-2.27l-2.52 4.2a1.49 1.49 0 0 0-.21.77v4.5a1.5 1.5 0 0 1-3 0v-4.5a4.5 4.5 0 0 1 .64-2.31l4.07-6.79a1.5 1.5 0 0 1 2.68.22l1.02 2.56a1.5 1.5 0 0 0 .83.84l1.24.5m12.01 10.99H13.5a2.25 2.25 0 0 1 0-4.5h9.75m-8.5-9h8a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-.5.5h-8a.5.5 0 0 1-.5-.5v-5a.5.5 0 0 1 .5-.5z","M17.25 9.75v-1.5a1.5 1.5 0 0 1 3 0v1.5M15 20.63a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m3.75 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m3.75 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default BaggageLeave

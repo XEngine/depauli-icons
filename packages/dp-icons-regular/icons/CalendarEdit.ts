@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CalendarEdit : IconType = {
+    name: 'calendar-edit',
+    key: 'CalendarEdit',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 3.75h19.5a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5z","M.75 9.75h22.5M6.75 6V.75M17.25 6V.75m-6.47 19-2.53.5.51-2.53 4.55-4.55a1.43 1.43 0 0 1 2.02 2.02z"],
+}
+export default CalendarEdit

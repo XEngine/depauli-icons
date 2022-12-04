@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Mouse1 : IconType = {
+    name: 'mouse-1',
+    key: 'Mouse1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.51 21.75s5.25-7.5 5.25-9-.29-3 0-3A4.5 4.5 0 1 0 14.34 6a4.29 4.29 0 0 0-4.66 0 4.49 4.49 0 1 0-4.42 3.75c.29 0 0 1.5 0 3s5.25 9 5.25 9","M12.01 20.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM9.39 9.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m5.25-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m2.86 5.08 5.01 1.67m-6.28.41 3.28 4.09M6.52 15.58l-5.01 1.67m6.28.41-3.28 4.09"],
+}
+export default Mouse1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SynchronizeArrowsLock : IconType = {
+    name: 'synchronize-arrows-lock',
+    key: 'SynchronizeArrowsLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.71 6.25a9 9 0 0 0-15.71 6V13m2.29 5.25a9 9 0 0 0 15.71-6v-.75","M18.75 13.75 21 11.5l2.25 2.25m-18-3L3 13 .75 10.75m9-.75h4.5a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5z","M12 12.62a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38M9.75 10v-.75a2.25 2.25 0 0 1 4.5 0V10"],
+}
+export default SynchronizeArrowsLock

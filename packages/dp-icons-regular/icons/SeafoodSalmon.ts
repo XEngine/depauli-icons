@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SeafoodSalmon : IconType = {
+    name: 'seafood-salmon',
+    key: 'SeafoodSalmon',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.99 5.27a5.25 6.75 0 1 0 0 13.5 5.25 6.75 0 1 0 0-13.5z","M5.99 8.27a2.25 3.75 0 1 0 0 7.5 2.25 3.75 0 1 0 0-7.5z","M5.99 18.77c5.25 0 11.3-1.69 13.5-6-2.2-4.31-8.37-8-13.5-7.5m16.34 6.13a4.61 4.61 0 0 1-2.83 1.37 4.83 4.83 0 0 1 .92-3.06 4.61 4.61 0 0 1 2.83-1.37 4.83 4.83 0 0 1-.92 3.06zm0 2.73a4.61 4.61 0 0 0-2.83-1.37 4.83 4.83 0 0 0 .92 3.06 4.61 4.61 0 0 0 2.83 1.37 4.83 4.83 0 0 0-.92-3.06z"],
+}
+export default SeafoodSalmon

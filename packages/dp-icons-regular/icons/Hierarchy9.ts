@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Hierarchy9 : IconType = {
+    name: 'hierarchy-9',
+    key: 'Hierarchy9',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.5 6.75a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm7.5-6a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0 12.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-7.5 5.25a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-10.5 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM3.75 3a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm12.4 4.85 3.26-3.26m-2.62 7.7 2.29 2.29m-5.58-.33v4.5m-2.65-5.6-6.26 6.26M10 9.15 5.61 6.51"],
+}
+export default Hierarchy9

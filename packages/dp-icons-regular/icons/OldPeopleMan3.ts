@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OldPeopleMan3 : IconType = {
+    name: 'old-people-man-3',
+    key: 'OldPeopleMan3',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.5 23.25a9.76 9.76 0 0 1 13.5-9m-1.5 9-2.25-9.75L9 23.25M15.63 8.9a3.75 3.75 0 1 0 .87-7.4 3.74 3.74 0 0 0-1.86.49S12.58 6 16.5 6M6.87 8.9A3.75 3.75 0 1 1 6 1.5a3.74 3.74 0 0 1 1.86.49S9.92 6 6 6m10.5 0A5.25 5.25 0 0 1 6 6m8.64-4.01a5.25 5.25 0 0 0-6.78 0M18 14.25a2.25 2.25 0 0 1 4.5 0v9"],
+}
+export default OldPeopleMan3

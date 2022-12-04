@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BoardGameTicTacToe : IconType = {
+    name: 'board-game-tic-tac-toe',
+    key: 'BoardGameTicTacToe',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 9a3 3 0 1 0 0 6 3 3 0 1 0 0-6zM20.25.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm-16.5 0a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm0 16.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm6-15.75 4.5 4.5m-4.5 0 4.5-4.5M1.5 9.75l4.5 4.5m-4.5 0L6 9.75M18 18l4.5 4.5m-4.5 0 4.5-4.5M1.63 22.37 22.37 1.63"],
+}
+export default BoardGameTicTacToe

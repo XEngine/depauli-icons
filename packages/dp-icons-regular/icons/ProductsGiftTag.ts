@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProductsGiftTag : IconType = {
+    name: 'products-gift-tag',
+    key: 'ProductsGiftTag',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.13 22.99a.86.86 0 0 0 1.22 0L23 20.33a.86.86 0 0 0 0-1.22l-3.88-3.87a.86.86 0 0 0-.61-.25h-2.66a.86.86 0 0 0-.86.86v2.66a.86.86 0 0 0 .25.61zm-3.96-7.65-1.85-1.85M12 17.24H3a.75.75 0 0 1-.75-.75V9.74m13.5 0v2.25m-14.25-6h15a.75.75 0 0 1 .75.75v2.25a.75.75 0 0 1-.75.75h-15a.75.75 0 0 1-.75-.75V6.74a.75.75 0 0 1 .75-.75z","M9 17.24V5.99M4.73 3.87a11.86 11.86 0 0 0 4.24 2.12 11.84 11.84 0 0 0-2.12-4.24C5.54.43 4.79.63 4.2 1.22s-.78 1.33.53 2.65zm8.53 0a11.86 11.86 0 0 1-4.24 2.12 11.86 11.86 0 0 1 2.12-4.24C12.46.43 13.21.63 13.8 1.22s.78 1.33-.53 2.65z"],
+}
+export default ProductsGiftTag

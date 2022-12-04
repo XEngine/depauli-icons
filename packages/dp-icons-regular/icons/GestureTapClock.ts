@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GestureTapClock : IconType = {
+    name: 'gesture-tap-clock',
+    key: 'GestureTapClock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.38 14.52a9.2 9.2 0 0 0 .85-1.74m.52-12a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9zm0 4.5v-1.5M12 1.09A8.94 8.94 0 0 0 9.75.78 8.98 8.98 0 0 0 2.44 15m8.81-2.25v1.5h-3v-1.5m-3 10.5v-10.5a4.5 4.5 0 1 1 9 0v10.5"],
+}
+export default GestureTapClock

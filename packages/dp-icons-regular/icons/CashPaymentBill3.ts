@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CashPaymentBill3 : IconType = {
+    name: 'cash-payment-bill-3',
+    key: 'CashPaymentBill3',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7.88 17.25H2.63a1.5 1.5 0 0 1-1.5-1.5V7.5A1.5 1.5 0 0 1 2.63 6h18.75a1.5 1.5 0 0 1 1.5 1.5v8.75M6.26 19.54l.86 1.21v2.5m.75-18.54a1.5 1.5 0 0 0-3 0V6m6 0V3.71a1.5 1.5 0 1 0-3 0V6m6 0V2.25a1.5 1.5 0 0 0-3 0V6m6 0V3.71a1.5 1.5 0 1 0-3 0v1.04m2.23 18.5v-1a2.02 2.02 0 0 1 .77-1.6l2.23-1.8a2.03 2.03 0 0 0 .77-1.6v-4.53a1.48 1.48 0 0 0-1.45-1.47c-1.25 0-1.5 1.42-1.51 1.47l-.29 2.07a2 2 0 0 1-.95 1.45l-1.58.94a2.02 2.02 0 0 0-.97 1.74v1.34m-3.54-6.41a2.22 2.22 0 0 0 1.86.88c1.14 0 2.06-.69 2.06-1.55s-.92-1.55-2.06-1.55-2.06-.69-2.06-1.55.92-1.55 2.06-1.55a2.22 2.22 0 0 1 1.86.88m-1.86 5.31v1.03m0-8.25v1.03"],
+}
+export default CashPaymentBill3

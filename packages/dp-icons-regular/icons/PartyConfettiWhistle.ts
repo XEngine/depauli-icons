@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PartyConfettiWhistle : IconType = {
+    name: 'party-confetti-whistle',
+    key: 'PartyConfettiWhistle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.58 23.25 13 13.83a1.5 1.5 0 0 1 2.12 2.12l-7.3 7.3m7.3-9.42 5.3-5.3a4.5 4.5 0 0 0 0-6.36 2.25 2.25 0 0 0-3.18 3.18 1.5 1.5 0 0 0 2.12 0M4.5 4.5h3M6 3v3m12.75 10.5h3m-1.5-1.5v3M10.13 9a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m2.25-9a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.37m.75 0a.38.38 0 0 1-.38.38M1.13 8.25a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m21.75 1.5a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default PartyConfettiWhistle

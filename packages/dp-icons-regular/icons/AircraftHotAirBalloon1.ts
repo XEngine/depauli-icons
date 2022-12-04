@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AircraftHotAirBalloon1 : IconType = {
+    name: 'aircraft-hot-air-balloon-1',
+    key: 'AircraftHotAirBalloon1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 18.75v1.5a1.5 1.5 0 0 0 1.5 1.5h3a1.5 1.5 0 0 0 1.5-1.5v-2.84","M12.75 3.75a10.5 7.5 0 1 0 0 15 10.5 7.5 0 1 0 0-15z","M3.71 7.43.9 3.5a.79.79 0 0 1 .64-1.25h2.33a2.29 2.29 0 0 1 1.18.33l3.17 1.9M3.71 15.07.9 19a.79.79 0 0 0 .64 1.25h2.33a2.29 2.29 0 0 0 1.18-.33l3.17-1.9M.75 11.25h6"],
+}
+export default AircraftHotAirBalloon1

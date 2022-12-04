@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DiagramRound : IconType = {
+    name: 'diagram-round',
+    key: 'DiagramRound',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m.75 15.45 2.32-3.56 3.56 2.32m6.61-11.99a10.01 10.01 0 1 1 0 20.02A10.17 10.17 0 0 1 3.07 11.89"],
+}
+export default DiagramRound

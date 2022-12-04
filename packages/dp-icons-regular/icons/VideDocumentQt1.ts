@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideDocumentQt1 : IconType = {
+    name: 'vide-document-qt-1',
+    key: 'VideDocumentQt1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","M15 18v-7.5m-1.5 0h3m-6 6a1.5 1.5 0 0 1-3 0V12a1.5 1.5 0 0 1 3 0zM9 18l1.5 1.5"],
+}
+export default VideDocumentQt1

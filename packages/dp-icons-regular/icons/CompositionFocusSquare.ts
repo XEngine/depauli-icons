@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CompositionFocusSquare : IconType = {
+    name: 'composition-focus-square',
+    key: 'CompositionFocusSquare',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 5.25h13.5v13.5H5.25z","M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1zM12 5.25V.75M18.75 12h4.5M12 18.75v4.5M5.25 12H.75"],
+}
+export default CompositionFocusSquare

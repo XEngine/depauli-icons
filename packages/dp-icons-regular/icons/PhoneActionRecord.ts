@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PhoneActionRecord : IconType = {
+    name: 'phone-action-record',
+    key: 'PhoneActionRecord',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.63 14.25v6.27a2.73 2.73 0 0 1-2.73 2.73H5.36a2.73 2.73 0 0 1-2.73-2.73V4.98a2.73 2.73 0 0 1 2.73-2.73h3.27m-6 16.5h12","M16.13.75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z","M16.13 5.63zm0 0a.38.38 0 1 0 .37.37.38.38 0 0 0-.38-.38"],
+}
+export default PhoneActionRecord

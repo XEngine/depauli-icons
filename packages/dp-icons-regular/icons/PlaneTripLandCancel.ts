@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PlaneTripLandCancel : IconType = {
+    name: 'plane-trip-land-cancel',
+    key: 'PlaneTripLandCancel',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.97 8.56 4.45 3.96 4.34 1.8 2.14.84a.97.97 0 0 0-1.35.88L.75 6.33a1.93 1.93 0 0 0 1.16 1.78l3.26 1.43-3.78 3.15a.97.97 0 0 0 .23 1.63l1.69.74a.97.97 0 0 0 .82-.02l6.35-3.17","m12.41 7.44-1-4.23a.96.96 0 0 0-.55-.66L9.2 1.82a.97.97 0 0 0-1.35.94l.14 2.75m9.26 5.74a6 6 0 1 0 0 12 6 6 0 1 0 0-12zm-4.24 10.24 8.48-8.48"],
+}
+export default PlaneTripLandCancel

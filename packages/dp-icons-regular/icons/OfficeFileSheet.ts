@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeFileSheet : IconType = {
+    name: 'office-file-sheet',
+    key: 'OfficeFileSheet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.5 21.75a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V2.25A1.5 1.5 0 0 1 3 .75h15a1.5 1.5 0 0 1 1.05.43l3 2.88a1.5 1.5 0 0 1 .45 1.07zM9.75 10.5v9M5.25 15h13.5","M5.75 7.5h12.5a.5.5 0 0 1 .5.5v11a.5.5 0 0 1-.5.5H5.75a.5.5 0 0 1-.5-.5V8a.5.5 0 0 1 .5-.5zm-.5 3h13.5"],
+}
+export default OfficeFileSheet

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CloudMonitorExchange : IconType = {
+    name: 'cloud-monitor-exchange',
+    key: 'CloudMonitorExchange',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 12.75h9a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5zm4.5 7.5v3m-2.25 0h4.5M.75 15 3 12.75 5.25 15m1.5 3L9 20.25 6.75 22.5M12 3.75a2.98 2.98 0 0 0-2.29 1.09 4.49 4.49 0 1 0-4.46 4.92H12a3 3 0 1 0 0-6zm-9 9v4.5a3 3 0 0 0 3 3h3"],
+}
+export default CloudMonitorExchange

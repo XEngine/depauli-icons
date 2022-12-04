@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ECommerceCartCloud : IconType = {
+    name: 'e-commerce-cart-cloud',
+    key: 'ECommerceCartCloud',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m17.63 12.75-2.25 7.5h-6l-1.5-4.5h8.85M9.75 22.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m5.25 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-4.88-12 2.25 2.25V7.5m2.25 3-2.25 2.25M7.3 9.25a4.5 4.5 0 1 1 6.53-4.41 2.99 2.99 0 1 1 3.36 4.72"],
+}
+export default ECommerceCartCloud

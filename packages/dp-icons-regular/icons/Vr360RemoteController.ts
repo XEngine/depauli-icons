@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Vr360RemoteController : IconType = {
+    name: 'vr-360-remote-controller',
+    key: 'Vr360RemoteController',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25.75A2.25 2.25 0 0 0 15 3v2.25","M16.5 3.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM9.75 1.86a1.5 1.5 0 1 1 1.45 1.89 1.5 1.5 0 1 1-1.45 1.9m13.5-.4a1.5 1.5 0 0 1-3 0v-3a1.5 1.5 0 0 1 3 0zm-15 4.5h3a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5h-3a1.5 1.5 0 0 1-1.5-1.5v-10.5a1.5 1.5 0 0 1 1.5-1.5z","M9.75 13.88zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m0 3.38v3m6-.79A9.01 9.01 0 0 0 17.93 9M6.75 4.26a9 9 0 0 0-3 15.2m-3-6.71h3m12 0h3"],
+}
+export default Vr360RemoteController

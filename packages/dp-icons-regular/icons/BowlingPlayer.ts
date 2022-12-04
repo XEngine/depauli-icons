@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BowlingPlayer : IconType = {
+    name: 'bowling-player',
+    key: 'BowlingPlayer',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.5 15.75c0 .83-.67 2.25-1.5 2.25s-1.5-1.42-1.5-2.25a1.5 1.5 0 0 1 3 0z","M21.73 17.63A9.52 9.52 0 0 1 23.25 21a2.25 2.25 0 0 1-4.5 0 9.52 9.52 0 0 1 1.52-3.37M13.5.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm5.23 9.88L8.74 6.27a4.46 4.46 0 0 0-4.68.67L2.9 7.9a1.5 1.5 0 1 0 1.92 2.3l1.15-.96a1.48 1.48 0 0 1 1.56-.22l1.76.77-2.37 4.51a1.5 1.5 0 0 0-.17.7v3.75l-2.4 1.8a1.5 1.5 0 1 0 1.8 2.4l3-2.25a1.5 1.5 0 0 0 .6-1.2v-2.58l2.52 1.31.49 3.72a1.5 1.5 0 0 0 1.49 1.3 1.46 1.46 0 0 0 .2-.01 1.5 1.5 0 0 0 1.29-1.68l-.49-3.72a3 3 0 0 0-1.6-2.28l-3.14-1.63 1.55-2.94 5.47 2.39a1.5 1.5 0 1 0 1.2-2.75zM5.14 13.47a2.25 2.25 0 0 1-4.28-1.44"],
+}
+export default BowlingPlayer

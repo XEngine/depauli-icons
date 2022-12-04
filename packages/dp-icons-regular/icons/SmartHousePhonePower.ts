@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmartHousePhonePower : IconType = {
+    name: 'smart-house-phone-power',
+    key: 'SmartHousePhonePower',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 6.47v10.78a1.5 1.5 0 0 0 1.5 1.5h7.52","M19.4 8.25 10.52.75.75 9m16.52 2.25h4.5a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5zm-1.5 9h7.5M10.52 7.5V10M8.4 8.88a3 3 0 1 0 4.24 0"],
+}
+export default SmartHousePhonePower

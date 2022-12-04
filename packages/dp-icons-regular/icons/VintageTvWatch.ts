@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VintageTvWatch : IconType = {
+    name: 'vintage-tv-watch',
+    key: 'VintageTvWatch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 6.75h16.5a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H3.75a1.5 1.5 0 0 1-1.5-1.5v-12a1.5 1.5 0 0 1 1.5-1.5z","M9.8 11.04a.75.75 0 0 0-1.09.67v5.07a.75.75 0 0 0 1.09.67l5.07-2.54a.75.75 0 0 0 0-1.34zM3.75 21.75v1.5m16.5-1.5v1.5M18 .75l-6 6-6-6"],
+}
+export default VintageTvWatch

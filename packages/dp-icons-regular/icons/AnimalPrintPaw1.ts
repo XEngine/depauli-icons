@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AnimalPrintPaw1 : IconType = {
+    name: 'animal-print-paw-1',
+    key: 'AnimalPrintPaw1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.01 11.25c-4.56 0-8.25 3.02-8.25 6.75a5.62 5.62 0 0 0 .47 2.25 3.02 3.02 0 0 0 3.98 1.43 10.12 10.12 0 0 1 3.8-.68 10.12 10.12 0 0 1 3.8.68 3.02 3.02 0 0 0 3.98-1.43 5.62 5.62 0 0 0 .47-2.25c0-3.73-3.69-6.75-8.25-6.75zM8.365 3.776a1.88 2.25-6.79 1 0 .532 4.468 1.88 2.25-6.79 1 0-.532-4.468zM1.951 7.581A2.25 1.88 71.1 1 0 3.41 11.84a2.25 1.88 71.1 1 0-1.46-4.26zm11.582-1.802a1.88 2.25 6.79 1 0 3.734.444 1.88 2.25 6.79 1 0-3.734-.444z","M19.561 9.1a2.25 1.88-71.09 1 0 3.558 1.22A2.25 1.88-71.09 1 0 19.56 9.1zM1.63 7.74.76 6m6.89-1.96-.89-1.79m9.61 1.79.89-1.79m5.13 5.49L23.26 6"],
+}
+export default AnimalPrintPaw1

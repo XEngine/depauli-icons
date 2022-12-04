@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TagsShare : IconType = {
+    name: 'tags-share',
+    key: 'TagsShare',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9 19.19a1.5 1.5 0 0 1-2.12 0L1.5 13.81a1.5 1.5 0 0 1 0-2.12L12 1.19a1.5 1.5 0 0 1 1.06-.44h5.38a1.5 1.5 0 0 1 1.5 1.5v5.38a1.5 1.5 0 0 1-.44 1.06","M16.19 4.12a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-3 11.63a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.5 3a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-7.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-5.58 5.59 3.65-2.19m-3.49 4.18 3.33 1.33"],
+}
+export default TagsShare

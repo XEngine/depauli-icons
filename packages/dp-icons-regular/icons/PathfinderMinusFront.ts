@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PathfinderMinusFront : IconType = {
+    name: 'pathfinder-minus-front',
+    key: 'PathfinderMinusFront',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75 5.25h20.5a1 1 0 0 1 1 1v11.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V6.25a1 1 0 0 1 1-1z","M15.25 5.25h7a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1z"],
+}
+export default PathfinderMinusFront

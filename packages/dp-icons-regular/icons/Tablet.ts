@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Tablet : IconType = {
+    name: 'tablet',
+    key: 'Tablet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.74 18.75h16.5M5.25.75h13.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","M7.5 5.25h3v3h-3zm6 0h3v3h-3zm-6 6h3v3h-3z"],
+}
+export default Tablet

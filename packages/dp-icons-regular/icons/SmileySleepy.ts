@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileySleepy : IconType = {
+    name: 'smiley-sleepy',
+    key: 'SmileySleepy',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.18 7.2a11.24 11.24 0 1 1-5.74-5.54","M6 11.2a1.8 1.8 0 0 0 3 0m6 0a1.8 1.8 0 0 0 3 0m-6 4.55h0a1.5 1.5 0 0 1 1.5 1.5v1.5a1.5 1.5 0 0 1-1.5 1.5h0a1.5 1.5 0 0 1-1.5-1.5v-1.5a1.5 1.5 0 0 1 1.5-1.5zm8.25-15h3l-3 3h3m-9 1.5h3l-3 3h3"],
+}
+export default SmileySleepy

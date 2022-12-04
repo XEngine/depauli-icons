@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DeliveryPersonMotorcycle : IconType = {
+    name: 'delivery-person-motorcycle',
+    key: 'DeliveryPersonMotorcycle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.13 3.75h-6m9.75 13.64a2.93 2.93 0 0 1 2.99 2.34.49.49 0 0 1-.1.41.31.31 0 0 1-.38.11h-9.23a.88.88 0 0 1-.98-.91v-.01a2.84 2.84 0 0 0-2.84-2.83H6.22a2.84 2.84 0 0 0-2.84 2.84v.98","M18.38 12h1.5v8.25M9.34 16.5h3.79M1.88 8.25h4.5a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-.75.75h-4.5a.75.75 0 0 1-.75-.75V9a.75.75 0 0 1 .75-.75z","m19.88 13.14 1.92-.76a.92.92 0 0 1 .73.03.58.58 0 0 1 .36.51v2.24a.58.58 0 0 1-.36.51.92.92 0 0 1-.73.03l-1.92-.76m-12 3.81a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm9.07 1.5a2.58 2.58 0 0 0-.07.6 2.26 2.26 0 1 0 4.5 0 2.56 2.56 0 0 0-.07-.6m-17.18-12v2.25m13.5-.75c-4.05-2.64-4.1-2.88-5.52-2.88a1.97 1.97 0 0 0-1.98 1.95V12a1.5 1.5 0 0 0 1.5 1.5h1.5a3 3 0 0 1 2.85 2.05l.81 2.45M11.63.75h1.5a1.5 1.5 0 0 1 1.5 1.5v1.5h-4.5v-1.5a1.5 1.5 0 0 1 1.5-1.5z"],
+}
+export default DeliveryPersonMotorcycle

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RealEstateCoupleSearchHouse : IconType = {
+    name: 'real-estate-couple-search-house',
+    key: 'RealEstateCoupleSearchHouse',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 3a1.5 1.5 0 0 0-1.5 1.5v6a1.5 1.5 0 0 0 1.5 1.5h5.25v4.5L15 12h3.75a1.5 1.5 0 0 0 1.5-1.5v-6a1.5 1.5 0 0 0-1.5-1.5M4.5 15a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm3.75 8.25a4.25 4.25 0 0 0-7.5 0M19.5 15a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26z","M23.25 23.25a4.25 4.25 0 0 0-7.5 0m-.75-20v5a.75.75 0 0 1-.75.75h-4.5A.75.75 0 0 1 9 8.25v-5M7.5 4.5 12 .75l4.5 3.75"],
+}
+export default RealEstateCoupleSearchHouse

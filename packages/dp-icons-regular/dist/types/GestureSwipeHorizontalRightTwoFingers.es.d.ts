@@ -1,0 +1,3 @@
+export * from './GestureSwipeHorizontalRightTwoFingers'
+import GestureSwipeHorizontalRightTwoFingers from './GestureSwipeHorizontalRightTwoFingers'
+export default GestureSwipeHorizontalRightTwoFingers

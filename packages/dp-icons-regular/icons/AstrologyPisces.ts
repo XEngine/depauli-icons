@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AstrologyPisces : IconType = {
+    name: 'astrology-pisces',
+    key: 'AstrologyPisces',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.27 3a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9zm0 0h18m-4.5 9a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9zm0 9h-18"],
+}
+export default AstrologyPisces

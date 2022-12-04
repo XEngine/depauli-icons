@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Car : IconType = {
+    name: 'car',
+    key: 'Car',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m21 9.75-1.7-3.79a2.25 2.25 0 0 0-2.11-1.46H6.81A2.25 2.25 0 0 0 4.7 5.96L3 9.75m-1.5 6.72V18a1.5 1.5 0 0 0 3 0v-1.5m18-.03V18a1.5 1.5 0 0 1-3 0v-1.5m.38-3.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-15.75-.75a.38.38 0 0 0-.38.38m.75 0a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38M2.75 9.75h18.5a2 2 0 0 1 2 2v3.75a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1v-3.75a2 2 0 0 1 2-2z"],
+}
+export default Car

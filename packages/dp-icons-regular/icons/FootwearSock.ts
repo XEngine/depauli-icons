@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FootwearSock : IconType = {
+    name: 'footwear-sock',
+    key: 'FootwearSock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.38 22.94a3.75 3.75 0 0 0 1.15-6.09l-4.15-4.15V1.5a.75.75 0 0 0-.75-.75h-.75M6.03 18.4A3.75 3.75 0 0 0 3.38 12m12.03 5.29a3.75 3.75 0 0 1-5.24 5.24 6 6 0 0 1 5.24-5.24zM4.13.75a.75.75 0 0 0-.75.75v12.75a3.75 3.75 0 0 0 1.1 2.65l5.25 5.25a3.75 3.75 0 0 0 5.3-5.3l-4.15-4.15V1.5a.75.75 0 0 0-.75-.75z"],
+}
+export default FootwearSock

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleWomanFocus : IconType = {
+    name: 'single-woman-focus',
+    key: 'SingleWomanFocus',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 6.75v-4.5a1.5 1.5 0 0 1 1.5-1.5h4.5m16.5 6v-4.5a1.5 1.5 0 0 0-1.5-1.5h-4.5M.75 17.25v4.5a1.5 1.5 0 0 0 1.5 1.5h4.5m16.5-6v4.5a1.5 1.5 0 0 1-1.5 1.5h-4.5M7.89 8.96a6.01 6.01 0 0 1-.87 3.3m9.09-3.3a6.01 6.01 0 0 0 .87 3.3m-9.09-3.3A5.49 5.49 0 0 0 12 7.06a5.49 5.49 0 0 0 4.11 1.9","M12 4.5a4.13 4.13 0 1 0 0 8.26 4.13 4.13 0 1 0 0-8.26zm6.34 14.25a6.71 6.71 0 0 0-12.67 0"],
+}
+export default SingleWomanFocus

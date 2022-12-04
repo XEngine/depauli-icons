@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CompositionVertical : IconType = {
+    name: 'composition-vertical',
+    key: 'CompositionVertical',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.09.75H4.91a.74.74 0 0 0-.7 1.01A28.93 28.93 0 0 1 6.03 12a28.93 28.93 0 0 1-1.82 10.24.74.74 0 0 0 .7 1.01h14.18a.75.75 0 0 0 .69-1.04A26.73 26.73 0 0 1 18.03 12a26.73 26.73 0 0 1 1.75-10.21.75.75 0 0 0-.69-1.04z"],
+}
+export default CompositionVertical

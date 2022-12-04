@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MessagesPeoplePersonBubbleSquare1 : IconType = {
+    name: 'messages-people-person-bubble-square-1',
+    key: 'MessagesPeoplePersonBubbleSquare1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 15.75h3v4.5l4.5-4.5h1.49a1.51 1.51 0 0 0 1.51-1.51V2.25a1.5 1.5 0 0 0-1.5-1.5h-12a1.5 1.5 0 0 0-1.5 1.5v4.5m11.63 1.13z","M19.88 7.88a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-7.5 0zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m3.75 0zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38M6.75 9.75a3.38 3.38 0 1 0 0 6.76 3.38 3.38 0 1 0 0-6.76zm6 13.5a6.05 6.05 0 0 0-12 0"],
+}
+export default MessagesPeoplePersonBubbleSquare1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CreditCardAmex : IconType = {
+    name: 'credit-card-amex',
+    key: 'CreditCardAmex',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 3.75h19.5a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5z","M12 15V9l-1.5 3L9 9v6m9-6 2.25 6m0-6L18 15m-2.25 0h-.3a1.2 1.2 0 0 1-1.2-1.2v-3.6a1.2 1.2 0 0 1 1.2-1.2h.3m-1.5 3.75h1.5m-12 0h3m0 2.25v-4.5a1.5 1.5 0 0 0-3 0V15"],
+}
+export default CreditCardAmex

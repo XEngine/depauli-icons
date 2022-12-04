@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CashMolecule : IconType = {
+    name: 'cash-molecule',
+    key: 'CashMolecule',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21 14.98V8.95m-18 0v6.03m7.2-11.82L4.62 6.19m14.73-.01-5.56-3.02M12 .75a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm-1.78 20.03-5.6-3.04m14.73.01-5.57 3.03M12 19.5a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zM2.96 5.2a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm0 9.78a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zM21 5.2a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm0 9.78a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm-10.86-.79a2.23 2.23 0 0 0 1.86.88c1.14 0 2.06-.69 2.06-1.55s-.93-1.55-2.06-1.55-2.06-.69-2.06-1.55.92-1.55 2.06-1.55a2.22 2.22 0 0 1 1.86.88M12 15.06v1.03m0-8.25v1.03"],
+}
+export default CashMolecule

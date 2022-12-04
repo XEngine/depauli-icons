@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ColorPicker5 : IconType = {
+    name: 'color-picker-5',
+    key: 'ColorPicker5',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 4.5a3.75 3.75 0 0 0-7.5 0v11.25a4.5 4.5 0 0 0 .9 2.7l1.35 1.8v2.25a.75.75 0 0 0 .75.75h1.5a.75.75 0 0 0 .75-.75v-2.25l1.35-1.8a4.5 4.5 0 0 0 .9-2.7zm-10.5 3h13.5M12 17.25V10.5"],
+}
+export default ColorPicker5

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamousCharacterCat : IconType = {
+    name: 'famous-character-cat',
+    key: 'FamousCharacterCat',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},
+    svgPathData: ["M14.76 7.1a3.01 4.04 0 1 0 0 8.08 3.01 4.04 0 1 0 0-8.08z","M8.74 7.1a3.01 4.04 0 1 0 0 8.08 3.01 4.04 0 1 0 0-8.08z","M11.75 16.35a1.25.84 0 1 0 0 1.68 1.25.84 0 1 0 0-1.68z","M16.41 18.39a6.98 6.98 0 0 1-9.38.04m1.71-7.8v1.76m6.01-1.76v1.76m2.07 1.68a2.54 2.54 0 0 1 3.95 2.11c0 .38-2.35 7.07-9.02 7.07s-9.02-6.64-9.02-7.07a2.54 2.54 0 0 1 3.95-2.11m-5.43.65a2.95 2.95 0 0 1 1.48 1.47m19.52-1.47a2.95 2.95 0 0 0-1.48 1.47m1.48-4.57c-3.16-1.65-3.69-3.09-4.03-4.24l-.38-6.15a.5.5 0 0 0-.87-.31l-3.76 4.16a8.06 8.06 0 0 0-2.92 0L6.53.92a.5.5 0 0 0-.87.31l-.38 6.15c-.34 1.15-.87 2.59-4.03 4.24"],
+}
+export default FamousCharacterCat

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ServerEdit1 : IconType = {
+    name: 'server-edit-1',
+    key: 'ServerEdit1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 3.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.38h1.5m3-.01h1.5M4.5 9.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.38h1.5m3-.01h1.5m-11.25 9h3.75v-6M1.13 18a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38M18.75 3.75a3 3 0 0 1-3 3h-12a3 3 0 0 1 0-6h12a3 3 0 0 1 3 3zm-4.5 9H3.75a3 3 0 0 1 0-6h12a3 3 0 0 1 2.6 1.5m4.28 6.62L15 22.5l-3.75.75.75-3.75 7.63-7.63a2.12 2.12 0 0 1 2.99 0l.01.01a2.12 2.12 0 0 1 0 2.99z"],
+}
+export default ServerEdit1

@@ -1,0 +1,3 @@
+export * from './PresentationProjectorScreenPrograming'
+import PresentationProjectorScreenPrograming from './PresentationProjectorScreenPrograming'
+export default PresentationProjectorScreenPrograming

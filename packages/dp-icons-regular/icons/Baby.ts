@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Baby : IconType = {
+    name: 'baby',
+    key: 'Baby',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.63 9.88h-.01c-.36-4.55-4.55-7.55-8.61-7.55s-8.25 3-8.61 7.55h-.01a2.63 2.63 0 0 0 0 5.25h.01a9 9 0 0 0 17.22 0h.01a2.63 2.63 0 0 0 0-5.25zM12 2.33a2.25 2.25 0 1 1-2.12 3M13.98 17a3 3 0 0 1-3.97 0m7.23-6a1.5 1.5 0 0 1-3 0m-4.5 0a1.5 1.5 0 0 1-3 0"],
+}
+export default Baby

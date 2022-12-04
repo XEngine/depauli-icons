@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameLogoXbox1 : IconType = {
+    name: 'video-game-logo-xbox-1',
+    key: 'VideoGameLogoXbox1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.93 1.88a.49.49 0 0 1-.16.93 17.18 17.18 0 0 0-4.58 1.23.49.49 0 0 1-.38 0 17.18 17.18 0 0 0-4.58-1.23.49.49 0 0 1-.16-.93 11.28 11.28 0 0 1 9.86 0zm5.64 13.98a.49.49 0 0 1-.95-.11 13.63 13.63 0 0 0-5.33-9.07.49.49 0 0 1 .09-.82 13.36 13.36 0 0 1 3.8-1.26.49.49 0 0 1 .44.17 11.29 11.29 0 0 1 1.95 11.1zm-2.31 3.51a.49.49 0 0 1-.13.4 11.25 11.25 0 0 1-16.26 0 .49.49 0 0 1-.13-.4c.42-3.35 3.94-7.53 7.96-10.59a.49.49 0 0 1 .59 0c4.03 3.06 7.55 7.24 7.96 10.59zM2.37 15.75a.49.49 0 0 1-.95.11 11.29 11.29 0 0 1 1.95-11.1.49.49 0 0 1 .44-.17A13.36 13.36 0 0 1 7.6 5.85a.49.49 0 0 1 .09.82 13.63 13.63 0 0 0-5.33 9.07z"],
+}
+export default VideoGameLogoXbox1

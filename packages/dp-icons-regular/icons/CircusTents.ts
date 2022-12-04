@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CircusTents : IconType = {
+    name: 'circus-tents',
+    key: 'CircusTents',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.71.78a.75.75 0 0 0-.96.72v3.75l4.59-1.59a.75.75 0 0 0-.09-1.41zm-9 0a.75.75 0 0 0-.96.72v3.75l4.59-1.59a.75.75 0 0 0-.09-1.41zm15.24 9.52a.69.69 0 0 1 .3.58 2.56 2.56 0 0 1-2.5 2.63 2.5 2.5 0 0 1-2.29-1.58 3.12 3.12 0 0 1-5.42 0 2.5 2.5 0 0 1-2.29 1.57 2.56 2.56 0 0 1-2.5-2.63.73.73 0 0 1 .29-.59l7.21-5.03zm-14.7.95V22.5a.75.75 0 0 0 .75.75h3a.75.75 0 0 0 .75-.75v-2.25a3 3 0 0 1 6 0v2.25a.75.75 0 0 0 .75.75h3a.75.75 0 0 0 .75-.75V11.25m-12.5-2.5-4-3.5-5.49 4.8a1.5 1.5 0 0 0-.51 1.13v8.32a.75.75 0 0 0 .75.75h3"],
+}
+export default CircusTents

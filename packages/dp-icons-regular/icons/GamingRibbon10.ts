@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GamingRibbon10 : IconType = {
+    name: 'gaming-ribbon-10',
+    key: 'GamingRibbon10',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.81 13.04.75 18l3.75.75 1.5 4.5 3.94-6.26m9.25-3.95L23.25 18l-3.75.75-1.5 4.5-3.94-6.26","M12 .75a8.25 8.25 0 1 0 0 16.5 8.25 8.25 0 1 0 0-16.5z","M16.5 9.75a1.5 1.5 0 1 1-3 0v-1.5a1.5 1.5 0 1 1 3 0zm-8.25-3H9a.75.75 0 0 1 .75.75v3.75m-1.5 0h3"],
+}
+export default GamingRibbon10

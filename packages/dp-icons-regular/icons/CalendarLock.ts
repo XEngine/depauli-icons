@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CalendarLock : IconType = {
+    name: 'calendar-lock',
+    key: 'CalendarLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 23.25H3a1.5 1.5 0 0 1-1.5-1.5V5.25A1.5 1.5 0 0 1 3 3.75h18a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5h-1.5","M1.5 9.75h21","M7.5 6V.75m9 5.25V.75M12 19.88a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38","M7.88 17.25h8.24a.38.38 0 0 1 .38.38v5.24a.38.38 0 0 1-.38.38H7.88a.38.38 0 0 1-.38-.38v-5.24a.38.38 0 0 1 .38-.38zm1.12 0v-1.5a3 3 0 0 1 6 0v1.5"],
+}
+export default CalendarLock

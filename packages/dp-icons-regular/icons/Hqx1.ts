@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Hqx1 : IconType = {
+    name: 'hqx-1',
+    key: 'Hqx1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","M4.5 18v-7.5m3 7.5v-7.5m-3 4.5h3m6 1.5a1.5 1.5 0 0 1-3 0V12a1.5 1.5 0 0 1 3 0zM12 18l1.5 1.5m3-9 3 7.5m0-7.5-3 7.5"],
+}
+export default Hqx1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AntiqueMace : IconType = {
+    name: 'antique-mace',
+    key: 'AntiqueMace',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.6 22.7c-.91.91-3.71.41-3.71.41s-.5-2.8.41-3.71a2.33 2.33 0 0 1 3.3 3.3zM20.61 3.39l-2.12 2.12m4.76 4.24h-3m.36 6.36-2.12-2.12m-4.24 4.76v-3m-9-6h3m-.36-6.36 2.12 2.12M14.25.75v3m0 0a6 6 0 1 0 0 12 6 6 0 1 0 0-12zM3.15 18.73l5.93-5.93m2.12 2.12-5.93 5.93m10.48-12.6.75-.75m-.75 3.75.75.75m-3.75-.75L12 12m.75-3.75L12 7.5"],
+}
+export default AntiqueMace

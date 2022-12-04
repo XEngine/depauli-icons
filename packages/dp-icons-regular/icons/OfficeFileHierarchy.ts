@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeFileHierarchy : IconType = {
+    name: 'office-file-hierarchy',
+    key: 'OfficeFileHierarchy',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7 15.75h2.5a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1zm3-10.5h4a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1zm4.5 10.5H17a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1h-2.5a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1z","M6.75 12.75h10.5m-5.25 0v1.5m10.5 7.5a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V2.25A1.5 1.5 0 0 1 3 .75h15a1.5 1.5 0 0 1 1.05.43l3 2.88a1.5 1.5 0 0 1 .45 1.07z"],
+}
+export default OfficeFileHierarchy

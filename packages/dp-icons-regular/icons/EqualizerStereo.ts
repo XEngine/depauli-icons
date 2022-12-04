@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const EqualizerStereo : IconType = {
+    name: 'equalizer-stereo',
+    key: 'EqualizerStereo',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 6.75h7.5a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5h-7.5a1.5 1.5 0 0 1-1.5-1.5V8.25a1.5 1.5 0 0 1 1.5-1.5z","M12 15.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM.75 14.25h6m1.5 9h-6a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h3a1.5 1.5 0 0 1 1.5 1.5v1.5m16.5 10.5h-6m-1.5 9h6a1.5 1.5 0 0 0 1.5-1.5V2.25a1.5 1.5 0 0 0-1.5-1.5h-3a1.5 1.5 0 0 0-1.5 1.5v1.5"],
+}
+export default EqualizerStereo

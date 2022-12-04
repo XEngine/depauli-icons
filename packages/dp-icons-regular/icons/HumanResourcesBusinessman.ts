@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HumanResourcesBusinessman : IconType = {
+    name: 'human-resources-businessman',
+    key: 'HumanResourcesBusinessman',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm0 7.5v6m4.44-2.24a4.5 4.5 0 0 0-8.94.74v3h1.5l.75 7.5h4.5l.75-7.5m4-1.5h10a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1zm-1 3.75h12m-6-.75v2.25M15 14.25v-.75a2.25 2.25 0 0 1 4.5 0v.75"],
+}
+export default HumanResourcesBusinessman

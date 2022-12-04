@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignTurnLeft3 : IconType = {
+    name: 'road-sign-turn-left-3',
+    key: 'RoadSignTurnLeft3',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M9.75 12.75 7.5 10.5l2.25-2.25M7.5 10.5H12a3 3 0 0 1 3 3v3"],
+}
+export default RoadSignTurnLeft3

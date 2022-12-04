@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FastFoodDoubleBurger : IconType = {
+    name: 'fast-food-double-burger',
+    key: 'FastFoodDoubleBurger',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 20.12v1.63a1.53 1.53 0 0 0 1.55 1.5h16.4a1.53 1.53 0 0 0 1.55-1.5v-1.63M2.25 8.39a2.25 2.25 0 1 0 2.91 2.71 5.11 5.11 0 0 0 6.84.62 5.11 5.11 0 0 0 6.84-.61 2.25 2.25 0 1 0 2.91-2.72M14.25.75h-4.5a7.5 7.5 0 0 0-7.5 7.5v.14h19.5v-.14a7.5 7.5 0 0 0-7.5-7.5zm-1.5 19.5H3a2.25 2.25 0 0 1 0-4.5h18a2.25 2.25 0 0 1 0 4.5h-.75M22.68 12a2.24 2.24 0 0 1 .57 1.5A2.25 2.25 0 0 1 21 15.75H3A2.25 2.25 0 0 1 .75 13.5a2.24 2.24 0 0 1 .57-1.5m8.43 3.75 7.5 4.5 3-4.5M7.13 4.5a.38.38 0 1 1-.38.38.37.37 0 0 1 .38-.38m4.5-.75a.38.38 0 1 1-.38.38.37.37 0 0 1 .38-.38m4.5.75a.38.38 0 1 1-.38.38.37.37 0 0 1 .38-.38"],
+}
+export default FastFoodDoubleBurger

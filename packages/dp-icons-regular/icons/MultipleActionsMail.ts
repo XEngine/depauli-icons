@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MultipleActionsMail : IconType = {
+    name: 'multiple-actions-mail',
+    key: 'MultipleActionsMail',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 15.75v6a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-6","M23.25 15.75a1.5 1.5 0 0 0-1.5-1.5h-9a1.5 1.5 0 0 0-1.5 1.5L16.46 19a1.5 1.5 0 0 0 1.59 0zM6.75.75a3.38 3.38 0 1 0 0 6.76 3.38 3.38 0 1 0 0-6.76zm9.75 0a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm-5.05 10.5a6.05 6.05 0 0 0-10.7 3m20.25-3a4.48 4.48 0 0 0-8.04-2.75"],
+}
+export default MultipleActionsMail

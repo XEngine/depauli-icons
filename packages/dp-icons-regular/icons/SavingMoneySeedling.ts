@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SavingMoneySeedling : IconType = {
+    name: 'saving-money-seedling',
+    key: 'SavingMoneySeedling',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m4.574.887 6.27 3.62a1 1 0 0 1 .366 1.367L9.204 9.346a1 1 0 0 1-1.366.366l-6.27-3.621a1 1 0 0 1-.365-1.366l2.005-3.473A1 1 0 0 1 4.574.887zm18.038 8.258-5.908 4.636a1 1 0 0 1-1.404-.17l-2.476-3.154a1 1 0 0 1 .17-1.404l5.908-4.636a1 1 0 0 1 1.404.17l2.476 3.154a1 1 0 0 1-.17 1.404z","M11.95 20.25V.93M6.13 4.76a.38.38 0 1 1-.38.38.37.37 0 0 1 .38-.38m11.51 4.01a.38.38 0 1 1-.38.38.37.37 0 0 1 .38-.38M8.95 23.25l-.79-2.34a.5.5 0 0 1 .48-.66h6.62a.5.5 0 0 1 .48.66l-.78 2.34M6.816 12.146l4.654 1.827a.5.5 0 0 1 .283.648l-1.005 2.56a.5.5 0 0 1-.648.282l-4.654-1.826a.5.5 0 0 1-.283-.648l1.005-2.56a.5.5 0 0 1 .648-.283z"],
+}
+export default SavingMoneySeedling

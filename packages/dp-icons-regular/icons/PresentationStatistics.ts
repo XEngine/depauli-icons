@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PresentationStatistics : IconType = {
+    name: 'presentation-statistics',
+    key: 'PresentationStatistics',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm4.5 13.5v-1.5a4.5 4.5 0 0 0-9 0v3h1.5l.75 7.5h4.5l.68-6.75m4.57-3.75h9a1.5 1.5 0 0 0 1.5-1.5v-9a1.5 1.5 0 0 0-1.5-1.5h-10.5m9 9h-7.5m.5 6a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm3.25 7.5a4.27 4.27 0 0 0-6.5 0m10-7.5a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm3.25 7.5a4.27 4.27 0 0 0-6.5 0m2-13.5v-6m-3 6V6"],
+}
+export default PresentationStatistics

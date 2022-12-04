@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GymnasticsAcrobatic : IconType = {
+    name: 'gymnastics-acrobatic',
+    key: 'GymnasticsAcrobatic',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75 11.25h20.5a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1zM6 .75v3m0 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm12-3v3m0 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM6 17.25l-3 6m2.25 0H.75m17.25-6 3 6m-2.25 0h4.5"],
+}
+export default GymnasticsAcrobatic

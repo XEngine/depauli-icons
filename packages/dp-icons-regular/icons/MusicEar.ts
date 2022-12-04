@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MusicEar : IconType = {
+    name: 'music-ear',
+    key: 'MusicEar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.3 17.02A9.75 9.75 0 0 1 4.91 1.5m2.64 13.07a6.75 6.75 0 0 1-.21-9.97m15.81 2.46a6.75 6.75 0 1 0-10.56 6.66 3.83 3.83 0 0 1 1.71 3.64 4.49 4.49 0 0 0 3.64 5.07A4.5 4.5 0 0 0 23.25 18m-3.19-9.58a2.75 2.75 0 1 0-5.46.68"],
+}
+export default MusicEar

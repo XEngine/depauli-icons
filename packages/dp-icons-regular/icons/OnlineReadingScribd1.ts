@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OnlineReadingScribd1 : IconType = {
+    name: 'online-reading-scribd-1',
+    key: 'OnlineReadingScribd1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.29 3.3A11.76 11.76 0 0 0 12 .75c-5 0-7.83 2.45-7.83 5.87A4.78 4.78 0 0 0 8.58 11a2.7 2.7 0 0 0 3-2.25c.42-1.8-1.29-3.52-3.18-3.52a5.4 5.4 0 0 1 3.42-1.47c2 0 2.46.73 4.71 1.71l-.8 1.39 2.14 1.22 1.85-3.48a1 1 0 0 0-.43-1.3zM4.71 20.7A11.76 11.76 0 0 0 12 23.25c5 0 7.83-2.45 7.83-5.87a4.78 4.78 0 0 0-4.4-4.4 2.7 2.7 0 0 0-3 2.25c-.5 1.82 1.26 3.54 3.15 3.54a5.4 5.4 0 0 1-3.42 1.47c-2 0-2.46-.73-4.71-1.71l.8-1.39-2.12-1.23-1.85 3.48a1 1 0 0 0 .43 1.31z"],
+}
+export default OnlineReadingScribd1

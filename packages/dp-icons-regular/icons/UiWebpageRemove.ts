@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const UiWebpageRemove : IconType = {
+    name: 'ui-webpage-remove',
+    key: 'UiWebpageRemove',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 19.5H2.57a1.04 1.04 0 0 1-1.07-1V1.73A1.03 1.03 0 0 1 2.57.75h18.86a1.03 1.03 0 0 1 1.07.98V18.5a1.04 1.04 0 0 1-1.07 1h-1.18m-15-15h13.5M5.22 8.25H15","M12 12a5.63 5.63 0 1 0 0 11.26A5.63 5.63 0 1 0 12 12zm-1.87 7.5 3.75-3.75m-3.75 0 3.75 3.75"],
+}
+export default UiWebpageRemove

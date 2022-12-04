@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AudioBookArt : IconType = {
+    name: 'audio-book-art',
+    key: 'AudioBookArt',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 23.25c-.51-1.67-3.92-3.62-9.84-3.89a1.5 1.5 0 0 1-1.41-1.5V4.51A1.5 1.5 0 0 1 2.25 3M12 23.25c.51-1.67 3.92-3.62 9.84-3.89a1.5 1.5 0 0 0 1.41-1.51V4.51A1.5 1.5 0 0 0 21.75 3M12 15v8.25m1.22-21.96a6.16 6.16 0 0 0-2.55-.54c-2.99 0-5.4 2.05-5.4 4.58a4.63 4.63 0 0 0 3.3 4.21c.77.27 1.4.05 1.85-.97A1.6 1.6 0 0 1 12 7.56m3.74-1.39-2.82 5.73m2.22-7.57a1.38 1.38 0 0 0 .6 1.84 1.34 1.34 0 0 0 1.81-.61 2.96 2.96 0 0 0-.6-3.89c.2 1.63-1.01 1.02-1.81 2.66zm-6.5.83a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .76a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m2.25-3.01a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .76a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default AudioBookArt

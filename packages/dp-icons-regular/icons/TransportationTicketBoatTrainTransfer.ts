@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TransportationTicketBoatTrainTransfer : IconType = {
+    name: 'transportation-ticket-boat-train-transfer',
+    key: 'TransportationTicketBoatTrainTransfer',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.5 12.01h7a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1zm-1 6h9m-7.5 3-2.25 2.25M21 21.01l2.25 2.25m-.75-16.5-2.25 2.25L18 6.76m-.75-3.75a3 3 0 0 1 3 3v3m-18 8.25 2.25-2.25 2.25 2.25m.75 3.75a3 3 0 0 1-3-3v-3M3.08 9.14.75 5.26h13.5l-2.33 3.88m-.67-3.88h-7.5l.75-3h6l.75 3zM9 2.26V.76m5.25 9a4.35 4.35 0 0 1-3.38-1.5 4.35 4.35 0 0 1-3.38 1.5 4.35 4.35 0 0 1-3.38-1.5 4.35 4.35 0 0 1-3.38 1.5"],
+}
+export default TransportationTicketBoatTrainTransfer

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AmusementParkMerryGoRoundToys : IconType = {
+    name: 'amusement-park-merry-go-round-toys',
+    key: 'AmusementParkMerryGoRoundToys',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 10.5v12.75m9.67-16.97a1.5 1.5 0 0 1 .73 1.58 2.87 2.87 0 0 1-2.9 2.64 4.43 4.43 0 0 1-3.75-2.25A4.43 4.43 0 0 1 12 10.5a4.43 4.43 0 0 1-3.75-2.25A4.43 4.43 0 0 1 4.5 10.5a2.87 2.87 0 0 1-2.9-2.64 1.5 1.5 0 0 1 .73-1.58L12 .75zM12 .75l-3.75 7.5M12 .75l3.75 7.5M8.47 19.62a.78.78 0 0 1-.78.63H4.31a.78.78 0 0 1-.78-.63l-.52-3a.73.73 0 0 1 .18-.61.8.8 0 0 1 .6-.27h4.43a.8.8 0 0 1 .6.27.73.73 0 0 1 .18.61zM6 15.75V10.2m0 13.05v-3m14.47-.63a.78.78 0 0 1-.78.63h-3.38a.78.78 0 0 1-.78-.63l-.52-3a.73.73 0 0 1 .18-.61.8.8 0 0 1 .6-.27h4.43a.8.8 0 0 1 .6.27.73.73 0 0 1 .18.61zM18 15.75V10.2m0 13.05v-3m-16.5 3h21"],
+}
+export default AmusementParkMerryGoRoundToys

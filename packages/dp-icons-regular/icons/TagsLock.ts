@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TagsLock : IconType = {
+    name: 'tags-lock',
+    key: 'TagsLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 19.19a1.5 1.5 0 0 1-2.12 0l-5.38-5.38a1.5 1.5 0 0 1 0-2.12l10.5-10.5a1.5 1.5 0 0 1 1.06-.44h5.38a1.5 1.5 0 0 1 1.5 1.5v5.38a1.5 1.5 0 0 1-.44 1.06","M17.31 4.5a.38.38 0 0 0-.38-.38.38.38 0 1 0 .38.38m-2.62 11.25h6a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z","M17.69 11.25a3 3 0 0 0-3 3v1.5h6v-1.5a3 3 0 0 0-3-3zm0 7.9a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38"],
+}
+export default TagsLock

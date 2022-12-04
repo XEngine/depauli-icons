@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LayoutCornersDashboard : IconType = {
+    name: 'layout-corners-dashboard',
+    key: 'LayoutCornersDashboard',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5zm5.84 0L.75 8.09m22.5 7.83-7.34 7.34m0-22.5 7.34 7.33M.75 15.92l7.34 7.34"],
+}
+export default LayoutCornersDashboard

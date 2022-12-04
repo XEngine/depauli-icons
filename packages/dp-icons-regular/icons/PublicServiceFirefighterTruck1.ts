@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PublicServiceFirefighterTruck1 : IconType = {
+    name: 'public-service-firefighter-truck-1',
+    key: 'PublicServiceFirefighterTruck1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 20.21a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-13.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M20.25 21.71h1.5a1.5 1.5 0 0 0 1.5-1.5v-3.27a1.5 1.5 0 0 0-.28-.87l-3.02-4.23a1.5 1.5 0 0 0-1.22-.63h-2.98a1.5 1.5 0 0 0-1.5 1.5v9m9-4.5h-9m-3 4.5v-9a1.5 1.5 0 0 0-1.5-1.5h-7.5a1.5 1.5 0 0 0-1.5 1.5v7.5a1.5 1.5 0 0 0 1.5 1.5h1.5m13.5 0H6.75m7.5-7.5h-3m-9-3 21-10.45"],
+}
+export default PublicServiceFirefighterTruck1

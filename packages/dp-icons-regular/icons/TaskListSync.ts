@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TaskListSync : IconType = {
+    name: 'task-list-sync',
+    key: 'TaskListSync',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15 18.76h-3.75v3.75m11.42-3.02a5.57 5.57 0 0 1-10.74-.73m7.57-3h3.75v-3.75m-11.42 3.02a5.57 5.57 0 0 1 10.74.73M5.25 10.51h4.5m-4.5 3.75h3m-3 3.75h3m-.75 5.25H2.25a1.5 1.5 0 0 1-1.5-1.5V6.01a1.5 1.5 0 0 1 1.5-1.5H6a3.75 3.75 0 0 1 7.5 0h3.75a1.5 1.5 0 0 1 1.5 1.5v2.25m-9-4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default TaskListSync

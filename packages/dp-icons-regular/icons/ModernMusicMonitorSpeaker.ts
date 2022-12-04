@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ModernMusicMonitorSpeaker : IconType = {
+    name: 'modern-music-monitor-speaker',
+    key: 'ModernMusicMonitorSpeaker',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18 15.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M14.75 6h6.5a2 2 0 0 1 2 2v13.25a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2z","M9.75 17.25h-7.5a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h16.5a1.5 1.5 0 0 1 1.5 1.5M8.25 21v-3.75M7.5 21h2.25","M6.75 8.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M13.67 3.74a1.5 1.5 0 0 0-1.29-.27l-3 .75a1.5 1.5 0 0 0-1.13 1.45v4.08m-7.5 4.5h9"],
+}
+export default ModernMusicMonitorSpeaker

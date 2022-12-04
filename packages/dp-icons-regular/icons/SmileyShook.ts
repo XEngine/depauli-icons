@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyShook : IconType = {
+    name: 'smiley-shook',
+    key: 'SmileyShook',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5zM6.75 10.5l3-3m0 3-3-3m7.5 3 3-3m0 3-3-3","M12 15h0a1.5 1.5 0 0 1 1.5 1.5V18a1.5 1.5 0 0 1-1.5 1.5h0a1.5 1.5 0 0 1-1.5-1.5v-1.5A1.5 1.5 0 0 1 12 15z","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5zM6.75 10.5l3-3m0 3-3-3m7.5 3 3-3m0 3-3-3","M12 15h0a1.5 1.5 0 0 1 1.5 1.5V18a1.5 1.5 0 0 1-1.5 1.5h0a1.5 1.5 0 0 1-1.5-1.5v-1.5A1.5 1.5 0 0 1 12 15z"],
+}
+export default SmileyShook

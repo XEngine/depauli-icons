@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ImageDocumentJpg1 : IconType = {
+    name: 'image-document-jpg-1',
+    key: 'ImageDocumentJpg1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","M7.5 10.5v6A1.5 1.5 0 0 1 6 18H4.5m6 0v-7.5m0 0h.75a2.25 2.25 0 0 1 0 4.5h-.75m8.25 0h.75v1.5a1.5 1.5 0 0 1-3 0V12a1.5 1.5 0 0 1 1.5-1.5h1.5"],
+}
+export default ImageDocumentJpg1

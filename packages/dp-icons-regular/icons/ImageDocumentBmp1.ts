@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ImageDocumentBmp1 : IconType = {
+    name: 'image-document-bmp-1',
+    key: 'ImageDocumentBmp1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 18v-7.5m0 0h1.5a1.5 1.5 0 0 1 1.5 1.5v.75a1.5 1.5 0 0 1-1.5 1.5h-1.5m0 0h1.5a1.5 1.5 0 0 1 1.5 1.5v.75a1.5 1.5 0 0 1-1.5 1.5h-1.5m13.5 0v-7.5m0 0H18a2.25 2.25 0 0 1 0 4.5h-.75m-3 3v-7.5L12 14.25 9.75 10.5V18","M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z"],
+}
+export default ImageDocumentBmp1

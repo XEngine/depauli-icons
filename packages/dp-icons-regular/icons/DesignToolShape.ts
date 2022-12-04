@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DesignToolShape : IconType = {
+    name: 'design-tool-shape',
+    key: 'DesignToolShape',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","M7.88 6.75a4.12 4.12 0 1 0 0 8.24 4.12 4.12 0 1 0 0-8.24z","M11.98 10.5h2.05a.97.97 0 0 0 .97-.96V4.71a.97.97 0 0 0-.96-.96H9.21a.97.97 0 0 0-.96.96v2.05m-4.5 11.99h9m1.7-4.5 2.82 2.35m.98-.85h1a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1zM18 4.5h2.25M18 7.5h2.25"],
+}
+export default DesignToolShape

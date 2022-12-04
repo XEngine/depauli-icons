@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CoffeePot : IconType = {
+    name: 'coffee-pot',
+    key: 'CoffeePot',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.38 21.75h-9l-1.5-9h12l-1.5 9zm-10.5-9 6-6.75 6 6.75m-6-10.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M19.63 14.25h1.75a1.5 1.5 0 0 1 1.5 1.5V21m-13.75-.75H8.01a3 3 0 0 1-2.92-2.33l-1.45-6.26a3 3 0 0 0-1.26-1.82L1.13 9"],
+}
+export default CoffeePot

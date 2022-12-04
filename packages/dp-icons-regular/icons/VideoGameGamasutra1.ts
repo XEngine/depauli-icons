@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameGamasutra1 : IconType = {
+    name: 'video-game-gamasutra-1',
+    key: 'VideoGameGamasutra1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11 20.25h2a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 .5-.5zm10-13.5a.75.75 0 0 1-.75-.75V4.5a.75.75 0 0 0-.75-.75H18a.75.75 0 0 1-.75-.75V1.5a.75.75 0 0 0-.75-.75h-9a.75.75 0 0 0-.75.75V3a.75.75 0 0 1-.75.75H4.5a.75.75 0 0 0-.75.75V6a.75.75 0 0 1-.75.75H1.5a.75.75 0 0 0-.75.75V15a.75.75 0 0 0 .75.75H3a.75.75 0 0 0 .75-.75v-1.5a.75.75 0 0 1 .75-.75h5.25a.75.75 0 0 1 .75.75V15a.75.75 0 0 0 .75.75h1.5a.75.75 0 0 0 .75-.75v-1.5a.75.75 0 0 1 .75-.75h5.25a.75.75 0 0 1 .75.75V15a.75.75 0 0 0 .75.75h1.5a.75.75 0 0 0 .75-.75V7.5a.75.75 0 0 0-.75-.75z","M7.5 6.75H9a.75.75 0 0 1 .75.75V9a.75.75 0 0 1-.75.75H7.5A.75.75 0 0 1 6.75 9V7.5a.75.75 0 0 1 .75-.75zm7.5 0h1.5a.75.75 0 0 1 .75.75V9a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V7.5a.75.75 0 0 1 .75-.75z"],
+}
+export default VideoGameGamasutra1

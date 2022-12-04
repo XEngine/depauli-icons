@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CrimeWanted : IconType = {
+    name: 'crime-wanted',
+    key: 'CrimeWanted',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.75.75h18.5a2 2 0 0 1 2 2v18.5a2 2 0 0 1-2 2H2.75a2 2 0 0 1-2-2V2.75a2 2 0 0 1 2-2z","M12 3.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm4.24 9a4.5 4.5 0 0 0-8.49 0m-4.01 0h16.5m-16.5 3h.75a.75.75 0 0 1 .75.75v3.75m-1.5 0h3m6-1.5a1.5 1.5 0 0 1-3 0v-1.5a1.5 1.5 0 0 1 3 0zm6 0a1.5 1.5 0 0 1-3 0v-1.5a1.5 1.5 0 0 1 3 0z"],
+}
+export default CrimeWanted

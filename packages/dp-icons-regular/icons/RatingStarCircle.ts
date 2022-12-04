@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RatingStarCircle : IconType = {
+    name: 'rating-star-circle',
+    key: 'RatingStarCircle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m12.59 6.8 1.4 2.95h2.38a.65.65 0 0 1 .47 1.11l-2.19 1.95 1.21 2.78a.66.66 0 0 1-.94.82L12 14.77l-2.92 1.64a.66.66 0 0 1-.94-.82l1.21-2.78-2.18-1.95a.65.65 0 0 1 .47-1.11h2.38l1.4-2.95a.67.67 0 0 1 1.18 0z","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z"],
+}
+export default RatingStarCircle

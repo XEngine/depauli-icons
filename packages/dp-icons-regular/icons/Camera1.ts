@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Camera1 : IconType = {
+    name: 'camera-1',
+    key: 'Camera1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.25 7.5a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z","m19.5 6-1.09-2.17A1.5 1.5 0 0 0 17.07 3h-5.65a1.5 1.5 0 0 0-1.34.83L9 6H2.25a1.5 1.5 0 0 0-1.5 1.5v12a1.5 1.5 0 0 0 1.5 1.5h19.5a1.5 1.5 0 0 0 1.5-1.5v-12a1.5 1.5 0 0 0-1.5-1.5zM4.13 9a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m1.12-3V4.5"],
+}
+export default Camera1

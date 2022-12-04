@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Railroad : IconType = {
+    name: 'railroad',
+    key: 'Railroad',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.5.76v22.5M17 .76v22.5M2.75 4.51h18a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-.75.75h-18A.75.75 0 0 1 2 9.01V5.26a.75.75 0 0 1 .75-.75zm0 10.5h18a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-.75.75h-18a.75.75 0 0 1-.75-.75v-3.75a.75.75 0 0 1 .75-.75z"],
+}
+export default Railroad

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const UiScrollDown : IconType = {
+    name: 'ui-scroll-down',
+    key: 'UiScrollDown',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.37.75h17.25a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H3.37a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","m10.18 18.78 1.96 1.47 1.96-1.47M5.78 5.25H18.5m-12.72 3H18.5m-12.72 3H18.5m-12.72 3h8.32"],
+}
+export default UiScrollDown

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ServerHand : IconType = {
+    name: 'server-hand',
+    key: 'ServerHand',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 14.25v9m0-1.5h15a3 3 0 0 0-3-3H9a3 3 0 0 0-3-3H.75m5.25 3h3M9 3.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.38h4.5M9 9.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.38h4.5m4.5-6a3 3 0 0 1-3 3h-12a3 3 0 0 1 0-6h12a3 3 0 0 1 3 3zm0 6a3 3 0 0 1-3 3h-12a3 3 0 0 1 0-6h12a3 3 0 0 1 3 3z"],
+}
+export default ServerHand

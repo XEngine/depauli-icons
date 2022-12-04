@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const KeyboardUsb : IconType = {
+    name: 'keyboard-usb',
+    key: 'KeyboardUsb',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 20.25a6 6 0 0 1-6-6v-4.5a6 6 0 0 1 12 0v4.5a6 6 0 0 1-6 6zm-6-9h12m1.5-7.64A11.25 11.25 0 1 1 10.3.88 1.5 1.5 0 0 1 12 2.37v8.88"],
+}
+export default KeyboardUsb

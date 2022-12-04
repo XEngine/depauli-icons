@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Composition4To_3 : IconType = {
+    name: 'composition-4-to-3',
+    key: 'Composition4To_3',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 5.25h16.5a3 3 0 0 1 3 3v7.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3v-7.5a3 3 0 0 1 3-3z","M15.75 9.75a1.5 1.5 0 0 1 1.5-1.5l1.14.01a1.87 1.87 0 0 1-.01 3.74 1.87 1.87 0 0 1 .01 3.75l-1.14.01a1.5 1.5 0 0 1-1.5-1.5m-7.5 1.49v-1.5m0 0v-6a8.26 8.26 0 0 0-4.48 5.99h4.48M12 9.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0 4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default Composition4To_3

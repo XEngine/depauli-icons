@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DataFileEdit : IconType = {
+    name: 'data-file-edit',
+    key: 'DataFileEdit',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.63 14.87 15 22.5l-3.75.75.75-3.75 7.63-7.63a2.11 2.11 0 0 1 2.99 0l.01.01a2.11 2.11 0 0 1 0 2.99zM3.75 6.75v9h7.5m-7.5-3 2.69-2.69a1.5 1.5 0 0 1 2.12 0l.58.58a1.5 1.5 0 0 0 2.35-.29l.36-.6m-3.6 10.5h-6a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h10.63a1.5 1.5 0 0 1 1.06.44l2.87 2.87a1.5 1.5 0 0 1 .44 1.06v4.63"],
+}
+export default DataFileEdit

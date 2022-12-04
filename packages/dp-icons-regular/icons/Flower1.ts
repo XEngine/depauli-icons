@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Flower1 : IconType = {
+    name: 'flower-1',
+    key: 'Flower1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.088 18.819a4.99 2.11-20.88 1 0 1.504 3.942 4.99 2.11-20.88 1 0-1.504-3.942z","M2.858 19.012a4.99 2.11 20.88 1 0 9.324 3.556 4.99 2.11 20.88 1 0-9.324-3.556zM18.52.91l-.66.44a6 6 0 0 0-2.67 4.99v-.73a6 6 0 0 0-1.76-4.24l-.18-.18a1.5 1.5 0 0 0-2.12 0l-.18.18a6 6 0 0 0-1.76 4.24v.73a6 6 0 0 0-2.67-4.99L5.85.91a.75.75 0 0 0-1.17.62v6.4a7.72 7.72 0 0 0 6.76 7.79 7.5 7.5 0 0 0 8.24-7.47V1.53a.75.75 0 0 0-1.17-.62zm-6.34 14.84v7.5"],
+}
+export default Flower1

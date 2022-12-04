@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShoppingBasketSmile : IconType = {
+    name: 'shopping-basket-smile',
+    key: 'ShoppingBasketSmile',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m4.5 8.25 3.75-6m11.25 6-3.75-6m3.19 19.5H5.06a1.44 1.44 0 0 1-1.38-1.14l-2.14-10.5a1.48 1.48 0 0 1 1.39-1.86h18.15a1.48 1.48 0 0 1 1.38 1.86l-2.14 10.5a1.44 1.44 0 0 1-1.38 1.14zM9 11.52a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m1.21 4.98a5.06 5.06 0 0 1-8.42 0"],
+}
+export default ShoppingBasketSmile

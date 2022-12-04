@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyConcerned : IconType = {
+    name: 'smiley-concerned',
+    key: 'SmileyConcerned',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m17.25 6.5-1.1.66a2.41 2.41 0 0 1-1.24.34h-.67M12 18.75A6.75 6.75 0 0 1 18.05 15m-2.3-4.88a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-8.25.01a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M6 7.55a1.8 1.8 0 0 1 3 0","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z"],
+}
+export default SmileyConcerned

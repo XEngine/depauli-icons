@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FileCodeShield : IconType = {
+    name: 'file-code-shield',
+    key: 'FileCodeShield',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 15.75a7.67 7.67 0 0 1-6 7.5 7.67 7.67 0 0 1-6-7.5v-3.54a1.5 1.5 0 0 1 .92-1.38 12.54 12.54 0 0 1 10.17 0 1.5 1.5 0 0 1 .92 1.38zm-6-3v6m-3-3h6","M8.25 20.25h-6a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h10.63a1.5 1.5 0 0 1 1.06.44l2.87 2.87a1.5 1.5 0 0 1 .44 1.06v1.63","M7.5 5.25H9a.75.75 0 0 1 .75.75v3a.75.75 0 0 1-.75.75H7.5A.75.75 0 0 1 6.75 9V6a.75.75 0 0 1 .75-.75zm-3.75 0v4.5m9-4.5V7.5M4.5 12.75H6a.75.75 0 0 1 .75.75v3a.75.75 0 0 1-.75.75H4.5a.75.75 0 0 1-.75-.75v-3a.75.75 0 0 1 .75-.75z"],
+}
+export default FileCodeShield

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ControlsPrevious : IconType = {
+    name: 'controls-previous',
+    key: 'ControlsPrevious',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 3.63v16.74a.75.75 0 0 1-1.18.62L9.9 12.62a.75.75 0 0 1 0-1.24l12.18-8.37a.75.75 0 0 1 1.18.62zm-21-1.38h1.5a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5h-1.5a1.5 1.5 0 0 1-1.5-1.5V3.75a1.5 1.5 0 0 1 1.5-1.5z"],
+}
+export default ControlsPrevious

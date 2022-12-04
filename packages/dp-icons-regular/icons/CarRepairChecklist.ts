@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CarRepairChecklist : IconType = {
+    name: 'car-repair-checklist',
+    key: 'CarRepairChecklist',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.75 20.25a1.5 1.5 0 0 0 1.5-1.5 3.62 3.62 0 0 0-1.06-2.56l-1.94-1.94H3.75l-1.94 1.94a3.62 3.62 0 0 0-1.06 2.56 1.5 1.5 0 0 0 1.5 1.5zm-20.67-3h4.17m17.68 0h-4.18m-4.5-9H7.56a2.25 2.25 0 0 0-2.11 1.46l-1.7 4.54h16.5l-1.13-3m-16.87 9v1.5a1.5 1.5 0 0 0 3 0v-1.5zm19.5 0v1.5a1.5 1.5 0 0 1-3 0v-1.5z","M15.25.75h7a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-8.5a1 1 0 0 1 1-1z","M17.25 6 18 7.5l2.25-3"],
+}
+export default CarRepairChecklist

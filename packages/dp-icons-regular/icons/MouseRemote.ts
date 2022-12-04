@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MouseRemote : IconType = {
+    name: 'mouse-remote',
+    key: 'MouseRemote',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.17 7.57a6.5 6.5 0 0 0-6.33 0m7.91-2.59a9.72 9.72 0 0 0-9.49 0m11.05-2.55a12.69 12.69 0 0 0-12.62 0M12 23.25A5.25 5.25 0 0 1 6.75 18v-3a5.25 5.25 0 0 1 10.5 0v3A5.25 5.25 0 0 1 12 23.25zm0-10.5v1.5"],
+}
+export default MouseRemote

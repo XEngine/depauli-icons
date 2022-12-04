@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DeliveryDoor : IconType = {
+    name: 'delivery-door',
+    key: 'DeliveryDoor',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.93 15h7.64a.68.68 0 0 1 .68.68v6.89a.68.68 0 0 1-.68.68h-7.64a.68.68 0 0 1-.68-.68v-6.89a.68.68 0 0 1 .68-.68z","M17.25 15h3v4.5h-3zm-15 5.25v-18a1.5 1.5 0 0 1 1.5-1.5h12a1.5 1.5 0 0 1 1.5 1.5V12m-6 8.25H1.5a.75.75 0 0 0-.75.75v1.5a.75.75 0 0 0 .75.75h9.75M13.5 9.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default DeliveryDoor

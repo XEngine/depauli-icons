@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PlaylistSongs1 : IconType = {
+    name: 'playlist-songs-1',
+    key: 'PlaylistSongs1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75.75h13.5m-13.5 6h13.5m-13.5 6h9.75m-9.75 6h6m6.75-3a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm3.75 3.75V2.25m0 1.37 3.58 2.18c2.44 1.89 3.1 4.51 1.7 6.82"],
+}
+export default PlaylistSongs1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MedicalSpecialtyFeet : IconType = {
+    name: 'medical-specialty-feet',
+    key: 'MedicalSpecialtyFeet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.93 6.24A3.64 3.64 0 0 0 6.5 9.79a4.79 4.79 0 0 0 2.65 4.28 6.07 6.07 0 0 1 3.35 5.43 3.75 3.75 0 0 0 7.5 0v-6.44a6 6 0 0 0-4.7-5.86zM5.75.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm6.75 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6 1.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z"],
+}
+export default MedicalSpecialtyFeet

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BarbecueStick1 : IconType = {
+    name: 'barbecue-stick-1',
+    key: 'BarbecueStick1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.045 2.695a3.02 2.63 45 1 0 4.27 4.27 3.02 2.63 45 1 0-4.27-4.27zM4.61 19.39a2.26 2.26 0 1 1-3.2 0m5.312-5.308a2.26 2.23 45 1 0 3.196 3.196 2.26 2.23 45 1 0-3.196-3.196zM4.61 19.39l2.13-2.13m3.15-7.41 3.18-3.18 4.26 4.26-3.18 3.18zm2.12-4.25 6.39 6.39m-9.58-3.2 6.39 6.39m5.82-12.21L23.25.75m-5.91 5.94-2.12 2.12m-3.18 3.18-2.12 2.12"],
+}
+export default BarbecueStick1

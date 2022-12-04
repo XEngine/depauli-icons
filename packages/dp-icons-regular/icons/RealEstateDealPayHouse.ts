@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RealEstateDealPayHouse : IconType = {
+    name: 'real-estate-deal-pay-house',
+    key: 'RealEstateDealPayHouse',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75.75h4.5a3 3 0 0 1 3 3v3","m18 4.5 2.25 2.25L22.5 4.5m-12 18.75H6a3 3 0 0 1-3-3v-3","M5.25 19.5 3 17.25.75 19.5m18-5.25h-2.03a1.34 1.34 0 0 0-.5 2.59l2.06.83a1.34 1.34 0 0 1-.5 2.59h-2.03m1.5-6.01v-.75m0 7.5v-.75","M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12zM.75 4.5 5.25.75l4.5 3.75"],
+}
+export default RealEstateDealPayHouse

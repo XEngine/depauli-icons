@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NightStandLamp : IconType = {
+    name: 'night-stand-lamp',
+    key: 'NightStandLamp',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75 14.25h20.5a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1z","M5.25 14.25v9h13.5v-9zm7.5-7.5v7.5m3-7.5V9m-9-2.25a6 6 0 0 1 12 0zm3.75 10.5h3"],
+}
+export default NightStandLamp

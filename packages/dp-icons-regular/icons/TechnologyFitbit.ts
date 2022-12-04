@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TechnologyFitbit : IconType = {
+    name: 'technology-fitbit',
+    key: 'TechnologyFitbit',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.69 10.04a1.96 1.96 0 1 0 0 3.92 1.96 1.96 0 1 0 0-3.92zm-10.27.49a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zM6 12.75a.75.75 0 1 1 .02 0m-3.92 0a.75.75 0 1 1 .75-.75.75.75 0 0 1-.75.75m8.32 2.67a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zM6 17.64a.75.75 0 1 1 .75-.75.75.75 0 0 1-.75.75m4.42-12a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zm4.89 4.89a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zm0 4.89a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zm0-9.78a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zM10.42.75a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zm0 19.56a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zM6 7.86a.75.75 0 1 1 .75-.75.75.75 0 0 1-.75.75"],
+}
+export default TechnologyFitbit

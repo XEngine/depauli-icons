@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SpaBoard : IconType = {
+    name: 'spa-board',
+    key: 'SpaBoard',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.5 18.38v-7.5m0 0h.75a2.25 2.25 0 0 1 0 4.5h-.75m-3-4.5H6a1.5 1.5 0 0 0-1.5 1.5c0 2.25 3 2.25 3 4.5a1.5 1.5 0 0 1-1.5 1.5H4.5m12 0v-6a1.5 1.5 0 0 1 3 0v6m-3-3h3","M2.5 7.88h19a1 1 0 0 1 1 1v11.5a1 1 0 0 1-1 1h-19a1 1 0 0 1-1-1V8.88a1 1 0 0 1 1-1zm4.11 0 3.73-4.48a2.15 2.15 0 0 1 3.31 0l3.73 4.48"],
+}
+export default SpaBoard

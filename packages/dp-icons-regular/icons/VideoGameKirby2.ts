@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameKirby2 : IconType = {
+    name: 'video-game-kirby-2',
+    key: 'VideoGameKirby2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.01 6.24A7.5 7.5 0 0 1 18 6.25m1.27 2.66a7.5 7.5 0 1 1-14.54 0m2.77 1.84h.75m7.5 0h.75m-6.75-3v1.5m4.5-1.5v1.5m-9.52-.34C1.37 7.3-.13 3.69 1.28 2.28 2.56 1 5.63 2.11 7.4 4.83m11.87 4.08c3.36-1.61 4.86-5.22 3.45-6.63-1.28-1.28-4.35-.17-6.12 2.55M9.76 17.91a3.48 3.48 0 0 1-.43 2.52c-.86 1.49-2.54 2.15-3.73 1.46s-1.47-2.46-.6-3.96a3.48 3.48 0 0 1 1.96-1.63m7.28 1.61a3.48 3.48 0 0 0 .43 2.52c.86 1.49 2.53 2.15 3.73 1.46s1.47-2.46.6-3.96a3.48 3.48 0 0 0-1.95-1.63M12 12.63a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default VideoGameKirby2

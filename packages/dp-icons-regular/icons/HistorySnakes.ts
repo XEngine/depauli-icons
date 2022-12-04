@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HistorySnakes : IconType = {
+    name: 'history-snakes',
+    key: 'HistorySnakes',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.288 2.528a2.19 1.46-45 1 0 2.064 2.064 2.19 1.46-45 1 0-2.064-2.064zM6.87 2.02 8.14.75m9.278 18.658a2.19 1.46-45 1 0 2.064 2.064 2.19 1.46-45 1 0-2.064-2.064zm-.508 2.572-1.27 1.27","M3.99 5.27A5.25 5.25 0 0 0 12 12a5.25 5.25 0 0 1 7.93 6.84M18.891 3.771A2.19 1.46 45 1 0 21.99 6.87a2.19 1.46 45 1 0-3.1-3.1zM21.98 6.87l1.27 1.27M2.011 16.901A2.19 1.46 45 1 0 5.11 20a2.19 1.46 45 1 0-3.1-3.1z","M2.02 16.91.75 15.64M18.73 3.99A5.25 5.25 0 0 0 12 12a5.25 5.25 0 0 1-6.84 7.93"],
+}
+export default HistorySnakes

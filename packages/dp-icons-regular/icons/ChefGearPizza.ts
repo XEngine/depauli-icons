@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ChefGearPizza : IconType = {
+    name: 'chef-gear-pizza',
+    key: 'ChefGearPizza',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M12 3.75a8.25 8.25 0 1 0 0 16.5 8.25 8.25 0 1 0 0-16.5z","M10.13 7.5a1.87 1.87 0 0 0-1.88 1.88s0 1.13 1.88 1.13S12 9.38 12 9.38a1.87 1.87 0 0 0-1.87-1.88zm3.75 6A1.87 1.87 0 0 0 12 15.38s0 1.13 1.88 1.13 1.88-1.13 1.88-1.13a1.87 1.87 0 0 0-1.88-1.88zm.86-4.45.69 1.33 1.33-.69m-9.7 2.95.59.47m1.41 2.54-.54.52"],
+}
+export default ChefGearPizza

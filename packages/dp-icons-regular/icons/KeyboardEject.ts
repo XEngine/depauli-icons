@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const KeyboardEject : IconType = {
+    name: 'keyboard-eject',
+    key: 'KeyboardEject',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 1.5h15a3 3 0 0 1 3 3v15a3 3 0 0 1-3 3h-15a3 3 0 0 1-3-3v-15a3 3 0 0 1 3-3z","M6.75 15h10.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75H6.75a.75.75 0 0 1-.75-.75v-1.5a.75.75 0 0 1 .75-.75zm4.72-8.47-4.83 4.83a.38.38 0 0 0 .27.64H17.1a.38.38 0 0 0 .27-.64l-4.83-4.83a.75.75 0 0 0-1.07 0z"],
+}
+export default KeyboardEject

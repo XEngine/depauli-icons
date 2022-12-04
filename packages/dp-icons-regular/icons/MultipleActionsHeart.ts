@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MultipleActionsHeart : IconType = {
+    name: 'multiple-actions-heart',
+    key: 'MultipleActionsHeart',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m17.25 23.25-5.11-5.34a3.03 3.03 0 0 1-.57-3.49 3.03 3.03 0 0 1 4.85-.79l.84.84.84-.84a3.03 3.03 0 0 1 4.85.79 3.03 3.03 0 0 1-.57 3.49zm-6.47-12.74A6.05 6.05 0 0 0 6.75 9a6 6 0 0 0-6 5.25m6-13.5a3.38 3.38 0 1 0 0 6.76 3.38 3.38 0 1 0 0-6.76zm9.75 0a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM20.4 9a4.5 4.5 0 0 0-7.28-.71"],
+}
+export default MultipleActionsHeart

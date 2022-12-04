@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CalendarFavorite : IconType = {
+    name: 'calendar-favorite',
+    key: 'CalendarFavorite',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 3.75h19.5a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5zm-1.5 6h22.5","M6.75 6V.75M17.25 6V.75m-5.69 11.93a.49.49 0 0 1 .87 0l1.01 2.04a.48.48 0 0 0 .37.26l2.27.33a.48.48 0 0 1 .39.32.48.48 0 0 1-.12.49l-1.65 1.6a.48.48 0 0 0-.14.42l.39 2.26a.47.47 0 0 1-.19.47.49.49 0 0 1-.51.04l-2.02-1.06a.49.49 0 0 0-.45 0l-2.02 1.06a.49.49 0 0 1-.51-.04.47.47 0 0 1-.19-.47l.39-2.26a.48.48 0 0 0-.14-.42l-1.65-1.6a.48.48 0 0 1-.12-.49.48.48 0 0 1 .39-.32l2.27-.33a.48.48 0 0 0 .37-.26z"],
+}
+export default CalendarFavorite

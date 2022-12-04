@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BarcodeSearch : IconType = {
+    name: 'barcode-search',
+    key: 'BarcodeSearch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 5.25v7.5m3-7.5v4.5m6-4.5v3m3-3V7.5m3-2.25v3m-9-3v4.5m-3 3h1.5m-4.5-12H2.29A1.54 1.54 0 0 0 .75 2.29v1.46m21 0V2.29A1.54 1.54 0 0 0 20.21.75h-1.46m-18 13.5v1.46a1.54 1.54 0 0 0 1.54 1.54h1.46m12-6.75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm7.5 12.75-3.79-3.79"],
+}
+export default BarcodeSearch

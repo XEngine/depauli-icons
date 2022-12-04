@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BreakfastCerealBowl : IconType = {
+    name: 'breakfast-cereal-bowl',
+    key: 'BreakfastCerealBowl',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 3.75a11.25 4.5 0 1 0 0 9 11.25 4.5 0 1 0 0-9z","M.75 8.25v1.5c0 5.8 5.04 10.5 11.25 10.5s11.25-4.7 11.25-10.5v-1.5","M12 6.75a7.5 3 0 1 0 0 6 7.5 3 0 1 0 0-6zm-3.75 3h1.5m3 0h1.5"],
+}
+export default BreakfastCerealBowl

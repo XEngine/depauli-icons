@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AlignRight : IconType = {
+    name: 'align-right',
+    key: 'AlignRight',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75 14.25h17.5a1 1 0 0 1 1 1v4.02a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1v-4.02a1 1 0 0 1 1-1zm8.26-10.52h9.25a1 1 0 0 1 1 1v4.02a1 1 0 0 1-1 1h-9.25a1 1 0 0 1-1-1V4.73a1 1 0 0 1 1-1zM23.25.75v22.5"],
+}
+export default AlignRight

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AppliancesOven : IconType = {
+    name: 'appliances-oven',
+    key: 'AppliancesOven',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 1.5v21h19.5v-21zm-1.5 0h22.5m-22.5 21h22.5","M6.21 10.5h11.58a.96.96 0 0 1 .96.96v7.08a.96.96 0 0 1-.96.96H6.21a.96.96 0 0 1-.96-.96v-7.08a.96.96 0 0 1 .96-.96zm2.79 3h6M5.25 4.13a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m3 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-6 3.38h19.5m-8.25-3h5.25"],
+}
+export default AppliancesOven

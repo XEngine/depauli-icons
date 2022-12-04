@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ColorRollingBrush : IconType = {
+    name: 'color-rolling-brush',
+    key: 'ColorRollingBrush',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.63.75h13.5a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5H5.63a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z","M4.13 4.5h-1.5A1.5 1.5 0 0 0 1.13 6v3.75a1.5 1.5 0 0 0 1.5 1.5h8.25a1.5 1.5 0 0 1 1.5 1.5v1.5m.75 9h-1.5a1.5 1.5 0 0 1-1.5-1.5V16.5a2.25 2.25 0 0 1 4.5 0v5.25a1.5 1.5 0 0 1-1.5 1.5zm7.5-18.75h2.25"],
+}
+export default ColorRollingBrush

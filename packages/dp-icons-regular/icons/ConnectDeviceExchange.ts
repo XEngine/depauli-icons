@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ConnectDeviceExchange : IconType = {
+    name: 'connect-device-exchange',
+    key: 'ConnectDeviceExchange',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 14.25V18a2.25 2.25 0 0 1-2.25 2.25H3A2.25 2.25 0 0 1 .75 18V6A2.25 2.25 0 0 1 3 3.75h4.5A2.25 2.25 0 0 1 9.75 6v2.25m-9 9h9m4.5-9V6a2.25 2.25 0 0 1 2.25-2.25H21A2.25 2.25 0 0 1 23.25 6v12A2.25 2.25 0 0 1 21 20.25h-4.5A2.25 2.25 0 0 1 14.25 18v-3.75m0-7.5h9m-9 10.5h9M6.75 9 4.5 11.25l2.25 2.25M17.25 9l2.25 2.25-2.25 2.25M4.5 11.25h15"],
+}
+export default ConnectDeviceExchange

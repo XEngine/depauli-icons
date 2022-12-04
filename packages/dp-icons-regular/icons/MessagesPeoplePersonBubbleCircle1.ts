@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MessagesPeoplePersonBubbleCircle1 : IconType = {
+    name: 'messages-people-person-bubble-circle-1',
+    key: 'MessagesPeoplePersonBubbleCircle1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18 .75a5.23 5.23 0 0 0-3.94 8.69l-.66 3.78 3.42-2.11A5.25 5.25 0 1 0 18 .75zm-11.25 9a3.38 3.38 0 1 0 0 6.76 3.38 3.38 0 1 0 0-6.76zm6 13.5a6.05 6.05 0 0 0-12 0"],
+}
+export default MessagesPeoplePersonBubbleCircle1

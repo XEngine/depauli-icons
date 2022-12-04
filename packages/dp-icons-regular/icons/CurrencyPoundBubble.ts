@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CurrencyPoundBubble : IconType = {
+    name: 'currency-pound-bubble',
+    key: 'CurrencyPoundBubble',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.5 12a3.5 3.5 0 0 0-2.44-3.34 3.5 3.5 0 0 0-4.72-4.72 3.5 3.5 0 0 0-6.67 0 3.5 3.5 0 0 0-4.72 4.72 3.5 3.5 0 0 0 0 6.67 3.5 3.5 0 0 0 4.72 4.72 3.5 3.5 0 0 0 6.67 0 3.5 3.5 0 0 0 4.72-4.72A3.5 3.5 0 0 0 22.5 12zM15 8.25a2.25 2.25 0 0 0-4.5 0V15A1.5 1.5 0 0 1 9 16.5h6M9 12h4.5"],
+}
+export default CurrencyPoundBubble

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ExoticFoodBuns : IconType = {
+    name: 'exotic-food-buns',
+    key: 'ExoticFoodBuns',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.48 15.96a3 3 0 0 0-.13-3.61l-1.74-2.14a.75.75 0 0 0-.71-.27l-2.09.9.14-2.27a.75.75 0 0 0-.48-.57l-2.6-.9a3 3 0 0 0-3.44 1.11l-.42.6a1.5 1.5 0 0 0 .37 2.09l8.6 6.03a1.5 1.5 0 0 0 2.09-.37zM12.1 7.52l-2.44-.7a.75.75 0 0 0-.74.19L7.73 8.95 6.54 7.02a.75.75 0 0 0-.74-.19l-2.65.76a3 3 0 0 0-2.18 2.89v.73a1.5 1.5 0 0 0 1.5 1.5h1.04m6.21-.04-.49.79-1.19-1.94a.75.75 0 0 0-.74-.19l-2.65.76a3 3 0 0 0-2.18 2.89v.73a1.5 1.5 0 0 0 1.5 1.5h10.5a1.49 1.49 0 0 0 1.05-.43"],
+}
+export default ExoticFoodBuns

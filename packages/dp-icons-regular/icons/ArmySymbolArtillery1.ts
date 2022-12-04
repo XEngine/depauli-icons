@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArmySymbolArtillery1 : IconType = {
+    name: 'army-symbol-artillery-1',
+    key: 'ArmySymbolArtillery1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 4.25h19.5a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-12a1.5 1.5 0 0 1 1.5-1.5z","M15.75 8.75h-7.5a3 3 0 0 0 0 6h7.5a3 3 0 0 0 0-6zM12 11.38a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default ArmySymbolArtillery1

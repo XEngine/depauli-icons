@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Fireplace : IconType = {
+    name: 'fireplace',
+    key: 'Fireplace',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 23.25c-2.63 0-5.25-2.01-5.25-4.5 0-2.7 1.18-4.5 3.15-4.5-.26 1.5-.39 2.7 1.18 2.7 2.36 0 1.72-3.92-.79-7.2 3.26 0 6.96 3.75 6.96 7.5 0 3-1.44 6-5.25 6zm-11.25 0h22.5M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5zm0 6v16.5m19.5-16.5v16.5"],
+}
+export default Fireplace

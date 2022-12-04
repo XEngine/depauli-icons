@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArmySymbolAviation : IconType = {
+    name: 'army-symbol-aviation',
+    key: 'ArmySymbolAviation',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 4.25h19.5a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-12a1.5 1.5 0 0 1 1.5-1.5z","M12 11s-3.26 2.25-4.5 2.25a2.25 2.25 0 0 1 0-4.5C8.74 8.75 12 11 12 11zm0 0s3.26 2.25 4.5 2.25a2.25 2.25 0 0 0 0-4.5C15.26 8.75 12 11 12 11zm0 3.75V11"],
+}
+export default ArmySymbolAviation

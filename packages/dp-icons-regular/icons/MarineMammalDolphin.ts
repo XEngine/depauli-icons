@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MarineMammalDolphin : IconType = {
+    name: 'marine-mammal-dolphin',
+    key: 'MarineMammalDolphin',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 22.63A5.96 5.96 0 0 1 16.5 21a5.93 5.93 0 0 1-9 0 5.96 5.96 0 0 1-6.75 1.63m21.1-9.91a3.65 3.65 0 0 0-1.72-.64 9.75 9.75 0 0 0-6.63-7.86c-.02-.86-.12-3.47-.75-3.47-1.7 0-3.4 2.14-4.13 3.19a9.74 9.74 0 0 0-5.16 2.82A3.68 3.68 0 0 0 3 10.5a3.61 3.61 0 0 0-.75 2.25 1.33 1.33 0 0 0 1.51 1.31 9.82 9.82 0 0 1 3.86-2.84 3.17 3.17 0 0 0 2.13 2.28 8.66 8.66 0 0 0 .71-2.96c.26-.02.52-.05.79-.05a9.63 9.63 0 0 1 6.06 2.14 3.64 3.64 0 0 0-1.24 1.08 3.95 3.95 0 0 0-.44 3.55 3.95 3.95 0 0 0 3.19-1.62 3.64 3.64 0 0 0 .41-.78 3.58 3.58 0 0 0 .67.62 3.94 3.94 0 0 0 3.56.43 3.94 3.94 0 0 0-1.6-3.21z"],
+}
+export default MarineMammalDolphin

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PregnancyUltrasoundBaby : IconType = {
+    name: 'pregnancy-ultrasound-baby',
+    key: 'PregnancyUltrasoundBaby',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.22 15.9a12.71 12.71 0 0 0 1.16.91m3.98 1.88A11.8 11.8 0 0 0 9.8 19m4.4 0a11.8 11.8 0 0 0 1.44-.31m3.98-1.88a12.71 12.71 0 0 0 1.16-.91m2.47-2.72-8.25-9a3.75 3.75 0 0 1-6 0l-8.25 9m22.5 0-8.25-9a3.75 3.75 0 0 1-6 0l-8.25 9M9 11.3c-.47-.1-.92-.29-1.38-.43","M15 9.43a3 3 0 1 0 0 6 3 3 0 1 0 0-6z"],
+}
+export default PregnancyUltrasoundBaby

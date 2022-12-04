@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyMad1 : IconType = {
+    name: 'smiley-mad-1',
+    key: 'SmileyMad1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 15h0a1.5 1.5 0 0 1 1.5 1.5V18a1.5 1.5 0 0 1-1.5 1.5h0a1.5 1.5 0 0 1-1.5-1.5v-1.5A1.5 1.5 0 0 1 12 15zm-3.75-4.12a.38.38 0 1 1 .38-.38.38.38 0 0 1-.38.38m7.5 0a.38.38 0 1 1 .38-.38.38.38 0 0 1-.38.38m-9-3.32a1.8 1.8 0 0 1 3 0m4.5 0a1.8 1.8 0 0 1 3 0","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z"],
+}
+export default SmileyMad1

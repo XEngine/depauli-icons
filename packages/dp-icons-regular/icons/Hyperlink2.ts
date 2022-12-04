@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Hyperlink2 : IconType = {
+    name: 'hyperlink-2',
+    key: 'Hyperlink2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m6.75 17.25 10.5-10.5m-9.52 5.27a4.47 4.47 0 0 0-3.42 1.3l-2.25 2.25a4.5 4.5 0 0 0 6.36 6.36l2.25-2.25a4.47 4.47 0 0 0 1.3-3.42m4.28-4.29a4.47 4.47 0 0 0 3.42-1.3l2.25-2.25a4.5 4.5 0 0 0-6.36-6.36l-2.25 2.25a4.48 4.48 0 0 0-1.3 3.42"],
+}
+export default Hyperlink2

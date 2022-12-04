@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RealEstateFavoriteHouseRating : IconType = {
+    name: 'real-estate-favorite-house-rating',
+    key: 'RealEstateFavoriteHouseRating',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m12.53 1.08 1.25 2.46h2.13a.58.58 0 0 1 .42 1l-1.95 1.92 1.08 2.49a.59.59 0 0 1-.84.74L12 8.2 9.39 9.67a.59.59 0 0 1-.84-.74l1.08-2.49-1.95-1.91a.58.58 0 0 1 .42-1h2.13l1.25-2.45a.59.59 0 0 1 1.06 0zM5.25 2.25a.59.59 0 0 0-.53.33L3.47 5.03H1.34a.58.58 0 0 0-.42 1l1.95 1.92-1.07 2.49a.59.59 0 0 0 .84.74L5.25 9.7l.69.39m12.81-7.84a.59.59 0 0 1 .53.33l1.25 2.46h2.13a.58.58 0 0 1 .42 1l-1.95 1.92 1.08 2.49a.59.59 0 0 1-.84.74L18.75 9.7l-.69.39M7.5 18.24v3.52a1.5 1.5 0 0 0 1.5 1.5h6a1.5 1.5 0 0 0 1.5-1.5v-3.52m3-.75L13 11.64a1.5 1.5 0 0 0-2.01 0L4.5 17.49"],
+}
+export default RealEstateFavoriteHouseRating

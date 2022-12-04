@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SeaTransportBuoy1 : IconType = {
+    name: 'sea-transport-buoy-1',
+    key: 'SeaTransportBuoy1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 22.26a3.31 3.31 0 0 0 2.82-1.56 3.31 3.31 0 0 0 5.62 0 3.32 3.32 0 0 0 5.63 0 3.31 3.31 0 0 0 5.62 0 3.31 3.31 0 0 0 2.82 1.56M7.87 18.41 8.97 14a3 3 0 0 1 3.64-2.17l2.91.74a3 3 0 0 1 2.18 3.63l-.58 2.28m-3.05-6.29 2.58-10.18L21 6.21l-5.64.89m-.55 2.18 2.91.74"],
+}
+export default SeaTransportBuoy1

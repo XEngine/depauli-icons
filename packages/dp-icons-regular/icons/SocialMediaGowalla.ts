@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SocialMediaGowalla : IconType = {
+    name: 'social-media-gowalla',
+    key: 'SocialMediaGowalla',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m9.5 17 2.5 6.25L14.42 17a8.32 8.32 0 1 0-4.92 0z","M12 3.82a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z","M14 9.07a2 2 0 1 1-2-2 2 2 0 0 1 2 2"],
+}
+export default SocialMediaGowalla

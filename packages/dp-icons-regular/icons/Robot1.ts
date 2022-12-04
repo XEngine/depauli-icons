@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Robot1 : IconType = {
+    name: 'robot-1',
+    key: 'Robot1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 2.8a8.25 8.25 0 1 0 0 16.5 8.25 8.25 0 1 0 0-16.5z","M19.71 14a2.95 2.95 0 0 0 .54.05 3 3 0 0 0 0-6 3.04 3.04 0 0 0-.54.05m-1.3-2.25a3.04 3.04 0 0 0 .32-.45 3 3 0 0 0-5.2-3 2.91 2.91 0 0 0-.23.5m-2.6 0a2.92 2.92 0 0 0-.23-.5 3 3 0 0 0-5.2 3 3.04 3.04 0 0 0 .32.45M4.29 8.1a3.05 3.05 0 0 0-.54-.05 3 3 0 0 0 0 6 2.96 2.96 0 0 0 .54-.05m1.3 2.25a3.05 3.05 0 0 0-.32.45 3 3 0 1 0 5.43 2.5m2.6 0a3 3 0 1 0 5.42-2.5 3.05 3.05 0 0 0-.32-.45M12 19.3v3.75M9 8.8a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm6 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default Robot1

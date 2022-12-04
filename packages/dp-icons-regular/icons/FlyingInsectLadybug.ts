@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FlyingInsectLadybug : IconType = {
+    name: 'flying-insect-ladybug',
+    key: 'FlyingInsectLadybug',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.02 5.25a9 9 0 1 0 0 18 9 9 0 1 0 0-18z","M7.53 6.45C7.34 2.9 9.43 1.5 12.02 1.5s4.68 1.4 4.49 4.95m-7.44-4.1-.8-1.6m6.7 1.6.8-1.6m-3.75 4.5v18m0-12a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M20.14 10.37a3 3 0 1 1-4.24-4.24m0 16.24a3 3 0 1 1 4.24-4.24m-12-12a3 3 0 0 1-4.24 4.24m0 7.76a3 3 0 0 1 4.24 4.24m10.32-1.84.98 1.47a2.8 2.8 0 0 0 2.33 1.25M18.75 8.28l.69-1.03A2.8 2.8 0 0 1 21.77 6m-1.01 6.09 2.51-.84m-2.71 5.85 2.71.9M5.58 20.54 4.6 22a2.8 2.8 0 0 1-2.33 1.25M5.29 8.28 4.6 7.25A2.8 2.8 0 0 0 2.27 6m1.01 6.09-2.51-.84m2.71 5.85L.77 18"],
+}
+export default FlyingInsectLadybug

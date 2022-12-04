@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const KitchenwareDrainingNet : IconType = {
+    name: 'kitchenware-draining-net',
+    key: 'KitchenwareDrainingNet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.5 14.25v7.5a1.5 1.5 0 0 1-3 0v-7.5m0 4.5h3M5.45.75h13.1a.95.95 0 0 1 .95.95v11.6a.95.95 0 0 1-.95.95H5.45a.95.95 0 0 1-.95-.95V1.7a.95.95 0 0 1 .95-.95zM9 .75v13.5m6-13.5v13.5m4.5-9h-15m15 4.5h-15"],
+}
+export default KitchenwareDrainingNet

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const EscalatorPeople : IconType = {
+    name: 'escalator-people',
+    key: 'EscalatorPeople',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 23.25h-4.5a3 3 0 0 1 0-6h3.26l7.37-7.37A3 3 0 0 1 16.5 9h3.75a3 3 0 0 1 0 6h-2.51l-7.37 7.37a3 3 0 0 1-2.12.88zm-1.5-9.75a2.25 2.25 0 0 0-4.5 0v.75m2.25-9a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM12 .75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-2.25 10.5V9A2.25 2.25 0 0 1 12 6.75m7.5-6a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default EscalatorPeople

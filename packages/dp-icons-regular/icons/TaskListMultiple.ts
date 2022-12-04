@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TaskListMultiple : IconType = {
+    name: 'task-list-multiple',
+    key: 'TaskListMultiple',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.75 6.76h11.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1h-11.5a1 1 0 0 1-1-1V7.76a1 1 0 0 1 1-1z","M9.75 20.26h-3a1.5 1.5 0 0 1-1.5-1.5V5.26a1.5 1.5 0 0 1 1.5-1.5h10.5a1.5 1.5 0 0 1 1.5 1.5v1.5m-13.5 10.5h-3a1.5 1.5 0 0 1-1.5-1.5V2.26a1.5 1.5 0 0 1 1.5-1.5h10.5a1.5 1.5 0 0 1 1.5 1.5v1.5m3 7.5h3m-7.5-.75.75.75 1.5-1.5m2.25 6h3m-7.5-.75.75.75 1.5-1.5m2.25 6h3m-7.5-.75.75.75 1.5-1.5"],
+}
+export default TaskListMultiple

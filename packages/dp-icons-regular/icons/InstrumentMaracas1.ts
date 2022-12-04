@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const InstrumentMaracas1 : IconType = {
+    name: 'instrument-maracas-1',
+    key: 'InstrumentMaracas1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.57 3.06a4.82 4.82 0 1 0 0 9.64 4.82 4.82 0 1 0 0-9.64z","m1.34 10.19 2.6.37a.8.8 0 0 0 .91-.91L4.59 7.8a.8.8 0 0 1 .91-.91l1.86.27a.8.8 0 0 0 .91-.91l-.37-2.6m1.08 7.64 9.66 9.66m-.21-17.89a4.82 4.82 0 1 0 0 9.64 4.82 4.82 0 1 0 0-9.64z","m22.66 10.19-2.6.37a.8.8 0 0 1-.91-.91l.26-1.86a.8.8 0 0 0-.91-.91l-1.86.27a.8.8 0 0 1-.91-.91l.37-2.6m-1.09 7.64-9.65 9.67"],
+}
+export default InstrumentMaracas1

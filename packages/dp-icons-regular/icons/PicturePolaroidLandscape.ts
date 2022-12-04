@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PicturePolaroidLandscape : IconType = {
+    name: 'picture-polaroid-landscape',
+    key: 'PicturePolaroidLandscape',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.5.75H15a.75.75 0 0 1 .75.75v15a.75.75 0 0 1-.75.75H1.5a.75.75 0 0 1-.75-.75v-15A.75.75 0 0 1 1.5.75z","M15.75 12.75h-15m18.01-6.52 3.98 1.33a.75.75 0 0 1 .47.95l-4.74 14.23a.75.75 0 0 1-.95.47L6.76 19.62m-1.51-6.87L9.4 6.82a1.5 1.5 0 0 1 2.36-.13l3.99 4.56M5.06 3.37a1.69 1.69 0 1 0 0 3.38 1.69 1.69 0 1 0 0-3.38z"],
+}
+export default PicturePolaroidLandscape

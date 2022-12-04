@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameShwings : IconType = {
+    name: 'video-game-shwings',
+    key: 'VideoGameShwings',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.16 13.46a1.94 1.94 0 0 1 3.17-2.25 3.26 3.26 0 0 1-.79 4.53 3.86 3.86 0 0 1-5.38-.91 5.21 5.21 0 0 1 1.23-7.26 4.9 4.9 0 0 1 1.88-.94 4.54 4.54 0 0 0 3.35-2.96L20.64.75l1.5 2.11a4.54 4.54 0 0 1-1.07 6.32m-1.31 4.9 2.12-1.51a3.24 3.24 0 0 0 .77-4.52l-.25-.35m-5.22 8.66-7.16 6.5a1.5 1.5 0 0 1-1.02.39H2.25a1.5 1.5 0 0 1-1.5-1.5 4.5 4.5 0 0 1 4.5-4.5l3-3-5.27-7.6a1.5 1.5 0 0 1 .37-2.08l5.07-3.55a1.5 1.5 0 0 1 2.07.35l4.34 5.89M4.52 8.88 7.5 6.75m-.99 5 2.98-2.13M1.01 20.25h7.24l5.25-5.01"],
+}
+export default VideoGameShwings

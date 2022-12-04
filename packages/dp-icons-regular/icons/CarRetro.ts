@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CarRetro : IconType = {
+    name: 'car-retro',
+    key: 'CarRetro',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 19v1.9a1.5 1.5 0 0 0 3 0v-1.5m16.5-.4v1.9a1.5 1.5 0 0 1-3 0v-1.5M4.88 14.15a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm14.25 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M14.7 16.4c.6-2.14 1.95-4.5 4.8-4.5 2.25 0 3.75 1.34 3.75 3v1.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3v-1.5c0-1.66 1.5-3 3.75-3 2.86 0 4.2 2.36 4.8 4.5m6.66-6.25a16.03 16.03 0 0 0-7.91 0M19.5 11.9l-.96-5.71C18 3.34 15.31 1.4 12 1.4S6 3.34 5.46 6.19L4.5 11.9"],
+}
+export default CarRetro

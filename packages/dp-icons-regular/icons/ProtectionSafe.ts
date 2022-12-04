@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProtectionSafe : IconType = {
+    name: 'protection-safe',
+    key: 'ProtectionSafe',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M12 5.25a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 1 0 0-13.5zm-2.25.39v12.74m4.5-12.74v12.73m2.13-11.5 3.19-3.19M8.04 6.54 4.83 3.33m3.21 14.13-3.21 3.21m11.94-3.9 3.18 3.18"],
+}
+export default ProtectionSafe

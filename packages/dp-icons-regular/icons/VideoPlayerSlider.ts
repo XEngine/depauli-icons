@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoPlayerSlider : IconType = {
+    name: 'video-player-slider',
+    key: 'VideoPlayerSlider',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.34 9.09a.97.97 0 0 0-.9.04.86.86 0 0 0-.44.75v4.25a.86.86 0 0 0 .44.75.98.98 0 0 0 .9.04l3.99-1.88a1.12 1.12 0 0 0 0-2.05z","M5.28 3h13.44a.78.78 0 0 1 .78.78v16.44a.78.78 0 0 1-.78.78H5.28a.78.78 0 0 1-.78-.78V3.78A.78.78 0 0 1 5.28 3zM1.93 5.25a1.19 1.19 0 0 0-1.18 1.2v11.1a1.19 1.19 0 0 0 1.18 1.2m20.13-13.5a1.19 1.19 0 0 1 1.18 1.2v11.1a1.19 1.19 0 0 1-1.18 1.2"],
+}
+export default VideoPlayerSlider

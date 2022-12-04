@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TankTopPattern : IconType = {
+    name: 'tank-top-pattern',
+    key: 'TankTopPattern',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 10.99a1.5 1.5 0 0 0-1-1.42 3 3 0 0 1-2-2.83V1.5a.75.75 0 0 0-.75-.75H15a.75.75 0 0 0-.75.75V3a2.25 2.25 0 0 1-4.5 0V1.5A.75.75 0 0 0 9 .75H7.5a.75.75 0 0 0-.75.75v5.25a3 3 0 0 1-2 2.83 1.5 1.5 0 0 0-1 1.42v11.5a.75.75 0 0 0 .75.75h15a.75.75 0 0 0 .75-.75zM4.41 9.75h15.18m-15.84 4.5h16.5m-16.5 4.5h16.5"],
+}
+export default TankTopPattern

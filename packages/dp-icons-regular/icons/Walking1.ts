@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Walking1 : IconType = {
+    name: 'walking-1',
+    key: 'Walking1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15 .74a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm1.34 20.33-3.1-6.2a3 3 0 0 1-.15-2.34l1.07-3.04a1.5 1.5 0 1 0-2.83-1l-4.5 12.75a1.5 1.5 0 1 0 2.83 1l1.62-4.58 2.38 4.75a1.5 1.5 0 0 0 2.68-1.34z"],
+}
+export default Walking1

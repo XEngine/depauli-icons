@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OpenQuote : IconType = {
+    name: 'open-quote',
+    key: 'OpenQuote',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 10.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z","M.75 15a10.5 10.5 0 0 1 10.5-10.5m6 6a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z","M12.75 15a10.5 10.5 0 0 1 10.5-10.5"],
+}
+export default OpenQuote

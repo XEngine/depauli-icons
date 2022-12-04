@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HistoryWomanQueen : IconType = {
+    name: 'history-woman-queen',
+    key: 'HistoryWomanQueen',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.28 8.25a5.25 5.25 0 0 1-10.5 0zm0 0L18.03 3l-3.75 1.5L12.03.75 9.78 4.5 6.03 3l.75 5.25h10.5zm4.03 15a9.75 9.75 0 0 0-18.56 0m4.94-5.72 3.08 2.46m2.52 0 3.08-2.46","M12.03 19.5a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zM6.83 9s-.05 3.75-3.05 5.25M17.23 9s.05 3.75 3.05 5.25"],
+}
+export default HistoryWomanQueen

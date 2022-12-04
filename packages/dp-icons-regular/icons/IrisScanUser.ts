@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const IrisScanUser : IconType = {
+    name: 'iris-scan-user',
+    key: 'IrisScanUser',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.83 8.61a1.66 1.66 0 0 0 0-2.23C20.2 3.5 16.03.68 12 .75 7.97.68 3.8 3.5 1.18 6.39a1.66 1.66 0 0 0 0 2.23c2.57 2.82 6.72 5.7 10.82 5.63","M12 11.25a3.75 3.75 0 1 1 3.75-3.75m2.25 3a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm0 6a5.25 5.25 0 0 0-5.25 5.25v1.5h10.5v-1.5A5.25 5.25 0 0 0 18 16.5z"],
+}
+export default IrisScanUser

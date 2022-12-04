@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArrowDotCornerDownRight : IconType = {
+    name: 'arrow-dot-corner-down-right',
+    key: 'ArrowDotCornerDownRight',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.75.75h18.5a2 2 0 0 1 2 2v18.5a2 2 0 0 1-2 2H2.75a2 2 0 0 1-2-2V2.75a2 2 0 0 1 2-2z","M16.24 7.24a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m-.75 5.25a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m-3 3a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m.75-5.25a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m-3 3a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m.75-5.25a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m-3 3a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m.75-5.25a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m-3 3a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m10.5 7.5a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0m-9 0a.38.38 0 1 0 .53 0 .37.37 0 0 0-.53 0"],
+}
+export default ArrowDotCornerDownRight

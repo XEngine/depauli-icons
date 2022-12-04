@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HistoryGeisha1 : IconType = {
+    name: 'history-geisha-1',
+    key: 'HistoryGeisha1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.63 15.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-5.25-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.39-.37m.75 0a.38.38 0 0 1-.38.38m6.34-5.61a.75.75 0 0 0-1.08.27 2.99 2.99 0 0 1-5.28 0 .75.75 0 0 0-1.08-.27 6.75 6.75 0 1 0 7.43 0zm-.06-6.49a9.04 9.04 0 0 1 6.09 8.35 8.79 8.79 0 0 1-3.98 7.26M15.75 3.75A2.25 2.25 0 0 1 13.5 6h-3a2.25 2.25 0 0 1 0-4.5h3a2.25 2.25 0 0 1 2.25 2.25zM6.23 20.01a8.79 8.79 0 0 1-3.98-7.26 9.04 9.04 0 0 1 6.1-8.35M18.75.75l-3 3h3.75M5.25.75l3 3H4.5"],
+}
+export default HistoryGeisha1

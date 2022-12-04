@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmartWatchSquareSettings : IconType = {
+    name: 'smart-watch-square-settings',
+    key: 'SmartWatchSquareSettings',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 3.75h10.5a3 3 0 0 1 3 3v10.5a3 3 0 0 1-3 3H6.75a3 3 0 0 1-3-3V6.75a3 3 0 0 1 3-3zm10.5 0H6.75v-1.5a1.5 1.5 0 0 1 1.5-1.5h7.5a1.5 1.5 0 0 1 1.5 1.5zm-1.5 19.5h-7.5a1.5 1.5 0 0 1-1.5-1.5v-1.5h10.5v1.5a1.5 1.5 0 0 1-1.5 1.5z","M12 9.3a2.7 2.7 0 1 0 0 5.4 2.7 2.7 0 1 0 0-5.4zm0 0V7.5m0 9v-1.8m2.7-2.7h1.8m-9 0h1.8m-.06 3.18 1.08-1.08M9.24 8.82l1.08 1.08m4.45 5.29-1.08-1.08m1.08-5.29L13.69 9.9"],
+}
+export default SmartWatchSquareSettings

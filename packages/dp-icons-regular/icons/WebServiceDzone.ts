@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WebServiceDzone : IconType = {
+    name: 'web-service-dzone',
+    key: 'WebServiceDzone',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.78 6.13a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zM11.02 3.68a.98.98 0 1 0 0 1.96.98.98 0 1 0 0-1.96zm8.81 10.27a.98.98 0 1 0 0 1.96.98.98 0 1 0 0-1.96zm-18.1.98a.98.98 0 1 0 0 1.96.98.98 0 1 0 0-1.96zm6.04-3.14a.98.98 0 1 0 0 1.96.98.98 0 1 0 0-1.96zm3.74 5.59a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 1 0 0-2.94zm-.49-11.74.5 9.55m-2.79-2.45 9.48-3.86M2.52 15.34l4.53-1.91M12 4.66l6.33 2.08m2.71 4.48-.64 2.93M10.18 5.29l-8.2 9.63m.61 1.45 5.32 1.36m7.22-.39 3.95-1.78M11.81 5.24l7.27 9.07M10.6 5.56 8.2 11.9m.01 1.74 1.46 2.06m4.48.21 5.2-5.7"],
+}
+export default WebServiceDzone

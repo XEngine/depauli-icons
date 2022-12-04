@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HeavyEquipmentLift : IconType = {
+    name: 'heavy-equipment-lift',
+    key: 'HeavyEquipmentLift',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.25 17.25h11a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2z","M12 19.88a.38.38 0 0 1 .38.38","M11.63 20.25a.38.38 0 0 1 .38-.38m-.01.76a.38.38 0 0 1-.38-.38m.76 0a.38.38 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38m-.75-.01a.38.38 0 0 1 .38-.38m-.01.76a.38.38 0 0 1-.38-.38","M16.13 20.25a.38.38 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38","M19.13 20.25a.38.38 0 0 1 .38-.38m-.01.76a.38.38 0 0 1-.38-.38m.76 0a.38.38 0 0 1-.38.38m2.25-3.32v-4.56a1.5 1.5 0 0 0-1.5-1.5h-1.5a1.5 1.5 0 0 1-1.5-1.5v-1.5a1.5 1.5 0 0 0-1.5-1.5h-4.5a1.5 1.5 0 0 0-1.5 1.5V17m-6-11.01v5.26m0 0a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M7.3 9.35 1.27 3.64A1.68 1.68 0 0 1 3.28.99l9.69 5.76m4.41 3.62-1.94 1.94a1.5 1.5 0 0 1-1.06.44H9.75"],
+}
+export default HeavyEquipmentLift

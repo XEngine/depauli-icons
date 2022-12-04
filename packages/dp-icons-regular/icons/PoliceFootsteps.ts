@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PoliceFootsteps : IconType = {
+    name: 'police-footsteps',
+    key: 'PoliceFootsteps',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.18 17.43a3.76 3.76 0 1 1-7.43 1.17l-.12-.74a1.5 1.5 0 0 1 1.25-1.72l4.46-.7a1.5 1.5 0 0 1 1.72 1.25zM4.3.85A4.69 4.69 0 0 0 .81 6.22l.89 5.69a1.51 1.51 0 0 0 1.72 1.25l4.46-.7a1.5 1.5 0 0 0 1.25-1.72l-.02-.14a4.49 4.49 0 0 1 .36-2.57 4.48 4.48 0 0 0 .36-2.57l-.14-.89A4.51 4.51 0 0 0 4.3.85zm9.24 17.97a3.76 3.76 0 0 0 7.4 1.34l.13-.74a1.51 1.51 0 0 0-1.21-1.75l-4.44-.8a1.5 1.5 0 0 0-1.75 1.21zm6.27-16.44a4.69 4.69 0 0 1 3.36 5.45l-1.02 5.67a1.5 1.5 0 0 1-1.75 1.21l-4.44-.8a1.5 1.5 0 0 1-1.21-1.75l.03-.15a4.48 4.48 0 0 0-.3-2.58 4.48 4.48 0 0 1-.3-2.58l.16-.89a4.51 4.51 0 0 1 5.48-3.59z"],
+}
+export default PoliceFootsteps

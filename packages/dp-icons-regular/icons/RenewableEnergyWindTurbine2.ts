@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RenewableEnergyWindTurbine2 : IconType = {
+    name: 'renewable-energy-wind-turbine-2',
+    key: 'RenewableEnergyWindTurbine2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.13 7.97a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M13.13 12.47v10.78m-5.96 0h11.92M10.6 6.11a4.69 4.69 0 0 1 6.8-4.75l-3.48 6.75m3.95 1.18a4.69 4.69 0 0 1 .64 8.05l-3.84-5.48m-4.24 2.71a4.69 4.69 0 0 1-6.64-3.65l7.1-.91"],
+}
+export default RenewableEnergyWindTurbine2

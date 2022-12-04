@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ModernWeaponCannon1 : IconType = {
+    name: 'modern-weapon-cannon-1',
+    key: 'ModernWeaponCannon1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m15.42 13.35 7.83-4.18-3.01-6.92-16.6 5.84a4.79 4.79 0 0 0-2.5 6.3 5.36 5.36 0 0 0 3.26 2.89h.83","M10.79 10.89a5.59 5.59 0 1 0 0 11.18 5.59 5.59 0 1 0 0-11.18zm-5.13 7.8-4.45 1.78","M10.79 14.08a2.4 2.4 0 1 0 0 4.8 2.4 2.4 0 1 0 0-4.8z"],
+}
+export default ModernWeaponCannon1

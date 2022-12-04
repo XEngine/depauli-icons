@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OutdoorsBird : IconType = {
+    name: 'outdoors-bird',
+    key: 'OutdoorsBird',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.98 7.45a2.55 2.55 0 0 0-2.7-.52 2.39 2.39 0 0 0-1.53 2.2v2.59a4.87 4.87 0 0 0 4.95 4.78h6.43a.59.59 0 0 0 .44-1.02zM4.5 9.75h2.25","M9.38 9.75a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.37","M9.75 10.13a.38.38 0 0 1-.38.38","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5zm.75 15.75v2.25"],
+}
+export default OutdoorsBird

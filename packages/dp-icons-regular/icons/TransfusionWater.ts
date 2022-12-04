@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TransfusionWater : IconType = {
+    name: 'transfusion-water',
+    key: 'TransfusionWater',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.75 8.25h3a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3h-3a3 3 0 0 1-3-3v-6a3 3 0 0 1 3-3z","M2.75 12.75h9m-6-9a1.5 1.5 0 0 0 3 0v-1.5a1.5 1.5 0 0 1 1.5-1.5h7.5a3 3 0 0 1 3 3v19.5m-13.5-18v3m1.5 7.5h3m-4.5 4.5v3"],
+}
+export default TransfusionWater

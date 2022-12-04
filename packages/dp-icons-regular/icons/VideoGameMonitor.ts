@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameMonitor : IconType = {
+    name: 'video-game-monitor',
+    key: 'VideoGameMonitor',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.13 9.75a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38","M16.13 10.5a.38.38 0 0 1-.38-.38m.75.01a.38.38 0 0 1-.38.38m3.76-.76a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38","M19.88 10.5a.38.38 0 0 1-.38-.38m.75.01a.38.38 0 0 1-.38.38M15 23.25H9l.75-4.5h4.5l.75 4.5zm-8.25 0h10.5","M3.75.75h16.5a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3v-12a3 3 0 0 1 3-3z","M13.5 13.22a5.25 5.25 0 1 1 0-6.94L8.91 9.75z"],
+}
+export default VideoGameMonitor

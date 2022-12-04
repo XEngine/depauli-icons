@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignSlippery : IconType = {
+    name: 'road-sign-slippery',
+    key: 'RoadSignSlippery',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m12.707 1.464 9.836 9.836a1 1 0 0 1 0 1.414l-9.836 9.836a1 1 0 0 1-1.414 0l-9.836-9.836a1 1 0 0 1 0-1.414l9.836-9.836a1 1 0 0 1 1.414 0z","M9.75 9v1.5m4.5-1.5v1.5M12.75 6h-1.5l-1.5 1.5V9h4.5V7.5L12.75 6zm-3.04 7.38a1.21 1.21 0 0 0 .31 1.56 1.21 1.21 0 0 1 .31 1.56m3.88-3.12a1.21 1.21 0 0 0 .31 1.56 1.21 1.21 0 0 1 .31 1.56"],
+}
+export default RoadSignSlippery

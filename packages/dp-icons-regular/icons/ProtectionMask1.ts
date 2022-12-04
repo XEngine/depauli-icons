@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProtectionMask1 : IconType = {
+    name: 'protection-mask-1',
+    key: 'ProtectionMask1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7.09 19.86c-2.73-2.24-5.59-5.37-5.59-8.61C1.5 5.04 5.31.75 12 .75s10.5 4.29 10.5 10.5c0 3.24-2.86 6.37-5.59 8.61","M12 12.75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z","M12.27 15.08a.38.38 0 0 1 0 .53m-.53-.53a.38.38 0 0 1 .53 0m-.53.53a.38.38 0 0 1 0-.53m.53.53a.38.38 0 0 1-.53 0m3.18 2.12a.38.38 0 0 1 0 .53m-.53-.53a.38.38 0 0 1 .53 0m-.53.53a.38.38 0 0 1 0-.53m.53.53a.38.38 0 0 1-.53 0m-4.77-.53a.38.38 0 0 1 0 .53m-.54-.52a.38.38 0 0 1 .53 0m-.53.53a.38.38 0 0 1 0-.53m.53.53a.38.38 0 0 1-.53 0m3.18 2.12a.38.38 0 0 1 0 .53m-.53-.53a.38.38 0 0 1 .53 0m-.53.53a.38.38 0 0 1 0-.53m.53.53a.38.38 0 0 1-.53 0m4.4-15.67a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm-8.25 0a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26z"],
+}
+export default ProtectionMask1

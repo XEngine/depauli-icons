@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AppWindowMinimize : IconType = {
+    name: 'app-window-minimize',
+    key: 'AppWindowMinimize',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.26 12.75V2.25a1.5 1.5 0 0 0-1.5-1.5H2.26a1.5 1.5 0 0 0-1.5 1.5v10.5a1.5 1.5 0 0 0 1.5 1.5h4.5m-6-9h16.5m-2.25 15h7.5a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75h-7.5a.75.75 0 0 1-.75-.75V21a.75.75 0 0 1 .75-.75z","m7.14 10.13 7.13 7.13m0-4.5v4.5h-4.5"],
+}
+export default AppWindowMinimize

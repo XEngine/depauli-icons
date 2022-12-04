@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ViewSquare : IconType = {
+    name: 'view-square',
+    key: 'ViewSquare',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","M4.27 10.72a1.83 1.83 0 0 0 0 2.54c1.55 1.56 4.32 3.99 7.73 3.99s6.18-2.43 7.74-3.98a1.83 1.83 0 0 0 0-2.54C18.18 9.17 15.41 6.74 12 6.74s-6.18 2.43-7.73 3.98z","M12 9.74a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default ViewSquare

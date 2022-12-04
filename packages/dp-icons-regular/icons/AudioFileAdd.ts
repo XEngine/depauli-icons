@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AudioFileAdd : IconType = {
+    name: 'audio-file-add',
+    key: 'AudioFileAdd',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 11.24a6 6 0 1 0 0 12 6 6 0 1 0 0-12zm0 3v6m-3-3h6","M8.25 20.26h-6a1.5 1.5 0 0 1-1.5-1.5V2.26a1.5 1.5 0 0 1 1.5-1.5h10.63a1.5 1.5 0 0 1 1.06.44l2.87 2.87a1.5 1.5 0 0 1 .44 1.06v3.13","M6 11.26a2.25 1.5 0 1 0 0 3 2.25 1.5 0 1 0 0-3z","m8.25 12.76-.29-5.93 1.06-.11A2.68 2.68 0 0 1 11.6 8"],
+}
+export default AudioFileAdd

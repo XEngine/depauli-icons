@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TransfusionBag1 : IconType = {
+    name: 'transfusion-bag-1',
+    key: 'TransfusionBag1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7.65 20.96a10.26 10.26 0 0 1-1.27-.72m-2.12-1.98a9.35 9.35 0 0 1-.82-1.2m-1.06-2.7a9.46 9.46 0 0 1-.21-1.44m5.48-9.51A10.39 10.39 0 0 1 9 2.87m2.88-.43a11.01 11.01 0 0 1 1.45.12m2.77.85a10.35 10.35 0 0 1 1.27.72m2.13 1.98a9.64 9.64 0 0 1 .82 1.21M6.75 6.94a3 3 0 0 1-6 0c0-1.66 3-6 3-6s3 4.34 3 6zm9.077 4.211 6.711 1.99a1 1 0 0 1 .675 1.244l-2.417 8.15a1 1 0 0 1-1.243.674l-6.711-1.99a1 1 0 0 1-.675-1.244l2.417-8.15a1 1 0 0 1 1.243-.674zm3.353.999.64-2.16M22.06 13l.64-2.16m-6.39.45.64-2.16m-.48 6.9 2.88.85m-3.73 2.02 2.88.85"],
+}
+export default TransfusionBag1

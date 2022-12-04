@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FitnessBicycle : IconType = {
+    name: 'fitness-bicycle',
+    key: 'FitnessBicycle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 18.99a3.76 3.76 0 0 1-3.76 3.76H6.06a5.31 5.31 0 1 1 1.21-10.48l13.08 3.05a3.76 3.76 0 0 1 2.91 3.67zM7.5 17.5l9.06 1.21a1.5 1.5 0 0 0 1.65-1.85L14.25 1m-1.37 12.58 7.37-11.83m-13.5 18a2.25 2.25 0 0 1 0-4.5"],
+}
+export default FitnessBicycle

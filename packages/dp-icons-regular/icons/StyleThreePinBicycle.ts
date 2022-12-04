@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const StyleThreePinBicycle : IconType = {
+    name: 'style-three-pin-bicycle',
+    key: 'StyleThreePinBicycle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .8a9 9 0 0 1 9 9c0 7.9-6.93 12.33-8.63 13.3a.75.75 0 0 1-.74 0C9.93 22.13 3 17.7 3 9.8a9 9 0 0 1 9-9z","M8.25 8.2a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.5 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","m15.75 10.45-1.5-6m.56 2.25H10.5l-2.25 3.75"],
+}
+export default StyleThreePinBicycle

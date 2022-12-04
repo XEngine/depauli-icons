@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BeaconRemoteVehicle : IconType = {
+    name: 'beacon-remote-vehicle',
+    key: 'BeaconRemoteVehicle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.12 20.25h1.63a1.5 1.5 0 0 0 1.5-1.5v-7.5a3 3 0 0 0-3-3m-12.13 12h7.76m-12.13-12a3 3 0 0 0-3 3v7.5a1.5 1.5 0 0 0 1.5 1.5h1.63","M6 18.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm12 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm5.25-4.5H.75M12 7.46a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38","M8.25.75h7.5a1.5 1.5 0 0 1 1.5 1.5v7.5a1.5 1.5 0 0 1-1.5 1.5h-7.5a1.5 1.5 0 0 1-1.5-1.5v-7.5a1.5 1.5 0 0 1 1.5-1.5z","M9.75 5.4a3.18 3.18 0 0 1 4.5 0"],
+}
+export default BeaconRemoteVehicle

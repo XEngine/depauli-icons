@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MeetingTeamLaptopWoman : IconType = {
+    name: 'meeting-team-laptop-woman',
+    key: 'MeetingTeamLaptopWoman',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.17 20.57a7.18 7.18 0 0 0 4.96-1.32c-.75-.75-1.27-1.22-1.46-4.13-.29-4.34-3.22-5.86-5.73-5.86s-5.44 1.53-5.73 5.86c-.19 2.91-.71 3.38-1.46 4.13a7.21 7.21 0 0 0 4.99 1.32m7.75 2.67c-.84-.33-1.77-.66-2.77-1.03a.88.88 0 0 1-.58-.83v-1.61a.88.88 0 0 1 .29-.65 3.17 3.17 0 0 0 1.04-2.37v-2.2a5.72 5.72 0 0 1-3.53-2 5.72 5.72 0 0 1-3.53 1.99v2.2a3.18 3.18 0 0 0 1.04 2.37.88.88 0 0 1 .29.65v1.61a.88.88 0 0 1-.58.83c-1.02.38-1.97.72-2.82 1.05m19.41-10.49V1.83a1.04 1.04 0 0 0-1-1.07h-13a1.04 1.04 0 0 0-1 1.07v4.93m9.75 6h6.75a3.45 3.45 0 0 1-3 3H16.5m-2.25-6H15a.75.75 0 0 0 .75-.75v-.75l3 .75v-4.5l-3 .75v-.75a.75.75 0 0 0-.75-.75h-4.5a.75.75 0 0 0-.75.75v2.25"],
+}
+export default MeetingTeamLaptopWoman

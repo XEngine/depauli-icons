@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ExoticFoodRolls : IconType = {
+    name: 'exotic-food-rolls',
+    key: 'ExoticFoodRolls',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 17.08c0 2.49-5.04 4.5-11.25 4.5S.75 19.57.75 17.08","M13.81 11.1a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M14.67 11.22 4.61 8.21a3 3 0 0 0-1.72 5.75l10.06 3.02","M10.36 9.93c-1.44-.43-5.17 1.58-6.03 4.46m11.49-8.95a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M16.68 5.56 6.62 2.55A3 3 0 1 0 4.9 8.29l10.06 3.02m-2.59-7.04c-1.43-.43-5.17 1.58-6.03 4.45M19.71 10a3 3 0 1 0 0 6 3 3 0 1 0 0-6z"],
+}
+export default ExoticFoodRolls

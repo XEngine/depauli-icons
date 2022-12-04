@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LaptopAnnouncement : IconType = {
+    name: 'laptop-announcement',
+    key: 'LaptopAnnouncement',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.79 11.25H6.21a.94.94 0 0 0-.96.92v6.42a.94.94 0 0 0 .96.92h11.57a.94.94 0 0 0 .96-.92v-6.42a.94.94 0 0 0-.96-.92z","m5.25 19.5-1.87 1.62a1.21 1.21 0 0 0 0 1.77 1.34 1.34 0 0 0 .92.37h15.4a1.34 1.34 0 0 0 .92-.37 1.21 1.21 0 0 0 0-1.77l-1.87-1.62zM1.75.75h7a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1z","m.75 2.25 4.5 2.25 4.5-2.25m5.5-1.5h7a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1z","m14.25 2.25 4.5 2.25 4.5-2.25"],
+}
+export default LaptopAnnouncement

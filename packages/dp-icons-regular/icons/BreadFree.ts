@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BreadFree : IconType = {
+    name: 'bread-free',
+    key: 'BreadFree',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .74a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M19.96 4.03 4.05 19.94m8.7-13.2H7.5a2.25 2.25 0 0 0 0 4.5v1.5m11.25-3.75a2.25 2.25 0 0 1-2.25 2.25v6h-5.25"],
+}
+export default BreadFree

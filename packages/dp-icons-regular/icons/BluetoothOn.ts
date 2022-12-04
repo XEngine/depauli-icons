@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BluetoothOn : IconType = {
+    name: 'bluetooth-on',
+    key: 'BluetoothOn',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.49 9.36a5.26 5.26 0 0 1 .03 5.39m3.12-8.73A9.75 9.75 0 0 1 16.75 18m3.37-14.84A14.25 14.25 0 0 1 20.11 21M.75 6 12 17.25 6.75 22.5v-21L12 6.75.75 18"],
+}
+export default BluetoothOn

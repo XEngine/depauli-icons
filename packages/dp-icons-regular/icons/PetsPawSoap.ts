@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PetsPawSoap : IconType = {
+    name: 'pets-paw-soap',
+    key: 'PetsPawSoap',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 12.34a.38.38 0 0 1 .38.38","M11.63 12.72a.38.38 0 0 1 .38-.38","M12 13.09a.38.38 0 0 1-.38-.38m.76.01a.38.38 0 0 1-.38.38m-3 .74a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38","M9 14.59a.38.38 0 0 1-.38-.38m.76.01a.38.38 0 0 1-.38.38m6-.76a.38.38 0 0 1 .38.38","M14.63 14.22a.38.38 0 0 1 .38-.38","M15 14.59a.38.38 0 0 1-.38-.38m.76.01a.38.38 0 0 1-.38.38m-2.47 1.68a.75.75 0 0 0-1.06 0l-1.5 1.19a.75.75 0 0 0 .53 1.28h3a.75.75 0 0 0 .53-1.28z","M7 8.25h10a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1v-13a1 1 0 0 1 1-1zm5-7.5v4.5m-3.75 3 1.09-2.17a1.5 1.5 0 0 1 1.34-.83h2.65a1.5 1.5 0 0 1 1.34.83l1.08 2.17m-8.25-6 .75-1.5H15"],
+}
+export default PetsPawSoap

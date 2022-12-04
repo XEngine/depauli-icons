@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TransportationTicketBus : IconType = {
+    name: 'transportation-ticket-bus',
+    key: 'TransportationTicketBus',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 11.76a3 3 0 0 1 3-3V5.01a1.5 1.5 0 0 0-1.5-1.5H2.25a1.5 1.5 0 0 0-1.5 1.5v3.75a3 3 0 0 1 0 6v3.75a1.5 1.5 0 0 0 1.5 1.5h19.5a1.5 1.5 0 0 0 1.5-1.5v-3.75a3 3 0 0 1-3-3z","M8.5 6.51h7.75a1 1 0 0 1 1 1v7.75a1 1 0 0 1-1 1H8.5a1 1 0 0 1-1-1V7.51a1 1 0 0 1 1-1z","M9 16.26v1.5m6.75-1.5v1.5M7.5 11.01h9.75m-7.12 2.25a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m4.5-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default TransportationTicketBus

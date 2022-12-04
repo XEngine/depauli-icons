@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamousCharacterLorax : IconType = {
+    name: 'famous-character-lorax',
+    key: 'FamousCharacterLorax',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.09 18.69c.09 2.53-2.96 4.6-6.73 4.6-3.81 0-6.88-2.11-6.73-4.68M17.82 4.18a6.2 6.2 0 0 1 1.02 3.39M9.31 1.1a8.36 8.36 0 0 1 4.11 0M3.88 7.57A6.2 6.2 0 0 1 4.9 4.18m10.95 13.87 3.99 1.14a.75.75 0 0 0 .93-.9l-.43-1.74 1.39-1.39a.75.75 0 0 0-.29-1.24l-1.1-.37v-.97a.75.75 0 0 0-1.11-.65l-5.62 3.12c0 2.24-.75 3.74-2.24 3.74s-2.24-1.5-2.24-3.74L3.5 11.93a.75.75 0 0 0-1.11.65v.97l-1.1.37A.75.75 0 0 0 1 15.16l1.39 1.39-.77 1.54a.75.75 0 0 0 .85 1.06l4.4-1.1","M7.62 9.07a2.24 2.24 0 1 0 0 4.48 2.24 2.24 0 1 0 0-4.48zm7.48 0a2.24 2.24 0 1 0 0 4.48 2.24 2.24 0 1 0 0-4.48zM13.106 1.5a2.99 1.5 19.8 1 0 5.627 2.026 2.99 1.5 19.8 1 0-5.627-2.025zm-6.801-.392a2.99 1.5-19.8 1 0 1.016 2.823 2.99 1.5-19.8 1 0-1.016-2.823z"],
+}
+export default FamousCharacterLorax

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WarehouseDelivery : IconType = {
+    name: 'warehouse-delivery',
+    key: 'WarehouseDelivery',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.96 21h-3.4m-2.6 0h-1.7v-6.75h9v6m0 0v-4.29l1.62.5a1.88 1.88 0 0 1 1.38 1.77v2.31a.48.48 0 0 1-.5.46h-1.2M9.76 10.53V6.49A.49.49 0 0 0 9.27 6H5.75a.49.49 0 0 0-.49.49v4.04M.76 5.25 7.51.75l6.75 4.5m-1.5 5.28V4.25m-10.5 0v6.28","M14.26 20.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-13.5-7.5v.75m0 3v.75m0 3a1.5 1.5 0 0 0 1.5 1.5"],
+}
+export default WarehouseDelivery

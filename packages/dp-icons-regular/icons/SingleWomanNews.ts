@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleWomanNews : IconType = {
+    name: 'single-woman-news',
+    key: 'SingleWomanNews',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 2.25h18a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5V3.75A1.5 1.5 0 0 1 3 2.25zm9 16.5v3m-7.5 0h15","M4.5 5.25H9v4.5H4.5zm14.72 10.5a4.51 4.51 0 0 0-2.38-2.59L15 15.75l-1.84-2.59a4.52 4.52 0 0 0-2.38 2.59M15 5.25a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M12 8.25S12 12 9.75 12M18 8.25S18 12 20.25 12"],
+}
+export default SingleWomanNews

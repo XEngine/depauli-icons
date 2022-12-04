@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShopSignBag : IconType = {
+    name: 'shop-sign-bag',
+    key: 'ShopSignBag',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.03 8.94H7.97a.86.86 0 0 0-.82.81L5.93 18.5a.88.88 0 0 0 .82 1h10.5a.88.88 0 0 0 .82-1l-1.22-8.75a.86.86 0 0 0-.82-.81z","M2.75.75h18.5a2 2 0 0 1 2 2v18.5a2 2 0 0 1-2 2H2.75a2 2 0 0 1-2-2V2.75a2 2 0 0 1 2-2z","M15 8.94H9v-1.5a3 3 0 0 1 6 0z"],
+}
+export default ShopSignBag

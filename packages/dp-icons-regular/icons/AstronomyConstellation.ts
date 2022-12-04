@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AstronomyConstellation : IconType = {
+    name: 'astronomy-constellation',
+    key: 'AstronomyConstellation',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9 3.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-4.5 13.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm13.5 1.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM19.5 7.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","m5.21 17.37 3.08-9.23m2.88-2.73 6.08-1.66 1.46 3.89M6.74 19.75l9.03 1m2.53-1.98.91-6.79m-1.96-8.23 1.5-3"],
+}
+export default AstronomyConstellation

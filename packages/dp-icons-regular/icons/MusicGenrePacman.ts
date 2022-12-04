@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MusicGenrePacman : IconType = {
+    name: 'music-genre-pacman',
+    key: 'MusicGenrePacman',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.51 10.24a.98.98 0 0 0-.6-1.36 7.34 7.34 0 1 0 3.95 11.17.98.98 0 0 0-.39-1.44L8.8 15.9z","M5.87 12.6a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M21.03 15a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm1.5 1.5V12m-4.87-5.95a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z","M19.53 7.93V1.5a.75.75 0 0 1 1.2-.6l1.8 1.35"],
+}
+export default MusicGenrePacman

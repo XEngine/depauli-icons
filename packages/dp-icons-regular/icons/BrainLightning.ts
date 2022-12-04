@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BrainLightning : IconType = {
+    name: 'brain-lightning',
+    key: 'BrainLightning',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 12a3 3 0 0 0-2.18-2.89 2.25 2.25 0 0 0-1.38-3.86 2.26 2.26 0 0 0-.41-.36 3 3 0 0 0-5.46-2.48 2.25 2.25 0 0 0-3.63 0 3 3 0 0 0-5.46 2.48 2.22 2.22 0 0 0-.41.36 2.25 2.25 0 0 0-1.38 3.86 3 3 0 0 0 0 5.77 2.25 2.25 0 0 0 1.38 3.86 2.29 2.29 0 0 0 .41.36 3 3 0 0 0 5.46 2.48 2.25 2.25 0 0 0 3.63 0 3 3 0 0 0 5.46-2.48 2.22 2.22 0 0 0 .41-.36 2.25 2.25 0 0 0 1.38-3.86A3 3 0 0 0 23.25 12zM13.5 5.25l-5.91 6.88a.38.38 0 0 0 .29.62h2.62v6l5.91-6.88a.38.38 0 0 0-.29-.62H13.5z"],
+}
+export default BrainLightning

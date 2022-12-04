@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ChickenMother : IconType = {
+    name: 'chicken-mother',
+    key: 'ChickenMother',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7.91 8.02a38.26 38.26 0 0 0 .27-4.26 3 3 0 1 0-3.6 2.94 13.85 13.85 0 0 0-.91 4.56c0 3 2.25 4.5 6 4.5s6.75-2.25 6.75-6A12.4 12.4 0 0 0 7.9 8.02z","m2.26 4.47-1.58.79M4.8 3.01a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.37.37 0 0 1-.38-.38m.75 0a.37.37 0 0 1-.38.38","M7.42 11.26s2.25 2.25 4.5.75a3.23 3.23 0 0 0 1.5-3l-.1-.66","m6.13 15.13-.96 2.88m5.96-2.37.79 2.37m7.18-.06 4.07.81a2.15 2.15 0 0 1-.75 2.25c-1.5 1.5-3.75 1.5-4.5 0s.75-3 .75-3a1.5 1.5 0 1 0-1.5-1.5h-.75m3 5.59v1.17m2.25-1.66v1.66"],
+}
+export default ChickenMother

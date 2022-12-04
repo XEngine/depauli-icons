@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MeetingCamera : IconType = {
+    name: 'meeting-camera',
+    key: 'MeetingCamera',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 5.26h9a3 3 0 0 1 3 3v7.5a3 3 0 0 1-3 3h-9a3 3 0 0 1-3-3v-7.5a3 3 0 0 1 3-3zm15 9.75 3.42 1.71a.75.75 0 0 0 1.09-.67V7.97a.75.75 0 0 0-1.09-.67l-3.42 1.71"],
+}
+export default MeetingCamera

@@ -1,12 +1,12 @@
-const t = {
+const a = {
   name: "single-woman-actions-credit-card",
   key: "SingleWomanActionsCreditCard",
   type: "regular",
   width: 24,
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
-  svgPathData: ["M12.75 14.25H21.75A1.5 1.5 0 0 1 23.25 15.75V21.75A1.5 1.5 0 0 1 21.75 23.25H12.75A1.5 1.5 0 0 1 11.25 21.75V15.75A1.5 1.5 0 0 1 12.75 14.25zM11.25 17.25h12m-6 3h3m-19.5-3a6.75 6.75 0 0 1 9.75-6.05M3.38 4.99v1a5.91 5.91 0 0 1-.86 3.27m9.11-4.27v1a5.9 5.9 0 0 0 .86 3.27M3.39 5.2A5.49 5.49 0 0 0 7.5 3.31a5.48 5.48 0 0 0 4.11 1.9", "M7.5.75A4.13 4.13 0 1 0 7.5 9.01 4.13 4.13 0 1 0 7.5.75z"]
+  svgPathData: ["M12.75 14.25h9a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm-1.5 3h12m-6 3h3m-19.5-3a6.75 6.75 0 0 1 9.75-6.05M3.38 4.99v1a5.91 5.91 0 0 1-.86 3.27m9.11-4.27v1a5.9 5.9 0 0 0 .86 3.27M3.39 5.2A5.49 5.49 0 0 0 7.5 3.31a5.48 5.48 0 0 0 4.11 1.9", "M7.5.75a4.13 4.13 0 1 0 0 8.26 4.13 4.13 0 1 0 0-8.26z"]
 };
 export {
-  t as default
+  a as default
 };

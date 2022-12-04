@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RadioAntenna1 : IconType = {
+    name: 'radio-antenna-1',
+    key: 'RadioAntenna1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.27 6.74 3 .75m-1.25 6h20.5a1 1 0 0 1 1 1v14.51a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V7.75a1 1 0 0 1 1-1z","M11.89 17.63a4.47 4.47 0 0 1-1.6 1.37m-3.43.27a4.66 4.66 0 0 1-1.79-1.1m-1.32-3.18a4.59 4.59 0 0 1 .49-2.04m2.62-2.24a4.53 4.53 0 0 1 2.09-.16m2.94 1.8a4.36 4.36 0 0 1 .8 1.94M18 9.74a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-1.5 7.5h3m-3 3h3"],
+}
+export default RadioAntenna1

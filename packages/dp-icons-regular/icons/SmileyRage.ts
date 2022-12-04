@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyRage : IconType = {
+    name: 'smiley-rage',
+    key: 'SmileyRage',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.69 17.89a1.4 1.4 0 1 0-1.26 2.47 1.39 1.39 0 1 0 1.96 1.96 1.4 1.4 0 1 0 2.47-1.26s1.88-3.22 3.19-5.48a.65.65 0 0 0-.89-.89zm-2.51-2.81a11.25 11.25 0 1 1 21.69-.15M14.37 23a11.37 11.37 0 0 1-4.76 0M6 11.2a1.8 1.8 0 0 0 3 0m6 0a1.8 1.8 0 0 0 3 0M9 8.25l-3.75-1.5M15 8.25l3.75-1.5m1.57 11.14a1.39 1.39 0 0 1 .79-.24 1.4 1.4 0 0 1 .48 2.71 1.39 1.39 0 1 1-1.96 1.96 1.4 1.4 0 1 1-2.47-1.26l-3.21-5.47a.65.65 0 0 1 .89-.89z"],
+}
+export default SmileyRage

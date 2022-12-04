@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Gorilla2 : IconType = {
+    name: 'gorilla-2',
+    key: 'Gorilla2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.23 10.75c2.37 3.28 4.28 8.26 4.28 9.72 0 2.25-2.25 2.25-3 2.25h-1.5m-9 0h-4.5c-2.28 0-3.75-1.5-3.75-4.5 0-3.75 2.97-6.75 5.25-6.75h3.75s.75-3.75 4.5-3.75m-9 9s3.75.75 2.25 6m5.25-8.25s1.5 5.25 5.25 5.25c2.11 0 2.24 2.65 2.25 2.97M7.8 19.61l.46.12a7.66 7.66 0 0 0 6.35-1.77m-1.1-10.18v-.8c0-2.25 0-5.1 3-5.85a2.16 2.16 0 0 1 3 2.1s2.25.15 2.25 1.65v1.5a3.25 3.25 0 0 1 1.5 3 3.41 3.41 0 0 1-3.63 3.6m3.59-3.01h-2.21"],
+}
+export default Gorilla2

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HumidityHigh : IconType = {
+    name: 'humidity-high',
+    key: 'HumidityHigh',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.42 19.34a3.91 3.91 0 0 0 7.83 0c0-2.94-1.96-6.85-3.91-8.8a13.4 13.4 0 0 0-3.91 8.8zM9.75 8.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","m10.86 8.74 3.39-4.24m-2.38 14a9 9 0 1 1 6.49-11.36M13.21 5.8a5.25 5.25 0 0 0-7.76 6.95m8.6 0a5.22 5.22 0 0 0 .95-3"],
+}
+export default HumidityHigh

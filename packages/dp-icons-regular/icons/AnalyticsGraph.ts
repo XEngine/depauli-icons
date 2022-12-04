@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AnalyticsGraph : IconType = {
+    name: 'analytics-graph',
+    key: 'AnalyticsGraph',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75.75v22.5h22.5M15.94 8.58l4.49-5.62M9.62 7.36l4.01 1.78M.75 11.25l6.21-3.73m8.6 9 4.74-2.63M8.25 17.25h4.5m-12 3 4.66-2.33","M8.25 5.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6.75 3a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6.75-7.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm0 11.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-7.5 3.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-7.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z"],
+}
+export default AnalyticsGraph

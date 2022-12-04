@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LinkBroken2 : IconType = {
+    name: 'link-broken-2',
+    key: 'LinkBroken2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 12.37h-3m3 3-1.5 1.5m1.5-7.5-1.5-1.5m15 4.5h3m-3 3 1.5 1.5m-1.5-7.5 1.5-1.5m-12 1.5v-4.5A3.76 3.76 0 0 1 12 1.12a3.76 3.76 0 0 1 3.75 3.75v5.25a3.76 3.76 0 0 1-2.25 3.44 3.71 3.71 0 0 1-1.5.32m3.75.75v4.5A3.76 3.76 0 0 1 12 22.88a3.76 3.76 0 0 1-3.75-3.75v-4.5A3.76 3.76 0 0 1 12 10.88"],
+}
+export default LinkBroken2

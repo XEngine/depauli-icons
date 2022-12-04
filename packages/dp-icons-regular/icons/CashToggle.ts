@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CashToggle : IconType = {
+    name: 'cash-toggle',
+    key: 'CashToggle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.55 2.44a1.96 1.96 0 0 0 2.91 0l.94-1.04a1.96 1.96 0 0 1 3.41 1.41l-.07 1.4a1.96 1.96 0 0 0 2.06 2.06l1.4-.07a1.96 1.96 0 0 1 1.41 3.41l-1.04.94a1.96 1.96 0 0 0 0 2.91l1.04.94a1.96 1.96 0 0 1-1.41 3.41l-1.4-.07a1.96 1.96 0 0 0-2.06 2.06l.07 1.4a1.96 1.96 0 0 1-3.41 1.41l-.94-1.04a1.96 1.96 0 0 0-2.91 0l-.94 1.04a1.96 1.96 0 0 1-3.41-1.42l.07-1.4a1.96 1.96 0 0 0-2.06-2.06l-1.4.07a1.96 1.96 0 0 1-1.41-3.41l1.04-.94a1.96 1.96 0 0 0 0-2.91L1.4 9.61A1.96 1.96 0 0 1 2.81 6.2l1.4.07a1.96 1.96 0 0 0 2.06-2.06l-.07-1.4A1.96 1.96 0 0 1 9.61 1.4zM13.88 9h-2.63a1.34 1.34 0 0 0-.5 2.59l2.66.83a1.34 1.34 0 0 1-.5 2.59H9.75M12 9V7.5m0 9V15"],
+}
+export default CashToggle

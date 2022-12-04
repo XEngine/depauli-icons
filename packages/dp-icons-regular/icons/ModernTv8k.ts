@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ModernTv8k : IconType = {
+    name: 'modern-tv-8k',
+    key: 'ModernTv8k',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V3a1.5 1.5 0 0 1 1.5-1.5z","M14.25 22.5h-4.5l.75-4.5h3l.75 4.5zm-7.5 0h10.5m-3-9V6m4.5 7.5-4.5-3.75L18.75 6M9 9a2.25 2.25 0 1 0 0 4.5A2.25 2.25 0 1 0 9 9zm0-3.38A1.69 1.69 0 1 0 9 9a1.69 1.69 0 1 0 0-3.38z"],
+}
+export default ModernTv8k

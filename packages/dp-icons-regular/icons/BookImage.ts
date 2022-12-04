@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BookImage : IconType = {
+    name: 'book-image',
+    key: 'BookImage',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 23.25H3A2.25 2.25 0 0 1 .75 21m18-12.75V1.5A.75.75 0 0 0 18 .75H3.75a3 3 0 0 0-3 3V21A2.25 2.25 0 0 1 3 18.75h5.25","M12.25 11.25h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1z","M15.38 14.25a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38M23.25 21l-2.39-3.59a.75.75 0 0 0-1.24-.01l-2 2.85-1.24-.99a.75.75 0 0 0-1.09.17l-2.54 3.82"],
+}
+export default BookImage

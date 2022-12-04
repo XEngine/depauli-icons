@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TukTuk1 : IconType = {
+    name: 'tuk-tuk-1',
+    key: 'TukTuk1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.5 18.76v3a1.5 1.5 0 0 0 3 0v-3m-.75-4.5a2.25 2.25 0 0 0-2.25 2.25v2.25H6v-2.25a2.25 2.25 0 0 0-2.25-2.25zm18.75 4.5v3a1.5 1.5 0 1 1-3 0v-3m.75-4.5a2.25 2.25 0 0 1 2.25 2.25v2.25H18v-2.25a2.25 2.25 0 0 1 2.25-2.25zm-9.75 6h-3a1.5 1.5 0 0 1-1.5-1.5v-7.5l2.25-7.5h7.5l2.25 7.5v7.5a1.5 1.5 0 0 1-1.5 1.5h-3m-7.5-9h12m-6 6a1.5 1.5 0 0 0-1.5 1.5v3a1.5 1.5 0 1 0 3 0v-3a1.5 1.5 0 0 0-1.5-1.5zm-3-3.37a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m6-.75a.38.38 0 0 0-.38.38m.75 0a.38.38 0 0 0-.38-.38m0 .75a.38.38 0 0 0 .38-.38m-.75 0a.38.38 0 0 0 .38.38m3-10.88H6m4.75-3h2.5a1 1 0 0 1 1 1v2h-4.5v-2a1 1 0 0 1 1-1z"],
+}
+export default TukTuk1

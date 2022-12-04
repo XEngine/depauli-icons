@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Antenna2 : IconType = {
+    name: 'antenna-2',
+    key: 'Antenna2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.5 17.8v5.45m-3 0V17.8m.75-6.55h1.5a1.5 1.5 0 0 1 1.5 1.5v3.75a1.5 1.5 0 0 1-1.5 1.5h-1.5a1.5 1.5 0 0 1-1.5-1.5v-3.75a1.5 1.5 0 0 1 1.5-1.5zm.75 0V7.5m-2.25 6.75-3.79.6M9 6.75a3 3 0 0 1 6 0M6 5.64C6 2.94 8.69.75 12 .75s6 2.19 6 4.89M5.02 18.42l.76-.14c.42-.08.73-.35.68-.62l-.94-5.3c-.05-.27-.43-.42-.85-.35l-.76.14a4.26 4.26 0 0 0 1.11 6.26zm9.23-4.17 3.79.6m.94 3.56-.76-.14c-.42-.08-.73-.35-.68-.62l.94-5.3c.05-.27.43-.42.85-.35l.76.14a4.26 4.26 0 0 1-1.11 6.26z"],
+}
+export default Antenna2

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ChristmasTreeOrnamentsGift : IconType = {
+    name: 'christmas-tree-ornaments-gift',
+    key: 'ChristmasTreeOrnamentsGift',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m14.25 16.62-2.14-3.18a.51.51 0 0 1 .43-.82h1.14a.51.51 0 0 0 .45-.8L10.5 6.75h2.25L8.7.98a.55.55 0 0 0-.89 0L3.75 6.75H6l-4.5 6h3","M4.5 12.75.86 18.68a.51.51 0 0 0 .43.82H13.5m-5.25 0v3.75M4.91 8.21l6.14-.68m-7.48 6.74 8.54-.84M6.38 10.5a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.37m.75 0a.38.38 0 0 1-.38.38m3.76-1.13a.38.38 0 0 1 .38.38m-.76-.01a.38.38 0 0 1 .38-.38m0 .76a.38.38 0 0 1-.38-.38","M10.5 10.5a.38.38 0 0 1-.38.38M6.38 16.5a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.37","M6.75 16.88a.38.38 0 0 1-.38.38m3.76-.76a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38","M10.13 17.25a.38.38 0 0 1-.38-.38","M10.5 16.88a.38.38 0 0 1-.38.38m6.88-.01h5a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-.5.5h-5a.5.5 0 0 1-.5-.5v-5a.5.5 0 0 1 .5-.5zm2.5 0v6m-3-3h6m-3-3L18 15m3 0-1.5 2.25M12 .75c3.72 1.29 8.18 1.98 11.25 1.5m-1.5.15v2.85m0 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM16.5 1.94v1.81m0 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z"],
+}
+export default ChristmasTreeOrnamentsGift

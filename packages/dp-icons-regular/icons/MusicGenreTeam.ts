@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MusicGenreTeam : IconType = {
+    name: 'music-genre-team',
+    key: 'MusicGenreTeam',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.38 2.25a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm4.13 8.73A4.5 4.5 0 0 0 .75 9.1m19.88-6.85a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm-4.14 8.73a4.5 4.5 0 0 1 6.76-1.88M12 .75a3.38 3.38 0 1 0 0 6.76 3.38 3.38 0 1 0 0-6.76z","M16.72 11.25a6.07 6.07 0 0 0-9.43 0m-.16 8.25a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm7.5-1.5a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z","M9 21.38v-5.13a1.5 1.5 0 0 1 1.03-1.42l4.5-1.25A1.5 1.5 0 0 1 16.5 15v4.88"],
+}
+export default MusicGenreTeam

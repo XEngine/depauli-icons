@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamousCharacterStar : IconType = {
+    name: 'famous-character-star',
+    key: 'FamousCharacterStar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M12 3.68a8.32 8.32 0 1 0 0 16.64 8.32 8.32 0 1 0 0-16.64z","m12.58 6.97 1.25 2.58h2.44a.6.6 0 0 1 .42 1.05l-2.12 2.21 1.17 2.7a.64.64 0 0 1-.91.8L12 14.72l-2.84 1.6a.64.64 0 0 1-.91-.8l1.17-2.7-2.11-2.22a.6.6 0 0 1 .42-1.05h2.44l1.26-2.58a.65.65 0 0 1 1.15 0z"],
+}
+export default FamousCharacterStar

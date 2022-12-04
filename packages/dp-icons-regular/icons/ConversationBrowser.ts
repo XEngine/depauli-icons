@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ConversationBrowser : IconType = {
+    name: 'conversation-browser',
+    key: 'ConversationBrowser',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.75 18.75h-10.5l-6 4.5v-4.5h-3a1.5 1.5 0 0 1-1.5-1.5v-15a1.5 1.5 0 0 1 1.5-1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v15a1.5 1.5 0 0 1-1.5 1.5z","M16.65 4.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm3.89 7.5a4.5 4.5 0 0 0-7.79 0m-4.5-7.5a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM3.75 15a4.5 4.5 0 0 1 9 0"],
+}
+export default ConversationBrowser

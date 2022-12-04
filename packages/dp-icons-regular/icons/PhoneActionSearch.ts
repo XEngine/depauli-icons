@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PhoneActionSearch : IconType = {
+    name: 'phone-action-search',
+    key: 'PhoneActionSearch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.25 12.75v7.77a2.73 2.73 0 0 1-2.73 2.73H4.98a2.73 2.73 0 0 1-2.73-2.73V4.98a2.73 2.73 0 0 1 2.73-2.73h3.27m-6 16.5h12","M15 .75a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9zm3.18 7.68L21.75 12"],
+}
+export default PhoneActionSearch

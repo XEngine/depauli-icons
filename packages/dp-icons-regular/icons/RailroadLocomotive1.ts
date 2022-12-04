@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RailroadLocomotive1 : IconType = {
+    name: 'railroad-locomotive-1',
+    key: 'RailroadLocomotive1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75.75h22.5m-21.5 6h20.5a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1zm8.75 0-3-3 3-3m3 0 3 3-3 3m-9 12a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm15 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M6.75 6.75v12m3-9v3h4.5v-3zm-9 6h6m10.5-9v12m6-3h-6"],
+}
+export default RailroadLocomotive1

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ReadEmailMonitor : IconType = {
+    name: 'read-email-monitor',
+    key: 'ReadEmailMonitor',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15 22.5H9l.75-4.5h4.5l.75 4.5zm-8.25 0h10.5m-13.5-21h16.5a3 3 0 0 1 3 3V15a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3V4.5a3 3 0 0 1 3-3z","M8.25 6h7.5a1.5 1.5 0 0 1 1.5 1.5V12a1.5 1.5 0 0 1-1.5 1.5h-7.5a1.5 1.5 0 0 1-1.5-1.5V7.5A1.5 1.5 0 0 1 8.25 6z","m7.13 6.5 4.87 4 4.87-4"],
+}
+export default ReadEmailMonitor

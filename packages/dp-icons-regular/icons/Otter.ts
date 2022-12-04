@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Otter : IconType = {
+    name: 'otter',
+    key: 'Otter',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.26 4.8a10.49 10.49 0 0 1-.51 5.7c-1.5 3-5.25 3-5.25 3m-9 4.5s-.18-6.86 2.25-10.5c2.38-3.56 8.51-4.78 10.96-5.13","m16.03 12.42.22.33a10.38 10.38 0 0 1 1.5 5.25m-12 2.25s-1.5.75-.75 3m-2.25-3s-1.5.75-.75 3m14.25-3s1.5.75.75 3m2.25-3s1.5.75.75 3M7.25 22.5h7.5m2.67-21.443a2.14 1.64 60 1 0 2.14 3.706 2.14 1.64 60 1 0-2.14-3.706zM12.13 6.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m5.24-3.36L15.5 6m4.12-4.31L21.5.75m-1.27 3h2.02"],
+}
+export default Otter

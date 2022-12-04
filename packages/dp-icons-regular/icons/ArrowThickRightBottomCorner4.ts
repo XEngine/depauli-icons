@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArrowThickRightBottomCorner4 : IconType = {
+    name: 'arrow-thick-right-bottom-corner-4',
+    key: 'ArrowThickRightBottomCorner4',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75.75h16.5a3 3 0 0 1 3 3v16.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3V3.75a3 3 0 0 1 3-3z","m8.77 5.58 5.47 5.47V6.5a.75.75 0 0 1 1.28-.53l1.3 1.3a1.5 1.5 0 0 1 .44 1.06v8.17a.75.75 0 0 1-.75.75H8.33a1.5 1.5 0 0 1-1.06-.44l-1.3-1.29a.75.75 0 0 1 .53-1.28h4.55L5.58 8.77a.75.75 0 0 1 0-1.06L7.7 5.58a.75.75 0 0 1 1.07 0z"],
+}
+export default ArrowThickRightBottomCorner4

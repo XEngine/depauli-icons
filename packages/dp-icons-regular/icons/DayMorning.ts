@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DayMorning : IconType = {
+    name: 'day-morning',
+    key: 'DayMorning',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 21.96h22.5m-11.25-3v-2.25m0-9.75v2.25m0-7.5v2.25m6.75 4.05a2.7 2.7 0 1 0 0 5.4 2.7 2.7 0 1 0 0-5.4zm0 0v-1.8m0 9v-1.8m2.7-2.7h1.8M20.66 8.8l1.69-1.69m-1.69 5.51 1.69 1.69m-6.3-3.6h-1.8m2.59-1.91-1.69-1.69m1.69 5.51-1.69 1.69m5.9 4.01a9.74 9.74 0 0 1 .7 3.64m-19.5 0A9.75 9.75 0 0 1 12 12.21"],
+}
+export default DayMorning

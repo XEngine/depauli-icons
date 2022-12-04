@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const UserIdea : IconType = {
+    name: 'user-idea',
+    key: 'UserIdea',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75.75v1.5m7.5 6h-1.61M9.56 3.35l1.37 1.36m11.01-1.36-1.37 1.36m-6.32 6.97v1.82h3v-1.82a3.75 3.75 0 1 0-3.91-6.31m.91 10.37h3m-16.5 7.5a6.75 6.75 0 0 1 13.5 0zm3.2-14.46a6.86 6.86 0 0 0 7.64 1.54","M7.5 6.75a4.13 4.13 0 1 0 0 8.26 4.13 4.13 0 1 0 0-8.26z"],
+}
+export default UserIdea

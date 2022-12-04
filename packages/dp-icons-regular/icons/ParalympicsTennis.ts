@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ParalympicsTennis : IconType = {
+    name: 'paralympics-tennis',
+    key: 'ParalympicsTennis',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.78 21.88a1.5 1.5 0 0 1-3 0v-6a1.5 1.5 0 0 1 3 0zm-7.72-2.79a1.5 1.5 0 0 1-2.93-.63l.94-4.4a1.5 1.5 0 1 1 2.93.63zm.37-1.71h4.36m7.72 1.71a1.5 1.5 0 1 0 2.93-.63l-.94-4.4a1.5 1.5 0 1 0-2.93.63zm-.36-1.71h-4.36M13.29.87a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26z","M16.29 12.88v-2.56a11.13 11.13 0 0 1 4.03 2.02A1.5 1.5 0 1 0 22.19 10a14.29 14.29 0 0 0-8.9-3.12 11.27 11.27 0 0 1-5.3-1.32A1.5 1.5 0 0 0 6.58 8.2a14.2 14.2 0 0 0 3.71 1.34v3.34M1.915 1.225a2.25 1.88 51.67 1 0 2.79 3.53 2.25 1.88 51.67 1 0-2.79-3.53zM4.71 4.75l1.2 1.52m1.37-5.02a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default ParalympicsTennis

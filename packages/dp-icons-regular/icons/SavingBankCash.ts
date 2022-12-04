@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SavingBankCash : IconType = {
+    name: 'saving-bank-cash',
+    key: 'SavingBankCash',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.25 23.25h18M15.58 6.57l7.41 4.94a.6.6 0 0 1 .27.5v.89a.6.6 0 0 1-.6.6H5.25","M1.64 3.76h8.72a.89.89 0 0 1 .89.89v4.97a.89.89 0 0 1-.89.89H1.64a.89.89 0 0 1-.89-.89V4.65a.89.89 0 0 1 .89-.89z","m4.44 3.75.3-2.01A1.16 1.16 0 0 1 6.07.76l6.77 1.01a1.16 1.16 0 0 1 .98 1.32l-.53 3.53a1.19 1.19 0 0 1-2.03.63M6 6.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m15 16.5V13.5m-4.5 9.75V13.5M12 23.25V13.5m-4.5 9.75V13.5"],
+}
+export default SavingBankCash

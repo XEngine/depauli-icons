@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BeaconRemoteSmartphone : IconType = {
+    name: 'beacon-remote-smartphone',
+    key: 'BeaconRemoteSmartphone',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 17.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M2.25 11.25h9a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5z","M4.1 15.35a3.75 3.75 0 0 1 5.3 0M17.25.75h4.5a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5zm6 10.5h-7.5m-12.88-3a5.25 5.25 0 0 1 7.43 0M.75 6.13a8.25 8.25 0 0 1 11.67 0"],
+}
+export default BeaconRemoteSmartphone

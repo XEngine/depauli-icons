@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MultipleActionsStar : IconType = {
+    name: 'multiple-actions-star',
+    key: 'MultipleActionsStar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.97 11.68 19.51 15h2.98a.74.74 0 0 1 .52 1.28l-2.58 2.56 1.44 3.31a.79.79 0 0 1-1.12.98l-3.49-1.96-3.49 1.96a.79.79 0 0 1-1.12-.98l1.45-3.31-2.6-2.56a.73.73 0 0 1 .51-1.28h3l1.54-3.32a.8.8 0 0 1 1.42 0zm-6.14.05A6.02 6.02 0 0 0 6.75 9a6 6 0 0 0-6 5.25m6-13.5a3.38 3.38 0 1 0 0 6.76 3.38 3.38 0 1 0 0-6.76zm9.75 0a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM20.4 9a4.5 4.5 0 0 0-7.28-.71"],
+}
+export default MultipleActionsStar

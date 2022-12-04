@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleNeutralPhoneBook : IconType = {
+    name: 'single-neutral-phone-book',
+    key: 'SingleNeutralPhoneBook',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 6.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm-4.5 10.5a4.5 4.5 0 0 1 9 0M5.25.75v22.5M23.25 3v3m0 3v3m0 3v3","M2.25.75h16.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z"],
+}
+export default SingleNeutralPhoneBook

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DentistryToothSearch : IconType = {
+    name: 'dentistry-tooth-search',
+    key: 'DentistryToothSearch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.5 2.08a6.07 6.07 0 0 0-8.25.62A6.05 6.05 0 0 0 .75 6.75a11.91 11.91 0 0 0 2.45 6.41 1.44 1.44 0 0 1 .18 1.48 12.01 12.01 0 0 0-1.13 4.86v1.88a2.06 2.06 0 0 0 2.14 1.88 1.95 1.95 0 0 0 2.01-1.88 4.29 4.29 0 0 1 4.44-4.13h.81a4.29 4.29 0 0 1 4.45 4.13 1.95 1.95 0 0 0 2.02 1.88 2.06 2.06 0 0 0 2.14-1.88V19.5","M15.75 4.5a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm7.5 12.75-3.79-3.79"],
+}
+export default DentistryToothSearch

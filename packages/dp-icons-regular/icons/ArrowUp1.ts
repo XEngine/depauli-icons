@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArrowUp1 : IconType = {
+    name: 'arrow-up-1',
+    key: 'ArrowUp1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","fill-rule":"evenodd","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 17.19 11.47 6.47a.75.75 0 0 1 1.06 0l10.72 10.72"],
+}
+export default ArrowUp1

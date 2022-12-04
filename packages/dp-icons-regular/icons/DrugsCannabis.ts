@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DrugsCannabis : IconType = {
+    name: 'drugs-cannabis',
+    key: 'DrugsCannabis',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.01 18.55a4 4 0 0 0 2.59.77 3.91 3.91 0 0 0-1.16-3.01c-.38-.38-1.18-1.16-1.18-1.16a6.09 6.09 0 0 0 7.23-1.39 6.12 6.12 0 0 0-4.55-2.02 6.06 6.06 0 0 0-1.85.32A8.42 8.42 0 0 0 18 10.68a7.87 7.87 0 0 0 2.4-5.24 8 8 0 0 0-5.29 2.38c-.56.55-1.48 1.71-1.48 1.71a6.87 6.87 0 0 0 .72-3.05A6.94 6.94 0 0 0 12 1.28a6.89 6.89 0 0 0-1.53 8.45 22.35 22.35 0 0 0-1.58-1.91A8 8 0 0 0 3.6 5.44 7.87 7.87 0 0 0 6 10.68a8.44 8.44 0 0 0 1.9 1.38 6.05 6.05 0 0 0-1.85-.32 6.12 6.12 0 0 0-4.55 2.03 6.12 6.12 0 0 0 4.55 2.02 11.09 11.09 0 0 0 2.68-.63s-.8.78-1.17 1.15a3.91 3.91 0 0 0-1.16 3.01 4.01 4.01 0 0 0 2.58-.76M12 17.5v5.25"],
+}
+export default DrugsCannabis

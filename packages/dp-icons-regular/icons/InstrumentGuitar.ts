@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const InstrumentGuitar : IconType = {
+    name: 'instrument-guitar',
+    key: 'InstrumentGuitar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.62 17.9a1.5 1.5 0 0 1 1.24-1.65 3.01 3.01 0 0 0 1.66-.83c1.47-1.46 1.1-4.2-.82-6.12s-4.66-2.28-6.12-.82a3.01 3.01 0 0 0-.83 1.66 1.5 1.5 0 0 1-1.65 1.24 4.74 4.74 0 0 0-3.98 1.25c-2.05 2.05-1.64 5.79.92 8.34s6.29 2.97 8.34.92a4.74 4.74 0 0 0 1.25-3.98zm5.797-14.439 1.591-1.59a1.5 1.5 0 0 1 2.122 0h0a1.5 1.5 0 0 1 0 2.12l-1.591 1.592a1.5 1.5 0 0 1-2.122 0h0a1.5 1.5 0 0 1 0-2.122z","M18.41 5.59 14.7 9.3M18.94.81 20 1.87M22.13 4l1.06 1.06m-2.65.53 1.06 1.06M17.35 2.4l1.06 1.06m-7.42 8.05a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-5.83 5.21 2.12 2.12"],
+}
+export default InstrumentGuitar

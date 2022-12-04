@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ConcertCoupleDuet : IconType = {
+    name: 'concert-couple-duet',
+    key: 'ConcertCoupleDuet',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 3.75A3 3 0 1 0 6.48 9M.75 17.25V15a3.75 3.75 0 0 1 7.5 0v2.25h-1.5l-.75 6H3l-.75-6zm16.5 6-.75-4.5h-2.25l1.13-4.13c.67-2.02 1.51-3.37 3.37-3.37s2.69 1.35 3.37 3.37l1.13 4.13H21l-.75 4.5zm1.5-19.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6zM9 3.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm1.5 1.5V.75M12 10.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm1.5 1.5V7.5"],
+}
+export default ConcertCoupleDuet

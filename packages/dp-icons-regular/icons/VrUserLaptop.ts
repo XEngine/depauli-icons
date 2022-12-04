@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VrUserLaptop : IconType = {
+    name: 'vr-user-laptop',
+    key: 'VrUserLaptop',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 14.25v-1.5a1.5 1.5 0 0 0-1.5-1.5H3a2.25 2.25 0 0 1 0-4.5h8.25M.75 20.25a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3zm9.75-6H3a1.5 1.5 0 0 0-1.5 1.5v4.5H12v-4.5a1.5 1.5 0 0 0-1.5-1.5zm2.25-9.75h9a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5V6a1.5 1.5 0 0 1 1.5-1.5z","M15.75 7.5h3m-6.63-2.86c.48-2.48 2.3-3.89 5.13-3.89s4.66 1.41 5.13 3.89m-.74 5.86c-.87 2.4-2.38 4.5-4.39 4.5s-3.52-2.11-4.39-4.5"],
+}
+export default VrUserLaptop

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ServerClock1 : IconType = {
+    name: 'server-clock-1',
+    key: 'ServerClock1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 3.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.37h1.5m3 0h1.5M4.5 9.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.37h1.5m-6.75 9h3.75v-6M1.13 18a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38","M18.75 3.75a3 3 0 0 1-3 3h-12a3 3 0 0 1 0-6h12a3 3 0 0 1 3 3z","M9.75 12.75h-6a3 3 0 0 1 0-6h12a3 3 0 0 1 2.57 1.45m-1.07 3.05a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M19.9 17.25h-2.65V14.6"],
+}
+export default ServerClock1

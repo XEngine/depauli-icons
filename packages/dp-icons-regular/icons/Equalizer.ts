@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Equalizer : IconType = {
+    name: 'equalizer',
+    key: 'Equalizer',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","M6 13.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm0 0v-6m0 12.75V16.5m6-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm0 0v-3m0 12.75V13.5m6 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm0 0v-6m0 12.75V16.5M3.75 4.5h16.5"],
+}
+export default Equalizer

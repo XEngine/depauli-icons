@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProfessionsWomanTelecommunicator : IconType = {
+    name: 'professions-woman-telecommunicator',
+    key: 'ProfessionsWomanTelecommunicator',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.61 23.25a10.48 10.48 0 0 0-18.95 0m15.31-4.22a14.58 14.58 0 0 0 3.39-1.01 1.5 1.5 0 0 0 .76-1.96l-1.38-3.21a4.5 4.5 0 0 1-.36-1.77V9a8.25 8.25 0 0 0-16.5 0m7.5 4.87a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m-5.99-2.62a3 3 0 0 0 3 3h3m3 .99a5.25 5.25 0 0 0 3-4.74 5.25 5.25 0 0 1-5.25-5.25 5.25 5.25 0 0 1-3.75 5.03m8.03 7.88c-1.28 2.09-4.28 2.09-4.28 5.09 0-3-3-3-4.28-5.09m10.12.86a14.58 14.58 0 0 0 3.39-1.01 1.5 1.5 0 0 0 .76-1.96l-1.38-3.21m-17.61.9-.99 2.31a1.5 1.5 0 0 0 .76 1.96 14.61 14.61 0 0 0 3.39 1.01"],
+}
+export default ProfessionsWomanTelecommunicator

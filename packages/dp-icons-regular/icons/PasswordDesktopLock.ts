@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PasswordDesktopLock : IconType = {
+    name: 'password-desktop-lock',
+    key: 'PasswordDesktopLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M7.13 7.88a.38.38 0 1 0 .38.38.37.37 0 0 0-.38-.38m3.75 0a.38.38 0 1 0 .38.38.37.37 0 0 0-.38-.38","M11.25 11.25H4.5a.75.75 0 0 1-.75-.75V6a.75.75 0 0 1 .75-.75h6.75m2.25 13.5a8.93 8.93 0 0 0 1.5 4.5H9a8.93 8.93 0 0 0 1.5-4.5m-3.75 4.5h10.5m-16.5-7.5h22.5","M23.25 15.75v1.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-15a1.5 1.5 0 0 1 1.5-1.5h10.5","M15.75 5.25h6a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z","M15.75 5.25v-1.5a3 3 0 0 1 6 0v1.5m-3 3.38a.38.38 0 1 0 .38.38.37.37 0 0 0-.38-.38"],
+}
+export default PasswordDesktopLock

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FlowerPot : IconType = {
+    name: 'flower-pot',
+    key: 'FlowerPot',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 6.15a2.69 2.69 0 0 0-4.09-2.3 2.58 2.58 0 0 0 .04-.4 2.7 2.7 0 1 0-5.4 0 2.58 2.58 0 0 0 .04.4 2.69 2.69 0 1 0-1.46 5A2.69 2.69 0 1 0 12 12.16a2.69 2.69 0 1 0 4.12-3.31 2.7 2.7 0 0 0 2.63-2.7zm-3.78 17.1h-5.7a.67.67 0 0 1-.67-.48l-1.09-4.8a.63.63 0 0 1 .67-.72h7.88a.63.63 0 0 1 .67.72l-1.09 4.8a.67.67 0 0 1-.67.48zM12 12.16v5.09","M12 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z"],
+}
+export default FlowerPot

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CogSearch1 : IconType = {
+    name: 'cog-search-1',
+    key: 'CogSearch1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m17.39 17.4 5.86 5.86M10.5 9a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M9.22 4.7a1.33 1.33 0 0 1 2.55 0l.44 1.45a.99.99 0 0 0 1.17.68l1.47-.34a1.34 1.34 0 0 1 1.27 2.22L15.1 9.82a1 1 0 0 0 0 1.36l1.03 1.11a1.34 1.34 0 0 1-1.27 2.22l-1.47-.34a.99.99 0 0 0-1.17.68l-.44 1.45a1.33 1.33 0 0 1-2.55 0l-.44-1.45a.99.99 0 0 0-1.17-.68l-1.47.34a1.34 1.34 0 0 1-1.27-2.22l1.03-1.11a1 1 0 0 0 0-1.36L4.86 8.71a1.34 1.34 0 0 1 1.27-2.22l1.47.34a.99.99 0 0 0 1.17-.68z","M10.5.75a9.75 9.75 0 1 0 0 19.5 9.75 9.75 0 1 0 0-19.5z"],
+}
+export default CogSearch1

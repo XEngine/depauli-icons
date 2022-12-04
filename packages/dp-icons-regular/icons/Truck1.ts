@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Truck1 : IconType = {
+    name: 'truck-1',
+    key: 'Truck1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 15.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-13.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M19.5 11.25h-6m6.75 6h1.5a1.5 1.5 0 0 0 1.5-1.5v-1.5c0-1.44-.49-1.39-3.75-3l-.93-3.73a3 3 0 0 0-2.91-2.27H2.25a1.5 1.5 0 0 0-1.5 1.5v9a1.5 1.5 0 0 0 1.5 1.5h1.5m13.5 0H6.75m6.75-12v12","M4.26 8.25h5.75a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H4.26a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 .5-.5z"],
+}
+export default Truck1

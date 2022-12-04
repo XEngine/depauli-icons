@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DatingLipstick : IconType = {
+    name: 'dating-lipstick',
+    key: 'DatingLipstick',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m8.78 22.81-3.99-3.99a1.5 1.5 0 0 1 0-2.12l3.62-3.62a.75.75 0 0 1 1.06 0l5.05 5.05a.75.75 0 0 1 0 1.06l-3.62 3.62a1.5 1.5 0 0 1-2.12 0zm5.53-4.9L9.69 13.3l2.77-2.77a.75.75 0 0 1 1.06 0l3.56 3.56a.75.75 0 0 1 0 1.06zm-.57-7.17 5.99-5.99a.53.53 0 0 1 .9.37l-.61 5.14a1.06 1.06 0 0 1-.31.75l-2.85 2.85M8.45 1.28a1.9 1.9 0 0 0-2.52 1.11l-.59 1.59-1.57-.65a1.9 1.9 0 0 0-2.52 1.11 2.06 2.06 0 0 0 1.14 2.61l4.68 1.91a.58.58 0 0 0 .77-.34L9.6 3.88a2.06 2.06 0 0 0-1.14-2.61zm6.18-.53v3m1.5-1.5h-3m8.25 17.25v3m1.5-1.5h-3"],
+}
+export default DatingLipstick

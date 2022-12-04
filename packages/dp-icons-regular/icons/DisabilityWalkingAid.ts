@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DisabilityWalkingAid : IconType = {
+    name: 'disability-walking-aid',
+    key: 'DisabilityWalkingAid',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.25.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm0 15.75v5.25m3-6.75v-3m-8.94-.74a4.5 4.5 0 0 1 4.44-3.76h3a4.5 4.5 0 0 1 4.5 4.5v3a1.5 1.5 0 0 1-3 0v6.75a1.5 1.5 0 0 1-3 0 1.5 1.5 0 0 1-3 0v-4.5m-7.5-3h6m-1.5 0V18a1.5 1.5 0 0 1-3 0v-3.75m1.5 5.25v3.75m-.75 0h1.5"],
+}
+export default DisabilityWalkingAid

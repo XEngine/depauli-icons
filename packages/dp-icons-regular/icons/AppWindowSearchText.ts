@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AppWindowSearchText : IconType = {
+    name: 'app-window-search-text',
+    key: 'AppWindowSearchText',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.76 10.5a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z","m23.26 23.25-3.79-3.79m2.29-11.21v-6a1.5 1.5 0 0 0-1.5-1.5h-18a1.5 1.5 0 0 0-1.5 1.5v16.5a1.5 1.5 0 0 0 1.5 1.5h7.5m-9-15h21m-18 4.5h6m-6 3h3m-3 3h3"],
+}
+export default AppWindowSearchText

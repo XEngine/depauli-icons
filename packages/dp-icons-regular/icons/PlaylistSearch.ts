@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PlaylistSearch : IconType = {
+    name: 'playlist-search',
+    key: 'PlaylistSearch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 7.5V2.25a1.5 1.5 0 0 0-1.5-1.5H2.25a1.5 1.5 0 0 0-1.5 1.5v15a1.5 1.5 0 0 0 1.5 1.5h4.5","M6.39 11.26a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z","M8.26 13.14V6.35a1.5 1.5 0 0 1 1.03-1.43l4.5-1.25a1.5 1.5 0 0 1 1.97 1.43v2.41m-.01 2.99a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm7.5 12.75-3.79-3.79"],
+}
+export default PlaylistSearch

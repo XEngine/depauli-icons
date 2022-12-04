@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToolsFlattenerSquare : IconType = {
+    name: 'tools-flattener-square',
+    key: 'ToolsFlattenerSquare',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.11 5.54a1.5 1.5 0 1 0 .98-2.84L2.84 1.23a1.5 1.5 0 1 0-.98 2.84zm1.91-.93 5.67 1.96a1.5 1.5 0 0 1 .93 1.91l-1.96 5.67a1.5 1.5 0 0 0 .93 1.91l4.25 1.47","m5.513 16.451 1.959-5.67a1.5 1.5 0 0 1 1.908-.929l12.76 4.409a1.5 1.5 0 0 1 .927 1.908l-1.959 5.67a1.5 1.5 0 0 1-1.908.929L6.44 18.359a1.5 1.5 0 0 1-.927-1.908z"],
+}
+export default ToolsFlattenerSquare

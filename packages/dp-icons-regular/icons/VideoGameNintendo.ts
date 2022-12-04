@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameNintendo : IconType = {
+    name: 'video-game-nintendo',
+    key: 'VideoGameNintendo',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5.75H19a1 1 0 0 1 1 1v18.5a3 3 0 0 1-3 3H4.5a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","M7 3.75h9.5a.5.5 0 0 1 .5.5v6.5a.5.5 0 0 1-.5.5H7a.5.5 0 0 1-.5-.5v-6.5a.5.5 0 0 1 .5-.5zm1 10.5v3m1.5-1.5h-3m9.75-1.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-3 1.5a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default VideoGameNintendo

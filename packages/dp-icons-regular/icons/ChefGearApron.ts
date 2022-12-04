@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ChefGearApron : IconType = {
+    name: 'chef-gear-apron',
+    key: 'ChefGearApron',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.6.75h-.85a1.5 1.5 0 0 0-1.5 1.5V6a2.25 2.25 0 0 1-4.5 0V2.25a1.5 1.5 0 0 0-1.5-1.5H7.4a3 3 0 0 0-3 2.9L3.8 21.7a1.5 1.5 0 0 0 1.5 1.55h13.4a1.5 1.5 0 0 0 1.5-1.55l-.6-18.05a3 3 0 0 0-3-2.9zM.75 20.25v-1.5a3 3 0 0 1 3-3H4m19.25 4.5v-1.5a3 3 0 0 0-3-3H20m-4.33-1.5a.75.75 0 0 1 .74.9 4.5 4.5 0 0 1-8.82 0 .75.75 0 0 1 .74-.9z"],
+}
+export default ChefGearApron

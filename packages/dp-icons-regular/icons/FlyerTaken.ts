@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FlyerTaken : IconType = {
+    name: 'flyer-taken',
+    key: 'FlyerTaken',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 12.75V2.25a1.5 1.5 0 0 1 1.5-1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v10.5M3 12.75h2.25m3 0h2.25m3 0h2.25m3 0H21m-15.75 3v7.5h-3a1.5 1.5 0 0 1-1.5-1.5v-6m9 0v7.5h-4.5v-7.5m9 0v6a1.5 1.5 0 0 1-1.5 1.5h-3v-7.5","M4.25 3.75h5a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-.5.5h-5a.5.5 0 0 1-.5-.5v-5a.5.5 0 0 1 .5-.5zm8.5 0h7.5m-7.5 3h7.5m-4.5 3h4.5"],
+}
+export default FlyerTaken

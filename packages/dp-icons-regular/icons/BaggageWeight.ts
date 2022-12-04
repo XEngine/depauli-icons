@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BaggageWeight : IconType = {
+    name: 'baggage-weight',
+    key: 'BaggageWeight',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 9.75h13.5a1.5 1.5 0 0 1 1.5 1.5v7.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-7.5a1.5 1.5 0 0 1 1.5-1.5zm3 10.5V9.75m7.5 10.5V9.75M6 9.75a3 3 0 1 1 6 0","M.75 23.25h16.5a3 3 0 0 0 3-3V6.75m0-6a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm0 3 2.12-2.12"],
+}
+export default BaggageWeight

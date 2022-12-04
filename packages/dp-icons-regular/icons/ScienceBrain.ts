@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ScienceBrain : IconType = {
+    name: 'science-brain',
+    key: 'ScienceBrain',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.72 3.74C5.26 1.93 6.14.75 7.13.75S9 1.93 9.53 3.74m0 8.27C8.99 13.82 8.12 15 7.13 15s-1.87-1.18-2.4-2.99","M5.671 5.323a7.15 2.94-29.83 1 0 2.925 5.101 7.15 2.94-29.83 1 0-2.925-5.1z","M.922 4.315a7.15 2.94 29.83 1 0 12.406 7.113A7.15 2.94 29.83 1 0 .922 4.315z","M7.13 7.5a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-1.88 15V19.5M11.63.75c7.14 0 8.68 5.88 11.23 12.48a.75.75 0 0 1-.7 1.02h-1.9v3a3 3 0 0 1-3 3h-1.5v3"],
+}
+export default ScienceBrain

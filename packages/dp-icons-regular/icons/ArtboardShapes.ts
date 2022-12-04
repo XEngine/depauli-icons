@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArtboardShapes : IconType = {
+    name: 'artboard-shapes',
+    key: 'ArtboardShapes',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5.75v.75m-3 3H.75M4.5 23.25v-.75m-3-3H.75M19.5.75v.75m3 3h.75M19.5 23.25v-.75m3-3h.75M4.5 4.5h15v15h-15zm6.75 9.75H9a1.5 1.5 0 0 1-1.5-1.5V9A1.5 1.5 0 0 1 9 7.5h2.25a1.5 1.5 0 0 1 1.5 1.5v.75","M12.25 9.75h3.25a1 1 0 0 1 1 1v4.75a1 1 0 0 1-1 1h-3.25a1 1 0 0 1-1-1v-4.75a1 1 0 0 1 1-1z"],
+}
+export default ArtboardShapes

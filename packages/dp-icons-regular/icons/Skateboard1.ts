@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Skateboard1 : IconType = {
+    name: 'skateboard-1',
+    key: 'Skateboard1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.82 7.84 7.92 20.75a4.91 4.91 0 0 1-2.76 1.38 1.99 1.99 0 0 1-.39.02L2.58 22a1.88 1.88 0 0 1 .24-3.74l1.95.13a1.14 1.14 0 0 0 .49-.29L18.17 5.2a1.14 1.14 0 0 0 .29-.49l-.13-1.95a1.88 1.88 0 0 1 3.74-.25l.14 2.2a1.99 1.99 0 0 1-.02.39 4.91 4.91 0 0 1-1.38 2.75zm-8.3 11.49a2.25 2.25 0 1 1-3.18 0 2.25 2.25 0 0 1 3.18 0zm6.89-6.89a2.25 2.25 0 1 0 0-3.18 2.25 2.25 0 0 0 0 3.18z"],
+}
+export default Skateboard1

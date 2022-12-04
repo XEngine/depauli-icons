@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TaskListShare : IconType = {
+    name: 'task-list-share',
+    key: 'TaskListShare',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.5 15.76a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.5 3a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-7.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","m15.43 16.86 3.65-2.19m-3.49 4.18 3.32 1.33M5.25 10.51h7.5m-7.5 3.75h3m-3 3.75h3M12 23.26H2.25a1.5 1.5 0 0 1-1.5-1.5V6.01a1.5 1.5 0 0 1 1.5-1.5H6a3.75 3.75 0 0 1 7.5 0h3.75a1.5 1.5 0 0 1 1.5 1.5v2.25m-9-4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default TaskListShare

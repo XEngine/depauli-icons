@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShieldKey : IconType = {
+    name: 'shield-key',
+    key: 'ShieldKey',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 3.92v7.61a11.91 11.91 0 0 0 7.63 11.12l1.04.4a3 3 0 0 0 2.15 0l1.04-.4a11.91 11.91 0 0 0 7.63-11.11V3.92a1.49 1.49 0 0 0-.87-1.36A21.7 21.7 0 0 0 12 .75a21.7 21.7 0 0 0-8.88 1.81 1.49 1.49 0 0 0-.87 1.36zm8.3 9a.38.38 0 1 1 0 .53.37.37 0 0 1 0-.53m4.04-1.22 3.69-3.69a1.62 1.62 0 1 0-2.3-2.3l-3.69 3.7a4.06 4.06 0 1 0 2.3 2.3z"],
+}
+export default ShieldKey

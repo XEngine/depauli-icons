@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CdAlbumNote : IconType = {
+    name: 'cd-album-note',
+    key: 'CdAlbumNote',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v18a1.5 1.5 0 0 1-1.5 1.5H2.25A1.5 1.5 0 0 1 .75 21V3a1.5 1.5 0 0 1 1.5-1.5zm1.5 0v21","M9.38 13.5a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm7.5-2.25a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z","M11.25 15.38V8.75a1.5 1.5 0 0 1 1.03-1.42l4.5-1.25a1.5 1.5 0 0 1 1.97 1.42v5.63"],
+}
+export default CdAlbumNote

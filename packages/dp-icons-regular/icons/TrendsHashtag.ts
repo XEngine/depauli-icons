@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TrendsHashtag : IconType = {
+    name: 'trends-hashtag',
+    key: 'TrendsHashtag',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25.75h7.5a3 3 0 0 1 3 3v16.5a3 3 0 0 1-3 3h-7.5a3 3 0 0 1-3-3V3.75a3 3 0 0 1 3-3zm-3 18h13.5m3-8.25h1.5m-1.5-3 1.5-.75m-1.5 6.75 1.5.75m-21-3.75H.75m1.5-3-1.5-.75m1.5 6.75-1.5.75m9-6H15m-6 3h5.25m-3-4.5-1.5 6m4.5-6-1.5 6"],
+}
+export default TrendsHashtag

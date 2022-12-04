@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProfessionalToolMobileMe : IconType = {
+    name: 'professional-tool-mobile-me',
+    key: 'ProfessionalToolMobileMe',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 15.17a4.43 4.43 0 0 1-4.42 4.45H5.17a4.45 4.45 0 0 1-.69-8.84 2.81 2.81 0 0 1 2.76-3.3A2.77 2.77 0 0 1 9 8.15c.87-2 2-3.77 5.11-3.77 3.79 0 5.59 2.95 5.59 6.05v.39a4.44 4.44 0 0 1 3.53 4.36"],
+}
+export default ProfessionalToolMobileMe

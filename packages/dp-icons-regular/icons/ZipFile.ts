@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ZipFile : IconType = {
+    name: 'zip-file',
+    key: 'ZipFile',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.73 4.56a1.95 1.95 0 0 1-.47 1.53 2.04 2.04 0 0 1-3 0 1.95 1.95 0 0 1-.47-1.53L8.25.75h3zM9.75 9.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0 4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0 4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m10.5 4.5H3.75a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h13.63a1.5 1.5 0 0 1 1.06.44l2.87 2.87a1.5 1.5 0 0 1 .44 1.06v16.63a1.5 1.5 0 0 1-1.5 1.5z"],
+}
+export default ZipFile

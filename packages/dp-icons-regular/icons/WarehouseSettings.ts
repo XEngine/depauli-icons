@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WarehouseSettings : IconType = {
+    name: 'warehouse-settings',
+    key: 'WarehouseSettings',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M21.01 12v9.75a1.5 1.5 0 0 1-1.5 1.5H6.01a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5h2.25m9.75-8.7a2.7 2.7 0 1 0 0 5.4 2.7 2.7 0 1 0 0-5.4zm0 0V.75m0 9v-1.8m2.7-2.7h1.8m-9 0h1.8m-.07 3.18 1.08-1.08m-1.08-5.28 1.08 1.08m4.45 5.28-1.08-1.08m1.08-5.28-1.08 1.08M6.46 1.5a3.3 3.3 0 1 0 0 6.6 3.3 3.3 0 1 0 0-6.6zM4.12 7.13 1.51 9.75m12.75 10.5h3.75"],
+}
+export default WarehouseSettings

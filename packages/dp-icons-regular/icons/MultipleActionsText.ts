@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MultipleActionsText : IconType = {
+    name: 'multiple-actions-text',
+    key: 'MultipleActionsText',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 11.25h9a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5zm1.5 3h6m-6 3h6m-6 3h2.25M6 .75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm3.49 8.83A5.25 5.25 0 0 0 .75 13.5v2.25H3l.75 7.5h4.5l.26-2.59M16.5.75a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zM20.4 9a4.5 4.5 0 0 0-7.29-.71"],
+}
+export default MultipleActionsText

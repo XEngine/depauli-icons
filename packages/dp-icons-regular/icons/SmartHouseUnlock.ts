@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmartHouseUnlock : IconType = {
+    name: 'smart-house-unlock',
+    key: 'SmartHouseUnlock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.25 11.88a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38","M10.88 9.25h6.74a.38.38 0 0 1 .38.38v5.24a.38.38 0 0 1-.38.38h-6.74a.38.38 0 0 1-.38-.38V9.63a.38.38 0 0 1 .38-.38z","M12.27 5.5a3 3 0 0 1 4.98 2.25v1.5M5.25 13V7.11a1.5 1.5 0 0 1 .74-1.3L14.25 1l8.26 4.82a1.5 1.5 0 0 1 .74 1.3V19a1.5 1.5 0 0 1-1.5 1.5h-9.44m-9.88.15a3.98 3.98 0 0 1 5.63 0M.75 17.99a6.36 6.36 0 0 1 9 0m-4.5 4.51a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default SmartHouseUnlock

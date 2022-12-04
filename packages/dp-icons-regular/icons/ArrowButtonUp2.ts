@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArrowButtonUp2 : IconType = {
+    name: 'arrow-button-up-2',
+    key: 'ArrowButtonUp2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","fill-rule":"evenodd","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.36 2.63 1.6 19.88A.75.75 0 0 0 2.24 21h19.53a.75.75 0 0 0 .64-1.13L12.64 2.63a.73.73 0 0 0-1.27 0z"],
+}
+export default ArrowButtonUp2

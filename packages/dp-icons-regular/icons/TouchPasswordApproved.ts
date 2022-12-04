@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TouchPasswordApproved : IconType = {
+    name: 'touch-password-approved',
+    key: 'TouchPasswordApproved',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M20.25 4.5 16.5 9l-2.25-2.25M3.75 12h-1.5a1.5 1.5 0 0 1-1.5-1.5V3a1.5 1.5 0 0 1 1.5-1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v7.5a1.5 1.5 0 0 1-1.5 1.5h-9m-7.5 10.5-2.76-3.11a1.56 1.56 0 1 1 2.33-2.07l1.93 2.18v-9a1.5 1.5 0 0 1 3 0v6.75h1.5a4.5 4.5 0 0 1 4.5 4.5v.75"],
+}
+export default TouchPasswordApproved

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamilyHeart : IconType = {
+    name: 'family-heart',
+    key: 'FamilyHeart',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.26 3a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm2.49 8.25A4.5 4.5 0 0 0 .76 15m21.75 0a4.5 4.5 0 0 0-6.99-3.75M18.01 3a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M15.01 6s0 3.75-2.25 3.75M21.01 6s0 3.75 2.25 3.75m-12 3a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm3.9 7.5a4.5 4.5 0 0 0-7.79 0"],
+}
+export default FamilyHeart

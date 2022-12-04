@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BodyCarePerfume : IconType = {
+    name: 'body-care-perfume',
+    key: 'BodyCarePerfume',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 6a8.63 8.63 0 1 0 0 17.26A8.63 8.63 0 1 0 12 6z","M9.75 6.3V1.5h4.5v4.8m-4.5-2.55h-1.5m12-3a3 2.25 0 1 0 0 4.5 3 2.25 0 1 0 0-4.5zm-6 2.25h3M4.5 2.25.75 1.5M4.5 5.25.75 6"],
+}
+export default BodyCarePerfume

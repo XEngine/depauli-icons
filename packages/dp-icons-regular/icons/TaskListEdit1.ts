@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TaskListEdit1 : IconType = {
+    name: 'task-list-edit-1',
+    key: 'TaskListEdit1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.63 14.88 15 22.51l-3.75.75.75-3.75 7.63-7.63a2.12 2.12 0 0 1 2.99 0l.01.01a2.12 2.12 0 0 1 0 2.99zM5.25 10.51h9m-9 3.75h6m-6 3.75h3m0 5.25h-6a1.5 1.5 0 0 1-1.5-1.5V6.01a1.5 1.5 0 0 1 1.5-1.5H6a3.75 3.75 0 0 1 7.5 0h3.75a1.5 1.5 0 0 1 1.5 1.5v2.25m-9-4.5a.38.38 0 1 1-.38.38.37.37 0 0 1 .38-.38"],
+}
+export default TaskListEdit1

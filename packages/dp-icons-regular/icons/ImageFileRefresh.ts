@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ImageFileRefresh : IconType = {
+    name: 'image-file-refresh',
+    key: 'ImageFileRefresh',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.5 15.75h3.75v-4.5m-.19 4.5a6 6 0 1 0-1.12 5.24m-13.69-.74h-6a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h10.63a1.5 1.5 0 0 1 1.06.44l2.87 2.87a1.5 1.5 0 0 1 .44 1.06v3.13m-12-2.63a.38.38 0 1 1-.37.38.38.38 0 0 1 .38-.38m6.84 3.96-.85-1.33a.75.75 0 0 0-1.24-.01l-2 2.85-1.23-.99a.75.75 0 0 0-1.09.17l-1.94 3.98h4.5"],
+}
+export default ImageFileRefresh

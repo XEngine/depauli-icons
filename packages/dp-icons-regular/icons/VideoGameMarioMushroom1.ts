@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameMarioMushroom1 : IconType = {
+    name: 'video-game-mario-mushroom-1',
+    key: 'VideoGameMarioMushroom1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 19.47c-3.57-.73-6-2.53-6-6.53C.75 7.17 5.79.75 12 .75s11.25 6.42 11.25 12.19c0 4.01-2.43 5.81-6 6.53","M12 5.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm-7.5 8.56a8.14 8.14 0 0 1-1.14 4.37 5.74 5.74 0 0 1-2.61-5.24 11.84 11.84 0 0 1 1.14-4.93c1.52.78 2.61 3.08 2.61 5.8zm18.75-.87a5.74 5.74 0 0 1-2.61 5.24 8.14 8.14 0 0 1-1.14-4.37c0-2.72 1.09-5.01 2.61-5.8a11.84 11.84 0 0 1 1.14 4.93zm-7.46 3.58-.91-.13a20.39 20.39 0 0 0-5.75 0l-.91.13A1.59 1.59 0 0 0 6.75 18v2.25a3.28 3.28 0 0 0 3.5 3h3.5a3.28 3.28 0 0 0 3.5-3V18a1.59 1.59 0 0 0-1.46-1.48zm-6.04 2.23v.75m4.5-.75v.75"],
+}
+export default VideoGameMarioMushroom1

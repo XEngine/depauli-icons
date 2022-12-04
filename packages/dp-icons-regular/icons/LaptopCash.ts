@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LaptopCash : IconType = {
+    name: 'laptop-cash',
+    key: 'LaptopCash',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 14.25h-2.03a1.34 1.34 0 0 0-.5 2.59l2.06.83a1.34 1.34 0 0 1-.5 2.59h-2.03m1.5-6.01v-.75m0 7.5v-.75","M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12zM3 12V2.25A1.5 1.5 0 0 1 4.5.75h15a1.5 1.5 0 0 1 1.5 1.5v6M9.75 12h-9a3.75 3.75 0 0 0 3.75 3.75h3.75"],
+}
+export default LaptopCash

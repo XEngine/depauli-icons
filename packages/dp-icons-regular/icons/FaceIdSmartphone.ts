@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FaceIdSmartphone : IconType = {
+    name: 'face-id-smartphone',
+    key: 'FaceIdSmartphone',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25.75h7.5a3 3 0 0 1 3 3v16.5a3 3 0 0 1-3 3h-7.5a3 3 0 0 1-3-3V3.75a3 3 0 0 1 3-3z","M9 .75V3a.75.75 0 0 0 .75.75h4.5A.75.75 0 0 0 15 3V.75M9 17.59a4.45 4.45 0 0 0 6 0M8.25 9.75V12m7.5-2.25V12M12 9.75v3.75a1.5 1.5 0 0 1-1.5 1.5h-.75"],
+}
+export default FaceIdSmartphone

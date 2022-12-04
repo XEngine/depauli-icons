@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArrowButtonCircleRight1 : IconType = {
+    name: 'arrow-button-circle-right-1',
+    key: 'ArrowButtonCircleRight1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m9.48 5.53 7.08 5.9a.75.75 0 0 1 0 1.15l-7.08 5.9a.75.75 0 0 1-1.23-.58v-2.18a1.5 1.5 0 0 1 .56-1.17L12 12 8.81 9.45a1.5 1.5 0 0 1-.56-1.17V6.1a.75.75 0 0 1 1.23-.57z","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z"],
+}
+export default ArrowButtonCircleRight1

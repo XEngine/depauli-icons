@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VectorsLinePath : IconType = {
+    name: 'vectors-line-path',
+    key: 'VectorsLinePath',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.5 17.25H6a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75H1.5a.75.75 0 0 1-.75-.75V18a.75.75 0 0 1 .75-.75zM18 .75h4.5a.75.75 0 0 1 .75.75V6a.75.75 0 0 1-.75.75H18a.75.75 0 0 1-.75-.75V1.5A.75.75 0 0 1 18 .75zm-.53 5.78L6.53 17.47"],
+}
+export default VectorsLinePath

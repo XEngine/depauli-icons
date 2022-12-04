@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CommonFileGiveHand1 : IconType = {
+    name: 'common-file-give-hand-1',
+    key: 'CommonFileGiveHand1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.25 12.75V2.08A1.33 1.33 0 0 1 12.58.75h6.78a1.33 1.33 0 0 1 .94.39l2.55 2.55a1.33 1.33 0 0 1 .39.94v9.78a1.33 1.33 0 0 1-1.33 1.33H16.5M.75 14.25h3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-3m19.5-1.5a3 3 0 0 0-3-3H13.5a3 3 0 0 0-3-3H5.25v6zm-9.75-3h3m-10.88.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default CommonFileGiveHand1

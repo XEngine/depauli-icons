@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DatabaseShare : IconType = {
+    name: 'database-share',
+    key: 'DatabaseShare',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a5.25 2.25 0 1 0 0 4.5 5.25 2.25 0 1 0 0-4.5z","M6.75 3v3c0 1.24 2.35 2.25 5.25 2.25S17.25 7.24 17.25 6V3","M6.75 6v3c0 1.24 2.35 2.25 5.25 2.25s5.25-1.01 5.25-2.25V6m-15 8.25h6a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5zm3 6v3m-2.25 0h4.5m8.25-9h6a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5zm3 6v3m-2.25 0H21m-18.75-12v-1.5a1.5 1.5 0 0 1 1.5-1.5m18 3v-1.5a1.5 1.5 0 0 0-1.5-1.5"],
+}
+export default DatabaseShare

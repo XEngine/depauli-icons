@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ElephantMother : IconType = {
+    name: 'elephant-mother',
+    key: 'ElephantMother',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 15.75A2.2 2.2 0 0 1 .75 13.5V5.53A4.69 4.69 0 0 1 5.53.76a4.49 4.49 0 0 1 2.85 1.26A4.33 4.33 0 0 1 11.25.75h1.58a1.5 1.5 0 0 1 1.5 1.46c.03 2.03-.23 5.51-2.33 6.04-2.37.59-2.86-.21-2.97-.58m5.22-3.92h6c2.25 0 3 2.25 3 3.75v3.75m-16.5 12v-9a4 4 0 0 0-3-3.75m11.95 6.52a2.36 2.36 0 0 0 2.3.23c1.5-.75 1.5-3 1.5-3.75s0-1.5-1.5-1.5a4.22 4.22 0 0 0-2.33.94A2.99 2.99 0 0 0 10.5 15v5.25a1.47 1.47 0 0 0 1.5 1.5m3 1.5v-3h8.25m-3.75-6h3.75m-9.75 4.5a1.47 1.47 0 0 1 1.5 1.5","M4.88 4.5a.38.38 0 1 0 0 .76.38.38 0 1 0 0-.76z"],
+}
+export default ElephantMother

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyShout : IconType = {
+    name: 'smiley-shout',
+    key: 'SmileyShout',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 15.75h0a1.5 1.5 0 0 1 1.5 1.5v1.5a1.5 1.5 0 0 1-1.5 1.5h0a1.5 1.5 0 0 1-1.5-1.5v-1.5a1.5 1.5 0 0 1 1.5-1.5zM7.5 9.38A.38.38 0 1 1 7.88 9a.38.38 0 0 1-.38.38m9 0a.38.38 0 1 1 .38-.38.38.38 0 0 1-.38.38M6 6.05a1.8 1.8 0 0 1 3 0m6 0a1.8 1.8 0 0 1 3 0","M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5zm-2.25 12h.75m3 0h.75"],
+}
+export default SmileyShout

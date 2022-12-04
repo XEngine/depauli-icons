@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmartLightWifi1 : IconType = {
+    name: 'smart-light-wifi-1',
+    key: 'SmartLightWifi1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 23.25v-1.5m3-3a3 3 0 0 1-6 0V16.5h6zm0-2.06a8.25 8.25 0 1 0-6 0m-.18-7.12a4.5 4.5 0 0 1 6.36 0M12 11.63a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M7.76 7.01a6 6 0 0 1 8.49 0"],
+}
+export default SmartLightWifi1

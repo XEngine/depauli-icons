@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToysCarPush : IconType = {
+    name: 'toys-car-push',
+    key: 'ToysCarPush',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m4.5 8.25 1.16-3.47a1.5 1.5 0 0 1 1.42-1.03h5.67v4.5h9v6H19.5a2.25 2.25 0 0 0-4.5 0H7.5a2.25 2.25 0 0 0-4.5 0H.75v-4.5a1.5 1.5 0 0 1 1.5-1.5zm-.75 9a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm15 0a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M17.31 8.25a7.85 7.85 0 0 1 3.09-5.36","M21.75.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-12 3v3a1.5 1.5 0 0 1-1.5 1.5H4.5m1.08 9.62 1.92-3.68m9.49 3.63-1.98-3.68m-8.26 6.11h9m3-.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-15 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default ToysCarPush

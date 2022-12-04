@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToiletSign : IconType = {
+    name: 'toilet-sign',
+    key: 'ToiletSign',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.63 1.5a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm12 0a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm-10.29 21 .54-6h2.25v-3a4.5 4.5 0 0 0-9 0v3h2.25l.54 6zm11.79 0 .75-4.5h3l-2.15-6c-.7-2.1-1.17-3-3.1-3s-2.4.9-3.1 3l-2.15 6h3l.75 4.5z"],
+}
+export default ToiletSign

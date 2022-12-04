@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const EarthLocate : IconType = {
+    name: 'earth-locate',
+    key: 'EarthLocate',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.3 23.02A11.26 11.26 0 1 1 23 9.63M7.08 15.75a1.5 1.5 0 0 0 1.46-1.86l-.75-3a1.5 1.5 0 0 0-1.46-1.14H.98A11.25 11.25 0 0 0 5 20.79l1-5.04zm15.93-6.06a11.25 11.25 0 0 0-2.03-4.44h-4.06a1.5 1.5 0 0 0-1.46 1.14l-.64 2.57m3.93 6.42a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m0-4.88a4.5 4.5 0 0 1 4.5 4.5c0 1.92-2.69 5.58-3.91 7.14a.75.75 0 0 1-1.18 0c-1.22-1.56-3.91-5.22-3.91-7.14a4.5 4.5 0 0 1 4.5-4.5z"],
+}
+export default EarthLocate

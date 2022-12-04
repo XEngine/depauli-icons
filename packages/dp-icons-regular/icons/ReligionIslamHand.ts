@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ReligionIslamHand : IconType = {
+    name: 'religion-islam-hand',
+    key: 'ReligionIslamHand',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 14.24v9m15-1.5a3 3 0 0 0-3-3H9a3 3 0 0 0-3-3H.75v6zm-9.75-3h3m3.11-17.7 1.15 1.95h1.94a.53.53 0 0 1 .39.91L13.8 5.38l.99 2.78a.54.54 0 0 1-.77.68l-2.4-1.35-2.39 1.35a.54.54 0 0 1-.77-.68l.99-2.78-1.79-1.47A.53.53 0 0 1 8.04 3h1.95l1.14-1.95a.55.55 0 0 1 .97 0zm9.37 1.85a.75.75 0 0 0-1.32.61 7.98 7.98 0 0 1-9.15 9.15.75.75 0 0 0-.61 1.32A7.88 7.88 0 0 0 21.48 2.89z"],
+}
+export default ReligionIslamHand

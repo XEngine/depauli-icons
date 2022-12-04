@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GoPro : IconType = {
+    name: 'go-pro',
+    key: 'GoPro',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.75.75h18.5a2 2 0 0 1 2 2V14.5a2 2 0 0 1-2 2H2.75a2 2 0 0 1-2-2V2.75a2 2 0 0 1 2-2z","M4.25 3.75h3.5a.5.5 0 0 1 .5.5V7a.5.5 0 0 1-.5.5h-3.5a.5.5 0 0 1-.5-.5V4.25a.5.5 0 0 1 .5-.5zm7-3h10a2 2 0 0 1 2 2v10h-10a2 2 0 0 1-2-2v-10z","M17.25 3.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm-3.78 19.5H10.5l.03-6.75h2.93v6.75zm-5.22 0h7.5M6 10.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm4.51 9.75H5.25m0 2.25h-3a1.5 1.5 0 0 1 0-3h3z"],
+}
+export default GoPro

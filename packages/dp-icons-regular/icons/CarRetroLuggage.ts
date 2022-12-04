@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CarRetroLuggage : IconType = {
+    name: 'car-retro-luggage',
+    key: 'CarRetroLuggage',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.72 20.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-13.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M20.22 21.75h1.53a1.5 1.5 0 0 0 1.5-1.5 4.53 4.53 0 0 0-4.53-4.5S16.47 9 10.47 9C5.97 9 1.14 11.68.75 20.22a1.47 1.47 0 0 0 1.47 1.53h1.5m13.5 0H6.72m12-6H1.48m8.27 0V9.03M5.5 4.5H14a1 1 0 0 1 1 1V8a1 1 0 0 1-1 1H5.5a1 1 0 0 1-1-1V5.5a1 1 0 0 1 1-1zM7 .74h5.5a1 1 0 0 1 1 1v1.75a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V1.74a1 1 0 0 1 1-1zm5 3.76V9M7.5 4.5V9"],
+}
+export default CarRetroLuggage

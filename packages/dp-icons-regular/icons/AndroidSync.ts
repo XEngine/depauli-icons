@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AndroidSync : IconType = {
+    name: 'android-sync',
+    key: 'AndroidSync',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 11.25h-6v10.5a1.5 1.5 0 0 0 1.5 1.5h3M19.94 8.26A8.25 8.25 0 0 0 3.75 10.5v.75m4.88-4.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6.75 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M7.36 3.68 5.25.75m11.39 2.93L18.75.75m-15 10.5a3 3 0 0 0-3 3v6M15 18.75h-3.75v3.75m11.42-3.02a5.57 5.57 0 0 1-10.74-.73m7.57-3h3.75V12m-11.42 3.02a5.57 5.57 0 0 1 10.74.73"],
+}
+export default AndroidSync

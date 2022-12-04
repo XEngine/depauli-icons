@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShoppingCartUpload : IconType = {
+    name: 'shopping-cart-upload',
+    key: 'ShoppingCartUpload',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 17.25h15.92A1.5 1.5 0 0 0 18.15 16l2.64-14A1.5 1.5 0 0 1 22.27.75h.98M4.88 19.5a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm9.75 0a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zM9.75 2.75v10m0 0L6 9m3.75 3.75L13.5 9"],
+}
+export default ShoppingCartUpload

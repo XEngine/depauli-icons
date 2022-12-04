@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameSmartphoneLandscape : IconType = {
+    name: 'video-game-smartphone-landscape',
+    key: 'VideoGameSmartphoneLandscape',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 14.23a3.75 3.75 0 1 1 0-4.96l-3.09 2.48z","M3.75 5h16.5a3 3 0 0 1 3 3v7.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3V8a3 3 0 0 1 3-3zm1.5 0v13.5"],
+}
+export default VideoGameSmartphoneLandscape

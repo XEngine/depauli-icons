@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignTrafficLeft : IconType = {
+    name: 'road-sign-traffic-left',
+    key: 'RoadSignTrafficLeft',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m1.054 11.25 10.19-10.189a1.06 1.06 0 0 1 1.498 0l10.19 10.19a1.06 1.06 0 0 1 0 1.499l-10.19 10.189a1.06 1.06 0 0 1-1.499 0L1.054 12.749a1.06 1.06 0 0 1 0-1.499z","M9.75 7.5v9.75M12 9.75 9.75 7.5 7.5 9.75m6.75 3.75v3.75m-1.5-3.75h3"],
+}
+export default RoadSignTrafficLeft

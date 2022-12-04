@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BusinessBoatSuccess : IconType = {
+    name: 'business-boat-success',
+    key: 'BusinessBoatSuccess',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 23.25a5.28 5.28 0 0 1-3.91-1.96 3.88 3.88 0 0 1-3.42 1.96A5.54 5.54 0 0 1 12 21.29a4 4 0 0 1-3.42 1.96 5.72 5.72 0 0 1-3.91-1.96 4.24 4.24 0 0 1-3.92 1.96m22.5-4.79a5.28 5.28 0 0 1-3.91-1.96 3.88 3.88 0 0 1-3.42 1.96A5.54 5.54 0 0 1 12 16.5a4 4 0 0 1-3.42 1.96 5.72 5.72 0 0 1-3.92-1.96 4.24 4.24 0 0 1-3.91 1.96m6.85-7.21 4.02-4.34a.53.53 0 0 1 .76 0l4.02 4.34m-9.07 7.02-3.76-6.39a.39.39 0 0 1 .02-.42.5.5 0 0 1 .41-.22h16a.51.51 0 0 1 .42.21.39.39 0 0 1 .02.42l-3.71 6.4M20.38 6a2.76 2.76 0 0 0 2.87-2.63A2.76 2.76 0 0 0 20.38.75a2.81 2.81 0 0 0-2.82 2.13 1.91 1.91 0 0 0-.77-.17A1.72 1.72 0 0 0 15 4.36 1.72 1.72 0 0 0 16.79 6z"],
+}
+export default BusinessBoatSuccess

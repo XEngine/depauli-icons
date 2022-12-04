@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ImageFileClock : IconType = {
+    name: 'image-file-clock',
+    key: 'ImageFileClock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M19.9 17.25h-2.65V14.6m-9 5.65h-6a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h10.63a1.5 1.5 0 0 1 1.06.44l2.87 2.87a1.5 1.5 0 0 1 .44 1.06v3.13m-12-2.63a.38.38 0 1 1-.37.38.38.38 0 0 1 .38-.38m6.91 4.09-.92-1.46a.75.75 0 0 0-1.24-.01l-2 2.85-1.23-.99a.75.75 0 0 0-1.09.17l-1.94 3.98h4.5"],
+}
+export default ImageFileClock

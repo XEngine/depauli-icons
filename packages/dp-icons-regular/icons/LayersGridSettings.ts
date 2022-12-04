@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LayersGridSettings : IconType = {
+    name: 'layers-grid-settings',
+    key: 'LayersGridSettings',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 18.75h-4.5a3 3 0 0 1-3-3v-12a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v3m-12-6v18m6-18v9m6-3h-18m7.5 6H.75M17.25 15a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","m18.53 10.7.44 1.45a.99.99 0 0 0 1.17.68l1.47-.34a1.34 1.34 0 0 1 1.27 2.22l-1.03 1.11a1 1 0 0 0 0 1.36l1.03 1.11a1.34 1.34 0 0 1-1.27 2.22l-1.47-.34a.99.99 0 0 0-1.17.68l-.44 1.45a1.33 1.33 0 0 1-2.55 0l-.44-1.45a.99.99 0 0 0-1.17-.68l-1.47.34a1.34 1.34 0 0 1-1.27-2.22l1.03-1.11a1 1 0 0 0 0-1.36l-1.03-1.11a1.34 1.34 0 0 1 1.27-2.22l1.47.34a.99.99 0 0 0 1.17-.68l.44-1.45a1.33 1.33 0 0 1 2.55.01z"],
+}
+export default LayersGridSettings

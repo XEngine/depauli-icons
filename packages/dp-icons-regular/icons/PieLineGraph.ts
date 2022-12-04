@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PieLineGraph : IconType = {
+    name: 'pie-line-graph',
+    key: 'PieLineGraph',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m8.25 19.5 3.97-3.97a.75.75 0 0 1 1.06 0l1.94 1.94a.75.75 0 0 0 1.06 0l3.97-3.97","M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","M8.25 3.75a4.5 4.5 0 1 0 0 9 4.5 4.5 0 1 0 0-9z","M8.25 3.75v4.5l3.18 3.18m5.07-6.18h3m-3 3h3"],
+}
+export default PieLineGraph

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PolicePolygraph : IconType = {
+    name: 'police-polygraph',
+    key: 'PolicePolygraph',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 14.25h19.5a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5z","M23.25 5.25v-3a1.5 1.5 0 0 0-1.5-1.5h-3a1.5 1.5 0 0 0-1.5 1.5v3a3 3 0 0 0 6 0zm-6-1.5h6m-3 4.5v1.5a1.5 1.5 0 0 1-1.5 1.5h-6a3 3 0 0 1-3-3v-4.5a3 3 0 0 0-6 0v10.5m-3 3h3m-3 3h3m3-3h9v3h-9zm12.75 1.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default PolicePolygraph

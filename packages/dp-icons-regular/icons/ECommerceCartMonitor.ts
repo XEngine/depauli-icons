@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ECommerceCartMonitor : IconType = {
+    name: 'e-commerce-cart-monitor',
+    key: 'ECommerceCartMonitor',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m16.88.75-2.25 7.5h-6l-1.5-4.5h8.85M9 10.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m5.25 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M7.5 23.25h9M.75 15h22.5M19.5 3.75h2.25a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-12a1.5 1.5 0 0 1 1.5-1.5h1.5M12 23.25v-4.5"],
+}
+export default ECommerceCartMonitor

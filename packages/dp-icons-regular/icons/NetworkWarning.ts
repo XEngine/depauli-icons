@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NetworkWarning : IconType = {
+    name: 'network-warning',
+    key: 'NetworkWarning',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.24 22.61A11.25 11.25 0 1 1 23.25 12M9.29 1.08C7.77 3.31 6.75 7.37 6.75 12a24.57 24.57 0 0 0 1.52 8.96M.78 11.25h11.97M3 5.25h18m-18.95 12h7.7m4.96-16.17a16.98 16.98 0 0 1 2.3 7.14m.24 12.03a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m0-2.25v-3m5.81 5.68a1.77 1.77 0 0 1-1.59 2.57h-8.45a1.77 1.77 0 0 1-1.59-2.57l4.23-8.45a1.77 1.77 0 0 1 3.17 0z"],
+}
+export default NetworkWarning

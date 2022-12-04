@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AntiqueShuriken : IconType = {
+    name: 'antique-shuriken',
+    key: 'AntiqueShuriken',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.72 19.28a5.09 5.09 0 0 1 4.55 0l7.75 3.87a.85.85 0 0 0 1.14-1.14l-3.87-7.75a5.09 5.09 0 0 1 0-4.55l3.87-7.74A.85.85 0 0 0 22.02.84l-7.74 3.87a5.09 5.09 0 0 1-4.55 0L1.98.84A.85.85 0 0 0 .84 1.98l3.87 7.74a5.09 5.09 0 0 1 0 4.55L.84 22.02a.85.85 0 0 0 1.14 1.14z","M12 9.88a2.12 2.12 0 1 0 0 4.24 2.12 2.12 0 1 0 0-4.24z"],
+}
+export default AntiqueShuriken

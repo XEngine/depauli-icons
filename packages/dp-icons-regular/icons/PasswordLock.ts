@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PasswordLock : IconType = {
+    name: 'password-lock',
+    key: 'PasswordLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6 10.88a.38.38 0 1 0 .38.38.37.37 0 0 0-.38-.38m3.75-4.13V4.5A3.76 3.76 0 0 0 6 .75 3.76 3.76 0 0 0 2.25 4.5v2.25m15 13.5h3m-10.5-4.5h12a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-12a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z","M14.25 18.75v1.5m-3-1.5v1.5m0-7.5v-4.5a1.5 1.5 0 0 0-1.5-1.5h-7.5a1.5 1.5 0 0 0-1.5 1.5v6a1.5 1.5 0 0 0 1.5 1.5h3"],
+}
+export default PasswordLock

@@ -1,12 +1,12 @@
-const r = {
+const a = {
   name: "picture-polaroid-four",
   key: "PicturePolaroidFour",
   type: "regular",
   width: 24,
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
-  svgPathData: ["M1.75 13.5H9.5A1 1 0 0 1 10.5 14.5V22.25A1 1 0 0 1 9.5 23.25H1.75A1 1 0 0 1 .75 22.25V14.5A1 1 0 0 1 1.75 13.5zM.75 19.5h9.75M1.75.75H9.5A1 1 0 0 1 10.5 1.75V9.5A1 1 0 0 1 9.5 10.5H1.75A1 1 0 0 1 .75 9.5V1.75A1 1 0 0 1 1.75.75zM.75 6.75h9.75M14.5.75H22.25A1 1 0 0 1 23.25 1.75V9.5A1 1 0 0 1 22.25 10.5H14.5A1 1 0 0 1 13.5 9.5V1.75A1 1 0 0 1 14.5.75zM13.5 6.75h9.75M14.5 13.5H22.25A1 1 0 0 1 23.25 14.5V22.25A1 1 0 0 1 22.25 23.25H14.5A1 1 0 0 1 13.5 22.25V14.5A1 1 0 0 1 14.5 13.5zM13.5 19.5h9.75"]
+  svgPathData: ["M1.75 13.5H9.5a1 1 0 0 1 1 1v7.75a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V14.5a1 1 0 0 1 1-1zm-1 6h9.75M1.75.75H9.5a1 1 0 0 1 1 1V9.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1zm-1 6h9.75m4-6h7.75a1 1 0 0 1 1 1V9.5a1 1 0 0 1-1 1H14.5a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1zm-1 6h9.75M14.5 13.5h7.75a1 1 0 0 1 1 1v7.75a1 1 0 0 1-1 1H14.5a1 1 0 0 1-1-1V14.5a1 1 0 0 1 1-1zm-1 6h9.75"]
 };
 export {
-  r as default
+  a as default
 };

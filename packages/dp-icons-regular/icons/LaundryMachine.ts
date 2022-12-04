@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LaundryMachine : IconType = {
+    name: 'laundry-machine',
+    key: 'LaundryMachine',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.25.75h17.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H3.25a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1zm-1 6h19.5","M12 9.75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm.75.05L12 15m3.93 3.49L12 15m-5.12 1.17L12 15M9.75.75v6m4.13-3.38a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m4.5 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default LaundryMachine

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AdventureCar2 : IconType = {
+    name: 'adventure-car-2',
+    key: 'AdventureCar2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 17.25a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-10.5 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M21.75 18a1.5 1.5 0 0 0 1.5-1.5v-2.25a2.17 2.17 0 0 0-1.4-2.03l-3.62-1.36a1.5 1.5 0 0 1-.97-1.4V7.75C17.25 6.09 15.91 6 14.25 6H8.41a3 3 0 0 0-1.66.5l-5.33 3.56a1.5 1.5 0 0 0-.67 1.24v5.2a1.5 1.5 0 0 0 1.5 1.5m9 0h1.5M2.25 9.5v-8m15.42 9h-4.92a1.5 1.5 0 0 1-1.5-1.5V6"],
+}
+export default AdventureCar2

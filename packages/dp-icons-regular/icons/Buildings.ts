@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Buildings : IconType = {
+    name: 'buildings',
+    key: 'Buildings',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.75 8.25h8a.5.5 0 0 1 .5.5v14a.5.5 0 0 1-.5.5h-8a.5.5 0 0 1-.5-.5v-14a.5.5 0 0 1 .5-.5zm-13.5 3h9.5a.5.5 0 0 1 .5.5v11a.5.5 0 0 1-.5.5h-9.5a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5zm1 0V3A.75.75 0 0 1 3 2.25h6a.75.75 0 0 1 .75.75v8.25m-4.5-9V.75m0 7.5h1.5m-1.5-3h1.5m-3 9h4.5m-4.5 3h4.5m-4.5 3h4.5m9-6h3m-3-3h3m-3 6h3m-3 3h3"],
+}
+export default Buildings

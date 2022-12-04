@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AndroidDownload : IconType = {
+    name: 'android-download',
+    key: 'AndroidDownload',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 11.25h-6v10.5a1.5 1.5 0 0 0 1.5 1.5h4.5M19.94 8.26A8.25 8.25 0 0 0 3.75 10.5v.75","M8.63 6.75a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6.75 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M7.36 3.68 5.25.75m11.39 2.93L18.75.75m-15 10.5a3 3 0 0 0-3 3v6m16.5-9a6 6 0 1 0 0 12 6 6 0 1 0 0-12zm0 3v6m0 0L15 18m2.25 2.25L19.5 18"],
+}
+export default AndroidDownload

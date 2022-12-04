@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DecorationFlowersTable : IconType = {
+    name: 'decoration-flowers-table',
+    key: 'DecorationFlowersTable',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 15.75h19.5a1.5 1.5 0 0 1 1.5 1.5v1.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-1.5a1.5 1.5 0 0 1 1.5-1.5zm.75 4.5-.75 3m18.75-3 .75 3m-4.5-7.5a11.54 11.54 0 0 0-1.5-6h-3a11.54 11.54 0 0 0-1.5 6zm-12-10.5c6-4.5 9 4.5 9 4.5s3-6.75 6-9M8.8 4 7.5.75M17.42 4l-1.67-2.5"],
+}
+export default DecorationFlowersTable

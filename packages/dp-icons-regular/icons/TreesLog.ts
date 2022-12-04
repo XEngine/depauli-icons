@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const TreesLog : IconType = {
+    name: 'trees-log',
+    key: 'TreesLog',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 12a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5z","M12 12a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5z","M12 12h7.5a3.75 3.75 0 0 1 0 7.5H12m-7.5-4.13a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m7.5-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M5.56 9.75a3.75 3.75 0 1 1 6.88.01M9 4.5h7.5a3.75 3.75 0 0 1 3.44 5.25M9 7.88a.38.38 0 0 1 .38.38m-.75 0A.38.38 0 0 1 9 7.88m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.37.38"],
+}
+export default TreesLog

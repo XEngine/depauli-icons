@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PrimitiveSymbolsMan : IconType = {
+    name: 'primitive-symbols-man',
+    key: 'PrimitiveSymbolsMan',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a3.75 4.5 0 1 0 0 9 3.75 4.5 0 1 0 0-9z","m6 23.25 6-6 6 6m-6-13.5v7.5M5.25 6.75v3a3 3 0 0 0 3 3h7.5a3 3 0 0 0 3-3v-3"],
+}
+export default PrimitiveSymbolsMan

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FolderImage : IconType = {
+    name: 'folder-image',
+    key: 'FolderImage',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.75 6.75v-1.5a1.5 1.5 0 0 0-1.5-1.5h-9v-1.5a1.5 1.5 0 0 0-1.5-1.5h-4.5a1.5 1.5 0 0 0-1.5 1.5v16.3","M3.75 20.25v-12a1.5 1.5 0 0 1 1.5-1.5h15a1.5 1.5 0 0 1 1.5 1.5v1.5","M8.25 9.75h13.5a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5H8.25a1.5 1.5 0 0 1-1.5-1.5v-10.5a1.5 1.5 0 0 1 1.5-1.5z","M11.25 13.88a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m9 6.38-2.91-4.37a.75.75 0 0 0-1.24-.02l-2 2.85-1.24-.99a.75.75 0 0 0-1.09.17l-1.56 2.35"],
+}
+export default FolderImage

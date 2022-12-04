@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LikeRibbon : IconType = {
+    name: 'like-ribbon',
+    key: 'LikeRibbon',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.81 13.04.75 18l3.75.75 1.5 4.5 3.94-6.26m9.25-3.95L23.25 18l-3.75.75-1.5 4.5-3.94-6.26","M12 .75a8.25 8.25 0 1 0 0 16.5 8.25 8.25 0 1 0 0-16.5z","M7.5 12.15v-4.2h.6a3 3 0 0 0 3-3 1.2 1.2 0 0 1 1.2-1.2 1.63 1.63 0 0 1 1.63 1.63v.77a.6.6 0 0 0 .6.6h.17a1.8 1.8 0 0 1 1.79 1.98l-.19 1.86a2.4 2.4 0 0 1-2.39 2.16h-2.48a2.4 2.4 0 0 1-.66-.09l-1.45-.42a2.4 2.4 0 0 0-.66-.09H7.5"],
+}
+export default LikeRibbon

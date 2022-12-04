@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OfficeStationery : IconType = {
+    name: 'office-stationery',
+    key: 'OfficeStationery',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m14.679.688 1.283.206a1 1 0 0 1 .83 1.145l-.467 2.913a1 1 0 0 1-1.145.83l-1.284-.206a1 1 0 0 1-.83-1.146l.467-2.912a1 1 0 0 1 1.146-.83zM16.69 2.68l1.82 9.48-.81 5.08m4-10.408-1.284-.206a1 1 0 0 1-.83-1.146l.467-2.912a1 1 0 0 1 1.146-.83l1.283.206a1 1 0 0 1 .83 1.145l-.467 2.913a1 1 0 0 1-1.145.83z","m19.95 3.2-4.69 8.44-1.01 5.61m-9-13.5h3.5a1.01 1.01 0 0 1 1 1.01v12.49h-4.5zm2.25 0v-3m15.75 17.5a1.01 1.01 0 0 0-1.02-1H1.77a1.01 1.01 0 0 0-1.02 1v4a1.01 1.01 0 0 0 1.02 1h20.45a1.01 1.01 0 0 0 1.02-1zM6 .75h2.8m-3.55 3a3 3 0 0 0-3 3v3.75"],
+}
+export default OfficeStationery

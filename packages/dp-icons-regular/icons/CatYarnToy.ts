@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CatYarnToy : IconType = {
+    name: 'cat-yarn-toy',
+    key: 'CatYarnToy',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.7 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12z","M5.17 19.57a8.26 8.26 0 0 0 11.03-4.73M4.79 16.21a8.26 8.26 0 0 0 9.34-3.89m6.61-3.84a5.19 5.19 0 0 1-.4 2.27 5.22 5.22 0 0 0-9.44.5 5.19 5.19 0 0 1-.64-2.22 5.25 5.25 0 1 1 10.49-.56zM9.28 1.04a5.22 5.22 0 0 1 2.15.86A5.22 5.22 0 0 0 10 11.24a5.19 5.19 0 0 1-2.3.18A5.25 5.25 0 0 1 9.29 1.04z"],
+}
+export default CatYarnToy

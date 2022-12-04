@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WarehouseCartWorker : IconType = {
+    name: 'warehouse-cart-worker',
+    key: 'WarehouseCartWorker',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.12 9.77a3.9 3.9 0 0 0-3.36 3.95v3.54h1.5v5.25a.75.75 0 0 0 .75.75h3a.75.75 0 0 0 .75-.75v-5.25h1.5V13.5a3.75 3.75 0 0 0-4.14-3.73zm.39-9.02a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm-6 9h-1.04A1.5 1.5 0 0 0 11 10.94l-1.74 8.13a1.5 1.5 0 0 1-1.47 1.19H.76m1.12 2.24a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38","M1.51 11.25h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75h-4.5a.75.75 0 0 1-.75-.75V12a.75.75 0 0 1 .75-.75zm21-7.5h-7.5"],
+}
+export default WarehouseCartWorker

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CogHandGive : IconType = {
+    name: 'cog-hand-give',
+    key: 'CogHandGive',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.86 14.25v9m0-1.5h15a3 3 0 0 0-3-3H9.11a3 3 0 0 0-3-3H.86m5.25 3h3M15.1 7.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","m16.93 16.5.16-1.11A5.95 5.95 0 0 0 19 14.28l1.95.78a1.5 1.5 0 0 0 1.86-.64l.2-.35a1.5 1.5 0 0 0-.37-1.93l-1.63-1.28a5.61 5.61 0 0 0 0-2.23l1.63-1.28A1.5 1.5 0 0 0 23 5.42l-.2-.35a1.5 1.5 0 0 0-1.86-.64L19 5.22a5.95 5.95 0 0 0-1.91-1.1l-.3-2.07A1.5 1.5 0 0 0 15.3.75h-.4a1.5 1.5 0 0 0-1.48 1.29l-.3 2.07a5.94 5.94 0 0 0-1.91 1.1l-1.94-.78a1.5 1.5 0 0 0-1.86.64l-.2.35a1.5 1.5 0 0 0 .37 1.93l1.64 1.28a5.56 5.56 0 0 0 0 2.23l-1.63 1.28"],
+}
+export default CogHandGive

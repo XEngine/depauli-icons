@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SearchEngineBing2 : IconType = {
+    name: 'search-engine-bing-2',
+    key: 'SearchEngineBing2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m11.14 9.29 8.49 3.25v5.43L9.76 23.2l-5.38-2.77V.8l4.39 1.97v15.49l6.61-3.25-3.25-1.28-.99-4.44z"],
+}
+export default SearchEngineBing2
