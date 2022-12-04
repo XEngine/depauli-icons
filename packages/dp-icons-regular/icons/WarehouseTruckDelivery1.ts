@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WarehouseTruckDelivery1 : IconType = {
+    name: 'warehouse-truck-delivery-1',
+    key: 'WarehouseTruckDelivery1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.66 20.25h-1.15a1.5 1.5 0 0 1-1.5-1.5v-5.09a8.42 8.42 0 0 1 1.27-4.46 8.41 8.41 0 0 1 7.13-3.95 1.34 1.34 0 0 1 1.34 1.34v6.16","M17.26 15.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M9.01 2.25v18a1.5 1.5 0 0 1-1.5 1.5h-4.5m16.85-1.5h3.4m-14.25-1.5h3m11.25-6h-1.5a3 3 0 0 0-3 3v.4","M1.26 13.5h4.25a.5.5 0 0 1 .5.5v4.25a.5.5 0 0 1-.5.5H1.26a.5.5 0 0 1-.5-.5V14a.5.5 0 0 1 .5-.5z"],
+}
+export default WarehouseTruckDelivery1

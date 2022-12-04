@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DentistryToothShield : IconType = {
+    name: 'dentistry-tooth-shield',
+    key: 'DentistryToothShield',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.25 8.58a3.13 3.13 0 0 0-3.03-3.23A2.93 2.93 0 0 0 12 6.4a2.93 2.93 0 0 0-2.22-1.05 3.13 3.13 0 0 0-3.03 3.23 6.72 6.72 0 0 0 1.23 3.45.83.83 0 0 1 .09.8 6.87 6.87 0 0 0-.51 2.62v1.01a1.01 1.01 0 0 0 2.02 0 2.51 2.51 0 0 1 2.29-2.62 2.43 2.43 0 0 1 2.55 2.62 1.01 1.01 0 0 0 2.02 0v-1.01a6.85 6.85 0 0 0-.57-2.77.82.82 0 0 1 .06-.84 6.13 6.13 0 0 0 1.32-3.26zm-15-4.66v7.61a11.91 11.91 0 0 0 7.63 11.12l1.04.4a3 3 0 0 0 2.15 0l1.04-.4a11.91 11.91 0 0 0 7.63-11.11V3.92a1.49 1.49 0 0 0-.87-1.36A21.7 21.7 0 0 0 12 .75a21.7 21.7 0 0 0-8.88 1.81 1.49 1.49 0 0 0-.87 1.36z"],
+}
+export default DentistryToothShield

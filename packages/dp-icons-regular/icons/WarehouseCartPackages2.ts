@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WarehouseCartPackages2 : IconType = {
+    name: 'warehouse-cart-packages-2',
+    key: 'WarehouseCartPackages2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.76 16.5h15.96a1.5 1.5 0 0 0 1.49-1.28l1.86-12.45a1.5 1.5 0 0 1 1.48-1.27h1.71","M3.01 7.5h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75h-4.5a.75.75 0 0 1-.75-.75v-4.5a.75.75 0 0 1 .75-.75zm6-3h6a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1-.75-.75v-7.5a.75.75 0 0 1 .75-.75zM4.13 18.75a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm10.5 0a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76z"],
+}
+export default WarehouseCartPackages2

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToiletPaper1 : IconType = {
+    name: 'toilet-paper-1',
+    key: 'ToiletPaper1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 3.75h6.02c-3 9 4.5 10.5 0 16.5h-6.02m-7.5-13.5c-4.14 0-7.5-1.34-7.5-3v16.5c0 1.66 3.36 3 7.5 3s7.5-1.34 7.5-3V3.75c0 1.66-3.36 3-7.5 3z","M8.25.75a7.5 3 0 1 0 0 6 7.5 3 0 1 0 0-6zm-.75 3H9"],
+}
+export default ToiletPaper1

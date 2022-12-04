@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SchoolBookApple : IconType = {
+    name: 'school-book-apple',
+    key: 'SchoolBookApple',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 17.25h19.5a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5z","M3.75 20.25h12m3.38 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m0-.75a.38.38 0 0 1 .38.38M10.24.75c1.48 0 2.51 1.5 2.51 3.75m2.11-.75-2.11.75-1.96-.75a3.03 3.03 0 0 0-3.55.44 3.75 3.75 0 0 1-1.08 5.92c.71 2.99 2.49 5.39 4.32 5.63a1 1 0 0 0 .57-.12l1.4-.7a1.08 1.08 0 0 1 .96 0l1.4.7a1.01 1.01 0 0 0 .57.12c1.99-.26 4.33-3.08 4.88-6.41.47-2.83-1.2-7.44-5.39-5.58z"],
+}
+export default SchoolBookApple

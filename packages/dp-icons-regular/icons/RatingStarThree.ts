@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RatingStarThree : IconType = {
+    name: 'rating-star-three',
+    key: 'RatingStarThree',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m18.62 13.13 1.46 2.62h2.48a.68.68 0 0 1 .49 1.16l-2.28 2.49 1.26 2.9a.69.69 0 0 1-.98.86L18 21.44l-3.05 1.72a.69.69 0 0 1-.98-.86l1.26-2.9-2.28-2.49a.68.68 0 0 1 .49-1.16h2.48l1.46-2.62a.69.69 0 0 1 1.24 0zm-12 0 1.46 2.62h2.48a.68.68 0 0 1 .49 1.16L8.77 19.4l1.26 2.9a.69.69 0 0 1-.98.86L6 21.44l-3.05 1.72a.69.69 0 0 1-.98-.86l1.26-2.9-2.28-2.49a.68.68 0 0 1 .49-1.16h2.48l1.46-2.62a.69.69 0 0 1 1.24 0zm6-12 1.46 2.62h2.48a.68.68 0 0 1 .49 1.16L14.77 7.4l1.26 2.9a.69.69 0 0 1-.98.86L12 9.44l-3.05 1.72a.69.69 0 0 1-.98-.86l1.26-2.9-2.27-2.49a.68.68 0 0 1 .49-1.16h2.48l1.46-2.62a.69.69 0 0 1 1.24 0z"],
+}
+export default RatingStarThree

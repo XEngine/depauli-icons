@@ -1,0 +1,3 @@
+export * from './PresentationProjectorScreenBudgetAnalytics'
+import PresentationProjectorScreenBudgetAnalytics from './PresentationProjectorScreenBudgetAnalytics'
+export default PresentationProjectorScreenBudgetAnalytics

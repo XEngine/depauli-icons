@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ColorPalette1 : IconType = {
+    name: 'color-palette-1',
+    key: 'ColorPalette1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 9.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm18 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM5.25 12h13.5M12 .75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0 18a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm0-13.5v13.5M5.64 3.39a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm12.72 12.72a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-4.11-1.86 2.52 2.52M7.23 7.23l2.52 2.52m8.61-6.36a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM5.64 16.11a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm4.11-1.86-2.52 2.52m9.55-9.55-2.53 2.53"],
+}
+export default ColorPalette1

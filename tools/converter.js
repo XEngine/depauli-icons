@@ -12,12 +12,12 @@ async function main() {
     const startsWithNumber = (str) => /^\d/.test(str)
 
     const icons = [
-        {
+        /*{
             name: 'misc',
             package: 'dp-icons-misc',
             path: './svg/misc/',
         },
-        /*{
+        {
             name: 'bold',
             package: 'dp-icons-bold',
             path: './svg/bold/',
@@ -26,12 +26,12 @@ async function main() {
             name: 'light',
             package: 'dp-icons-light',
             path: './svg/light/',
-        },
+        },*/
         {
             name: 'regular',
             package: 'dp-icons-regular',
             path: './svg/regular/',
-        },*/
+        },
     ]
 
     for (const iconPackage of icons) {
@@ -39,6 +39,8 @@ async function main() {
         const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
         const indexContent = []
         const iconNameContent = []
+        const inferTemp = await fs.readFile('./tools/iconTypeInterfaceTemplate.ts', "utf8");
+
         for (const icon of iconFiles) {
             const fileName = icon.split('/').pop().split('.')[0]
             const iconName = componentify(fileName);
@@ -50,7 +52,7 @@ async function main() {
             const svg = await fs.readFile(icon, "utf8");
             try {
                 const component = await svgToVue(fileName, iconName, svg, iconPackage);
-                await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
+                await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.ts`, component, "utf8");
                 console.log(iconPackage.package, iconName, 'done')
             } catch (e) {
                 console.log(icon, iconName)
@@ -62,6 +64,8 @@ async function main() {
         }
 
         const indexFileResult = `${[...new Set(indexContent)].join('\n')}\n\nexport {${[...new Set(iconNameContent)].join(',\n')}}`
+        await fs.writeFileSync(`./packages/${iconPackage.package}/icons/iconTypeInterface.ts`, inferTemp, "utf8");
+
         fs.writeFileSync(`./packages/${iconPackage.package}/index.js`, indexFileResult, "utf8");
     }
 }

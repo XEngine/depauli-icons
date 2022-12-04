@@ -5,5 +5,5 @@ export default {
     width: 24,
     height: 24,
     attributes: {"fill":"currentColor"},
-    svgPathData: ["M18.5 6.5A5.5 5.5 0 1 0 18.5 17.5 5.5 5.5 0 1 0 18.5 6.5zM5.5 6.5A5.5 5.5 0 1 0 5.5 17.5 5.5 5.5 0 1 0 5.5 6.5z"],
+    svgPathData: ["M18.5 6.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 1 0 0-11zm-13 0a5.5 5.5 0 1 0 0 11 5.5 5.5 0 1 0 0-11z"],
 }

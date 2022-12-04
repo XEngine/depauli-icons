@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AmusementParkFerrisWheel1 : IconType = {
+    name: 'amusement-park-ferris-wheel-1',
+    key: 'AmusementParkFerrisWheel1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.86 5.25a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 1 0 0-13.5z","m8.38 17.79-1.92 3.19a1.5 1.5 0 0 0 1.29 2.27h8.2a1.5 1.5 0 0 0 1.29-2.27l-1.91-3.19M11.86 5.25v13.5m5.61-3L6.24 8.25m0 7.5 11.23-7.5M11.86.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.76 4.45a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm.09 8.94a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM4.09 5.2a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM4 14.14a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default AmusementParkFerrisWheel1

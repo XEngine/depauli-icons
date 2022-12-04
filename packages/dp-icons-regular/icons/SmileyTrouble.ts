@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyTrouble : IconType = {
+    name: 'smiley-trouble',
+    key: 'SmileyTrouble',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5zm-2.25 16.5h4.5","M8.25 7.88a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38","M8.25 5.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm7.5 2.63a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38","M15.75 5.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5z"],
+}
+export default SmileyTrouble

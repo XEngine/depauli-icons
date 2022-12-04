@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SignBadgeBadge1 : IconType = {
+    name: 'sign-badge-badge-1',
+    key: 'SignBadgeBadge1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 23.25a3.01 3.01 0 0 0 1.08-.2l1.04-.4a22.24 22.24 0 0 0 6.23-3.34 5.96 5.96 0 0 0 .75-8.39 3 3 0 0 1 0-3.84l2.15-2.58L20.88.75l-3.91 3.62a.75.75 0 0 1-.9-.04L12.48.92a.75.75 0 0 0-.96 0l-3.58 3.4a.75.75 0 0 1-.9.04L3.12.75.75 4.5 2.9 7.08a3 3 0 0 1 0 3.84 5.96 5.96 0 0 0 .75 8.39 22.24 22.24 0 0 0 6.23 3.34l1.04.4a3.01 3.01 0 0 0 1.08.2z"],
+}
+export default SignBadgeBadge1

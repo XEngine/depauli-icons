@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LoadingHalf : IconType = {
+    name: 'loading-half',
+    key: 'LoadingHalf',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.5 8.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zM8.63 22.5zm0 0a.38.38 0 1 0 .38.37.38.38 0 0 0-.38-.38M2.25 15a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm1.88-9.01a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zM12.38.74a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26z"],
+}
+export default LoadingHalf

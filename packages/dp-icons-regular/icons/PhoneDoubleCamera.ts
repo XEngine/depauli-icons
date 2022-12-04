@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PhoneDoubleCamera : IconType = {
+    name: 'phone-double-camera',
+    key: 'PhoneDoubleCamera',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 23.25V3.75a3 3 0 0 1 3-3h13.5a3 3 0 0 1 3 3v19.5M2.25 6.75h7.5a3 3 0 0 0 3-3v-3m-7.5 2.63zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m3.75 0zm0 0a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38"],
+}
+export default PhoneDoubleCamera

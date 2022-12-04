@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ListNumbers : IconType = {
+    name: 'list-numbers',
+    key: 'ListNumbers',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.25 3.75h15m-15 9h15m-15 9h15M.8 18.36a1.5 1.5 0 1 1 1.45 1.89 1.5 1.5 0 1 1-1.45 1.9m-.06-10.9a1.5 1.5 0 0 1 3 0 2.14 2.14 0 0 1-.47 1.34L.75 14.25h3M.75.75h.75a.75.75 0 0 1 .75.75v5.25m-1.5 0h3"],
+}
+export default ListNumbers

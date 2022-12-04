@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PhoneCircle : IconType = {
+    name: 'phone-circle',
+    key: 'PhoneCircle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.14 17.7h.01a3.23 3.23 0 0 0 4.01-.44l.45-.45a1.08 1.08 0 0 0 0-1.52l-1.9-1.9a1.08 1.08 0 0 0-1.52 0 1.08 1.08 0 0 1-1.52 0l-3.04-3.04a1.08 1.08 0 0 1 0-1.52 1.08 1.08 0 0 0 0-1.52l-1.9-1.9A1.08 1.08 0 0 0 7.2 5.4l-.45.45a3.23 3.23 0 0 0-.44 4.02v.01a29.14 29.14 0 0 0 7.83 7.83zM21 18.76a11.25 11.25 0 1 0-9 4.5c4.42 0 6.45-2.14 5.22-5.34"],
+}
+export default PhoneCircle

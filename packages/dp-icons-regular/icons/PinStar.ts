@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PinStar : IconType = {
+    name: 'pin-star',
+    key: 'PinStar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.5 8.25c0 4.22-2.93 6.65-5.13 9-1.32 1.41-2.37 6-2.37 6s-1.05-4.59-2.36-5.99c-2.2-2.35-5.14-4.78-5.14-9.01a7.5 7.5 0 0 1 15 0zm-7.94-4.23a.49.49 0 0 1 .87 0l1.01 2.04a.49.49 0 0 0 .37.26l2.27.33a.48.48 0 0 1 .39.33.47.47 0 0 1-.12.49l-1.65 1.6a.48.48 0 0 0-.14.42l.39 2.26a.48.48 0 0 1-.19.47.49.49 0 0 1-.51.03l-2.02-1.06a.49.49 0 0 0-.45 0l-2.02 1.06a.49.49 0 0 1-.51-.03.48.48 0 0 1-.19-.47l.39-2.26a.48.48 0 0 0-.13-.42l-1.65-1.6a.47.47 0 0 1-.12-.49.48.48 0 0 1 .39-.33l2.27-.33a.49.49 0 0 0 .37-.26z"],
+}
+export default PinStar

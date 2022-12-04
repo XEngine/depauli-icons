@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FruitWatermelon : IconType = {
+    name: 'fruit-watermelon',
+    key: 'FruitWatermelon',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.2 17.95a1.55 1.55 0 0 0 .13 2.31 13.62 13.62 0 0 0 18.05-.87 13.62 13.62 0 0 0 .87-18.05 1.55 1.55 0 0 0-2.31-.14zm.9-.9a10.64 10.64 0 0 0 15.04.21 10.64 10.64 0 0 0-.21-15.04M15 9.75h1.5m-3.75 3 1.5 1.5m-4.5.75v1.5"],
+}
+export default FruitWatermelon

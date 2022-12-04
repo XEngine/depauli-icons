@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SmileyShineBigEyes : IconType = {
+    name: 'smiley-shine-big-eyes',
+    key: 'SmileyShineBigEyes',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1 9.64a11.25 11.25 0 1 0 22-.01M15.48 1.3a11.31 11.31 0 0 0-6.98.01m9.87 12.94a.75.75 0 0 1 .71 1 7.5 7.5 0 0 1-14.15 0 .75.75 0 0 1 .71-1zM5.25.75A7.75 7.75 0 0 1 .75 6a7.74 7.74 0 0 1 4.5 5.25A7.74 7.74 0 0 1 9.75 6 7.75 7.75 0 0 1 5.25.75m13.5 0A7.75 7.75 0 0 1 14.25 6a7.74 7.74 0 0 1 4.5 5.25A7.74 7.74 0 0 1 23.25 6a7.75 7.75 0 0 1-4.5-5.25"],
+}
+export default SmileyShineBigEyes

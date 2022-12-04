@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NightMoonBegin : IconType = {
+    name: 'night-moon-begin',
+    key: 'NightMoonBegin',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M11.66 23.01v-7.5m2.25 2.25-2.25-2.25-2.25 2.25m5.25 2.25h8.25m-21.75 0h7.5m6.75-11.25a6 6 0 0 1-6-6A5.93 5.93 0 0 1 9.75.85a5.98 5.98 0 1 0 7.57 7.57 5.96 5.96 0 0 1-1.91.34z"],
+}
+export default NightMoonBegin

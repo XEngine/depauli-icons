@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ShelfTv1 : IconType = {
+    name: 'shelf-tv-1',
+    key: 'ShelfTv1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3 11.25h18a1.5 1.5 0 0 1 1.5 1.5v9a1.5 1.5 0 0 1-1.5 1.5H3a1.5 1.5 0 0 1-1.5-1.5v-9a1.5 1.5 0 0 1 1.5-1.5zm9 12v-7.5","M9 19.13a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m6 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38M1.5 15.75h21m-15-15h9a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 6 6.75v-4.5A1.5 1.5 0 0 1 7.5.75zm4.5 7.5v3"],
+}
+export default ShelfTv1

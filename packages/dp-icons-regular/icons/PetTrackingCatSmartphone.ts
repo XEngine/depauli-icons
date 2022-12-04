@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PetTrackingCatSmartphone : IconType = {
+    name: 'pet-tracking-cat-smartphone',
+    key: 'PetTrackingCatSmartphone',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M14.75 8.25H6a2.25 2.25 0 0 0 0 4.5h6m-5.25 0v6m-2.18-6.52-.82 6.51","M4.36 8.95 1.68 6a3.18 3.18 0 0 1 0-4.5 2.55 2.55 0 0 1 3.6 0 2.04 2.04 0 0 1 0 2.88m15.87 3.99a2.57 2.57 0 0 0 .6-1.62V2.31a.75.75 0 0 0-1.22-.59L18.94 3a1.5 1.5 0 0 1-1.87 0l-1.59-1.28a.75.75 0 0 0-1.22.59v4.44a2.69 2.69 0 0 0 .97 2.01m1.52 2.49h5.5a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-5.5a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1z","M19.5 19.12a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default PetTrackingCatSmartphone

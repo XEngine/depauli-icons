@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const BeerHalfGlass : IconType = {
+    name: 'beer-half-glass',
+    key: 'BeerHalfGlass',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m20.25 2.25-3 7.99a15 15 0 0 0-.66 8.21l.57 2.84a.75.75 0 0 1-.33.78A8.75 8.75 0 0 1 12 23.25a8.75 8.75 0 0 1-4.83-1.18.75.75 0 0 1-.33-.78l.57-2.84a15 15 0 0 0-.66-8.21l-3-7.99","M12 .75a8.25 1.5 0 1 0 0 3 8.25 1.5 0 1 0 0-3zm0 9a4.92 1.5 0 1 0 0 3 4.92 1.5 0 1 0 0-3zm-.75 8.63a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"],
+}
+export default BeerHalfGlass

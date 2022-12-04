@@ -1,13 +1,20 @@
-import { defineConfig } from 'vite'
+import {defineConfig} from 'vite'
 import react from '@vitejs/plugin-react'
+import dts from 'vite-plugin-dts'
 
 export default defineConfig({
-    plugins: [react()],
+    plugins: [
+        dts({
+            insertTypesEntry: true,
+            outputDir: 'dist/types',
+        }),
+        react()
+    ],
     build: {
         lib: {
-            entry: './src/index.js',
+            entry: './src/index.ts',
             name: 'DPIcon',
-            fileName: (format) => `dp-icons-react.${format}.js`
+            fileName: (format) => `dp-icon.${format}.js`
         },
         rollupOptions: {
             external: ["react", "react-dom"],

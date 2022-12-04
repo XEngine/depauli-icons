@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Hierarchy10 : IconType = {
+    name: 'hierarchy-10',
+    key: 'Hierarchy10',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75.75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm0 11.25a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm16.5-6a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm0 11.25a3 3 0 1 0 0 6 3 3 0 1 0 0-6zM6.62 4.66l10.76 3.42M6.43 16.34l10.85 3.45M6.37 13.54l11.19-3.2"],
+}
+export default Hierarchy10

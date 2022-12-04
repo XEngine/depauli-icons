@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CompositionFrameMan : IconType = {
+    name: 'composition-frame-man',
+    key: 'CompositionFrameMan',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 8.25a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm-4.5 10.5a4.5 4.5 0 0 1 9 0z","M3.75 5.25h16.5a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5H3.75a1.5 1.5 0 0 1-1.5-1.5V6.75a1.5 1.5 0 0 1 1.5-1.5zM2.25.75h19.5m-19.5 22.5h19.5"],
+}
+export default CompositionFrameMan

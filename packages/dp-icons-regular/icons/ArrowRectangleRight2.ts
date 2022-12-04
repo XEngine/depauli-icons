@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArrowRectangleRight2 : IconType = {
+    name: 'arrow-rectangle-right-2',
+    key: 'ArrowRectangleRight2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.75.75h18.5a2 2 0 0 1 2 2v18.5a2 2 0 0 1-2 2H2.75a2 2 0 0 1-2-2V2.75a2 2 0 0 1 2-2z","M6.94 17.35 11.1 12 6.94 6.65a.86.86 0 0 1 .56-1.4h4.42a1.44 1.44 0 0 1 1.13.58l4.37 5.62a.92.92 0 0 1 0 1.11l-4.37 5.62a1.44 1.44 0 0 1-1.13.58H7.5a.86.86 0 0 1-.56-1.4z"],
+}
+export default ArrowRectangleRight2

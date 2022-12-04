@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const StyleOnePinWarning : IconType = {
+    name: 'style-one-pin-warning',
+    key: 'StyleOnePinWarning',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.25 12a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .37-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m0-3v-3m9 3a9 9 0 1 0-10.8 8.82l1.8 4.68 1.8-4.68a9 9 0 0 0 7.2-8.82z"],
+}
+export default StyleOnePinWarning

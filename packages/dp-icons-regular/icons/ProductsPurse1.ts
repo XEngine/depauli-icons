@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ProductsPurse1 : IconType = {
+    name: 'products-purse-1',
+    key: 'ProductsPurse1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m21.2 12.08 1.16 4.89a5.12 5.12 0 0 1-5.02 6.29H6.66a5.12 5.12 0 0 1-5.02-6.29l1.16-4.89","M9.75 14.25H6.58a4.29 4.29 0 0 1-4.33-4.24V6.75a1.5 1.5 0 0 1 1.5-1.5h16.5a1.5 1.5 0 0 1 1.5 1.5v3.26a4.29 4.29 0 0 1-4.33 4.24h-3.17","M12 12a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM10.25.75h3.5a2 2 0 0 1 2 2v2.5h-7.5v-2.5a2 2 0 0 1 2-2z"],
+}
+export default ProductsPurse1

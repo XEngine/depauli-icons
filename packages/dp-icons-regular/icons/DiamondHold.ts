@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DiamondHold : IconType = {
+    name: 'diamond-hold',
+    key: 'DiamondHold',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M16.28 9.33a4.72 4.72 0 0 1 2.26 3.8 2.8 2.8 0 0 1-.7 1.97l-.99 1.14a1.88 1.88 0 0 1-2.75.09l-1.94-1.94a1.41 1.41 0 0 0-2 2l3.51 3.98a3.77 3.77 0 0 1 1.1 2.66v.21m8.48 0v-9.18a10.41 10.41 0 0 0-.41-2.56 7.69 7.69 0 0 0-4.46-4.96M.88 5.49h14.74M3.47.75a.94.94 0 0 0-.83.5L.84 4.71a.77.77 0 0 0 .13.9l6.65 6.99a.89.89 0 0 0 1.27 0l6.65-6.99a.77.77 0 0 0 .13-.9l-1.95-3.48a.94.94 0 0 0-.82-.48zM.75 14.99h3m-1.5-1.5v3m18-14.25h3m-1.5-1.5v3M4.46.75l3.75 12.11M12.04.75 8.29 12.86"],
+}
+export default DiamondHold

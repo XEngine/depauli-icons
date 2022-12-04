@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ConcertSpeakers : IconType = {
+    name: 'concert-speakers',
+    key: 'ConcertSpeakers',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 5.25v6m19.5-6v6m-20.5 3H7a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-.5.5H1.25a.5.5 0 0 1-.5-.5v-8a.5.5 0 0 1 .5-.5zm15.75 0h5.75a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-.5.5H17a.5.5 0 0 1-.5-.5v-8a.5.5 0 0 1 .5-.5z","M19.88 18.75a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38","M19.88 19.5a.38.38 0 0 1-.38-.38","M20.25 19.13a.38.38 0 0 1-.38.38m-15.74-.76a.38.38 0 0 1 .38.38m-.76 0a.38.38 0 0 1 .38-.38","M4.13 19.5a.38.38 0 0 1-.38-.38","M4.5 19.13a.38.38 0 0 1-.38.38M1.75.75h20.5a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1z","m2.25.75 4.5 4.5L12 .75l5.25 4.5 4.5-4.5"],
+}
+export default ConcertSpeakers

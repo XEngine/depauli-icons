@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Dat1 : IconType = {
+    name: 'dat-1',
+    key: 'Dat1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.24.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.24a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5z","M4.49 18a3 3 0 0 0 3-3v-1.5a3 3 0 0 0-3-3zm6 0v-6a1.5 1.5 0 1 1 3 0v6m-3-3h3m4.5 3v-7.5m-1.5 0h3"],
+}
+export default Dat1

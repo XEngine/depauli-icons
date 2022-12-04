@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const RoadSignAirportClose : IconType = {
+    name: 'road-sign-airport-close',
+    key: 'RoadSignAirportClose',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m18.28 12.98-1.25 1.12m-9.07-3.58 2.09.83 3.75-3.36 2.09.83-3.05 3.64 4.19 1.65-1.81 1.62a1.5 1.5 0 0 1-1.55.28l-6.81-2.68a1.5 1.5 0 0 1 1.1-2.79z","m1.054 11.25 10.19-10.189a1.06 1.06 0 0 1 1.498 0l10.19 10.19a1.06 1.06 0 0 1 0 1.499l-10.19 10.189a1.06 1.06 0 0 1-1.499 0L1.054 12.749a1.06 1.06 0 0 1 0-1.499z"],
+}
+export default RoadSignAirportClose

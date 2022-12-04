@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideoGameLogoOverwatch : IconType = {
+    name: 'video-game-logo-overwatch',
+    key: 'VideoGameLogoOverwatch',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M8.09 4.11a.75.75 0 0 0 .87.23 8.15 8.15 0 0 1 6.09 0 .75.75 0 0 0 .87-.23l.98-1.22a.75.75 0 0 0-.28-1.15 11.23 11.23 0 0 0-9.21 0 .75.75 0 0 0-.28 1.15zm12.9 1.15a.75.75 0 0 0-1.19-.02l-.97 1.21a.75.75 0 0 0-.03.89 8.24 8.24 0 0 1 .04 9.25l-2.88-2.88a1.49 1.49 0 0 1-.33-.5l-1.27-3.18a.45.45 0 0 0-.86.17v4.26a1.5 1.5 0 0 0 .35.96l2.82 3.39a8.25 8.25 0 0 1-9.34 0l2.82-3.39a1.5 1.5 0 0 0 .35-.96V10.2a.45.45 0 0 0-.86-.17l-1.27 3.18a1.49 1.49 0 0 1-.33.5L5.15 16.6a8.24 8.24 0 0 1 .04-9.25.75.75 0 0 0-.03-.89l-.97-1.21A.75.75 0 0 0 3 5.27 11.25 11.25 0 1 0 23.25 12a11.17 11.17 0 0 0-2.26-6.74z"],
+}
+export default VideoGameLogoOverwatch

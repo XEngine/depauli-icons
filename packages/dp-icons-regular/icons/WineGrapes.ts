@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const WineGrapes : IconType = {
+    name: 'wine-grapes',
+    key: 'WineGrapes',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z","M6 9a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm3 4.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM12 9a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm6 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-3 4.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM12 18a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm0-14.25V6h.72a3.16 3.16 0 0 0 3-2.16l.03-.09"],
+}
+export default WineGrapes

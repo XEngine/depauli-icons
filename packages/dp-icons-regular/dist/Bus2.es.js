@@ -1,12 +1,12 @@
-const t = {
+const a = {
   name: "bus-2",
   key: "Bus2",
   type: "regular",
   width: 24,
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
-  svgPathData: ["M5.25 20.15v1.56a1.5 1.5 0 0 0 3 0v-1.5M18.75 20.15v1.56a1.5 1.5 0 0 1-3 0v-1.5M3.75 5.21h-1.5a1.5 1.5 0 0 0-1.5 1.5v3M20.25 5.21h1.5a1.5 1.5 0 0 1 1.5 1.5v3", "M5.75.71H18.25A2 2 0 0 1 20.25 2.71V18.21A2 2 0 0 1 18.25 20.21H5.75A2 2 0 0 1 3.75 18.21V2.71A2 2 0 0 1 5.75.71zM20.25 14.21H3.75m10.5 3h3m-10.5 0h3m0-13.5h4.5"]
+  svgPathData: ["M5.25 20.15v1.56a1.5 1.5 0 0 0 3 0v-1.5m10.5-.06v1.56a1.5 1.5 0 0 1-3 0v-1.5m-12-15h-1.5a1.5 1.5 0 0 0-1.5 1.5v3m19.5-4.5h1.5a1.5 1.5 0 0 1 1.5 1.5v3", "M5.75.71h12.5a2 2 0 0 1 2 2v15.5a2 2 0 0 1-2 2H5.75a2 2 0 0 1-2-2V2.71a2 2 0 0 1 2-2zm14.5 13.5H3.75m10.5 3h3m-10.5 0h3m0-13.5h4.5"]
 };
 export {
-  t as default
+  a as default
 };

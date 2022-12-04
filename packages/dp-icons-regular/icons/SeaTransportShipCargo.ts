@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SeaTransportShipCargo : IconType = {
+    name: 'sea-transport-ship-cargo',
+    key: 'SeaTransportShipCargo',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 23.26a5.51 5.51 0 0 0 4.5-1.5 4.55 4.55 0 0 0 6.75 0 4.55 4.55 0 0 0 6.75 0 5.51 5.51 0 0 0 4.5 1.5m-22.14-4.5h22.03m-.86 1.69c.98-1.16.98-1.98.97-3.87a.83.83 0 0 0-.19-.57.75.75 0 0 0-.55-.24H10.86a1.5 1.5 0 0 1-1.3-.75 1.5 1.5 0 0 0-1.3-.75H1.5a.75.75 0 0 0-.55.24.83.83 0 0 0-.19.57c0 1.95 0 3.95 1.25 5.24M20.25 9.76v3m-11.5-9h2a.5.5 0 0 1 .5.5v4h-3v-4a.5.5 0 0 1 .5-.5zm-2 7.5h3m9-9.75a3.29 3.29 0 0 1-2.25.75c-2.4 0-2.1-1.5-4.5-1.5a3.29 3.29 0 0 0-2.25.75m12 14.25v-1.5a1.5 1.5 0 0 0-1.5-1.5h-4.5a1.5 1.5 0 0 1-1.5-1.5 3 3 0 0 0-3-3h-3a1.5 1.5 0 0 0-1.5 1.5v4.5m10.5-4.5v3m-3.4-3h7.9"],
+}
+export default SeaTransportShipCargo

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CanoePerson : IconType = {
+    name: 'canoe-person',
+    key: 'CanoePerson',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 14.5H16.5a3.05 3.05 0 0 0 2.87-2.5.75.75 0 0 1 1.24-.38c1.41 1.29 3.47 3.93 1.69 7.27M8.25 1a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26z","m2.07 14.5 2.59-5.17a1.5 1.5 0 0 1 1.55-.81l2.61.37a4.49 4.49 0 0 0 3.52-1l1.64-1.37a1.5 1.5 0 0 1 1.92 2.31l-1.64 1.37a7.53 7.53 0 0 1-5.86 1.66l-1.54-.22-1.43 2.86m10.06-8.22 1.76-4.53M12.29 14.5l1.55-3.98M.75 22.75a4.67 4.67 0 0 0 3.75-1.9 4.65 4.65 0 0 0 7.5 0 4.65 4.65 0 0 0 7.5 0 4.67 4.67 0 0 0 3.75 1.9"],
+}
+export default CanoePerson

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AppWindowError404 : IconType = {
+    name: 'app-window-error-404',
+    key: 'AppWindowError404',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.01 2.25h18a1.5 1.5 0 0 1 1.5 1.5v16.5a1.5 1.5 0 0 1-1.5 1.5h-18a1.5 1.5 0 0 1-1.5-1.5V3.75a1.5 1.5 0 0 1 1.5-1.5z","M1.51 6.75h21m-15 9h-3v-1.5a3 3 0 0 1 3-3v6m12-1.5h-3v-1.5a3 3 0 0 1 3-3v6m-6-1.5a1.5 1.5 0 0 1-3 0v-3a1.5 1.5 0 0 1 3 0z"],
+}
+export default AppWindowError404

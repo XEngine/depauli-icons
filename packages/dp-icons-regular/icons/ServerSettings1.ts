@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ServerSettings1 : IconType = {
+    name: 'server-settings-1',
+    key: 'ServerSettings1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4.5 3.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.37h1.5m3 0h1.5M4.5 9.38a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38m5.25.37h1.5m-6.75 9h3.75v-6M1.13 18a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38","M18.75 3.75a3 3 0 0 1-3 3h-12a3 3 0 0 1 0-6h12a3 3 0 0 1 3 3zm-10.5 9h-4.5a3 3 0 0 1 0-6h12m1.5 8.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","m18.52 10.7.44 1.45a.99.99 0 0 0 1.17.68l1.47-.34a1.34 1.34 0 0 1 1.27 2.22l-1.03 1.11a1 1 0 0 0 0 1.36l1.03 1.11a1.34 1.34 0 0 1-1.27 2.22l-1.47-.34a.99.99 0 0 0-1.17.68l-.44 1.45a1.33 1.33 0 0 1-2.55 0l-.44-1.45a.99.99 0 0 0-1.17-.68l-1.47.34a1.34 1.34 0 0 1-1.27-2.22l1.03-1.11a1 1 0 0 0 0-1.36l-1.03-1.11a1.34 1.34 0 0 1 1.27-2.22l1.47.34a.99.99 0 0 0 1.17-.68l.44-1.45a1.33 1.33 0 0 1 2.55.01z"],
+}
+export default ServerSettings1

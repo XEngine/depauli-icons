@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const EquipmentCement : IconType = {
+    name: 'equipment-cement',
+    key: 'EquipmentCement',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.75 18.75h-1.5m8.87 0h.13a3 3 0 0 0 3-3v-6H.75v6a3 3 0 0 0 3 3h.13","M6 17.25a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm12 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm3.33-7.5a2.97 2.97 0 0 0 .42-1.5 2.99 2.99 0 0 0-4.79-2.4 5.22 5.22 0 0 0-9.92 0 2.98 2.98 0 0 0-4.37 3.9"],
+}
+export default EquipmentCement

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MaskHeartDouble : IconType = {
+    name: 'mask-heart-double',
+    key: 'MaskHeartDouble',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","m8.26 13.35-3.68-3.9a2.92 2.92 0 0 1-.53-3.33 2.81 2.81 0 0 1 4.54-.75l.78.8.78-.8a2.81 2.81 0 0 1 4.54.75 2.92 2.92 0 0 1 .28 1.59m-1.09 12.54-4.79-5.09a2.92 2.92 0 0 1-.53-3.33 2.81 2.81 0 0 1 4.54-.75l.78.8.78-.8a2.81 2.81 0 0 1 4.54.75 2.92 2.92 0 0 1-.53 3.33z"],
+}
+export default MaskHeartDouble

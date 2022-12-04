@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AnalyticsGraphBar : IconType = {
+    name: 'analytics-graph-bar',
+    key: 'AnalyticsGraphBar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 23.25H22.5m-19.75-4.5H5.5a.5.5 0 0 1 .5.5v4H2.25v-4a.5.5 0 0 1 .5-.5zm7.5-9H13a.5.5 0 0 1 .5.5v13H9.75v-13a.5.5 0 0 1 .5-.5zm7.5 4.5h2.75a.5.5 0 0 1 .5.5v8.5h-3.75v-8.5a.5.5 0 0 1 .5-.5zM6.88 5.12 2.87 9.13m11.45-2.81L9.65 5.07m10.76-2.19-3.58 2.8M8.25 3a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM21.75.75a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-6 4.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM2.25 9a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z"],
+}
+export default AnalyticsGraphBar

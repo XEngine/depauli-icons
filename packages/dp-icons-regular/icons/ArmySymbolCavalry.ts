@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ArmySymbolCavalry : IconType = {
+    name: 'army-symbol-cavalry',
+    key: 'ArmySymbolCavalry',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M2.25 4.5h19.5a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H2.25A1.5 1.5 0 0 1 .75 18V6a1.5 1.5 0 0 1 1.5-1.5z","m1.44 4.74 21.12 14.52m0-14.52L1.44 19.26M15.75 15a3 3 0 0 0 0-6h-7.5a3 3 0 0 0 0 6z"],
+}
+export default ArmySymbolCavalry

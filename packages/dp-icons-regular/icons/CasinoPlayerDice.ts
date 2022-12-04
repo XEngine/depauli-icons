@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CasinoPlayerDice : IconType = {
+    name: 'casino-player-dice',
+    key: 'CasinoPlayerDice',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.13 12.75a9.01 9.01 0 0 0 4.37 6.29v4.21m9 0V21l1.01.17A3 3 0 0 0 21 18.21v-2.46l.94-.23a1.5 1.5 0 0 0 .88-2.29L21 10.5v-.75c0-3.98-3.63-7.24-8.25-7.5m-11-1.5h7a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1z","M7.13 3a.38.38 0 0 1 .38.38m-.75 0A.38.38 0 0 1 7.13 3m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M3.38 3a.38.38 0 0 1 .38.38m-.75 0A.38.38 0 0 1 3.38 3m0 .75A.38.38 0 0 1 3 3.38m.75 0a.38.38 0 0 1-.38.38m3.75 3a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38m-3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75A.38.38 0 0 1 3 7.13m.75 0a.38.38 0 0 1-.38.38"],
+}
+export default CasinoPlayerDice

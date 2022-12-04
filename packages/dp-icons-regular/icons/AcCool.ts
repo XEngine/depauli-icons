@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AcCool : IconType = {
+    name: 'ac-cool',
+    key: 'AcCool',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75.75h16.5a3 3 0 0 1 3 3v4.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3v-4.5a3 3 0 0 1 3-3z","M5.25 3.75h13.5m0 4.5H5.25a1.5 1.5 0 0 0-1.5 1.5v1.5h16.5v-1.5a1.5 1.5 0 0 0-1.5-1.5zm-13.5 6s-1.5 0-1.5 2.25 1.5 2.25 1.5 4.5-1.5 2.25-1.5 2.25m16.5-9s-1.5 0-1.5 2.25 1.5 2.25 1.5 4.5-1.5 2.25-1.5 2.25M12 15.75v6m-2.6-4.5 5.2 3m-5.2 0 5.2-3"],
+}
+export default AcCool

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const CdPlayer : IconType = {
+    name: 'cd-player',
+    key: 'CdPlayer',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.81 9.47a4.96 4.96 0 0 1 3.37-3.46m-6.93 6.74h19.5a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z","M3.75 21.75v-1.5m16.5 1.5v-1.5m-1.54-10.5a8.25 8.25 0 0 0-16.42 0m9.66 0a1.62 1.62 0 0 0-2.9 0m10.08 6a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-13.88 1.5h8.25"],
+}
+export default CdPlayer

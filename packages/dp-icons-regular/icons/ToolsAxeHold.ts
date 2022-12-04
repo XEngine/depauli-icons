@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ToolsAxeHold : IconType = {
+    name: 'tools-axe-hold',
+    key: 'ToolsAxeHold',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.69 19.37a3 3 0 0 0 0-4.24l-2.07-2.07a1.5 1.5 0 0 0-2.12 0l-4.63 4.63a1.5 1.5 0 0 0 0 2.12l2.07 2.07a3 3 0 0 0 4.24 0zM9.06 13.5a2.49 2.49 0 0 1 0-3 1.51 1.51 0 0 1 2.25 0l4.06 4.06a2.74 2.74 0 0 1 0 3.88 1.5 1.5 0 0 0 0 2.12l2.69 2.69M16.12.75A6.97 6.97 0 0 0 11.62 3a6.97 6.97 0 0 0-2.25 4.5l4.5 2.25 3.75 3.75a1.5 1.5 0 0 0 2.12 0l2.38-2.38a1.5 1.5 0 0 0 0-2.12l-3.75-3.75zm3.6 5.84 1.34-1.34M10.92 15.39l4.3-4.3"],
+}
+export default ToolsAxeHold

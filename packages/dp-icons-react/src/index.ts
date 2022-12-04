@@ -1,7 +1,8 @@
 import Library from './library'
-import DpIcon from './dp-icon.jsx'
 
-export {
-    DpIcon as default,
-    Library
-}
+export type {IDPIconProps} from './dp-icon'
+export type {IconType} from './library'
+
+export {Library}
+
+export {DpIcon as default} from './dp-icon'

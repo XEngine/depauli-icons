@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LaundryHandWash : IconType = {
+    name: 'laundry-hand-wash',
+    key: 'LaundryHandWash',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 18.64A4.38 4.38 0 0 1 21 17.25a3.96 3.96 0 0 1-3 1.5v-.03a4.19 4.19 0 0 1-3-1.47 3.96 3.96 0 0 1-3 1.5v-.03a4.19 4.19 0 0 1-3-1.47 3.96 3.96 0 0 1-3 1.5v-.03a4.19 4.19 0 0 1-3-1.47 4.08 4.08 0 0 1-2.25 1.42v4.58h22.5zm-6-17.89a8.5 8.5 0 0 1-4.92 2.42 20.46 20.46 0 0 0-7.85 2.74L2.96 6.96A1.5 1.5 0 0 0 4.5 9.54l1.52-1.05a17.43 17.43 0 0 1 3.95-1.75 8.22 8.22 0 0 0-3.95 5.76 1.5 1.5 0 1 0 2.96.5 5.24 5.24 0 0 1 4.05-4.27l1.03-.23a12.34 12.34 0 0 0-2.03 4.71 1.5 1.5 0 0 0 2.94.59 9.36 9.36 0 0 1 3.18-5.34l1.52-1.27a6.9 6.9 0 0 1-1.37 3.91 1.5 1.5 0 0 0 2.4 1.8 9.29 9.29 0 0 0 1.8-7.65l.75-.75"],
+}
+export default LaundryHandWash

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LandmarkColosseum : IconType = {
+    name: 'landmark-colosseum',
+    key: 'LandmarkColosseum',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 3.75a11.25 6 0 1 0 0 12 11.25 6 0 1 0 0-12z","M.75 9.75v7.5c0 3.31 5.04 6 11.25 6s11.25-2.69 11.25-6v-7.5","M12 7.5a8.25 4.13 0 1 0 0 8.26 8.25 4.13 0 1 0 0-8.26z","M12 11.25a4.5 2.25 0 1 0 0 4.5 4.5 2.25 0 1 0 0-4.5zM10.5 23.2v-2.95a1.5 1.5 0 0 1 3 0v2.95M2.25 6.76V3m19.5 3.76V3M8.25 4.09V.75m7.5 3.34V.75"],
+}
+export default LandmarkColosseum

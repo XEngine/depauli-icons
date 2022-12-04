@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PunishmentPrisonerBars : IconType = {
+    name: 'punishment-prisoner-bars',
+    key: 'PunishmentPrisonerBars',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","M12 3.75a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm-3.75-3V16.5M15.75.75V16.5M3.75.75v22.5M20.25.75v22.5m-4.5-4.5a2.25 2.25 0 0 0 0 4.5h.75a3.75 3.75 0 0 0 3.75-3.75v-.75a4.5 4.5 0 0 0-4.5-4.5h-7.5a4.5 4.5 0 0 0-4.5 4.5v.75a3.75 3.75 0 0 0 3.75 3.75h.75a2.25 2.25 0 0 0 0-4.5"],
+}
+export default PunishmentPrisonerBars

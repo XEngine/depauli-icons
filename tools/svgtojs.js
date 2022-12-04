@@ -47,7 +47,8 @@ module.exports = async (name, componentName, content, iconPackage) => {
     }
 
 
-    return `export default {
+    return `import {IconType} from './iconTypeInterface';
+ const ${componentName} : IconType = {
     name: '${name}',
     key: '${componentName}',
     type: '${iconPackage.name}',
@@ -56,5 +57,6 @@ module.exports = async (name, componentName, content, iconPackage) => {
     attributes: ${JSON.stringify(style)},
     svgPathData: ${JSON.stringify(paths.map(x => x.attributes.d))},
 }
+export default ${componentName}
 `
 }

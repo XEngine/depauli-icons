@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LivestockSheepBody : IconType = {
+    name: 'livestock-sheep-body',
+    key: 'LivestockSheepBody',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M17.76 1.25a3 3.75 0 1 0 0 7.5 3 3.75 0 1 0 0-7.5z","M15.01 3.5a3.45 3.45 0 0 1-2.5 1.5m8-1.5a3.45 3.45 0 0 0 2.5 1.5m-4.09 3.46c.84.61 1.84 2.14 1.84 5.17a6.2 6.2 0 0 1-6 6.38 5.74 5.74 0 0 1-3.75-1.44A5.74 5.74 0 0 1 7.26 20a6.2 6.2 0 0 1-6-6.38 6.2 6.2 0 0 1 6-6.38 5.74 5.74 0 0 1 3.75 1.44m6 10.85V23m-3.75-3.21V23m-9-3.85V23"],
+}
+export default LivestockSheepBody

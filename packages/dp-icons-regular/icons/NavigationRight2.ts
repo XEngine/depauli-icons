@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const NavigationRight2 : IconType = {
+    name: 'navigation-right-2',
+    key: 'NavigationRight2',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M13.51.75 21.34 12l-7.83 11.25M3.32.75c-.54 0-.73.36-.42.8l6.71 9.64a1.52 1.52 0 0 1 0 1.61L2.9 22.44c-.31.44-.12.8.42.8h3.3a2.11 2.11 0 0 0 1.54-.8l6.71-9.64a1.51 1.51 0 0 0 0-1.61L8.16 1.55a2.11 2.11 0 0 0-1.54-.8z"],
+}
+export default NavigationRight2

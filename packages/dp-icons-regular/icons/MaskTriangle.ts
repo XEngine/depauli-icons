@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const MaskTriangle : IconType = {
+    name: 'mask-triangle',
+    key: 'MaskTriangle',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M19.45 19.03c.13.26 0 .47-.28.47H4.83c-.28 0-.41-.21-.28-.47l7.21-14.34c.13-.26.34-.26.47 0z","M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z"],
+}
+export default MaskTriangle

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SocialProfileClick : IconType = {
+    name: 'social-profile-click',
+    key: 'SocialProfileClick',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["m23.14 23.25.1-1.12a3 3 0 0 0-2.34-3.2l-3.65-.81v-5.74a1.88 1.88 0 0 0-3.75 0v9.2l-1.48-1.11a1.53 1.53 0 0 0-2.15 2.15l.47.63","M21.75 15.75V2.25a1.5 1.5 0 0 0-1.5-1.5h-18a1.5 1.5 0 0 0-1.5 1.5v16.5a1.5 1.5 0 0 0 1.5 1.5h4.5m-6-15h21","M4.5 8.25H9a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-.75.75H4.5a.75.75 0 0 1-.75-.75V9a.75.75 0 0 1 .75-.75zm-.75 9h6m3-9h6"],
+}
+export default SocialProfileClick

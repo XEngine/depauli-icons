@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const AntiqueCatapult : IconType = {
+    name: 'antique-catapult',
+    key: 'AntiqueCatapult',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.75 17.25a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm10.5 0a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M3.75 20.25H1.5a.75.75 0 0 1-.75-.75V18a.75.75 0 0 1 .75-.75h21a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-.75.75h-2.25m-10.5 0h4.5m-1.5-3 4.5-7.5 4.5 7.5m-4.5 0v-9m-3.37 7.13L9 10.49m.01.01a3 3 0 1 1-4.24-4.24zM16.13.75a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zM12 4.5A10.79 10.79 0 0 0 9.75 6"],
+}
+export default AntiqueCatapult

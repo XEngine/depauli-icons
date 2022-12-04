@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const OrganicTree : IconType = {
+    name: 'organic-tree',
+    key: 'OrganicTree',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M22.93 22.56a3.71 3.71 0 0 0-4.76-2 7.49 7.49 0 0 0-12.35 0 3.71 3.71 0 0 0-4.76 2m8.68-7.59s.56-.47 1.13-12.28a1.13 1.13 0 0 1 2.25 0c.56 11.81 1.13 12.28 1.13 12.28","M17.92 3.31a4.96 2.49-45 1 0 3.52 3.52 4.96 2.49-45 1 0-3.52-3.52zM.813 1.563a4.96 2.49 45 1 0 7.014 7.014A4.96 2.49 45 1 0 .813 1.563z"],
+}
+export default OrganicTree

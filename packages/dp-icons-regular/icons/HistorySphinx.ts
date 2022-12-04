@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const HistorySphinx : IconType = {
+    name: 'history-sphinx',
+    key: 'HistorySphinx',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M6.38 2.25A11.24 11.24 0 0 0 .75 12v2.75a3 3 0 0 0 .6 1.8l1.05 1.4a3 3 0 0 1 .6 1.8v.5a3 3 0 0 0 3 3h1.5v-6m9 0v6H18a3 3 0 0 0 3-3v-.5a3 3 0 0 1 .6-1.8l1.05-1.4a3 3 0 0 0 .6-1.8V12a11.24 11.24 0 0 0-5.63-9.75M6 6.75a7.5 7.5 0 1 0 12 0zm4.5 0-1-2.5a2.55 2.55 0 0 1 2.36-3.5h.27a2.55 2.55 0 0 1 2.37 3.5l-1 2.51M10.47 18.6l.78 4.66h1.5l.78-4.66m-3.03-8.1A1.63 1.63 0 0 0 9 9.75a1.63 1.63 0 0 0-1.5.75h-.75m6.75 0a1.63 1.63 0 0 1 1.5-.75 1.63 1.63 0 0 1 1.5.75h.75M6 6.75 4.45 3.66M18 6.75l1.55-3.09"],
+}
+export default HistorySphinx

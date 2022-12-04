@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LandmarkLondonEye : IconType = {
+    name: 'landmark-london-eye',
+    key: 'LandmarkLondonEye',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M.75 23.25h22.5m-16.5 0 3.89-8.34a1.5 1.5 0 0 1 2.72 0l3.89 8.34M12 .75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm6.75 3.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm.75 7.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M19.85 8.71a8.3 8.3 0 0 1 .35 3.4M14.23 3.3a8.24 8.24 0 0 1 3.14 1.68M5.25 4.5a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zM4.5 12a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z","M5.46 16.28a8.25 8.25 0 0 0 13.07 0M4.15 8.71a8.3 8.3 0 0 0-.35 3.4M9.77 3.3a8.24 8.24 0 0 0-3.14 1.68"],
+}
+export default LandmarkLondonEye

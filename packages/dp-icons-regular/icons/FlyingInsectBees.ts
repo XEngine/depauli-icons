@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FlyingInsectBees : IconType = {
+    name: 'flying-insect-bees',
+    key: 'FlyingInsectBees',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12.59 14.25a6 2.25 0 1 0 0 4.5 6 2.25 0 1 0 0-4.5z","M6.59 16.5s-1.5 6.75 6 6.75 6-6.75 6-6.75M7.37 6.36a.37.37 0 0 1 .26.46m-.72-.2a.38.38 0 0 1 .46-.26m-.2.72a.38.38 0 0 1-.26-.46m.72.2a.37.37 0 0 1-.46.26m.43-2.99S7.14.08 10.03.87s-.46 4.54-.46 4.54m-4.52-.52s-3.22-2.43-4.01.46 4.14 1.91 4.14 1.91m11.69 3.71a.37.37 0 0 1-.21.49m-.28-.7a.37.37 0 0 1 .49.21m-.7.28a.38.38 0 0 1 .21-.49m.28.7a.37.37 0 0 1-.49-.21m2.64-1.47s2.92-2.79 4.04-.01-3.9 2.37-3.9 2.37m-2.31-3.92s-.01-4.04-2.79-2.92.98 4.46.98 4.46"],
+}
+export default FlyingInsectBees

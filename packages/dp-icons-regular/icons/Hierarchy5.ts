@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Hierarchy5 : IconType = {
+    name: 'hierarchy-5',
+    key: 'Hierarchy5',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.5.75H19a.75.75 0 0 1 .75.75v3a.75.75 0 0 1-.75.75H5.5a.75.75 0 0 1-.75-.75v-3A.75.75 0 0 1 5.5.75zm6.75 4.5v13.5m-7.5 0v-4.5a1.5 1.5 0 0 1 1.5-1.5h12a1.5 1.5 0 0 1 1.5 1.5v4.5m-15 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.5 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm7.5 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5z"],
+}
+export default Hierarchy5

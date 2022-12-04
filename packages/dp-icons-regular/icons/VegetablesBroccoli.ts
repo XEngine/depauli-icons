@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VegetablesBroccoli : IconType = {
+    name: 'vegetables-broccoli',
+    key: 'VegetablesBroccoli',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.68 13.77a13.12 13.12 0 0 0-5.45-5.46m-2.35 0c-.58 3.73-2.96 6.65-6.54 9.37a1.51 1.51 0 0 0-.15 2.27l2.85 2.85a1.51 1.51 0 0 0 2.27-.15c2.72-3.57 5.63-5.96 9.36-6.54m-4.07 1.51a4.53 4.53 0 0 0 8.93-.66 4.5 4.5 0 0 0 1.39-.94 4.53 4.53 0 0 0-1.41-7.38 4.51 4.51 0 0 0-5.14-5.14 4.53 4.53 0 0 0-8.32-.02 4.54 4.54 0 0 0-.66 8.93m4.93-5.75a2.28 2.28 0 0 1-4.43.41m3.24 4.68 2.11-2.11m.04 4.25 2.11-2.11m2.98.92a2.28 2.28 0 0 0-.41 4.43"],
+}
+export default VegetablesBroccoli

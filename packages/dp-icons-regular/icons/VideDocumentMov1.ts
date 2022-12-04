@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const VideDocumentMov1 : IconType = {
+    name: 'vide-document-mov-1',
+    key: 'VideDocumentMov1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M1.75.75h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1z","M8.25 18v-7.5L6 14.25 3.75 10.5V18m7.5 0v-7.5m0 0H12a2.25 2.25 0 0 1 0 4.5h-.75m8.25 0h.75v1.5a1.5 1.5 0 0 1-3 0V12a1.5 1.5 0 0 1 1.5-1.5h1.5"],
+}
+export default VideDocumentMov1

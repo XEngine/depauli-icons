@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const SingleNeutralActionsMail : IconType = {
+    name: 'single-neutral-actions-mail',
+    key: 'SingleNeutralActionsMail',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.25 15.75v6a1.5 1.5 0 0 1-1.5 1.5h-9a1.5 1.5 0 0 1-1.5-1.5v-6","M23.25 15.75a1.5 1.5 0 0 0-1.5-1.5h-9a1.5 1.5 0 0 0-1.5 1.5L16.46 19a1.5 1.5 0 0 0 1.59 0zM6 .75a3 3 0 1 0 0 6 3 3 0 1 0 0-6zm4.74 10.5A5.25 5.25 0 0 0 .75 13.5v2.25H3l.75 7.5h4.5l.19-1.85"],
+}
+export default SingleNeutralActionsMail

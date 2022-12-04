@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const DesktopMonitorLock : IconType = {
+    name: 'desktop-monitor-lock',
+    key: 'DesktopMonitorLock',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M15.75 23.25h-7.5l.75-3h6l.75 3zm-9.75 0h12m-17.25-6h22.5m-3-13.5a3 3 0 0 1 3 3v10.5a3 3 0 0 1-3 3H3.75a3 3 0 0 1-3-3V6.75a3 3 0 0 1 3-3","M12 7.88a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38","M7.88 5.25h8.24a.38.38 0 0 1 .38.38v5.24a.38.38 0 0 1-.38.38H7.88a.38.38 0 0 1-.38-.38V5.63a.38.38 0 0 1 .38-.38zm1.12 0v-1.5a3 3 0 0 1 6 0v1.5"],
+}
+export default DesktopMonitorLock

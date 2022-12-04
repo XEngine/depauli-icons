@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LandmarkSaintBasilSCathderal : IconType = {
+    name: 'landmark-saint-basil-s-cathderal',
+    key: 'LandmarkSaintBasilSCathderal',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M4 9a2.1 2.1 0 0 1-.88-1.75c0-1.21 1.64-1.86 2.19-3.5.55 1.64 2.19 2.29 2.19 3.5A2.1 2.1 0 0 1 6.63 9m.62 7.5a2.1 2.1 0 0 0 .88-1.75c0-1.21-1.64-1.86-2.19-3.5-.55 1.64-2.19 2.29-2.19 3.5a2.1 2.1 0 0 0 .88 1.75v3.75m6.75-3.75a2.1 2.1 0 0 1-.88-1.75c0-1.21 1.64-1.86 2.19-3.5.55 1.64 2.19 2.29 2.19 3.5A2.1 2.1 0 0 1 14 16.5m7.75-2.25v-1.5a3.6 3.6 0 0 0 1.5-3c0-2.07-2.81-3.19-3.75-6-.94 2.81-3.75 3.93-3.75 6a3.6 3.6 0 0 0 1.5 3m3.55 4.14-2.08 2.91a1.96 1.96 0 0 0-.36 1.14v2.31h4.14a.75.75 0 0 0 .75-.75v-1.56a1.96 1.96 0 0 0-.36-1.14z","M18.36 23.25H1.5a.75.75 0 0 1-.75-.75v-1.57A2.94 2.94 0 0 1 3.69 18h.94m9.02-14.55 1.1 3.3m-2-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","m9.75 10.5 2.1-7.05m-1.35 19.8v-1.88a1.88 1.88 0 0 1 3.75 0v1.88"],
+}
+export default LandmarkSaintBasilSCathderal

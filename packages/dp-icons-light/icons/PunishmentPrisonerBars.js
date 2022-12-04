@@ -5,5 +5,5 @@ export default {
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},
-    svgPathData: ["M12 1.5A2 2 0 1 0 12 5.5 2 2 0 1 0 12 1.5zM15 12.5h-1a1 1 0 0 0 0 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H9a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1a1 1 0 0 0 0-2H9M15 23.5v-9M9 14.5v9M9 9.5v-9M15 9.5v-9M5 .5v23M19 .5v23","M2 .5H22A1 1 0 0 1 23 1.5V22.5A1 1 0 0 1 22 23.5H2A1 1 0 0 1 1 22.5V1.5A1 1 0 0 1 2 .5zM12 17v6.5"],
+    svgPathData: ["M12 1.5a2 2 0 1 0 0 4 2 2 0 1 0 0-4zm3 11h-1a1 1 0 0 0 0 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H9a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1a1 1 0 0 0 0-2H9m6 11v-9m-6 0v9m0-14v-9m6 9v-9M5 .5v23m14-23v23","M2 .5h20a1 1 0 0 1 1 1v21a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-21a1 1 0 0 1 1-1zM12 17v6.5"],
 }

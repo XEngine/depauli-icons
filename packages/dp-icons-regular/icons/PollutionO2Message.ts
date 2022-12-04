@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PollutionO2Message : IconType = {
+    name: 'pollution-o2-message',
+    key: 'PollutionO2Message',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M9.75 6.75h1.5a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-1.5a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z","M15 12.38a1.13 1.13 0 0 1 2.26 0 1.61 1.61 0 0 1-.35 1L15 15.75h2.25m-4.5-15a10.49 10.49 0 0 0-8.92 16.03L.75 23.25l6.48-3.08A10.5 10.5 0 1 0 12.75.75z"],
+}
+export default PollutionO2Message

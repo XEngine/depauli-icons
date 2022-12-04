@@ -4,10 +4,10 @@ import fs from "fs-extra";
 import Piscina from "piscina";
 
 async function run() {
-    const iconFiles = fastGlob.sync(`./icons/*.js`);
+    const iconFiles = fastGlob.sync(`./icons/*.ts`);
 
     const libraries = [
-        {
+        /*{
             entry: './index.js',
             name: 'DPIconRegular',
             exports: {
@@ -16,7 +16,7 @@ async function run() {
                 require: './dist/DPIconRegular.umd.js'
 
             }
-        },
+        },*/
         ...iconFiles.map(x => {
             const fileName = x.split('/').pop().split('.')[0]
             return {

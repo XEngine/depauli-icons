@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const FamilyChildPlayCar : IconType = {
+    name: 'family-child-play-car',
+    key: 'FamilyChildPlayCar',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M3.75 20.81a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m7.5 0a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-4.5.38h1.5m-7.5-.75v-1.5a1.5 1.5 0 0 1 1.5-1.5H4.5l.47-1.86a1.5 1.5 0 0 1 1.46-1.14H9a.75.75 0 0 1 .75.75v2.25h3.75a.75.75 0 0 1 .75.75v2.25m-3-18.76a2.63 2.63 0 1 0 0 5.26 2.63 2.63 0 1 0 0-5.26zm10.5 17.26H18a1.5 1.5 0 0 1-1.4-2.03l1.83-4.89-2.39-1.59-2.89 3.47a1.5 1.5 0 0 1-2.31-1.92l3.75-4.5a1.5 1.5 0 0 1 1.99-.29l4.5 3a1.5 1.5 0 0 1 .57 1.78l-1.49 3.97h1.59a1.5 1.5 0 1 1 0 3z"],
+}
+export default FamilyChildPlayCar

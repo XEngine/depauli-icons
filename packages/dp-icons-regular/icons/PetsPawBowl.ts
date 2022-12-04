@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const PetsPawBowl : IconType = {
+    name: 'pets-paw-bowl',
+    key: 'PetsPawBowl',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M12 15.75a3 2.25 0 1 0 0 4.5 3 2.25 0 1 0 0-4.5zm0-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zM6.75 12a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm10.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z","M20.38 7.4a2.99 2.99 0 0 1 .04-1.28l.93-3.73a.75.75 0 0 0-1.03-.87 7.88 7.88 0 0 1-3.06.74c-2.25 0-3-1.5-5.25-1.5s-3 1.5-5.25 1.5a7.88 7.88 0 0 1-3.06-.74.75.75 0 0 0-1.03.87l.93 3.73a3 3 0 0 1 .03 1.28L1.29 19.8a3 3 0 0 0 2.97 3.45h15.51a3 3 0 0 0 2.97-3.46z"],
+}
+export default PetsPawBowl

@@ -5,5 +5,5 @@ export default {
     width: 24,
     height: 24,
     attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round"},
-    svgPathData: ["M8 6.5H16A1 1 0 0 1 17 7.5V22.5A1 1 0 0 1 16 23.5H8A1 1 0 0 1 7 22.5V7.5A1 1 0 0 1 8 6.5zM12 .5v6m-4 0 4-4m0 0 4 4m-6-6h4m-7 9h10m-10 11h10"],
+    svgPathData: ["M8 6.5h8a1 1 0 0 1 1 1v15a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1v-15a1 1 0 0 1 1-1zm4-6v6m-4 0 4-4m0 0 4 4m-6-6h4m-7 9h10m-10 11h10"],
 }

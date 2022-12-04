@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const LightModeSunnyMan : IconType = {
+    name: 'light-mode-sunny-man',
+    key: 'LightModeSunnyMan',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M18.01.81v.86m3.72.66-.61.61m2.13 3.12h-.86m-.66 3.61-.61-.61m-3.11 2.13v-.86m-3.61-.66.61-.61m-2.13-3h.86m.66-3.73.61.61m2.99.87a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 1 0 0-4.5zm-5.25 19.38a6.02 6.02 0 0 0-6-6 6.02 6.02 0 0 0-6 6m2.77-13.15a6.24 6.24 0 0 0 6.95 1.4","M6.75 8.19a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5z"],
+}
+export default LightModeSunnyMan

@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const ElephantDraw : IconType = {
+    name: 'elephant-draw',
+    key: 'ElephantDraw',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M5.89 9.75c-1.14 2.45-1.15 5.49.86 7.5 1.5-2.25 3.75-4.5 6-4.5a16.22 16.22 0 0 1 4.37.71M8.3 23.25s-8.25-.75-7.5-9A11.53 11.53 0 0 1 2.37 9M15 15s3.75-3 5.25-3 3 2.25 3 4.5-2.25 6-4.5 6-3-.75-3-.75M5.77 5.62l4.03 5.64M4.82 2.58c.91.5 2.49 1.83.47 3.51a1.87 1.87 0 0 1-2.64-.25A3.95 3.95 0 0 1 2.32.75c.96 1.16.72.87 2.49 1.83zM12 9.75v-7.5a1.5 1.5 0 0 1 1.5-1.5h8.25a1.5 1.5 0 0 1 1.5 1.5v7.5M15 8.25l1.4-2a1.5 1.5 0 0 1 2.46 0l1.4 2z","M19.88 3a.38.38 0 1 0 0 .76.38.38 0 1 0 0-.76zm-8.21 14.25a.38.38 0 1 0 0 .76.38.38 0 1 0 0-.76z"],
+}
+export default ElephantDraw

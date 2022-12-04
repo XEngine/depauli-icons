@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const GardeningSeedBag : IconType = {
+    name: 'gardening-seed-bag',
+    key: 'GardeningSeedBag',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M23.15 11.48a1.5 1.5 0 0 1-.85 1.94l-9.78 3.83-1.1-2.79-2.79 1.09-1.1-2.79-2.79 1.1-2.18-5.59a1.5 1.5 0 0 1 .85-1.94L17.37.85a1.5 1.5 0 0 1 1.94.85zM1.98 22.06a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.37.37 0 0 1-.38-.38m.75 0a.37.37 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.37.37 0 0 1-.38-.38m.75 0a.37.37 0 0 1-.38.38m3.75-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.37.37 0 0 1-.38-.38m.74 0a.37.37 0 0 1-.38.38m-1.5-4.5a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.37.37 0 0 1-.38-.38m.75 0a.37.37 0 0 1-.38.38m-3.74-.75a.38.38 0 0 1 .38.38m-.75 0a.38.38 0 0 1 .38-.38m0 .75a.37.37 0 0 1-.38-.38m.75 0a.37.37 0 0 1-.38.38"],
+}
+export default GardeningSeedBag

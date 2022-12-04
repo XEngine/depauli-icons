@@ -25,10 +25,6 @@
         "vite": "^3.0.9"
     },
     "exports": {
-        ".": {
-            "import": "./dist/DPIconRegular.es.js",
-            "require": "./dist/DPIconRegular.umd.js"
-        },
         "./AbTestingAward": {
             "import": "./dist/AbTestingAward.es.js",
             "require": "./dist/AbTestingAward.umd.js"
@@ -15236,6 +15232,10 @@
         "./IceWater": {
             "import": "./dist/IceWater.es.js",
             "require": "./dist/IceWater.umd.js"
+        },
+        "./iconTypeInterface": {
+            "import": "./dist/iconTypeInterface.es.js",
+            "require": "./dist/iconTypeInterface.umd.js"
         },
         "./IdeaMessage": {
             "import": "./dist/IdeaMessage.es.js",
@@ -37329,5 +37329,8 @@
             "import": "./dist/ZoomOutPage.es.js",
             "require": "./dist/ZoomOutPage.umd.js"
         }
+    },
+    "dependencies": {
+        "vite-plugin-dts": "^1.7.1"
     }
 }

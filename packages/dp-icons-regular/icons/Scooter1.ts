@@ -1,0 +1,11 @@
+import {IconType} from './iconTypeInterface';
+ const Scooter1 : IconType = {
+    name: 'scooter-1',
+    key: 'Scooter1',
+    type: 'regular',
+    width: 24,
+    height: 24,
+    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
+    svgPathData: ["M10.5 6.94v3.56a.75.75 0 0 0 .75.75h1.5a.75.75 0 0 0 .75-.75V6.94m-9-3.19h-3m21 0h-3M9.4 2.25H6a1.5 1.5 0 0 0 0 3h3.4m5.2 0H18a1.5 1.5 0 0 0 0-3h-3.4","M12 .75a3 3 0 1 0 0 6 3 3 0 1 0 0-6z","M12 14.25a1.5 1.5 0 0 0-1.5 1.5v6a1.5 1.5 0 0 0 3 0v-6a1.5 1.5 0 0 0-1.5-1.5zm1.5 6H15a3 3 0 0 0 3-3v-4.5a6 6 0 0 0-12 0v4.5a3 3 0 0 0 3 3h1.5"],
+}
+export default Scooter1
