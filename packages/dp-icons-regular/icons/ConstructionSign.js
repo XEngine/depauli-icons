@@ -1,9 +1,0 @@
-export default {
-    name: 'construction-sign',
-    key: 'ConstructionSign',
-    type: 'regular',
-    width: 24,
-    height: 24,
-    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
-    svgPathData: ["M1.75 5.25H22.25A1 1 0 0 1 23.25 6.25V14.75A1 1 0 0 1 22.25 15.75H1.75A1 1 0 0 1 .75 14.75V6.25A1 1 0 0 1 1.75 5.25zM3.75 15.75v7.5M20.25 15.75v7.5M6 .75A1.5 1.5 0 1 0 6 3.75 1.5 1.5 0 1 0 6 .75zM18 .75A1.5 1.5 0 1 0 18 3.75 1.5 1.5 0 1 0 18 .75zM8.25 5.25l-7.5 7.5m13.5-7.5-10.5 10.5m16.5-10.5-10.5 10.5m13.5-7.5-7.5 7.5"],
-}
