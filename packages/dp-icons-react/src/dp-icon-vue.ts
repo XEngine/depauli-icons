@@ -1,7 +1,7 @@
-import Library from './library'
-import {h, ref, watch} from 'vue'
+import Library, {IconType} from './library'
+import {h, ref, watch, defineComponent} from 'vue'
 
-export default {
+export const DpIcon = defineComponent({
     props: {
         icon: {
             type: String,
@@ -17,7 +17,8 @@ export default {
         }
     },
     setup(props, context) {
-        const theIcon = ref(null)
+        const theIcon = ref<IconType | undefined>(Library.get(props.icon, props.type))
+
         watch([() => props.icon, () => props.type], () => {
             theIcon.value = Library.get(props.icon, props.type)
         }, {
@@ -43,5 +44,4 @@ export default {
             })])])
         }
     }
-}
-
+})

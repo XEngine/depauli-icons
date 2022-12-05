@@ -1,7 +1,5 @@
-import Library from './library'
-import DpIcon from './dp-icon.jsx'
+import Library from './library';
+import {DpIcon as DpIconReact} from "./dp-icon-react";
+import {DpIcon as DpIconVue} from "./dp-icon-vue";
 
-export {
-    DpIcon as default,
-    Library
-}
+export {Library, DpIconReact, DpIconVue}

@@ -1,4 +1,4 @@
-import DPIcon from "./dp-icon.tsx"
+import {DpIcon} from "./dp-icon"
 import {useState} from "react";
 
 export default function DemoComponent() {
@@ -11,7 +11,7 @@ export default function DemoComponent() {
     }
 
     return <div>
-        <DPIcon icon={icon} stroke={fill} size="58" />
+        <DpIcon icon={icon} stroke={fill} size="58" />
         <button onClick={changeIcon}>Click meh!</button>
     </div>
 }
