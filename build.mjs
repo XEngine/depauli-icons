@@ -4,27 +4,31 @@ import dts from "vite-plugin-dts";
 
 const libraries = [
     {
-        name: 'dp-icons-react',
-        entry: './src/react/dp-icon-react.ts',
+        name: 'Glyph',
+        entry: 'src/index.ts',
     },
     {
-        name: 'dp-icons-vue',
-        entry: './src/vue/dp-icon-vue.ts',
+        name: 'GlyphReact',
+        entry: './src/react/glyph-react.ts',
     },
     {
-        name: 'dp-icons-bold',
+        name: 'GlyphVue',
+        entry: './src/vue/glyph-vue.ts',
+    },
+    {
+        name: 'GlyphBold',
         entry: './src/icons/bold/index.ts',
     },
     {
-        name: 'dp-icons-regular',
+        name: 'GlyphRegular',
         entry: './src/icons/regular/index.ts',
     },
-    {
-        name: 'dp-icons-light',
+    /*{
+        name: 'glyph-light',
         entry: './src/icons/light/index.ts',
-    },
+    },*/
     {
-        name: 'dp-icons-misc',
+        name: 'GlyphMisc',
         entry: './src/icons/misc/index.ts',
     }
 ]
@@ -42,7 +46,7 @@ libraries.forEach(async library => {
                 entry: library.entry,
                 name: library.name,
                 fileName: (format) => `${library.name}.${format}.js`,
-                formats: ['umd', 'es']
+                formats: ['cjs', 'es']
             },
             emptyOutDir: false,
             rollupOptions: {

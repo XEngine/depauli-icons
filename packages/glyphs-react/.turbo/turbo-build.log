@@ -1,0 +1,15 @@
+
+> @depaulisystems/glyphs-react@0.0.1 build
+> vite build
+
+[36mvite v3.2.5 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 1 modules transformed.
+Entry module "glyphs-react.ts" is using named and default exports together. Consumers of your bundle will have to use `Glyphs["default"]` to access the default export, which may not be what you want. Use `output.exports: "named"` to disable this warning
+rendering chunks...
+[90m[37m[2mdist/[22m[90m[39m[36mglyphs-react.cjs.js  [39m [2m0.74 KiB / gzip: 0.47 KiB[22m
+[90m[37m[2mdist/[22m[90m[39m[36mglyphs-react.es.js  [39m [2m0.86 KiB / gzip: 0.50 KiB[22m
+
+[vite:dts] Start generate declaration files...
+[vite:dts] Declaration files built in 761ms.
+

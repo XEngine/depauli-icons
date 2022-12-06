@@ -47,7 +47,7 @@ module.exports = async (name, componentName, content, iconPackage) => {
     }
 
 
-    return `import {IconType} from "../../iconType";
+    return `import {IconType} from "../iconType";
 
 export const ${componentName}: IconType = {
     name: '${name}',

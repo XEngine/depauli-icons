@@ -5,39 +5,40 @@ const {pascalCase} = require("pascal-case");
 const fastGlob = require('fast-glob');
 
 async function main() {
-    await fs.emptyDir('./icons/')
-    await fs.remove('./src/icons.js')
-
     const componentify = (name) => pascalCase(`${name}`).replace("_", "")
     const startsWithNumber = (str) => /^\d/.test(str)
 
     const icons = [
         {
             name: 'misc',
-            package: 'src/icons/misc',
+            package: 'packages/glyphs/src/misc',
             path: './svg/misc/',
         },
         {
             name: 'bold',
-            package: 'src/icons/bold',
+            package: 'packages/glyphs/src/bold',
             path: './svg/bold/',
         },
-        {
+        /*{
             name: 'light',
             package: 'src/icons/light',
             path: './svg/light/',
-        },
+        },*/
         {
             name: 'regular',
-            package: 'src/icons/regular',
+            package: 'packages/glyphs/src/regular',
             path: './svg/regular/',
         },
     ]
 
-    for (const iconPackage of icons) {
+    const iconsAcc = {}
 
+    for (const iconPackage of icons) {
         const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
         const iconNameContent = []
+        const uppercasePackageName = iconPackage.name.charAt(0).toUpperCase() + iconPackage.name.slice(1)
+        iconsAcc[uppercasePackageName] = []
+
         for (const icon of iconFiles) {
             const fileName = icon.split('/').pop().split('.')[0]
             const iconName = componentify(fileName);
@@ -56,12 +57,18 @@ async function main() {
                 console.log(e)
             }
 
-            iconNameContent.push(iconName)
+            iconsAcc[uppercasePackageName].push(iconName)
         }
 
         const indexFileResult = [...new Set(iconNameContent)].map(x => `export { ${x} } from "./${x}";`).join('\n')
         fs.writeFileSync(`./${iconPackage.package}/index.ts`, indexFileResult, "utf8");
     }
+
+    //const accindex = Object.keys(iconsAcc).map(x => `export {${iconsAcc[x]} as ${iconsAcc[x]}${x} from "./${x.toLowerCase()}/${iconsAcc[x]}";`).join('\n')
+    const accindex = Object.keys(iconsAcc).map(x => {
+        return iconsAcc[x].map(y => `export { ${y} as ${y}${x} } from "./${x.toLowerCase()}/${y}";`).join('\n')
+    }).join('\n')
+    fs.writeFileSync(`./packages/glyphs/src/index.ts`, accindex, "utf8");
 }
 
 main().catch((err) => {
