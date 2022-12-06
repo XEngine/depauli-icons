@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
-import {ArrowLightLeftMisc} from '@depaulisystems/glyphs'
+import {NavigationMenuVerticalBold} from '@depaulisystems/glyphs'
 import Glyph from "@depaulisystems/glyphs-react";
 
 function App() {
@@ -16,6 +16,7 @@ function App() {
         <a href="https://reactjs.org" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+          <Glyph icon={NavigationMenuVerticalBold} />
       </div>
       <h1>Vite + React</h1>
       <div className="card">

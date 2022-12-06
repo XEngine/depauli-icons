@@ -2,6 +2,8 @@ import {createElement, FC, SVGProps} from "react";
 import {IGlyphProps} from "./iconType";
 
 export const reactifyAttributes = (attrs: any) => {
+    if(!attrs) return {};
+
     return Object.keys(attrs).reduce((acc, key) => {
         const leKey = key.split('-')
             .map((x, index) => index !== 0
@@ -36,8 +38,8 @@ const Glyph: FC<IGlyphProps & SVGProps<SVGSVGElement>> = (
         },
         createElement('g', {
                 ...reactifyAttributes(icon.attributes),
-                stroke: stroke || icon.attributes.stroke,
-                fill: fill || icon.attributes.fill
+                stroke: stroke || icon.attributes?.stroke,
+                fill: fill || icon.attributes?.fill
             },
             icon.svgPathData.map((path, index) => createElement('path', {key: index, d: path}))
         )
