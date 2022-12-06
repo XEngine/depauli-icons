@@ -33,7 +33,5 @@ const f = (t) => t ? Object.keys(t).reduce((a, e) => {
   );
 };
 export {
-  k as default,
-  f as reactifyAttributes,
-  m as sizeCalculate
+  k as default
 };
