@@ -6,6 +6,7 @@
   "module": "./dist/glyphs.es.js",
   "types": "./dist/types/index.d.ts",
   "type": "module",
+  "private": false,
   "scripts": {
     "build": "vite build"
   }
