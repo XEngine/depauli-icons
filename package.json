@@ -1,14 +1,28 @@
 {
-  "name": "@depaulisystems/dp-icons",
+  "name": "@depaulisystems/glyph",
   "Author": "T. Cem Yilmaz",
-  "version": "2.0.0-beta.6",
+  "version": "1.0.1",
   "description": "Icon pack for DePauli AG",
-  "main": "./dist/dp-icons.umd.js",
-  "module": "./dist/dp-icons.es.js",
   "exports": {
-    ".": {
-      "import": "./dist/dp-icons.es.js",
-      "require": "./dist/dp-icons.umd.js"
+    "./react": {
+      "import": "./dist/dp-icons-react.es.js",
+      "require": "./dist/dp-icons-react.umd.js"
+    },
+    "./vue": {
+      "import": "./dist/dp-icons-vue.es.js",
+      "require": "./dist/dp-icons-vue.umd.js"
+    },
+    "./bold": {
+      "import": "./dist/dp-icons-bold.es.js",
+      "require": "./dist/dp-icons-bold.umd.js"
+    },
+    "./regular": {
+      "import": "./dist/dp-icons-regular.es.js",
+      "require": "./dist/dp-icons-regular.umd.js"
+    },
+    "./misc": {
+      "import": "./dist/dp-icons-misc.es.js",
+      "require": "./dist/dp-icons-misc.umd.js"
     }
   },
   "jsnext:main": "dist/index.es.js",
@@ -18,27 +32,35 @@
     "dev": "vite",
     "prepublishOnly": "cross-env NODE_ENV=production node ./tools/converter.js",
     "build": "vite build",
-    "init": "lerna exec --parallel npm install",
     "icons-build": "node tools/converter.js  && lerna run --parallel build",
     "publish": "node tools/converter.js && lerna bootstrap && lerna run --parallel build && lerna publish --yes --force-publish",
     "publish-wo-build": "lerna run --scope @depaulisystems/dp-icons build && lerna run --scope @depaulisystems/dp-icons-react build && lerna publish --yes --force-publish"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "engines": {
     "node": ">=14"
   },
-  "workspaces": [
-    "packages/*"
-  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vue": "^3.2.26"
+  },
   "devDependencies": {
+    "@types/react": "^18.0.26",
     "cross-env": "^7.0.3",
+    "css": "^3.0.0",
     "fast-glob": "^3.2.11",
     "fs-extra": "^10.0.0",
     "pascal-case": "^3.1.2",
+    "standard-version": "^9.5.0",
     "svg-path-converter": "^1.0.12",
-    "svgo": "^2.3.0",
-    "css": "^3.0.0",
-    "lerna": "^5.4.3",
     "svg-slim": "^2.0.3",
-    "svgson": "^5.2.1"
+    "svgo": "^2.3.0",
+    "svgson": "^5.2.1",
+    "vite": "^3.2.5",
+    "vite-plugin-dts": "^1.7.1"
   }
 }
