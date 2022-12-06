@@ -1,6 +1,6 @@
 {
   "name": "@depaulisystems/glyphs",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "A library of glyphs for use with the DePauli Systems Glyphs font",
   "main": "./dist/glyphs.cjs.js",
   "module": "./dist/glyphs.es.js",

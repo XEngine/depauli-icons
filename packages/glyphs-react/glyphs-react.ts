@@ -38,8 +38,8 @@ const Glyph: FC<IGlyphProps & SVGProps<SVGSVGElement>> = (
         },
         createElement('g', {
                 ...reactifyAttributes(icon.attributes),
-                stroke: stroke || icon.attributes?.stroke,
-                fill: fill || icon.attributes?.fill
+                stroke: stroke || icon.attributes && icon.attributes?.stroke,
+                fill: fill || icon.attributes && icon.attributes?.fill
             },
             icon.svgPathData.map((path, index) => createElement('path', {key: index, d: path}))
         )

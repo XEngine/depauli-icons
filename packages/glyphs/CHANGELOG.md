@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs
 
+## 1.0.0
+
+### Major Changes
+
+- first major
+
 ## 0.0.4
 
 ### Patch Changes

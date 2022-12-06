@@ -1,14 +1,14 @@
 
-> @depaulisystems/glyphs-react@0.0.3 build
+> @depaulisystems/glyphs-react@0.0.4 build
 > vite build
 
 [36mvite v3.2.5 [32mbuilding for production...[36m[39m
 transforming...
 [32m✓[39m 1 modules transformed.
 rendering chunks...
-[90m[37m[2mdist/[22m[90m[39m[36mglyphs-react.cjs.js  [39m [2m0.65 KiB / gzip: 0.42 KiB[22m
-[90m[37m[2mdist/[22m[90m[39m[36mglyphs-react.es.js  [39m [2m0.89 KiB / gzip: 0.50 KiB[22m
+[90m[37m[2mdist/[22m[90m[39m[36mglyphs-react.cjs.js  [39m [2m0.68 KiB / gzip: 0.42 KiB[22m
+[90m[37m[2mdist/[22m[90m[39m[36mglyphs-react.es.js  [39m [2m0.92 KiB / gzip: 0.51 KiB[22m
 
 [vite:dts] Start generate declaration files...
-[vite:dts] Declaration files built in 830ms.
+[vite:dts] Declaration files built in 820ms.
 

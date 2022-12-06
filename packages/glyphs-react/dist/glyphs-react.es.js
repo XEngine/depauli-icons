@@ -1,4 +1,4 @@
-import { createElement as n } from "react";
+import { createElement as u } from "react";
 const f = (t) => t ? Object.keys(t).reduce((a, e) => {
   const r = e.split("-").map((s, l) => l !== 0 ? s.charAt(0).toUpperCase() + s.substring(1) : s).join("");
   return a[r] = t[e], a;
@@ -9,26 +9,26 @@ const f = (t) => t ? Object.keys(t).reduce((a, e) => {
   height: r,
   fill: s,
   stroke: l,
-  ...o
+  ...c
 }) => {
-  var u, c;
+  var n, b;
   const p = m(a);
-  return n(
+  return u(
     "svg",
     {
       viewBox: "0 0 24 24",
       width: e != null ? e : p,
       height: r != null ? r : p,
-      ...o
+      ...c
     },
-    n(
+    u(
       "g",
       {
         ...f(t.attributes),
-        stroke: l || ((u = t.attributes) == null ? void 0 : u.stroke),
-        fill: s || ((c = t.attributes) == null ? void 0 : c.fill)
+        stroke: l || t.attributes && ((n = t.attributes) == null ? void 0 : n.stroke),
+        fill: s || t.attributes && ((b = t.attributes) == null ? void 0 : b.fill)
       },
-      t.svgPathData.map((i, b) => n("path", { key: b, d: i }))
+      t.svgPathData.map((i, o) => u("path", { key: o, d: i }))
     )
   );
 };
