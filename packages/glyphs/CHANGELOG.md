@@ -1,5 +1,12 @@
 # @depaulisystems/glyphs
 
+## 0.0.3
+
+### Patch Changes
+
+- Meh
+- yeah
+
 ## 0.0.2
 
 ### Patch Changes
