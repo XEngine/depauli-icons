@@ -1,7 +1,7 @@
 {
   "name": "@depaulisystems/glyph",
   "Author": "T. Cem Yilmaz",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Icon pack for DePauli AG",
   "exports": {
     "./react": {
@@ -34,7 +34,7 @@
   },
   "standard-version": {
     "scripts": {
-      "prerelease": "cross-env NODE_ENV=production node ./tools/converter.js"
+      "prerelease": "cross-env NODE_ENV=production node ./tools/converter.js && node build.mjs"
     }
   },
   "publishConfig": {
