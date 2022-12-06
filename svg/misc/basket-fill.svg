@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .a {
+            stroke:none;
+            fill-rule:nonzero;
+            fill:currentColor;
+            fill-opacity:1;
+            }
+        </style>
+    </defs>
+    <path class="a"
+          d="M4.14 24a3.212 3.212 0 0 1-3.214-3.21V5.351h5.367C6.371 2.367 8.82-.004 11.809-.004a5.505 5.505 0 0 1 5.515 5.356h5.383v15.437A3.224 3.224 0 0 1 19.48 24ZM8.13 5.352h7.363a3.675 3.675 0 0 0-3.68-3.532A3.681 3.681 0 0 0 8.13 5.352Zm0 0"/>
+</svg>

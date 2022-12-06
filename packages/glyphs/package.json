@@ -1,0 +1,13 @@
+{
+  "name": "@depaulisystems/glyphs",
+  "version": "0.0.2",
+  "description": "A library of glyphs for use with the DePauli Systems Glyphs font",
+  "main": "./dist/glyphs.cjs.js",
+  "module": "./dist/glyphs.es.js",
+  "types": "./dist/types/index.d.ts",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "build": "vite build"
+  }
+}
