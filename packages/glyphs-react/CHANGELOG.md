@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs-react
 
+## 0.0.4
+
+### Patch Changes
+
+- c6bfe15105: Heck yeah
+
 ## 0.0.3
 
 ### Patch Changes
