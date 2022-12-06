@@ -1,7 +1,7 @@
 import {createElement, FC, SVGProps} from "react";
 import {IGlyphProps} from "./iconType";
 
-export const reactifyAttributes = (attrs: any) => {
+const reactifyAttributes = (attrs: any) => {
     if(!attrs) return {};
 
     return Object.keys(attrs).reduce((acc, key) => {
@@ -15,7 +15,7 @@ export const reactifyAttributes = (attrs: any) => {
     }, {} as any)
 }
 
-export const sizeCalculate = (value: string) => {
+const sizeCalculate = (value: string) => {
     return value.slice(-1) === 'x' ? value.slice(0, value.length - 1) + 'rem' : parseInt(value) + 'px'
 }
 const Glyph: FC<IGlyphProps & SVGProps<SVGSVGElement>> = (
