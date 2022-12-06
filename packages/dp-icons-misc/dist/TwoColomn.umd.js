@@ -1,1 +1,0 @@
-(function(e,o){typeof exports=="object"&&typeof module<"u"?module.exports=o():typeof define=="function"&&define.amd?define(o):(e=typeof globalThis<"u"?globalThis:e||self,e.TwoColomn=o())})(this,function(){"use strict";return{name:"two-colomn",key:"TwoColomn",type:"misc",width:24,height:24,attributes:void 0,svgPathData:["M0 0h11.29v24H0zm12.71 0H24v24H12.71z"]}});

@@ -31,10 +31,7 @@
   "scripts": {
     "dev": "vite",
     "prepublishOnly": "cross-env NODE_ENV=production node ./tools/converter.js",
-    "build": "vite build",
-    "icons-build": "node tools/converter.js  && lerna run --parallel build",
-    "publish": "node tools/converter.js && lerna bootstrap && lerna run --parallel build && lerna publish --yes --force-publish",
-    "publish-wo-build": "lerna run --scope @depaulisystems/dp-icons build && lerna run --scope @depaulisystems/dp-icons-react build && lerna publish --yes --force-publish"
+    "release": "standard-version"
   },
   "publishConfig": {
     "access": "public",

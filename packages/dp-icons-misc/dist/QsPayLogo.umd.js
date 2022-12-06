@@ -1,1 +1,0 @@
-(function(e,o){typeof exports=="object"&&typeof module<"u"?module.exports=o():typeof define=="function"&&define.amd?define(o):(e=typeof globalThis<"u"?globalThis:e||self,e.QsPayLogo=o())})(this,function(){"use strict";return{name:"qs-pay-logo",key:"QsPayLogo",type:"misc",width:24,height:24,attributes:{fill:"currentColor",stroke:"none"},svgPathData:[]}});

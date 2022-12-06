@@ -14,30 +14,29 @@ async function main() {
     const icons = [
         {
             name: 'misc',
-            package: 'dp-icons-misc',
+            package: 'src/icons/misc',
             path: './svg/misc/',
         },
-        /*{
+        {
             name: 'bold',
-            package: 'dp-icons-bold',
+            package: 'src/icons/bold',
             path: './svg/bold/',
         },
         {
             name: 'light',
-            package: 'dp-icons-light',
+            package: 'src/icons/light',
             path: './svg/light/',
         },
         {
             name: 'regular',
-            package: 'dp-icons-regular',
+            package: 'src/icons/regular',
             path: './svg/regular/',
-        },*/
+        },
     ]
 
     for (const iconPackage of icons) {
 
         const iconFiles = fastGlob.sync(`${iconPackage.path}*.svg`);
-        const indexContent = []
         const iconNameContent = []
         for (const icon of iconFiles) {
             const fileName = icon.split('/').pop().split('.')[0]
@@ -50,19 +49,18 @@ async function main() {
             const svg = await fs.readFile(icon, "utf8");
             try {
                 const component = await svgToVue(fileName, iconName, svg, iconPackage);
-                await fs.writeFileSync(`./packages/${iconPackage.package}/icons/${iconName}.js`, component, "utf8");
+                await fs.writeFileSync(`./${iconPackage.package}/${iconName}.ts`, component, "utf8");
                 console.log(iconPackage.package, iconName, 'done')
             } catch (e) {
                 console.log(icon, iconName)
                 console.log(e)
             }
 
-            indexContent.push(`import ${iconName} from './icons/${iconName}'`)
             iconNameContent.push(iconName)
         }
 
-        const indexFileResult = `${[...new Set(indexContent)].join('\n')}\n\nexport {${[...new Set(iconNameContent)].join(',\n')}}`
-        fs.writeFileSync(`./packages/${iconPackage.package}/index.js`, indexFileResult, "utf8");
+        const indexFileResult = [...new Set(iconNameContent)].map(x => `export { ${x} } from "./${x}";`).join('\n')
+        fs.writeFileSync(`./${iconPackage.package}/index.ts`, indexFileResult, "utf8");
     }
 }
 
