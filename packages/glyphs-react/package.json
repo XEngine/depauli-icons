@@ -5,6 +5,12 @@
   "main": "./dist/glyphs-react.cjs.js",
   "module": "./dist/glyphs-react.es.js",
   "types": "./dist/types/glyphs-react.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/glyphs-react.es.js",
+      "require": "./dist/glyphs-react.cjs.js"
+    }
+  },
   "type": "module",
   "private": false,
   "scripts": {
