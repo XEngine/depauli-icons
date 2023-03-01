@@ -1,5 +1,5 @@
 
-> @depaulisystems/glyphs@1.0.1 build
+> @depaulisystems/glyphs@1.0.2 build
 > vite build
 
 [36mvite v3.2.5 [32mbuilding for production...[36m[39m
@@ -10,5 +10,5 @@ rendering chunks...
 [90m[37m[2mdist/[22m[90m[39m[36mglyphs.es.js  [39m [2m38.76 KiB / gzip: 9.63 KiB[22m
 
 [vite:dts] Start generate declaration files...
-[vite:dts] Declaration files built in 1053ms.
+[vite:dts] Declaration files built in 775ms.
 
