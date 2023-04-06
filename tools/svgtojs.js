@@ -40,7 +40,7 @@ module.exports = async (name, componentName, content, iconPackage) => {
             acc[key.trim()] = value.trim()
             return acc
         }, {})
-    }else if(!style && iconPackage.package === 'dp-icons-bold'){
+    }else if(!style && iconPackage.package === 'packages/glyphs/src/bold'){
         style = {
             'fill': 'currentColor'
         }
