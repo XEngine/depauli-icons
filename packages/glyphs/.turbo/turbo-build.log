@@ -4,11 +4,11 @@
 
 [36mvite v3.2.5 [32mbuilding for production...[36m[39m
 transforming...
-[32m✓[39m 74 modules transformed.
+[32m✓[39m 77 modules transformed.
 rendering chunks...
-[90m[37m[2mdist/[22m[90m[39m[36mglyphs.cjs.js  [39m [2m36.10 KiB / gzip: 9.63 KiB[22m
-[90m[37m[2mdist/[22m[90m[39m[36mglyphs.es.js  [39m [2m38.76 KiB / gzip: 9.63 KiB[22m
+[90m[37m[2mdist/[22m[90m[39m[36mglyphs.cjs.js  [39m [2m37.45 KiB / gzip: 9.93 KiB[22m
+[90m[37m[2mdist/[22m[90m[39m[36mglyphs.es.js  [39m [2m40.26 KiB / gzip: 9.92 KiB[22m
 
 [vite:dts] Start generate declaration files...
-[vite:dts] Declaration files built in 1074ms.
+[vite:dts] Declaration files built in 905ms.
 
