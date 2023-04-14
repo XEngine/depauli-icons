@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs
 
+## 1.1.0
+
+### Minor Changes
+
+- a5427cc59d: social icons
+
 ## 1.0.0
 
 ### Major Changes
