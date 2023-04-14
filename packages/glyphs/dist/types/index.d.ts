@@ -38,6 +38,7 @@ export { DeliveryTruckCargo as DeliveryTruckCargoRegular } from "./regular/Deliv
 export { DeliveryTruckClock as DeliveryTruckClockRegular } from "./regular/DeliveryTruckClock";
 export { Facebook as FacebookRegular } from "./regular/Facebook";
 export { House as HouseRegular } from "./regular/House";
+export { InformationCircle as InformationCircleRegular } from "./regular/InformationCircle";
 export { Like1 as Like1Regular } from "./regular/Like1";
 export { Like as LikeRegular } from "./regular/Like";
 export { Lock1 as Lock1Regular } from "./regular/Lock1";
