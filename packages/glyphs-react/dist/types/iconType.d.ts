@@ -1,4 +1,4 @@
-export type IconType = {
+export declare type IconType = {
     name: string;
     key: string;
     type: string;

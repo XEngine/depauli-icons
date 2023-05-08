@@ -1,5 +1,17 @@
 # @depaulisystems/glyphs-react
 
+## 1.4.0
+
+### Minor Changes
+
+- SSR fix
+
+## 1.3.0
+
+### Minor Changes
+
+- REM TO PX
+
 ## 1.2.0
 
 ### Minor Changes
