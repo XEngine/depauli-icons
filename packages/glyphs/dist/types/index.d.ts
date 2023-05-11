@@ -47,6 +47,7 @@ export { LoveIt as LoveItRegular } from "./regular/LoveIt";
 export { MessagesBubbleSquareAdd as MessagesBubbleSquareAddRegular } from "./regular/MessagesBubbleSquareAdd";
 export { MessagesBubbleSquareStar as MessagesBubbleSquareStarRegular } from "./regular/MessagesBubbleSquareStar";
 export { MessagingWhatsapp as MessagingWhatsappRegular } from "./regular/MessagingWhatsapp";
+export { Module as ModuleRegular } from "./regular/Module";
 export { NavigationMenu4 as NavigationMenu4Regular } from "./regular/NavigationMenu4";
 export { NavigationMenu as NavigationMenuRegular } from "./regular/NavigationMenu";
 export { PasswordDesktopLockApproved as PasswordDesktopLockApprovedRegular } from "./regular/PasswordDesktopLockApproved";
