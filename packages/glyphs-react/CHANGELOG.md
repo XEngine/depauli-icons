@@ -1,5 +1,12 @@
 # @depaulisystems/glyphs-react
 
+## 1.5.0
+
+### Minor Changes
+
+- t
+- 2240d17012: module svg
+
 ## 1.4.0
 
 ### Minor Changes
