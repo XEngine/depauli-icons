@@ -71,6 +71,14 @@ const e = {
   attributes: { fill: "currentColor" },
   svgPathData: ["M4.35 21.2h.06c.26.2.52.41.79.59a11.42 11.42 0 0 0 9.25 1.92 11.66 11.66 0 0 0 9.18-8.86c.24-.91.36-1.86.35-2.8.02-.55-.41-1.01-.95-1.03s-.99.39-1.02.92c-.06.61-.07 1.22-.18 1.81a9.77 9.77 0 0 1-4.25 6.54 9.57 9.57 0 0 1-6.65 1.63 9.8 9.8 0 0 1-4.59-1.74l-.62-.48a.7.7 0 0 1 .32-.05c.26 0 .52-.01.77-.03.26-.05.49-.2.64-.41s.2-.49.14-.75a.99.99 0 0 0-1.04-.79H3.5a1 1 0 0 0-.85.29c-.22.22-.33.54-.29.85v3c0 .15.01.3.05.44a.98.98 0 0 0 1.92-.24c.02-.27 0-.53 0-.8M12.55 0l1.09.14c2.18.3 4.22 1.21 5.9 2.63l.19.15v-.36c0-.23.01-.46.04-.7a.97.97 0 0 1 1.9-.03c.03.13.04.26.04.39v3c.04.31-.07.62-.29.84s-.53.33-.84.29h-3.11a1 1 0 0 1-.87-.47.98.98 0 0 1-.02-.98c.14-.3.44-.49.77-.5.32-.02.63 0 1 0a1.27 1.27 0 0 0-.11-.13 9.52 9.52 0 0 0-4.7-2.15 9.62 9.62 0 0 0-8.27 2.45 9.77 9.77 0 0 0-3.29 7.18c0 .17-.02.34-.06.51a.97.97 0 0 1-.91.69.99.99 0 0 1-.94-.61L0 12.13v-.8l.05-.25c.04-.33.06-.67.11-1a11.76 11.76 0 0 1 3.26-6.47A11.69 11.69 0 0 1 10.23.14L11.34 0z"]
 }, h = {
+  name: "return",
+  key: "Return",
+  type: "misc",
+  width: 24,
+  height: 24,
+  attributes: { fill: "currentColor" },
+  svgPathData: ["m12 11.16 4.32-2.5L12 6.19 7.68 8.66zm-.72 1.25-4.32-2.5v4.99l4.32 2.5zm1.44 0v4.99l4.32-2.5V9.91zM8.4 21.12h2.88V19.2H8.4m-3.6 1.92h2.16V19.2H4.8m-2.88 1.92h1.44V19.2H1.92M20.85 5.54c-1.66-1.63-3.93-2.66-6.46-2.66H6.72v-.96L.48 3.84l6.24 1.92V4.8h7.68c1.99 0 3.79.82 5.09 2.11 1.3 1.3 2.11 3.1 2.11 5.09s-.82 3.79-2.11 5.09a7.222 7.222 0 0 1-5.09 2.11h-1.68v1.92h1.68c2.52 0 4.8-1.03 6.46-2.66 1.63-1.66 2.66-3.94 2.66-6.46s-1.03-4.8-2.66-6.46z"]
+}, c = {
   name: "sort",
   key: "Sort",
   type: "misc",
@@ -79,6 +87,14 @@ const e = {
   attributes: { fill: "currentColor" },
   svgPathData: ["m1.92 17.76 1.66 1.54V0h2.76v19.27l1.67-1.52L10 19.53 5.02 24 0 19.49l1.92-1.73M11 8.5c0-.28.36-.5.8-.5h7.39c.44 0 .8.22.8.5s-.36.5-.8.5H11.8c-.44 0-.8-.22-.8-.5m0 4c0-.28.28-.5.63-.5h5.75c.35 0 .63.22.63.5s-.28.5-.63.5h-5.75c-.35 0-.63-.22-.63-.5m0-8c0-.28.44-.5.98-.5h9.03c.54 0 .98.22.98.5s-.44.5-.98.5h-9.03c-.54 0-.98-.22-.98-.5m.91-4.5h11.17c.5 0 .91.22.91.5s-.41.5-.91.5H11.91c-.5 0-.91-.22-.91-.5s.41-.5.91-.5zM11 16.5c0-.28.28-.5.62-.5h3.77c.34 0 .62.22.62.5s-.28.5-.62.5h-3.77c-.34 0-.62-.22-.62-.5m0-6c0-.28.32-.5.72-.5h6.57c.4 0 .72.22.72.5s-.32.5-.72.5h-6.57c-.4 0-.72-.22-.72-.5m0 4c0-.28.24-.5.54-.5h4.93c.3 0 .54.22.54.5s-.24.5-.54.5h-4.93c-.3 0-.54-.22-.54-.5m0-8c0-.28.4-.5.89-.5h8.21c.49 0 .89.22.89.5s-.4.5-.89.5h-8.21c-.49 0-.89-.22-.89-.5m.84-4.5h10.31c.47 0 .84.22.84.5s-.38.5-.84.5H11.84c-.46 0-.84-.22-.84-.5s.38-.5.84-.5zM11 18.5c0-.28.22-.5.49-.5h3.01c.27 0 .49.22.49.5s-.22.5-.49.5h-3.01a.5.5 0 0 1-.49-.5m0 2c0-.28.12-.5.27-.5h2.46c.15 0 .27.22.27.5s-.12.5-.27.5h-2.46c-.15 0-.27-.22-.27-.5m0 2c0-.28.11-.5.25-.5h1.51c.14 0 .25.22.25.5s-.11.5-.25.5h-1.51c-.14 0-.25-.22-.25-.5"]
 }, u = {
+  name: "truck",
+  key: "Truck",
+  type: "misc",
+  width: 24,
+  height: 24,
+  attributes: { fill: "currentColor" },
+  svgPathData: ["M4.08 18.24a1.92 1.92 0 1 0 3.841-.001 1.92 1.92 0 0 0-3.841.001m12 0a1.92 1.92 0 1 0 3.841-.001 1.92 1.92 0 0 0-3.841.001m1.92-12v-1.2c0-.67-.53-1.2-1.2-1.2H1.68c-.67 0-1.2.53-1.2 1.2v12c0 .67.53 1.2 1.2 1.2H3c0-1.65 1.34-3 3-3s3 1.35 3 3h6c0-1.65 1.34-3 3-3s3 1.35 3 3h2.52V7.44zm4.8 5.28H18V6.96l4.8.96z"]
+}, g = {
   name: "arrow-down-1",
   key: "ArrowDown1",
   type: "bold",
@@ -86,7 +102,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M12 19.5a2.3 2.3 0 0 1-1.73-.78L.46 7.57a1.85 1.85 0 0 1 2.77-2.44l8.58 9.75a.25.25 0 0 0 .38 0l8.58-9.75a1.85 1.85 0 1 1 2.77 2.44l-9.81 11.15a2.31 2.31 0 0 1-1.73.78z"]
-}, c = {
+}, k = {
   name: "arrow-left-1",
   key: "ArrowLeft1",
   type: "bold",
@@ -94,7 +110,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M4.5 12a2.3 2.3 0 0 1 .78-1.73L16.43.46a1.85 1.85 0 0 1 2.44 2.77l-9.75 8.58a.25.25 0 0 0 0 .38l9.75 8.58a1.85 1.85 0 1 1-2.44 2.77L5.28 13.73A2.31 2.31 0 0 1 4.5 12z"]
-}, g = {
+}, d = {
   name: "arrow-right-1",
   key: "ArrowRight1",
   type: "bold",
@@ -102,7 +118,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M19.5 12a2.3 2.3 0 0 1-.78 1.73L7.57 23.54a1.85 1.85 0 0 1-2.44-2.77l9.75-8.58a.25.25 0 0 0 0-.38L5.13 3.23A1.85 1.85 0 0 1 7.57.46l11.15 9.81A2.31 2.31 0 0 1 19.5 12z"]
-}, k = {
+}, m = {
   name: "arrow-up-1",
   key: "ArrowUp1",
   type: "bold",
@@ -110,7 +126,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M12 4.5a2.3 2.3 0 0 1 1.73.78l9.81 11.15a1.85 1.85 0 1 1-2.77 2.44l-8.58-9.75a.25.25 0 0 0-.38 0l-8.58 9.75a1.85 1.85 0 1 1-2.77-2.44l9.81-11.15A2.31 2.31 0 0 1 12 4.5z"]
-}, d = {
+}, v = {
   name: "check-1",
   key: "Check1",
   type: "bold",
@@ -118,7 +134,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M23.37.29a1.5 1.5 0 0 0-2.09.35L7.25 20.2l-4.69-4.69a1.5 1.5 0 1 0-2.12 2.12l5.94 5.93a1.53 1.53 0 0 0 2.28-.19l15.07-21a1.5 1.5 0 0 0-.35-2.09z"]
-}, m = {
+}, p = {
   name: "gift-box",
   key: "GiftBox",
   type: "bold",
@@ -126,7 +142,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M13 12a.5.5 0 0 0 .5.5H22a1.75 1.75 0 0 0 1.75-1.75v-2A1.75 1.75 0 0 0 22 7h-8.5a.5.5 0 0 0-.5.5zm-9.25.5H11a.5.5 0 0 0 .5-.5V7.5A.5.5 0 0 0 11 7H2A1.75 1.75 0 0 0 .25 8.75v2A1.75 1.75 0 0 0 2 12.5zm7.75 2a.5.5 0 0 0-.5-.5H2.75a.5.5 0 0 0-.5.5v7.75A1.75 1.75 0 0 0 4 24h7a.5.5 0 0 0 .5-.5zm2-.5a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5H20a1.75 1.75 0 0 0 1.75-1.75V14.5a.5.5 0 0 0-.5-.5zm-.46-7.29a1 1 0 0 0 .94.26c1.18-.29 4.03-1.05 4.9-1.92A2.96 2.96 0 0 0 14.7.87c-.76.76-1.48 3.08-1.92 4.9a1.04 1.04 0 0 0 .27.94zm3.07-4.43a.96.96 0 1 1 1.35 1.35 8.99 8.99 0 0 1-2.28.93 8.92 8.92 0 0 1 .93-2.29zm-4.39 3.48C11.28 3.94 10.56 1.62 9.8.87a2.96 2.96 0 0 0-4.19 4.18c.87.87 3.72 1.64 4.9 1.92a1 1 0 0 0 .94-.26 1.04 1.04 0 0 0 .26-.95zM7.03 3.63a.96.96 0 1 1 1.35-1.35 8.88 8.88 0 0 1 .93 2.29 8.89 8.89 0 0 1-2.28-.93z"]
-}, v = {
+}, w = {
   name: "navigation-menu-vertical",
   key: "NavigationMenuVertical",
   type: "bold",
@@ -134,7 +150,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M12 0a3.25 3.25 0 1 0 0 6.5A3.25 3.25 0 1 0 12 0zm0 8.75a3.25 3.25 0 1 0 0 6.5 3.25 3.25 0 1 0 0-6.5zm0 8.75a3.25 3.25 0 1 0 0 6.5 3.25 3.25 0 1 0 0-6.5z"]
-}, p = {
+}, y = {
   name: "rating-half-star",
   key: "RatingHalfStar",
   type: "bold",
@@ -142,7 +158,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M18.32 1.25a1 1 0 0 0-1-1 1.51 1.51 0 0 0-1.41.99l-2.18 6.17a.5.5 0 0 1-.47.33H7.17a1.5 1.5 0 0 0-.96 2.65l5.19 4.3a.5.5 0 0 1 .16.54l-2.18 6.53a1.5 1.5 0 0 0 2.31 1.69l6.23-4.57a1 1 0 0 0 .41-.81z"]
-}, w = {
+}, M = {
   name: "rating-star",
   key: "RatingStar",
   type: "bold",
@@ -150,7 +166,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M23.56 8.73a1.51 1.51 0 0 0-1.41-.98h-6.09a.5.5 0 0 1-.47-.33L13.4 1.23a1.5 1.5 0 0 0-2.81 0l-.01.02-2.17 6.17a.5.5 0 0 1-.47.33H1.85a1.5 1.5 0 0 0-.96 2.65l5.18 4.3a.5.5 0 0 1 .16.54l-2.18 6.53a1.5 1.5 0 0 0 2.31 1.68l5.35-3.92a.5.5 0 0 1 .59 0l5.34 3.92a1.5 1.5 0 0 0 2.31-1.68l-2.18-6.54a.5.5 0 0 1 .16-.54l5.19-4.31a1.5 1.5 0 0 0 .43-1.66z"]
-}, y = {
+}, C = {
   name: "shopping-cart-add",
   key: "ShoppingCartAdd",
   type: "bold",
@@ -158,7 +174,7 @@ const e = {
   height: 24,
   attributes: { fill: "currentColor" },
   svgPathData: ["M18.19 12.39a5.81 5.81 0 1 0 5.81 5.8 5.81 5.81 0 0 0-5.81-5.81zm2.21 6.56h-1.21a.25.25 0 0 0-.25.25v1.2a.75.75 0 0 1-1.5 0v-1.21a.25.25 0 0 0-.25-.25h-1.21a.75.75 0 1 1 0-1.5h1.21a.25.25 0 0 0 .25-.25v-1.21a.75.75 0 0 1 1.5 0v1.21a.25.25 0 0 0 .25.25h1.21a.75.75 0 1 1 0 1.5zM12.66 14a1 1 0 0 0-1-1H8.24a.25.25 0 0 1-.24-.19l-1.15-5a.25.25 0 0 1 .24-.31h13.19a.5.5 0 0 1 .47.66L20 10.41a1 1 0 1 0 1.9.63l1-3a1.93 1.93 0 0 0-1.83-2.54H6.51a.25.25 0 0 1-.24-.19l-.88-3.82A1.92 1.92 0 0 0 3.52 0H1a1 1 0 0 0 0 2l2.24-.06a.25.25 0 0 1 .25.19l3.36 14.6a.25.25 0 0 1-.11.27 2.25 2.25 0 1 0 2.29-.1.26.26 0 0 1-.13-.17l-.33-1.44a.25.25 0 0 1 .24-.29h2.84a1 1 0 0 0 1-1z"]
-}, M = {
+}, b = {
   name: "accounting-coins-bill",
   key: "AccountingCoinsBill",
   type: "regular",
@@ -166,7 +182,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M6.75 11.25a6 3 0 1 0 0 6 6 3 0 1 0 0-6z", "M.75 14.25v6c0 1.66 2.69 3 6 3s6-1.34 6-3v-6m0 3c0 1.66-2.69 3-6 3s-6-1.34-6-3m15-1.5h6a1.5 1.5 0 0 0 1.5-1.5v-12a1.5 1.5 0 0 0-1.5-1.5H2.25a1.5 1.5 0 0 0-1.5 1.5v7.51M9 8.25a3 3 0 1 1 4.98 2.26M4.5 4.13a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m15 7.5a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38"]
-}, C = {
+}, f = {
   name: "accounting-document",
   key: "AccountingDocument",
   type: "regular",
@@ -174,7 +190,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M21.75 21.75a1.5 1.5 0 0 1-1.5 1.5H3.75a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5h10.63a1.5 1.5 0 0 1 1.06.44l5.87 5.87a1.5 1.5 0 0 1 .44 1.06zm0-13.5h-6a1.5 1.5 0 0 1-1.5-1.5v-6M6.2 11.59a2.22 2.22 0 0 0 1.86.88c1.14 0 2.06-.69 2.06-1.55S9.2 9.38 8.06 9.38 6 8.68 6 7.83s.92-1.55 2.06-1.55a2.22 2.22 0 0 1 1.86.88m-1.86 5.31v1.03m0-8.25v1.03M12 15h6M6.75 19.5H18"]
-}, b = {
+}, A = {
   name: "add",
   key: "Add",
   type: "regular",
@@ -182,7 +198,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M.75 12h22.5M12 .75v22.5"]
-}, f = {
+}, z = {
   name: "arrow-down-1",
   key: "ArrowDown1",
   type: "regular",
@@ -190,7 +206,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", "fill-rule": "evenodd", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M23.25 7.31 12.53 18.03a.75.75 0 0 1-1.06 0L.75 7.31"]
-}, A = {
+}, P = {
   name: "arrow-left-1",
   key: "ArrowLeft1",
   type: "regular",
@@ -198,7 +214,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", "fill-rule": "evenodd", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M16.25 23.25 5.53 12.53a.75.75 0 0 1 0-1.06L16.25.75"]
-}, z = {
+}, D = {
   name: "arrow-left",
   key: "ArrowLeft",
   type: "regular",
@@ -206,7 +222,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M23.25 12H.75", "M11.25 1.5.75 12l10.5 10.5"]
-}, P = {
+}, R = {
   name: "arrow-right",
   key: "ArrowRight",
   type: "regular",
@@ -214,7 +230,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M.75 12h22.5", "M12.75 22.5 23.25 12 12.75 1.5"]
-}, D = {
+}, S = {
   name: "arrow-up",
   key: "ArrowUp",
   type: "regular",
@@ -222,7 +238,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M12 23.25V.75", "M22.5 11.25 12 .75 1.5 11.25"]
-}, R = {
+}, L = {
   name: "bin-2-alternate",
   key: "Bin2Alternate",
   type: "regular",
@@ -230,7 +246,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M1.75 6.37 22.29 2M13.6.78l-4.4.94A1.5 1.5 0 0 0 8.04 3.5l.31 1.47 7.34-1.56-.31-1.47A1.5 1.5 0 0 0 13.6.78zM10.75 18v-7.5m4.5 7.5v-7.5M18.63 6h2.63l-1.39 15.87a1.5 1.5 0 0 1-1.5 1.38H7.63a1.5 1.5 0 0 1-1.49-1.38L5.1 9.38"]
-}, S = {
+}, H = {
   name: "bin-2",
   key: "Bin2",
   type: "regular",
@@ -238,7 +254,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M18.18 23.25H7.68a1.5 1.5 0 0 1-1.5-1.5V8.25h13.5v13.5a1.5 1.5 0 0 1-1.5 1.5zm-7.5-4.5v-6m4.5 6v-6M2.43 6.21 21.5 2.16M13.54.78l-4.4.94A1.5 1.5 0 0 0 7.98 3.5l.32 1.47 7.34-1.56-.32-1.47A1.5 1.5 0 0 0 13.54.78z"]
-}, L = {
+}, V = {
   name: "book-address-1",
   key: "BookAddress1",
   type: "regular",
@@ -254,7 +270,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M13.89 12.75h6.75l.47.79a.97.97 0 0 1 0 1.07l-.3.45a.97.97 0 0 0-.06.97l.5 1a.97.97 0 0 1 0 .86l-.57 1.14a.97.97 0 0 0-.05.74l.17.5a.96.96 0 0 1-.23.99l-1.43 1.24h-6.77a2.89 2.89 0 0 0-1.08.21l-1.9.54m-6.76-5.79 3.24-1.22a1.94 1.94 0 0 0 .97-.8l2.09-4.82a2.89 2.89 0 0 1 .86-.89l.73-.49m.42 2.96L9.4 1.37a.54.54 0 0 1 .54-.62h7.55m-3.33 12-.85-8.41a.5.5 0 0 1 .5-.55h6.9a.5.5 0 0 1 .5.58l-1.26 8.39m-2.87-4.13z"]
-}, H = {
+}, B = {
   name: "check-1",
   key: "Check1",
   type: "regular",
@@ -262,7 +278,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M23.25.75 8.16 22.31a2.2 2.2 0 0 1-3.57.06L.75 17.25"]
-}, V = {
+}, N = {
   name: "check-circle",
   key: "CheckCircle",
   type: "regular",
@@ -270,7 +286,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["m6.75 9 3.29 4.61a1.53 1.53 0 0 0 2.41.09L23.25.75m-6.47 3.08a10.49 10.49 0 1 0 4.02 4.55"]
-}, B = {
+}, T = {
   name: "close",
   key: "Close",
   type: "regular",
@@ -278,7 +294,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M.75 23.25 23.25.75m0 22.5L.75.75"]
-}, N = {
+}, W = {
   name: "credit-card-1",
   key: "CreditCard1",
   type: "regular",
@@ -286,7 +302,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M2.25 3.75h19.5a1.5 1.5 0 0 1 1.5 1.5v13.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V5.25a1.5 1.5 0 0 1 1.5-1.5zm-1.5 4.5h22.5m-18 4.5h8.25m-8.25 3h5.25"]
-}, T = {
+}, q = {
   name: "delivery-truck-cargo",
   key: "DeliveryTruckCargo",
   type: "regular",
@@ -294,7 +310,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M18.75 17.25a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3zm-13.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z", "M20.25 18.75h1.5a1.5 1.5 0 0 0 1.5-1.5v-6a3 3 0 0 0-3-3H16.5m0 10.5V5.25a1.5 1.5 0 0 0-1.5-1.5H2.25a1.5 1.5 0 0 0-1.5 1.5v12a1.5 1.5 0 0 0 1.5 1.5h1.5m13.5 0H6.75m16.5-6H21a1.5 1.5 0 0 1-1.5-1.5v-3m-18.75 3h12V15m-7.5-8.25h6v4.5h-6zm-1.5 4.5v2.25m4.5-6.75V9m1.5 2.25v2.25m-3-2.25V15"]
-}, W = {
+}, x = {
   name: "delivery-truck-clock",
   key: "DeliveryTruckClock",
   type: "regular",
@@ -302,7 +318,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M6.75 1.5a6 6 0 1 0 0 12 6 6 0 1 0 0-12z", "M4.1 7.5h2.65V4.85m7.5 7.15h1.5a1.5 1.5 0 0 1 1.5 1.5v5.29M7.5 21h-.75a1.5 1.5 0 0 1-1.5-1.5v-3m12-3h3a3 3 0 0 1 3 3v3a1.5 1.5 0 0 1-1.5 1.5h-2.29", "M17.63 18.75a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm-8.25 0a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zM15.79 21h-4.54m12-4.5h-3"]
-}, q = {
+}, F = {
   name: "facebook",
   key: "Facebook",
   type: "regular",
@@ -310,7 +326,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M12.15 23.25H1.75a1 1 0 0 1-1-1V1.75a1 1 0 0 1 1-1h20.5a1 1 0 0 1 1 1v20.5a1 1 0 0 1-1 1h-6.1v-8.5h2.56a.5.5 0 0 0 .5-.44l.38-3a.5.5 0 0 0-.5-.56h-2.94V9.69A1.69 1.69 0 0 1 17.84 8h1.81a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-1.81a5.69 5.69 0 0 0-5.69 5.69v1.06h-2.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h2.5v8.5z"]
-}, x = {
+}, I = {
   name: "house",
   key: "House",
   type: "regular",
@@ -318,7 +334,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M3.75 13.94v8.25h6v-6a1.5 1.5 0 0 1 1.5-1.5h1.5a1.5 1.5 0 0 1 1.5 1.5v6h6v-8.25m-19.5-1.5L10.94 2.25a1.5 1.5 0 0 1 2.12 0l10.19 10.19M16.5 5.69v-1.5h3.75v5.25M1.5 22.19h21"]
-}, F = {
+}, U = {
   name: "information-circle",
   key: "InformationCircle",
   type: "regular",
@@ -326,7 +342,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M14.25 16.5h-.75A1.5 1.5 0 0 1 12 15v-3.75a.75.75 0 0 0-.75-.75h-.75m1.13-3.75a.38.38 0 1 0 .38.38.38.38 0 0 0-.38-.38", "M12 .75a11.25 11.25 0 1 0 0 22.5 11.25 11.25 0 1 0 0-22.5z"]
-}, I = {
+}, $ = {
   name: "like-1",
   key: "Like1",
   type: "regular",
@@ -334,7 +350,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M5.25 21.75a6 6 0 0 1 1.56.23l3.63 1.04a6 6 0 0 0 1.65.23h4.89a6 6 0 0 0 5.97-5.4l.3-5.1a4.5 4.5 0 0 0-3.4-4.59l-1.46-.32a1.5 1.5 0 0 1-1.14-1.46V3a2.25 2.25 0 0 0-4.5 0v1.55a7.5 7.5 0 0 1-7.5 7.5zm-4.5-12h4.5v13.5H.75z"]
-}, U = {
+}, G = {
   name: "like",
   key: "Like",
   type: "regular",
@@ -342,7 +358,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M.75 21.75v-10.5h1.5a7.5 7.5 0 0 0 7.5-7.5V3a2.25 2.25 0 0 1 4.5 0v3.75a1.5 1.5 0 0 0 1.5 1.5h3a4.5 4.5 0 0 1 4.48 4.95l-.47 4.65a6 6 0 0 1-5.97 5.4h-6.2a6.01 6.01 0 0 1-1.65-.23L5.3 21.98a6.01 6.01 0 0 0-1.65-.23H.75"]
-}, $ = {
+}, O = {
   name: "lock-1",
   key: "Lock1",
   type: "regular",
@@ -350,7 +366,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M5.25 9.75h13.5a1.5 1.5 0 0 1 1.5 1.5v10.5a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-10.5a1.5 1.5 0 0 1 1.5-1.5zm1.5 0V6a5.25 5.25 0 0 1 10.5 0v3.75M12 15v3"]
-}, G = {
+}, Q = {
   name: "login-3",
   key: "Login3",
   type: "regular",
@@ -358,7 +374,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M20.25 18.75v1.5a1.5 1.5 0 0 1-1.5 1.5h-4.5m0-18h4.5a1.5 1.5 0 0 1 1.5 1.5v1.5m-9.86 16.49-9-1.29a.75.75 0 0 1-.64-.74V3.73A.75.75 0 0 1 1.34 3l9-2.22a.75.75 0 0 1 .91.73v21a.75.75 0 0 1-.86.74zM18 9.75l-3 3h8.25m-5.25 3-3-3m-7.13-1.12zm0 0a.38.38 0 1 0 .38.37.37.37 0 0 0-.38-.38"]
-}, O = {
+}, E = {
   name: "love-it",
   key: "LoveIt",
   type: "regular",
@@ -366,7 +382,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["m12 21.84-9.59-10a5.67 5.67 0 0 1-1.06-6.55 5.67 5.67 0 0 1 9.09-1.47L12 5.38l1.57-1.57a5.67 5.67 0 1 1 8.02 8.02z"]
-}, Q = {
+}, J = {
   name: "messages-bubble-square-add",
   key: "MessagesBubbleSquareAdd",
   type: "regular",
@@ -374,7 +390,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12z", "M17.25 14.25v6m-3-3h6M8.22 19.9l-4.47 3.35v-4.5h-1.5a1.5 1.5 0 0 1-1.5-1.5v-15a1.5 1.5 0 0 1 1.5-1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v7.5"]
-}, E = {
+}, K = {
   name: "messages-bubble-square-star",
   key: "MessagesBubbleSquareStar",
   type: "regular",
@@ -382,7 +398,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["m8.22 19.9-4.47 3.35v-4.5h-1.5a1.5 1.5 0 0 1-1.5-1.5v-15a1.5 1.5 0 0 1 1.5-1.5h19.5a1.5 1.5 0 0 1 1.5 1.5v9m-5.3.43L19.49 15h3a.74.74 0 0 1 .52 1.28l-2.6 2.56 1.44 3.31a.79.79 0 0 1-1.12.98l-3.49-1.96-3.49 1.96a.79.79 0 0 1-1.12-.98l1.44-3.31-2.6-2.56a.73.73 0 0 1 .52-1.28h3l1.54-3.32a.8.8 0 0 1 1.42 0z"]
-}, J = {
+}, X = {
   name: "messaging-whatsapp",
   key: "MessagingWhatsapp",
   type: "regular",
@@ -390,7 +406,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M12 .75A11.22 11.22 0 0 0 .74 11.91a11 11 0 0 0 2.14 6.54l-1.4 4.15 4.32-1.37a11.26 11.26 0 0 0 17.44-9.32A11.22 11.22 0 0 0 12 .75m6.07 13.91c-.07-.12-.27-.2-.56-.34s-1.74-.85-2-.95-.47-.15-.66.15-.5.73-.67.92-.34.22-.64.07a9.2 9.2 0 0 1-4.14-3.58c-.17-.29 0-.45.13-.59.49-.49.5-.42.62-.66a.53.53 0 0 0 0-.51C10 9 9.45 7.58 9.2 7s-1.51-.69-2-.15C2 12.33 14.67 21.72 17.91 16a1.41 1.41 0 0 0 .16-1.32"]
-}, K = {
+}, Y = {
   name: "module",
   key: "Module",
   type: "regular",
@@ -398,7 +414,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["m1.82 4.52 9.1-3.57a2.94 2.94 0 0 1 2.16 0l9.1 3.57a1.76 1.76 0 0 1 1.07 1.66v11.63a1.76 1.76 0 0 1-1.07 1.66l-9.1 3.57a2.96 2.96 0 0 1-2.16 0l-9.1-3.57a1.76 1.76 0 0 1-1.07-1.66V6.19a1.76 1.76 0 0 1 1.07-1.66zM12 9.35 1.1 5.08M12 9.35l10.9-4.27M12 23.25V9.35"]
-}, X = {
+}, Z = {
   name: "navigation-menu-4",
   key: "NavigationMenu4",
   type: "regular",
@@ -406,7 +422,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M2.25.75h19.5a1.5 1.5 0 0 1 1.5 1.5v19.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5V2.25a1.5 1.5 0 0 1 1.5-1.5zm4.5 6.75h10.5M6.75 12h10.5m-10.5 4.5h10.5"]
-}, Y = {
+}, _ = {
   name: "navigation-menu",
   key: "NavigationMenu",
   type: "regular",
@@ -414,7 +430,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M2.25 18h19.5m-19.5-6h19.5M2.25 6h19.5"]
-}, Z = {
+}, e1 = {
   name: "password-desktop-lock-approved",
   key: "PasswordDesktopLockApproved",
   type: "regular",
@@ -422,7 +438,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M13.5 18.75a8.93 8.93 0 0 0 1.5 4.5H9a8.93 8.93 0 0 0 1.5-4.5m-3.75 4.5h10.5m-16.5-7.5h22.5", "M23.25 15.75v1.5a1.5 1.5 0 0 1-1.5 1.5H2.25a1.5 1.5 0 0 1-1.5-1.5v-15a1.5 1.5 0 0 1 1.5-1.5h10.5", "M15.75 5.25h6a1.5 1.5 0 0 1 1.5 1.5v4.5a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-4.5a1.5 1.5 0 0 1 1.5-1.5z", "M15.75 5.25v-1.5a3 3 0 0 1 6 0v1.5m-3 3.38a.38.38 0 1 0 .38.38.37.37 0 0 0-.38-.38M10.5 6.75l-3.75 4.5L4.5 9"]
-}, _ = {
+}, t1 = {
   name: "payment-paypal",
   key: "PaymentPaypal",
   type: "regular",
@@ -430,7 +446,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M13.95 7.12a1.67 1.67 0 0 0-1.65-2.24H9.91l-1 4.48h2.29a3 3 0 0 0 2.75-2.24zM1.81 18.74l4-17h8.29c2.49 0 5.26 1.79 4.43 5.58a6.8 6.8 0 0 1-6.86 5.42H8.18l-1.49 6zM21.68 7.43c1.5 2.66-.38 8.72-6.35 8.81h-3.61l-1.52 6H5.32L5.56 21"]
-}, e1 = {
+}, a1 = {
   name: "pencil",
   key: "Pencil",
   type: "regular",
@@ -438,7 +454,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M22.19 1.81a3.64 3.64 0 0 0-5.17.04l-14.5 14.5-1.77 6.9 6.91-1.77 14.5-14.5a3.64 3.64 0 0 0 .04-5.17zm-5.58.45 5.13 5.13M2.52 16.34l5.14 5.13"]
-}, t1 = {
+}, r1 = {
   name: "remove",
   key: "Remove",
   type: "regular",
@@ -446,7 +462,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["m4.5 19.5 15-15m-15 0 15 15"]
-}, a1 = {
+}, o1 = {
   name: "road-sign-warning",
   key: "RoadSignWarning",
   type: "regular",
@@ -454,7 +470,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M13.31 2.28a1.5 1.5 0 0 0-2.63 0l-9.75 18a1.5 1.5 0 0 0 1.32 2.22h19.5a1.5 1.5 0 0 0 1.31-2.23zM12 18a.38.38 0 0 1 .38.38m-.75 0A.38.38 0 0 1 12 18m0 .75a.38.38 0 0 1-.38-.38m.75 0a.38.38 0 0 1-.38.38M12 15V8.25"]
-}, r1 = {
+}, n1 = {
   name: "search",
   key: "Search",
   type: "regular",
@@ -462,7 +478,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M9.81.75a9.06 9.06 0 1 0 0 18.12 9.06 9.06 0 1 0 0-18.12zm6.41 15.47 7.03 7.03"]
-}, o1 = {
+}, i1 = {
   name: "season-autumn",
   key: "SeasonAutumn",
   type: "regular",
@@ -470,7 +486,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M14.58 20.75s1.22 2.5 3.27 2.31c4.16-.38 3.88-5.91 5.4-7.86a9.1 9.1 0 0 0-8.27.08c-2.15 1.22-2.31 3.27-.41 5.48zm2.94-2.54s-2.7.34-4.62 5.03m7.13-11.76a10.67 10.67 0 0 0 .91-4.85.48.48 0 0 0-.45-.46 8.32 8.32 0 0 0-6.77 2.43A14.95 14.95 0 0 0 11.23.93a.48.48 0 0 0-.77 0A14.95 14.95 0 0 0 7.97 8.6 8.32 8.32 0 0 0 1.2 6.17a.48.48 0 0 0-.45.46c-.06 1.64-.16 6.74 6 8.38l-2.37 1.36a.48.48 0 0 0 .14.89c1.39.29 3.3 1.25 5.98-.29m0 4.04v-4.04"]
-}, n1 = {
+}, s1 = {
   name: "season-spring",
   key: "SeasonSpring",
   type: "regular",
@@ -478,7 +494,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M14.58 20.75s1.22 2.5 3.27 2.31c4.16-.38 3.88-5.91 5.4-7.86a9.1 9.1 0 0 0-8.27.08c-2.15 1.22-2.31 3.27-.41 5.48zm2.94-2.54s-2.7.33-4.62 5.03M5.25 18 1.5 21.75m9-3.75-3.75 3.75m14.06-11.02a7.05 7.05 0 0 0 .6-2.85A7.19 7.19 0 0 0 7.17 6.55 4.46 4.46 0 1 0 5.24 15h4.77"]
-}, i1 = {
+}, l1 = {
   name: "season-summer",
   key: "SeasonSummer",
   type: "regular",
@@ -486,7 +502,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M14.58 20.75s1.22 2.5 3.27 2.31c4.16-.38 3.88-5.91 5.4-7.86a9.1 9.1 0 0 0-8.27.08c-2.15 1.22-2.31 3.27-.41 5.48zm2.94-2.54s-2.7.33-4.62 5.03m-2.4-4.66a6.75 6.75 0 1 1 8.21-7.33m-6.71-9V.75m6.89 4.36 1.06-1.06M5.11 18.9l-1.06 1.06M2.25 12H.75m4.36-6.89L4.05 4.05"]
-}, s1 = {
+}, h1 = {
   name: "season-winter",
   key: "SeasonWinter",
   type: "regular",
@@ -494,7 +510,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M14.58 20.38s1.22 2.5 3.27 2.31c4.16-.38 3.88-5.91 5.4-7.86a9.1 9.1 0 0 0-8.27.08c-2.15 1.22-2.31 3.27-.41 5.48zm2.94-2.54s-2.7.34-4.62 5.03M9.75 1.13v18m9-9h-18m6.75 2.25-2.89 2.89M14.89 4.98 12 7.88m-7.39-2.9 2.89 2.9m-.32-6.11 2.57 2.57 2.57-2.57m5.79 5.79-2.57 2.57m-5.79 5.78-2.57 2.57m-5.79-5.79 2.57-2.57-2.57-2.57"]
-}, l1 = {
+}, c1 = {
   name: "share-1",
   key: "Share1",
   type: "regular",
@@ -502,7 +518,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M17.25 8.25h1.5a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H5.25a1.5 1.5 0 0 1-1.5-1.5v-12a1.5 1.5 0 0 1 1.5-1.5h1.5M12 .75v10.5M8.25 4.5 12 .75l3.75 3.75"]
-}, h1 = {
+}, u1 = {
   name: "share",
   key: "Share",
   type: "regular",
@@ -510,7 +526,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M5.25 7.5a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm13.5-5.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm0 12a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 1 0 0-7.5zm-10-4.36 6.51-2.53m-6.65 5.57 6.79 3.4"]
-}, u1 = {
+}, g1 = {
   name: "shipment-international",
   key: "ShipmentInternational",
   type: "regular",
@@ -518,7 +534,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M7.54 21.75h-.79a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5h9a1.5 1.5 0 0 1 1.5 1.5v5.29m0-5.29h3a3 3 0 0 1 3 3v3a1.5 1.5 0 0 1-1.5 1.5h-2.29", "M17.63 19.5a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm-8.25 0a1.88 1.88 0 1 0 0 3.76 1.88 1.88 0 1 0 0-3.76zm6.41 2.25h-4.58m12.04-4.5h-3M1.76 13.89a9 9 0 1 1 16.99-4.14m-9-9a11.86 11.86 0 0 0-3.75 9m3.75-9a11.86 11.86 0 0 1 3.75 9m-12.24-3h16.97"]
-}, c1 = {
+}, k1 = {
   name: "shipment-question",
   key: "ShipmentQuestion",
   type: "regular",
@@ -526,7 +542,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M17.25 11.25a6 6 0 1 0 0 12 6 6 0 1 0 0-12z", "M15.38 16.13A1.88 1.88 0 1 1 17.25 18m0 2.25a.38.38 0 1 1-.38.38.38.38 0 0 1 .38-.38m-9-1.5h-6a1.5 1.5 0 0 1-1.5-1.5V6.75a1.5 1.5 0 0 1 1.5-1.5h15a1.5 1.5 0 0 1 1.5 1.5v1.5m-.48-2.6-2.82-4.23A1.5 1.5 0 0 0 14.2.75H5.3a1.5 1.5 0 0 0-1.25.67L1.23 5.65M9.75.75v4.5"]
-}, g1 = {
+}, d1 = {
   name: "shopping-bag-side",
   key: "ShoppingBagSide",
   type: "regular",
@@ -534,7 +550,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M8.99 23.25H2.45a1.5 1.5 0 0 1-1.49-1.69L2.82 7.31A1.5 1.5 0 0 1 4.31 6h1.12a1.5 1.5 0 0 1 1.49 1.31zM14.24 6h5.43a1.5 1.5 0 0 1 1.49 1.31l1.86 14.25a1.5 1.5 0 0 1-1.49 1.69H8.99M5.43 6H12m6 4.5V3.75a3 3 0 1 0-6 0v6.75M9.58 1.25a3 3 0 0 0-1.34 2.5V6"]
-}, k1 = {
+}, m1 = {
   name: "shopping-bag-smiley",
   key: "ShoppingBagSmiley",
   type: "regular",
@@ -542,7 +558,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M11.99 9.75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5z", "M9.78 13.43a.38.38 0 1 1-.38.38.37.37 0 0 1 .38-.38m4.3 0a.38.38 0 1 0 .38.38.37.37 0 0 0-.38-.38m-4.06 3.07a2.07 2.07 0 0 0 1.91.95 2.07 2.07 0 0 0 1.91-.95m5.22-9.75H4.94A1.4 1.4 0 0 0 3.5 7.91l-2 13.92a1.36 1.36 0 0 0 1.44 1.43h18.11a1.36 1.36 0 0 0 1.44-1.43l-2-13.92a1.4 1.4 0 0 0-1.44-1.16zm-3.39-2.94A3.77 3.77 0 0 0 11.98.75 3.76 3.76 0 0 0 8.3 3.79"]
-}, d1 = {
+}, v1 = {
   name: "single-neutral-actions-setting",
   key: "SingleNeutralActionsSetting",
   type: "regular",
@@ -550,7 +566,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M.75 17.25a6.75 6.75 0 0 1 9.4-6.21M7.5.75a4.13 4.13 0 1 0 0 8.26 4.13 4.13 0 1 0 0-8.26zM17.25 15a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z", "m18.52 10.7.44 1.45a.99.99 0 0 0 1.17.68l1.47-.34a1.34 1.34 0 0 1 1.28 2.22l-1.03 1.11a1 1 0 0 0 0 1.36l1.03 1.11a1.34 1.34 0 0 1-1.28 2.22l-1.47-.34a.99.99 0 0 0-1.17.68l-.44 1.45a1.33 1.33 0 0 1-2.55 0l-.44-1.45a.99.99 0 0 0-1.17-.68l-1.47.34a1.34 1.34 0 0 1-1.28-2.22l1.03-1.11a1 1 0 0 0 0-1.36l-1.03-1.11a1.34 1.34 0 0 1 1.28-2.22l1.47.34a.99.99 0 0 0 1.17-.68l.44-1.45a1.33 1.33 0 0 1 2.55.01z"]
-}, m1 = {
+}, p1 = {
   name: "single-neutral-actions",
   key: "SingleNeutralActions",
   type: "regular",
@@ -558,7 +574,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M12 .75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm-9.75 22.5a9.75 9.75 0 0 1 19.5 0"]
-}, v1 = {
+}, w1 = {
   name: "single-neutral",
   key: "SingleNeutral",
   type: "regular",
@@ -566,7 +582,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M12 .75a5.25 5.25 0 1 0 0 10.5 5.25 5.25 0 1 0 0-10.5zm-9.75 22.5a9.75 9.75 0 0 1 19.5 0"]
-}, p1 = {
+}, y1 = {
   name: "subtract",
   key: "Subtract",
   type: "regular",
@@ -574,7 +590,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M.75 12.04h22.5"]
-}, w1 = {
+}, M1 = {
   name: "ticket",
   key: "Ticket",
   type: "regular",
@@ -582,7 +598,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M19.5 12.25a3.75 3.75 0 0 1 3.12-3.7.75.75 0 0 0 .63-.74V5.5a1.5 1.5 0 0 0-1.5-1.5H2.25a1.5 1.5 0 0 0-1.5 1.5v2.31a.75.75 0 0 0 .63.74 3.75 3.75 0 0 1 0 7.4.75.75 0 0 0-.63.74V19a1.5 1.5 0 0 0 1.5 1.5h19.5a1.5 1.5 0 0 0 1.5-1.5v-2.31a.75.75 0 0 0-.63-.74 3.75 3.75 0 0 1-3.12-3.7zm-3.75 5.25V16m0-3v-1.5m0-3V7m-7.5 10.5V16m0-3v-1.5m0-3V7"]
-}, y1 = {
+}, C1 = {
   name: "twitter",
   key: "Twitter",
   type: "regular",
@@ -590,7 +606,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["m23.18 6.71-2.1-.9 1.1-2.4-2.56.85a4.47 4.47 0 0 0-3-1.2 4.51 4.51 0 0 0-4.5 4.5v1c-3.54.73-6.63-1.2-9.5-4.5q-.75 4 1.5 6l-3.29-.5a4.55 4.55 0 0 0 4.25 4l-2.75 1c1 2 2.82 2.31 5.25 2.5a11.52 11.52 0 0 1-6.75 2c12.76 5.67 20.25-2.66 20.25-10v-.83z"]
-}, M1 = {
+}, b1 = {
   name: "user-3d-box",
   key: "User3dBox",
   type: "regular",
@@ -598,7 +614,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M10.5 15 6 12.75V7.5l4.5 2.25V15zm0 0 4.5-2.25V7.5l-4.5 2.25V15zM15 7.5l-4.5-2.25L6 7.5M4.5 23.25v-6.27A9.37 9.37 0 0 1 10.88.75c7.5 0 8.82 6.5 11.63 13.5h-3v3a3 3 0 0 1-3 3H15v3"]
-}, C1 = {
+}, f1 = {
   name: "view-1",
   key: "View1",
   type: "regular",
@@ -606,7 +622,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M12 5.25C7.97 5.18 3.8 8 1.18 10.89a1.66 1.66 0 0 0 0 2.23c2.56 2.82 6.72 5.7 10.82 5.63 4.1.07 8.26-2.81 10.82-5.64a1.66 1.66 0 0 0 0-2.23C20.2 8 16.03 5.18 12 5.25zM15.75 12A3.75 3.75 0 1 1 12 8.25 3.75 3.75 0 0 1 15.75 12z"]
-}, b1 = {
+}, A1 = {
   name: "view-off",
   key: "ViewOff",
   type: "regular",
@@ -614,7 +630,7 @@ const e = {
   height: 24,
   attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "1.5" },
   svgPathData: ["M2.78 21 21.53 3M8.96 19.05a9.99 9.99 0 0 0 3.04.45c4.1.07 8.26-2.81 10.82-5.64a1.66 1.66 0 0 0 0-2.23 20.57 20.57 0 0 0-3.07-2.75m-5.34-2.6A9.55 9.55 0 0 0 12 6c-4.03-.07-8.2 2.75-10.82 5.64a1.66 1.66 0 0 0 0 2.23 20.8 20.8 0 0 0 2.6 2.4m4.47-3.52A3.75 3.75 0 0 1 12 9m3.75 3.75A3.75 3.75 0 0 1 12 16.5"]
-}, f1 = {
+}, z1 = {
   name: "warehouse-cart-package",
   key: "WarehouseCartPackage",
   type: "regular",
@@ -624,82 +640,84 @@ const e = {
   svgPathData: ["M5.26 17.25a3 3 0 1 0 0 6 3 3 0 1 0 0-6z", "M7.85 21.75h10.28a1.5 1.5 0 0 1 1.06.44l1.06 1.06M3.76.75h1.5a1.5 1.5 0 0 1 1.5 1.5v15.4m6-9.4h7.5a1.5 1.5 0 0 1 1.5 1.5v7.5a1.5 1.5 0 0 1-1.5 1.5h-7.5a1.5 1.5 0 0 1-1.5-1.5v-7.5a1.5 1.5 0 0 1 1.5-1.5zm4.5 7.5h1.5"]
 };
 export {
-  M as AccountingCoinsBillRegular,
-  C as AccountingDocumentRegular,
-  b as AddRegular,
-  u as ArrowDown1Bold,
-  f as ArrowDown1Regular,
-  c as ArrowLeft1Bold,
-  A as ArrowLeft1Regular,
-  z as ArrowLeftRegular,
+  b as AccountingCoinsBillRegular,
+  f as AccountingDocumentRegular,
+  A as AddRegular,
+  g as ArrowDown1Bold,
+  z as ArrowDown1Regular,
+  k as ArrowLeft1Bold,
+  P as ArrowLeft1Regular,
+  D as ArrowLeftRegular,
   e as ArrowLightLeftMisc,
   t as ArrowLightRightMisc,
-  g as ArrowRight1Bold,
+  d as ArrowRight1Bold,
   a as ArrowRightMisc,
-  P as ArrowRightRegular,
-  k as ArrowUp1Bold,
-  D as ArrowUpRegular,
+  R as ArrowRightRegular,
+  m as ArrowUp1Bold,
+  S as ArrowUpRegular,
   r as BasketFillMisc,
   o as BasketMisc,
-  R as Bin2AlternateRegular,
-  S as Bin2Regular,
-  L as BookAddress1Regular,
+  L as Bin2AlternateRegular,
+  H as Bin2Regular,
+  V as BookAddress1Regular,
   n as CancelMisc,
   j as CashPaymentBills1Regular,
-  d as Check1Bold,
-  H as Check1Regular,
-  V as CheckCircleRegular,
-  B as CloseRegular,
-  N as CreditCard1Regular,
-  T as DeliveryTruckCargoRegular,
-  W as DeliveryTruckClockRegular,
-  q as FacebookRegular,
+  v as Check1Bold,
+  B as Check1Regular,
+  N as CheckCircleRegular,
+  T as CloseRegular,
+  W as CreditCard1Regular,
+  q as DeliveryTruckCargoRegular,
+  x as DeliveryTruckClockRegular,
+  F as FacebookRegular,
   i as FilterMisc,
-  m as GiftBoxBold,
-  x as HouseRegular,
-  F as InformationCircleRegular,
-  I as Like1Regular,
-  U as LikeRegular,
-  $ as Lock1Regular,
-  G as Login3Regular,
-  O as LoveItRegular,
-  Q as MessagesBubbleSquareAddRegular,
-  E as MessagesBubbleSquareStarRegular,
-  J as MessagingWhatsappRegular,
-  K as ModuleRegular,
-  X as NavigationMenu4Regular,
-  Y as NavigationMenuRegular,
-  v as NavigationMenuVerticalBold,
+  p as GiftBoxBold,
+  I as HouseRegular,
+  U as InformationCircleRegular,
+  $ as Like1Regular,
+  G as LikeRegular,
+  O as Lock1Regular,
+  Q as Login3Regular,
+  E as LoveItRegular,
+  J as MessagesBubbleSquareAddRegular,
+  K as MessagesBubbleSquareStarRegular,
+  X as MessagingWhatsappRegular,
+  Y as ModuleRegular,
+  Z as NavigationMenu4Regular,
+  _ as NavigationMenuRegular,
+  w as NavigationMenuVerticalBold,
   s as PackMisc,
-  Z as PasswordDesktopLockApprovedRegular,
-  _ as PaymentPaypalRegular,
-  e1 as PencilRegular,
-  p as RatingHalfStarBold,
-  w as RatingStarBold,
+  e1 as PasswordDesktopLockApprovedRegular,
+  t1 as PaymentPaypalRegular,
+  a1 as PencilRegular,
+  y as RatingHalfStarBold,
+  M as RatingStarBold,
   l as RecyclingMisc,
-  t1 as RemoveRegular,
-  a1 as RoadSignWarningRegular,
-  r1 as SearchRegular,
-  o1 as SeasonAutumnRegular,
-  n1 as SeasonSpringRegular,
-  i1 as SeasonSummerRegular,
-  s1 as SeasonWinterRegular,
-  l1 as Share1Regular,
-  h1 as ShareRegular,
-  u1 as ShipmentInternationalRegular,
-  c1 as ShipmentQuestionRegular,
-  g1 as ShoppingBagSideRegular,
-  k1 as ShoppingBagSmileyRegular,
-  y as ShoppingCartAddBold,
-  m1 as SingleNeutralActionsRegular,
-  d1 as SingleNeutralActionsSettingRegular,
-  v1 as SingleNeutralRegular,
-  h as SortMisc,
-  p1 as SubtractRegular,
-  w1 as TicketRegular,
-  y1 as TwitterRegular,
-  M1 as User3dBoxRegular,
-  C1 as View1Regular,
-  b1 as ViewOffRegular,
-  f1 as WarehouseCartPackageRegular
+  r1 as RemoveRegular,
+  h as ReturnMisc,
+  o1 as RoadSignWarningRegular,
+  n1 as SearchRegular,
+  i1 as SeasonAutumnRegular,
+  s1 as SeasonSpringRegular,
+  l1 as SeasonSummerRegular,
+  h1 as SeasonWinterRegular,
+  c1 as Share1Regular,
+  u1 as ShareRegular,
+  g1 as ShipmentInternationalRegular,
+  k1 as ShipmentQuestionRegular,
+  d1 as ShoppingBagSideRegular,
+  m1 as ShoppingBagSmileyRegular,
+  C as ShoppingCartAddBold,
+  p1 as SingleNeutralActionsRegular,
+  v1 as SingleNeutralActionsSettingRegular,
+  w1 as SingleNeutralRegular,
+  c as SortMisc,
+  y1 as SubtractRegular,
+  M1 as TicketRegular,
+  u as TruckMisc,
+  C1 as TwitterRegular,
+  b1 as User3dBoxRegular,
+  f1 as View1Regular,
+  A1 as ViewOffRegular,
+  z1 as WarehouseCartPackageRegular
 };
