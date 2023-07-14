@@ -6,6 +6,6 @@ export const ArrowUp: IconType = {
     type: 'regular',
     width: 24,
     height: 24,
-    attributes: {"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.5"},
-    svgPathData: ["M12 23.25V.75","M22.5 11.25 12 .75 1.5 11.25"],
+    viewBox: '0 0 24 24',
+    svgPathData: [{"name":"path","attributes":{"d":"M12 23.25V.75"},"children":[]},{"name":"path","attributes":{"d":"M22.5 11.25 12 .75 1.5 11.25","fill-rule":"evenodd"},"children":[]}],
 }

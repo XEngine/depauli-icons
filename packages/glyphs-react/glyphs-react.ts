@@ -35,17 +35,21 @@ const Glyph: FC<IGlyphProps & SVGProps<SVGSVGElement>> = (
     const calculatedSize = sizeCalculate(size)
 
     return createElement('svg', {
-            viewBox: '0 0 24 24',
+            viewBox: `0 0 ${icon.width} ${icon.height}`,
             width: width ?? calculatedSize,
             height: height ?? calculatedSize, ...props
         },
-        createElement('g', {
-                ...reactifyAttributes(icon.attributes),
-                stroke: stroke || icon.attributes && icon.attributes?.stroke,
-                fill: fill || icon.attributes && icon.attributes?.fill
-            },
-            icon.svgPathData.map((path, index) => createElement('path', {key: index, d: path}))
-        )
+        icon.svgPathData.map((path, index) => {
+            return createElement(path.name, {
+                    ...reactifyAttributes(path.attributes),
+                    key: index
+                },
+                path.children.map((childPath, childIndex) => createElement(childPath.name, {
+                    ...reactifyAttributes(childPath.attributes),
+                    key: childIndex * 2
+                }))
+            )
+        })
     )
 }
 

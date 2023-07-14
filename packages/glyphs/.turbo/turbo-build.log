@@ -1,14 +1,16 @@
 
-> @depaulisystems/glyphs@1.6.2 build
+> @depaulisystems/glyphs@1.6.3 build
 > vite build
 
-[36mvite v3.2.5 [32mbuilding for production...[36m[39m
+[36mvite v4.4.4 [32mbuilding for production...[36m[39m
 transforming...
-[32m✓[39m 85 modules transformed.
+[32m✓[39m 86 modules transformed.
 rendering chunks...
-[90m[37m[2mdist/[22m[90m[39m[36mglyphs.cjs.js  [39m [2m41.49 KiB / gzip: 11.25 KiB[22m
-[90m[37m[2mdist/[22m[90m[39m[36mglyphs.es.js  [39m [2m44.58 KiB / gzip: 11.25 KiB[22m
 
 [vite:dts] Start generate declaration files...
-[vite:dts] Declaration files built in 853ms.
+computing gzip size...
+[2mdist/[22m[36mglyphs.cjs.js  [39m[1m[2m51.85 kB[22m[1m[22m[2m │ gzip: 11.89 kB[22m
+[vite:dts] Declaration files built in 796ms.
 
+[2mdist/[22m[36mglyphs.es.js  [39m[1m[2m56.95 kB[22m[1m[22m[2m │ gzip: 12.01 kB[22m
+[32m✓ built in 956ms[39m

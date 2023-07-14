@@ -3,6 +3,8 @@ const customConvertShapeToPath = require('./convertShapeToPath.js');
 const mergePath = require('./merge.js');
 const {parseSync} = require('svgson')
 const svgSlim = require('svg-slim');
+const convertCssStringToJsObject = require("./csstojs");
+const util = require('util')
 
 module.exports = async (name, componentName, content, iconPackage) => {
     let test = await svgSlim(content, {
@@ -15,37 +17,61 @@ module.exports = async (name, componentName, content, iconPackage) => {
         plugins: [
             'removeTitle',
             'removeDesc',
-            {
+            /*{
                 name: 'convertShapeToPath',
                 active: true,
                 params: {
                     convertArcs: true,
                 }
-            },
+            },*/
             'convertPathData',
             //css,
-            customConvertShapeToPath,
-            'mergePaths',
+            //customConvertShapeToPath,
+            //'mergePaths',
         ]
     }).data;
 
     const svgAst = parseSync(svg)
 
-    const paths = svgAst.children.filter(child => child.name === 'path')
-    let style = svgAst.children.find(child => child.name === 'style')?.children[0].value
-    if (style) {
-        style = style.replace(/#000/g, 'currentColor').match(/{(.*?)}/)[1]
-        style = style.split(';').filter(x => x).reduce((acc, rule) => {
-            const [key, value] = rule.split(':')
-            acc[key.trim()] = value.trim()
-            return acc
-        }, {})
-    }else if(!style && iconPackage.package === 'packages/glyphs/src/bold'){
-        style = {
-            'fill': 'currentColor'
+    let style = convertCssStringToJsObject(svgAst.children.find(child => child.name === 'style')?.children[0].value)
+
+    const sanitize = (path) => {
+        const out = {...path}
+
+        delete out.type
+        delete out.value
+
+        if (path.attributes.class) {
+            const styleMatch = style[path.attributes.class]
+            delete out.attributes.class
+
+            if (styleMatch) {
+                out.attributes = {...out.attributes, ...styleMatch}
+            }
         }
+
+        if (out.attributes.fill && out.attributes.fill !== 'none') {
+            out.attributes.fill = 'currentColor'
+        }
+
+        if (out.attributes.stroke && out.attributes.stroke !== 'none') {
+            out.attributes.stroke = 'currentColor'
+        }
+
+        return out
     }
 
+    const paths = svgAst.children.filter(x => x.name !== 'style').map(path => {
+        const _path = sanitize({...path})
+
+        if (_path.children.length) {
+            _path.children = _path.children.filter(x => x.name !== 'style').map(child => sanitize({...child}))
+        }
+
+        return _path
+    })
+
+    const viewBox = svgAst.attributes.viewBox?.split(',') || [0, 0, 24, 24]
 
     return `import {IconType} from "../iconType";
 
@@ -53,10 +79,10 @@ export const ${componentName}: IconType = {
     name: '${name}',
     key: '${componentName}',
     type: '${iconPackage.name}',
-    width: 24,
-    height: 24,
-    attributes: ${JSON.stringify(style)},
-    svgPathData: ${JSON.stringify(paths.map(x => x.attributes.d))},
+    width: ${svgAst.attributes.width || viewBox[2]},
+    height: ${svgAst.attributes.height || viewBox[3]},
+    viewBox: '${viewBox.join(' ')}',
+    svgPathData: ${JSON.stringify(paths)},
 }
 `
 }

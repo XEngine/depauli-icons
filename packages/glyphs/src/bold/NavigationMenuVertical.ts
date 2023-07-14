@@ -6,6 +6,6 @@ export const NavigationMenuVertical: IconType = {
     type: 'bold',
     width: 24,
     height: 24,
-    attributes: {"fill":"currentColor"},
-    svgPathData: ["M12 0a3.25 3.25 0 1 0 0 6.5A3.25 3.25 0 1 0 12 0zm0 8.75a3.25 3.25 0 1 0 0 6.5 3.25 3.25 0 1 0 0-6.5zm0 8.75a3.25 3.25 0 1 0 0 6.5 3.25 3.25 0 1 0 0-6.5z"],
+    viewBox: '0 0 24 24',
+    svgPathData: [{"name":"g","attributes":{"fill":"currentColor"},"children":[{"name":"circle","attributes":{"cx":"12","cy":"3.25","r":"3.25"},"children":[]},{"name":"circle","attributes":{"cx":"12","cy":"12","r":"3.25"},"children":[]},{"name":"circle","attributes":{"cx":"12","cy":"20.75","r":"3.25"},"children":[]}]}],
 }

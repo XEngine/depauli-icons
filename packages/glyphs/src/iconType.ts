@@ -1,11 +1,16 @@
+export type SvgPathDataType = {
+    name: string
+    attributes: any
+    children: SvgPathDataType[]
+}
 export type IconType = {
     name: string
     key: string
     type: string
     width: number
     height: number
-    attributes: any
-    svgPathData: string[]
+    viewBox: string,
+    svgPathData: SvgPathDataType[]
 }
 
 export interface IGlyphProps {

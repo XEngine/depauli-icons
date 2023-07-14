@@ -1,37 +1,38 @@
-import { createElement as u } from "react";
-const f = (t) => t ? Object.keys(t).reduce((a, e) => {
-  const r = e.split("-").map((s, o) => o !== 0 ? s.charAt(0).toUpperCase() + s.substring(1) : s).join("");
-  return a[r] = t[e], a;
-}, {}) : {}, b = (t) => parseFloat(t) * (typeof getComputedStyle == "function" ? parseFloat(getComputedStyle(document.documentElement).fontSize) : 16), y = (t) => (t.slice(-1) === "x" ? b(t.slice(0, t.length - 1)) : parseInt(t)) + "px", g = ({
-  icon: t,
-  size: a = "1.5x",
-  width: e,
-  height: r,
-  fill: s,
-  stroke: o,
-  ...c
+import { createElement as i } from "react";
+const c = (e) => e ? Object.keys(e).reduce((t, r) => {
+  const s = r.split("-").map((n, u) => u !== 0 ? n.charAt(0).toUpperCase() + n.substring(1) : n).join("");
+  return t[s] = e[r], t;
+}, {}) : {}, f = (e) => parseFloat(e) * (typeof getComputedStyle == "function" ? parseFloat(getComputedStyle(document.documentElement).fontSize) : 16), g = (e) => (e.slice(-1) === "x" ? f(e.slice(0, e.length - 1)) : parseInt(e)) + "px", h = ({
+  icon: e,
+  size: t = "1.5x",
+  width: r,
+  height: s,
+  fill: n,
+  stroke: u,
+  ...m
 }) => {
-  var n, p;
-  const l = y(a);
-  return u(
+  const a = g(t);
+  return i(
     "svg",
     {
-      viewBox: "0 0 24 24",
-      width: e != null ? e : l,
-      height: r != null ? r : l,
-      ...c
+      viewBox: `0 0 ${e.width} ${e.height}`,
+      width: r ?? a,
+      height: s ?? a,
+      ...m
     },
-    u(
-      "g",
+    e.svgPathData.map((o, p) => i(
+      o.name,
       {
-        ...f(t.attributes),
-        stroke: o || t.attributes && ((n = t.attributes) == null ? void 0 : n.stroke),
-        fill: s || t.attributes && ((p = t.attributes) == null ? void 0 : p.fill)
+        ...c(o.attributes),
+        key: p
       },
-      t.svgPathData.map((m, i) => u("path", { key: i, d: m }))
-    )
+      o.children.map((l, d) => i(l.name, {
+        ...c(l.attributes),
+        key: d * 2
+      }))
+    ))
   );
 };
 export {
-  g as default
+  h as default
 };
