@@ -1,6 +1,4 @@
-const {stringifyPathData} = require('svgo/lib/path.js');
-const {detachNodeFromParent} = require('svgo/lib/xast.js');
-const JSAPI = require('svgo/lib/svgo/jsAPI.js');
+const {detachNodeFromParent} = require('svgo/lib/xast');
 
 module.exports = {
     name: 'mergePath',
@@ -25,7 +23,6 @@ module.exports = {
                         prevPathElement.attributes.d = prevPathElement.attributes.d + ' ' + currentPathElement.attributes.d
                         detachNodeFromParent(currentPathElement, node)
                         //2. ve sonraki elementlerdeyiz.
-
                     }
                 },
             }

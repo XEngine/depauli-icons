@@ -7,5 +7,5 @@ export const ArrowLeft: IconType = {
     width: 24,
     height: 24,
     viewBox: '0 0 24 24',
-    svgPathData: [{"name":"path","attributes":{"d":"M23.25 12H.75"},"children":[]},{"name":"path","attributes":{"d":"M11.25 1.5.75 12l10.5 10.5","fill-rule":"evenodd"},"children":[]}],
+    svgPathData: [{"name":"path","parent":null,"attributes":{"d":"M23.25 12H.75"},"children":[]},{"name":"path","parent":null,"attributes":{"d":"M11.25 1.5.75 12l10.5 10.5","fill-rule":"evenodd"},"children":[]}],
 }
