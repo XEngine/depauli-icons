@@ -674,32 +674,32 @@ const e = {
   name: "box",
   key: "Box",
   type: "duotone",
-  width: 32,
-  height: 32,
+  width: 24,
+  height: 24,
   viewBox: "0 0 24 24",
   svgPathData: [{ name: "g", parent: null, attributes: { fill: "currentColor" }, children: [{ name: "path", parent: null, attributes: { d: "M8.42 20.62C10.18 21.54 11.06 22 12 22V12L2.64 7.07a3.2 3.2 0 0 0-.04.07C2 8.15 2 9.42 2 11.94v.12c0 2.52 0 3.79.6 4.8.6 1.02 1.67 1.58 3.83 2.71l2 1.05z" }, children: [] }, { name: "path", parent: null, attributes: { d: "m17.58 4.43-2-1.05C13.82 2.46 12.94 2 12 2c-.95 0-1.82.46-3.58 1.38l-2 1.05C4.32 5.54 3.24 6.1 2.64 7.07L12 12l9.36-4.93c-.61-.97-1.68-1.54-3.79-2.64z", opacity: ".7" }, children: [] }, { name: "path", parent: null, attributes: { d: "M21.4 7.14a3.15 3.15 0 0 0-.04-.07L12 12v10c.94 0 1.82-.46 3.58-1.38l2-1.05c2.15-1.13 3.23-1.69 3.83-2.71.6-1.01.6-2.28.6-4.8v-.12c0-2.53 0-3.79-.6-4.8z", opacity: ".5" }, children: [] }, { name: "path", parent: null, attributes: { d: "m6.32 4.48 1.59-.84 9.1 5.01 4.03-2.01c.14.16.26.32.36.5.15.25.26.52.35.83l-4 1.99V13a.75.75 0 0 1-1.5 0v-2.29l-3.5 1.75v9.44a3.06 3.06 0 0 1-.75.1c-.25 0-.49-.03-.75-.1v-9.44l-9-4.5c.08-.3.2-.57.35-.82a3.15 3.15 0 0 1 .36-.5L12 11.16l3.39-1.69-9.07-4.99z" }, children: [] }] }]
 }, S1 = {
   name: "logout",
   key: "Logout",
   type: "duotone",
-  width: 32,
-  height: 32,
+  width: 24,
+  height: 24,
   viewBox: "0 0 24 24",
   svgPathData: [{ name: "g", parent: null, attributes: { fill: "currentColor" }, children: [{ name: "path", parent: null, attributes: { d: "M15 2h-1c-2.83 0-4.24 0-5.12.88S8 5.17 8 8v8c0 2.83 0 4.24.88 5.12S11.17 22 14 22h1c2.83 0 4.24 0 5.12-.88S21 18.83 21 16V8c0-2.83 0-4.24-.88-5.12S17.83 2 15 2z", opacity: ".6" }, children: [] }, { name: "path", parent: null, attributes: { d: "M8 8c0-1.54 0-2.66.14-3.5H8c-2.36 0-3.54 0-4.27.73S3 7.14 3 9.5v5c0 2.36 0 3.54.73 4.27s1.91.73 4.27.73h.14C8 18.66 8 17.54 8 16V8z", opacity: ".4" }, children: [] }, { name: "path", parent: null, attributes: { "fill-rule": "evenodd", d: "M4.47 11.47a.75.75 0 0 0 0 1.06l2 2a.75.75 0 0 0 1.06-1.06l-.72-.72H14a.75.75 0 0 0 0-1.5H6.81l.72-.72a.75.75 0 1 0-1.06-1.06l-2 2z", "clip-rule": "evenodd" }, children: [] }] }]
 }, R1 = {
   name: "settings",
   key: "Settings",
   type: "duotone",
-  width: 32,
-  height: 32,
+  width: 24,
+  height: 24,
   viewBox: "0 0 24 24",
   svgPathData: [{ name: "g", parent: null, attributes: { fill: "currentColor" }, children: [{ name: "path", parent: null, attributes: { "fill-rule": "evenodd", d: "M14.28 2.15C13.91 2 13.44 2 12.5 2s-1.41 0-1.78.15a2.01 2.01 0 0 0-1.09 1.08c-.09.22-.13.48-.15.86a1.62 1.62 0 0 1-.8 1.35 1.64 1.64 0 0 1-1.58.01c-.34-.18-.58-.28-.83-.31a2.03 2.03 0 0 0-1.49.4c-.32.24-.55.65-1.02 1.45-.47.81-.7 1.21-.76 1.61-.07.53.07 1.06.4 1.48.15.19.36.35.68.56.48.3.78.8.78 1.36s-.31 1.06-.78 1.36c-.32.2-.53.36-.68.56A1.99 1.99 0 0 0 3 15.4c.05.39.29.8.76 1.61s.7 1.21 1.02 1.45c.42.32.96.47 1.49.4.24-.03.49-.13.83-.31a1.64 1.64 0 0 1 1.58.01c.49.28.77.8.8 1.35.02.38.05.64.15.86.2.49.6.88 1.09 1.08.37.15.84.15 1.78.15s1.41 0 1.78-.15a2.01 2.01 0 0 0 1.09-1.08c.09-.22.13-.48.15-.86.02-.56.31-1.07.8-1.35a1.64 1.64 0 0 1 1.58-.01c.34.18.58.28.83.31.53.07 1.07-.07 1.49-.4.32-.24.55-.65 1.02-1.45.47-.81.7-1.21.76-1.61a1.99 1.99 0 0 0-.4-1.48c-.15-.19-.36-.35-.68-.56-.48-.3-.78-.8-.78-1.36s.31-1.06.78-1.36c.32-.2.53-.36.68-.56A1.99 1.99 0 0 0 22 8.6c-.05-.39-.29-.8-.76-1.61s-.7-1.21-1.02-1.45a2.03 2.03 0 0 0-1.49-.4c-.24.03-.49.13-.83.31a1.64 1.64 0 0 1-1.58-.01 1.62 1.62 0 0 1-.8-1.35c-.02-.38-.05-.64-.15-.86a2.01 2.01 0 0 0-1.09-1.08z", "clip-rule": "evenodd", opacity: ".5" }, children: [] }, { name: "path", parent: null, attributes: { d: "M15.52 12c0 1.66-1.35 3-3.02 3s-3.02-1.34-3.02-3 1.35-3 3.02-3 3.02 1.34 3.02 3z" }, children: [] }] }]
 }, L1 = {
   name: "user",
   key: "User",
   type: "duotone",
-  width: 32,
-  height: 32,
+  width: 24,
+  height: 24,
   viewBox: "0 0 24 24",
   svgPathData: [{ name: "g", parent: null, attributes: { fill: "currentColor" }, children: [{ name: "circle", parent: null, attributes: { cx: "12", cy: "6", r: "4" }, children: [] }, { name: "path", parent: null, attributes: { d: "M20 17.5c0 2.49 0 4.5-8 4.5s-8-2.02-8-4.5S7.58 13 12 13s8 2.02 8 4.5z", opacity: ".5" }, children: [] }] }]
 };
