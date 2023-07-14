@@ -82,4 +82,7 @@ export { User3dBox as User3dBoxRegular } from "./regular/User3dBox";
 export { View1 as View1Regular } from "./regular/View1";
 export { ViewOff as ViewOffRegular } from "./regular/ViewOff";
 export { WarehouseCartPackage as WarehouseCartPackageRegular } from "./regular/WarehouseCartPackage";
+export { Box as BoxDuotone } from "./duotone/Box";
+export { Logout as LogoutDuotone } from "./duotone/Logout";
+export { Settings as SettingsDuotone } from "./duotone/Settings";
 export { User as UserDuotone } from "./duotone/User";
