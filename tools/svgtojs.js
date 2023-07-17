@@ -6,7 +6,7 @@ const svgSlim = require('svg-slim');
 const convertCssStringToJsObject = require("./csstojs");
 const util = require('util')
 
-module.exports = async (name, componentName, content, iconPackage) => {
+module.exports = async (name, componentName, content, iconPackage, iconPackageName) => {
     let test = await svgSlim(content, {
         "rules": {
             'apply-style': false,
@@ -40,6 +40,7 @@ module.exports = async (name, componentName, content, iconPackage) => {
 
         delete out.type
         delete out.value
+        delete out.parent
 
         if (path.attributes.class) {
             const styleMatch = style[path.attributes.class]
@@ -75,7 +76,7 @@ module.exports = async (name, componentName, content, iconPackage) => {
 
     return `import {IconType} from "../iconType";
 
-export const ${componentName}: IconType = {
+export const ${componentName}${iconPackageName}: IconType = {
     name: '${name}',
     key: '${componentName}',
     type: '${iconPackage.name}',

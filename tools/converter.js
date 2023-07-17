@@ -54,26 +54,26 @@ async function main() {
 
             const svg = await fs.readFile(icon, "utf8");
             try {
-                const component = await svgToVue(fileName, iconName, svg, iconPackage);
-                await fs.writeFileSync(`./${iconPackage.package}/${iconName}.ts`, component, "utf8");
+                const component = await svgToVue(fileName, iconName, svg, iconPackage, uppercasePackageName);
+                await fs.writeFileSync(`./${iconPackage.package}/${iconName}${uppercasePackageName}.ts`, component, "utf8");
                 console.log(iconPackage.package, iconName, 'done')
             } catch (e) {
                 console.log(icon, iconName)
                 console.log(e)
             }
 
-            iconsAcc[uppercasePackageName].push(iconName)
+            iconsAcc[uppercasePackageName].push(iconName+uppercasePackageName)
         }
 
-        const indexFileResult = [...new Set(iconNameContent)].map(x => `export { ${x} } from "./${x}";`).join('\n')
-        fs.writeFileSync(`./${iconPackage.package}/index.ts`, indexFileResult, "utf8");
+       /* const indexFileResult = [...new Set(iconNameContent)].map(x => `export { ${x} } from "./${x}";`).join('\n')
+        fs.writeFileSync(`./${iconPackage.package}/index.ts`, indexFileResult, "utf8");*/
     }
 
     //const accindex = Object.keys(iconsAcc).map(x => `export {${iconsAcc[x]} as ${iconsAcc[x]}${x} from "./${x.toLowerCase()}/${iconsAcc[x]}";`).join('\n')
     const accindex = Object.keys(iconsAcc).map(x => {
-        return iconsAcc[x].map(y => `export { ${y} as ${y}${x} } from "./${x.toLowerCase()}/${y}";`).join('\n')
+        return iconsAcc[x].map(y => `export { ${y} } from "./${x.toLowerCase()}/${y}";`).join('\n')
     }).join('\n')
-    fs.writeFileSync(`./packages/glyphs/src/index.ts`, accindex, "utf8");
+    fs.writeFileSync(`./packages/glyphs/src/glyphs.ts`, accindex, "utf8");
 }
 
 main().catch((err) => {

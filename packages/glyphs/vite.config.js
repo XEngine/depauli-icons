@@ -1,16 +1,14 @@
-import dtsPlugin from "vite-plugin-dts";
+import dts from 'vite-plugin-dts'
 
 export default {
     plugins: [
-        dtsPlugin(
-            {
-                outputDir: "dist/types",
-            }
-        )
+        dts({
+            outDir: 'dist/types'
+        })
     ],
     build: {
         lib: {
-            entry: "./src/index.ts",
+            entry: "./src/glyphs.ts",
             name: "Glyphs",
             fileName: (format) => `glyphs.${format}.js`,
             formats: ["cjs", "es"],

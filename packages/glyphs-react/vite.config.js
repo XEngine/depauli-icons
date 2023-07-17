@@ -4,7 +4,7 @@ export default {
     plugins: [
         dtsPlugin(
             {
-                outputDir: "dist/types",
+                outDir: "dist/types",
             }
         )
     ],
