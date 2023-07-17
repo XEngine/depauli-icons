@@ -1,5 +1,16 @@
 # @depaulisystems/glyphs-react
 
+## 2.1.0
+
+### Minor Changes
+
+- c1179bccf4: a
+- e8680dd4af: aaaa
+- 925e205072: Fixed typings
+- e1dd475cb1: a
+- c1179bccf4: New Icons
+- e8680dd4af: a
+
 ## 1.5.0
 
 ### Minor Changes
