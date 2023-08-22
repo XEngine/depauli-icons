@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs-react
 
+## 2.2.0
+
+### Minor Changes
+
+- New Icons Added
+
 ## 2.1.0
 
 ### Minor Changes
