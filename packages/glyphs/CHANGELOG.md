@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs
 
+## 2.4.0
+
+### Minor Changes
+
+- fix love-it icon
+
 ## 2.3.0
 
 ### Minor Changes

@@ -6,7 +6,7 @@ function AppServer() {
 
   return (
     <div className="App">
-          <Glyph icon={LoveItRegular} style={{fill: 'red'}} />
+          <Glyph icon={LoveItRegular} style={{color: 'red', fill: 'red'}} />
     </div>
   )
 }

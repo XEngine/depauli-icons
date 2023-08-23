@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs-react
 
+## 2.3.0
+
+### Minor Changes
+
+- fix love-it icon
+
 ## 2.2.0
 
 ### Minor Changes
