@@ -1,7 +1,7 @@
 {
   "name": "@depaulisystems/glyph",
   "author": "T. Cem Yilmaz",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Icon pack for DePauli AG",
   "private": false,
   "scripts": {
