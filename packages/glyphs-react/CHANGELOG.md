@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs-react
 
+## 2.4.0
+
+### Minor Changes
+
+- typo added
+
 ## 2.3.0
 
 ### Minor Changes

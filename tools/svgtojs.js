@@ -1,10 +1,8 @@
 const {optimize} = require('svgo');
-const customConvertShapeToPath = require('./convertShapeToPath.js');
-const mergePath = require('./merge.js');
 const {parseSync} = require('svgson')
 const svgSlim = require('svg-slim');
 const convertCssStringToJsObject = require("./csstojs");
-const util = require('util')
+const {inspect} = require("util");
 
 module.exports = async (name, componentName, content, iconPackage, iconPackageName) => {
     let test = await svgSlim(content, {
@@ -12,6 +10,7 @@ module.exports = async (name, componentName, content, iconPackage, iconPackageNa
             'apply-style': false,
         },
     })
+
     let svg = optimize(test, {
         multipass: true,
         plugins: [
@@ -34,7 +33,6 @@ module.exports = async (name, componentName, content, iconPackage, iconPackageNa
     const svgAst = parseSync(svg)
 
     let style = convertCssStringToJsObject(svgAst.children.find(child => child.name === 'style')?.children[0].value)
-
     const sanitize = (path) => {
         const out = {...path}
 
@@ -59,12 +57,12 @@ module.exports = async (name, componentName, content, iconPackage, iconPackageNa
             out.attributes.stroke = 'currentColor'
         }
 
+
         return out
     }
 
     const paths = svgAst.children.filter(x => x.name !== 'style').map(path => {
         const _path = sanitize({...path})
-
         if (_path.children.length) {
             _path.children = _path.children.filter(x => x.name !== 'style').map(child => sanitize({...child}))
         }

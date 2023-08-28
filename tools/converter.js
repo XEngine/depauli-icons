@@ -34,6 +34,11 @@ async function main() {
             package: 'packages/glyphs/src/duotone',
             path: './svg/duotone/',
         },
+        {
+            name: 'typography',
+            package: 'packages/glyphs/src/typography',
+            path: './svg/typography/',
+        },
     ]
 
     const iconsAcc = {}
