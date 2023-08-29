@@ -1,38 +1,49 @@
-import { createElement as i } from "react";
-const c = (e) => e ? Object.keys(e).reduce((t, r) => {
-  const s = r.split("-").map((n, u) => u !== 0 ? n.charAt(0).toUpperCase() + n.substring(1) : n).join("");
-  return t[s] = e[r], t;
-}, {}) : {}, f = (e) => parseFloat(e) * (typeof getComputedStyle == "function" ? parseFloat(getComputedStyle(document.documentElement).fontSize) : 16), g = (e) => (e.slice(-1) === "x" ? f(e.slice(0, e.length - 1)) : parseInt(e)) + "px", h = ({
+import { createElement as a } from "react";
+const d = (e) => {
+  console.log(e);
+  const r = `{"${e.replace(/"/g, "").replace(/;/g, '", "').replace(/:/g, '": "').replace(";", "")}"}`;
+  console.log(r);
+  const t = JSON.parse(r), s = Object.keys(t).map((n) => ({ [n.replace(/-[a-z]/g, (l) => l[1].toUpperCase())]: t[n].trim() }));
+  return Object.assign({}, ...s);
+}, u = (e) => {
+  if (!e)
+    return {};
+  const r = Object.keys(e).reduce((t, s) => {
+    const n = s.split("-").map((o, l) => l !== 0 ? o.charAt(0).toUpperCase() + o.substring(1) : o).join("");
+    return n === "style" ? (t[n] = d(e[s]), t) : (t[n] = e[s], t);
+  }, {});
+  return console.log(r), r;
+}, f = (e) => parseFloat(e) * (typeof getComputedStyle == "function" ? parseFloat(getComputedStyle(document.documentElement).fontSize) : 16), y = (e) => (e.slice(-1) === "x" ? f(e.slice(0, e.length - 1)) : parseInt(e)) + "px", C = ({
   icon: e,
-  size: t = "1.5x",
-  width: r,
+  size: r = "1.5x",
+  width: t,
   height: s,
   fill: n,
-  stroke: u,
-  ...m
+  stroke: o,
+  ...l
 }) => {
-  const a = g(t);
-  return i(
+  const p = y(r);
+  return a(
     "svg",
     {
       viewBox: `0 0 ${e.width} ${e.height}`,
-      width: r ?? a,
-      height: s ?? a,
-      ...m
+      width: t ?? p,
+      height: s ?? p,
+      ...l
     },
-    e.svgPathData.map((o, p) => i(
-      o.name,
+    e.svgPathData.map((c, m) => a(
+      c.name,
       {
-        ...c(o.attributes),
-        key: p
+        ...u(c.attributes),
+        key: m
       },
-      o.children.map((l, d) => i(l.name, {
-        ...c(l.attributes),
-        key: d * 2
+      c.children.map((i, g) => a(i.name, {
+        ...u(i.attributes),
+        key: g * 2
       }))
     ))
   );
 };
 export {
-  h as default
+  C as default
 };
