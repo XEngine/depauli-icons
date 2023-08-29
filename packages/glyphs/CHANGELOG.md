@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs
 
+## 2.9.0
+
+### Minor Changes
+
+- e
+
 ## 2.8.0
 
 ### Minor Changes

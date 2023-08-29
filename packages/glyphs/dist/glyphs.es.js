@@ -141,18 +141,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{
-    name: "path",
-    attributes: {
-      d: "M21.82 7.06c-.05-.17-.96-4.01-3.05-4.49-.75-.19-1.49-.29-2.59-.36l-.79-1.08-.15-.19-.07.07L8.71.94 8.64.89l-.08.12-.02.02c-.31.41-.7.91-.86 1.2a6.43 6.43 0 0 1-.65.1c-.43.05-.98.12-1.49.24-1.63.31-2.71 1.78-3.29 4.42l-.7 2.25 3.67 2.38.56-.96v12.41h12.48V10.61l.51.93 3.64-2.4zm-9.34-1.95v3.17h-.65V5.16l.36-.31.21.22zm-4.22-2.8 2.47 3.09-.34.29-2.23-3.26zm2.88 2.76L8.57 1.88l.17-.24 3.08 2.83zm1.44-.55 2.62-2.79.29.39-2.33 2.9zm3.12-1.87-1.92 2.98-.27-.24zm-.99-1.16-2.5 2.66-2.92-2.68zM5.06 10.9 2.18 9.02l.19-.65 2.98 2.02zm1.23 11.64V8.71l-.7 1.23-3.07-2.07.24-.74c.53-2.45 1.48-3.79 2.9-4.08a22.1 22.1 0 0 1 1.44-.22c.31-.05.53-.07.67-.1l2.54 3.72 1.03-.89v3.25h1.68V5.59l.86.81 2.4-3.7c1.01.07 1.7.17 2.4.34 1.8.43 2.66 4.08 2.69 4.13l.19.63-3.09 2.11-.72-1.29v12.5H8.34v.5h9.41v.91zm12.43-12.17 2.93-2.04.17.6-2.88 1.87z",
-      fill: "currentColor"
-    },
-    children: []
-  }, {
-    name: "path",
-    attributes: { d: "M12.48 5.62c0 .17-.14.31-.31.31a.31.31 0 0 1-.31-.31.31.31 0 0 1 .63 0zm0 1.8a.31.31 0 1 1-.31-.31.31.31 0 0 1 .31.31z", fill: "currentColor" },
-    children: []
-  }]
+  svgPathData: [{ name: "path", attributes: { d: "M21.82 7.06c-.05-.17-.96-4.01-3.05-4.49-.75-.19-1.49-.29-2.59-.36l-.79-1.08-.15-.19-.07.07L8.71.94 8.64.89l-.08.12-.02.02c-.31.41-.7.91-.86 1.2a6.43 6.43 0 0 1-.65.1c-.43.05-.98.12-1.49.24-1.63.31-2.71 1.78-3.29 4.42l-.7 2.25 3.67 2.38.56-.96v12.41h12.48V10.61l.51.93 3.64-2.4zm-9.34-1.95v3.17h-.65V5.16l.36-.31.21.22zm-4.22-2.8 2.47 3.09-.34.29-2.23-3.26zm2.88 2.76L8.57 1.88l.17-.24 3.08 2.83zm1.44-.55 2.62-2.79.29.39-2.33 2.9zm3.12-1.87-1.92 2.98-.27-.24zm-.99-1.16-2.5 2.66-2.92-2.68zM5.06 10.9 2.18 9.02l.19-.65 2.98 2.02zm1.23 11.64V8.71l-.7 1.23-3.07-2.07.24-.74c.53-2.45 1.48-3.79 2.9-4.08a22.1 22.1 0 0 1 1.44-.22c.31-.05.53-.07.67-.1l2.54 3.72 1.03-.89v3.25h1.68V5.59l.86.81 2.4-3.7c1.01.07 1.7.17 2.4.34 1.8.43 2.66 4.08 2.69 4.13l.19.63-3.09 2.11-.72-1.29v12.5H8.34v.5h9.41v.91zm12.43-12.17 2.93-2.04.17.6-2.88 1.87z", fill: "currentColor" }, children: [] }, { name: "path", attributes: { d: "M12.48 5.62c0 .17-.14.31-.31.31a.31.31 0 0 1-.31-.31.31.31 0 0 1 .63 0zm0 1.8a.31.31 0 1 1-.31-.31.31.31 0 0 1 .31.31z", fill: "currentColor" }, children: [] }]
 }, w = {
   name: "recycling",
   key: "Recycling",
@@ -192,18 +181,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{
-    name: "path",
-    attributes: { d: "M12.98 7.85v3.53l2.02 1.2 1.97-1.2V7.83zm3.48.48v.24h-2.98v-.21zM15 12l-1.51-.91V9.07h2.95v2.02z", fill: "currentColor" },
-    children: []
-  }, {
-    name: "path",
-    attributes: {
-      d: "m22.44 20.18-.07.02v-.07c0-.08-.34-7.73-.36-9.19-.05-2.21-1.3-7.15-2.11-7.78-.05-.05-.12-.07-.17-.1-.14-.09-.53-.22-1.56-.48-.41-.1-1.39-.34-2.06-.41L15.24.91l-.02.03-6.63.02-.07-.05-.12.19c-.12.17-.26.38-.38.58l-.34.48c-.19.05-.6.15-.99.22-1.94.41-2.33.53-2.42.7a.5.5 0 0 1-.12.08c-.79.63-2.04 5.57-2.09 7.78-.02 1.27-.36 7.7-.43 9.29l-.1-.05-.91-.31.91 2.64 3.12.58.24-1.54-.09-.05c.07-.29.17-.67.24-.96.07-.24.12-.43.12-.5.15-.7.34-1.87.48-3.15l-.05 6.15h12.5v-9.09c.22 2.13.55 4.94.81 6.17.07.31.27 1.03.36 1.41l-.17.07.24 1.54 3.12-.58.91-2.64zm-3.29-16.8c-.58.86-1.08 3.14-1.3 4.23l-.26 2.21v11.31c-.6-.02-2.02-.02-5.5-.02V4.75l1.39 1.7 2.57-3.77c.87.1 2.45.5 3.1.7zM8.45 1.95l.19-.27 2.86 2.4-1.15 1.52-2.16-3.2c.02-.07.14-.24.27-.45zm6.67-.26.45.77-2.13 3.17-1.25-1.54zm-.53-.22-2.76 2.25-2.64-2.23zM4.22 22.49l-2.3-.43-.48-1.39 2.88 1.2zm1.42-10.7c-.12 1.73-.63 6.48-.99 8.16a7.95 7.95 0 0 0-.12.48c-.07.29-.17.6-.24.89l-2.18-.91c.05-1.2.41-8.16.43-9.48.05-2.38 1.32-6.77 1.87-7.35.03.03.05.05.05.07.12.22.24.58.38.96.27.82.55 1.94.77 3 0 .15.05 1.15.07 2.25v1.08c0 .31-.02.6-.05.84zm.55-.77V9.7l-.02-1.99c0-.29-.7-3.36-1.3-4.37a40.16 40.16 0 0 1 1.95-.46c.46-.09.74-.17.94-.22l2.56 3.82 1.25-1.68v16.32c-.93 0-2.02 0-3.26.02v.5h3.26v.89H6.12zm5.91 11.52v-.89h5.5v.89zm7.31-2.57c-.38-1.7-.89-6.43-.98-8.16-.1-1.56 0-3.91.02-4.15.36-1.73.89-3.67 1.2-4.05.53.57 1.8 4.96 1.87 7.34.02 1.46.36 9.12.36 9.19v.29l-2.11.89a23.97 23.97 0 0 1-.36-1.34zm2.69 2.09-2.3.43-.12-.6 2.88-1.2z",
-      fill: "currentColor"
-    },
-    children: []
-  }]
+  svgPathData: [{ name: "path", attributes: { d: "M12.98 7.85v3.53l2.02 1.2 1.97-1.2V7.83zm3.48.48v.24h-2.98v-.21zM15 12l-1.51-.91V9.07h2.95v2.02z", fill: "currentColor" }, children: [] }, { name: "path", attributes: { d: "m22.44 20.18-.07.02v-.07c0-.08-.34-7.73-.36-9.19-.05-2.21-1.3-7.15-2.11-7.78-.05-.05-.12-.07-.17-.1-.14-.09-.53-.22-1.56-.48-.41-.1-1.39-.34-2.06-.41L15.24.91l-.02.03-6.63.02-.07-.05-.12.19c-.12.17-.26.38-.38.58l-.34.48c-.19.05-.6.15-.99.22-1.94.41-2.33.53-2.42.7a.5.5 0 0 1-.12.08c-.79.63-2.04 5.57-2.09 7.78-.02 1.27-.36 7.7-.43 9.29l-.1-.05-.91-.31.91 2.64 3.12.58.24-1.54-.09-.05c.07-.29.17-.67.24-.96.07-.24.12-.43.12-.5.15-.7.34-1.87.48-3.15l-.05 6.15h12.5v-9.09c.22 2.13.55 4.94.81 6.17.07.31.27 1.03.36 1.41l-.17.07.24 1.54 3.12-.58.91-2.64zm-3.29-16.8c-.58.86-1.08 3.14-1.3 4.23l-.26 2.21v11.31c-.6-.02-2.02-.02-5.5-.02V4.75l1.39 1.7 2.57-3.77c.87.1 2.45.5 3.1.7zM8.45 1.95l.19-.27 2.86 2.4-1.15 1.52-2.16-3.2c.02-.07.14-.24.27-.45zm6.67-.26.45.77-2.13 3.17-1.25-1.54zm-.53-.22-2.76 2.25-2.64-2.23zM4.22 22.49l-2.3-.43-.48-1.39 2.88 1.2zm1.42-10.7c-.12 1.73-.63 6.48-.99 8.16a7.95 7.95 0 0 0-.12.48c-.07.29-.17.6-.24.89l-2.18-.91c.05-1.2.41-8.16.43-9.48.05-2.38 1.32-6.77 1.87-7.35.03.03.05.05.05.07.12.22.24.58.38.96.27.82.55 1.94.77 3 0 .15.05 1.15.07 2.25v1.08c0 .31-.02.6-.05.84zm.55-.77V9.7l-.02-1.99c0-.29-.7-3.36-1.3-4.37a40.16 40.16 0 0 1 1.95-.46c.46-.09.74-.17.94-.22l2.56 3.82 1.25-1.68v16.32c-.93 0-2.02 0-3.26.02v.5h3.26v.89H6.12zm5.91 11.52v-.89h5.5v.89zm7.31-2.57c-.38-1.7-.89-6.43-.98-8.16-.1-1.56 0-3.91.02-4.15.36-1.73.89-3.67 1.2-4.05.53.57 1.8 4.96 1.87 7.34.02 1.46.36 9.12.36 9.19v.29l-2.11.89a23.97 23.97 0 0 1-.36-1.34zm2.69 2.09-2.3.43-.12-.6 2.88-1.2z", fill: "currentColor" }, children: [] }]
 }, M = {
   name: "shoes",
   key: "Shoes",
@@ -235,7 +213,7 @@ const e = {
   width: 188.1,
   height: 81.9,
   viewBox: "0 0 188.1 81.9",
-  svgPathData: [{ name: "circle", attributes: { cx: "105.9", cy: "65.9", r: "8", fill: "currentColor" }, children: [] }, { name: "circle", attributes: { cx: "155.9", cy: "65.9", r: "8", fill: "currentColor" }, children: [] }, { name: "path", attributes: { d: "M155.9 15.9v-5c0-2.8-2.2-5-5-5h-63c-2.8 0-5 2.2-5 5v50c0 2.8 2.2 5 5 5h5.5c0-6.9 5.6-12.5 12.5-12.5s12.5 5.6 12.5 12.5h25c0-6.9 5.6-12.5 12.5-12.5s12.5 5.6 12.5 12.5h10.5v-45l-23-5zM133 47.2h-6.4V26.4c0 .4-.1.8-.2 1.1-.6 2.4-2 5.3-5.2 5.3h-5.9c-4.4 0-4.6 2.2-4.6 5.7v8.7h-6.4v-34h6.4V34c0-.4.1-.8.2-1.1.6-2.4 2-5.3 5.2-5.3h5.9c4.4 0 4.6-2.2 4.6-5.7v-8.7h6.4v34zm42.9-9.3h-20v-19l20 4v15z", fill: "currentColor" }, children: [] }, { name: "linearGradient", attributes: { x1: "34.5", x2: "77.3", y1: "-694.65", y2: "-694.65", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", "stop-color": "#fff", "stop-opacity": "0" }, children: [] }, { name: "stop", attributes: { offset: "1", "stop-color": "currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M34.5 14.6h42.8v4.1H34.5z", fill: "currentColor" }, children: [] }, { name: "linearGradient", attributes: { id: "a", x1: "5.7", x2: "77.2", y1: "-707.75", y2: "-707.75", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", "stop-color": "#fff", "stop-opacity": "0" }, children: [] }, { name: "stop", attributes: { offset: "1", "stop-color": "currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M5.7 22.7h71.5v14.1H5.7z", fill: "currentColor" }, children: [] }, { name: "linearGradient", attributes: { id: "b", x1: "25", x2: "77.3", y1: "-719.05", y2: "-719.05", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", "stop-color": "#fff", "stop-opacity": "0" }, children: [] }, { name: "stop", attributes: { offset: "1", "stop-color": "currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M25 39h52.3v4.1H25z", fill: "currentColor" }, children: [] }, { name: "linearGradient", attributes: { id: "c", x1: "51.17", x2: "77.32", y1: "-727.15", y2: "-727.15", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", "stop-color": "#fff", "stop-opacity": "0" }, children: [] }, { name: "stop", attributes: { offset: "1", "stop-color": "currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M51.1 47.1h26.1v4.1H51.1z", fill: "currentColor" }, children: [] }, { name: "linearGradient", attributes: { id: "d", x1: "39.1", x2: "77.3", y1: "-735.25", y2: "-735.25", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", "stop-color": "#fff", "stop-opacity": "0" }, children: [] }, { name: "stop", attributes: { offset: "1", "stop-color": "currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M39.1 55.2h38.2v4.1H39.1z", fill: "currentColor" }, children: [] }]
+  svgPathData: [{ name: "circle", attributes: { cx: "105.9", cy: "65.9", r: "8", fill: "currentColor" }, children: [] }, { name: "circle", attributes: { cx: "155.9", cy: "65.9", r: "8", fill: "currentColor" }, children: [] }, { name: "path", attributes: { d: "M155.9 15.9v-5c0-2.8-2.2-5-5-5h-63c-2.8 0-5 2.2-5 5v50c0 2.8 2.2 5 5 5h5.5c0-6.9 5.6-12.5 12.5-12.5s12.5 5.6 12.5 12.5h25c0-6.9 5.6-12.5 12.5-12.5s12.5 5.6 12.5 12.5h10.5v-45l-23-5zM133 47.2h-6.4V26.4c0 .4-.1.8-.2 1.1-.6 2.4-2 5.3-5.2 5.3h-5.9c-4.4 0-4.6 2.2-4.6 5.7v8.7h-6.4v-34h6.4V34c0-.4.1-.8.2-1.1.6-2.4 2-5.3 5.2-5.3h5.9c4.4 0 4.6-2.2 4.6-5.7v-8.7h6.4v34zm42.9-9.3h-20v-19l20 4v15z", fill: "currentColor" }, children: [] }, { name: "linearGradient", attributes: { x1: "34.5", x2: "77.3", y1: "-694.65", y2: "-694.65", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", style: "stop-color:#fff;stop-opacity:0" }, children: [] }, { name: "stop", attributes: { offset: "1", style: "stop-color:currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M34.5 14.6h42.8v4.1H34.5z", fill: "currentColor" }, children: [] }, { name: "linearGradient", attributes: { id: "a", x1: "5.7", x2: "77.2", y1: "-707.75", y2: "-707.75", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", style: "stop-color:#fff;stop-opacity:0" }, children: [] }, { name: "stop", attributes: { offset: "1", style: "stop-color:currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M5.7 22.7h71.5v14.1H5.7z", style: "fill:url(#a)" }, children: [] }, { name: "linearGradient", attributes: { id: "b", x1: "25", x2: "77.3", y1: "-719.05", y2: "-719.05", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", style: "stop-color:#fff;stop-opacity:0" }, children: [] }, { name: "stop", attributes: { offset: "1", style: "stop-color:currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M25 39h52.3v4.1H25z", style: "fill:url(#b)" }, children: [] }, { name: "linearGradient", attributes: { id: "c", x1: "51.17", x2: "77.32", y1: "-727.15", y2: "-727.15", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", style: "stop-color:#fff;stop-opacity:0" }, children: [] }, { name: "stop", attributes: { offset: "1", style: "stop-color:currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M51.1 47.1h26.1v4.1H51.1z", style: "fill:url(#c)" }, children: [] }, { name: "linearGradient", attributes: { id: "d", x1: "39.1", x2: "77.3", y1: "-735.25", y2: "-735.25", gradientTransform: "matrix(1,0,0-1,0-678)", gradientUnits: "userSpaceOnUse" }, children: [{ name: "stop", attributes: { offset: ".06", style: "stop-color:#fff;stop-opacity:0" }, children: [] }, { name: "stop", attributes: { offset: "1", style: "stop-color:currentColor" }, children: [] }] }, { name: "path", attributes: { d: "M39.1 55.2h38.2v4.1H39.1z", style: "fill:url(#d)" }, children: [] }]
 }, B = {
   name: "truck",
   key: "Truck",
@@ -715,7 +693,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M5.94 20.22a1.9 1.9 0 0 1-1.9-1.9c0-1.04.85-1.9 1.9-1.9s1.9.86 1.9 1.9a1.9 1.9 0 0 1-1.9 1.9zm11.88 0a1.9 1.9 0 0 1-1.9-1.9c0-1.04.85-1.9 1.9-1.9s1.9.86 1.9 1.9a1.9 1.9 0 0 1-1.9 1.9z", fill: "currentColor" }, children: [] }, { name: "path", attributes: { d: "M23.27 7.63v10.69h-2.49a2.97 2.97 0 0 0-5.94 0H8.91a2.97 2.97 0 0 0-5.94 0H1.66c-.67 0-1.19-.52-1.19-1.19V5.25c0-.66.52-1.19 1.19-1.19h14.96c.66 0 1.19.52 1.19 1.19v1.19zM12.38 5.8h-1.52v2.07c0 .83-.05 1.36-1.09 1.36H8.36c-.76 0-1.09.69-1.23 1.26a.87.87 0 0 0-.05.26V5.8H5.56v8.07h1.52V11.8c0-.83.05-1.35 1.09-1.35h1.4c.76 0 1.09-.69 1.24-1.26a.89.89 0 0 0 .05-.26v4.94h1.52zm10.19 2.31-4.75-.95v4.51h4.75z", "fill-rule": "evenodd", fill: "currentColor" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { d: "M5.94 20.22a1.9 1.9 0 0 1-1.9-1.9c0-1.04.85-1.9 1.9-1.9s1.9.86 1.9 1.9a1.9 1.9 0 0 1-1.9 1.9zm11.88 0a1.9 1.9 0 0 1-1.9-1.9c0-1.04.85-1.9 1.9-1.9s1.9.86 1.9 1.9a1.9 1.9 0 0 1-1.9 1.9z", style: "fill:#0032d2" }, children: [] }, { name: "path", attributes: { d: "M23.27 7.63v10.69h-2.49a2.97 2.97 0 0 0-5.94 0H8.91a2.97 2.97 0 0 0-5.94 0H1.66c-.67 0-1.19-.52-1.19-1.19V5.25c0-.66.52-1.19 1.19-1.19h14.96c.66 0 1.19.52 1.19 1.19v1.19zM12.38 5.8h-1.52v2.07c0 .83-.05 1.36-1.09 1.36H8.36c-.76 0-1.09.69-1.23 1.26a.87.87 0 0 0-.05.26V5.8H5.56v8.07h1.52V11.8c0-.83.05-1.35 1.09-1.35h1.4c.76 0 1.09-.69 1.24-1.26a.89.89 0 0 0 .05-.26v4.94h1.52zm10.19 2.31-4.75-.95v4.51h4.75z", style: "fill-rule:evenodd;fill:#0032d2" }, children: [] }]
 }, L1 = {
   name: "shopping-bag-side",
   key: "ShoppingBagSide",
@@ -883,7 +861,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M17 18H7m13-4H4m13-4H7m13-4H4", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M17 18H7m13-4H4m13-4H7m13-4H4" }, children: [] }]
 }, ee = {
   name: "align-left",
   key: "AlignLeft",
@@ -891,7 +869,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M4 18h10M4 14h16M4 10h10M4 6h16", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M4 18h10M4 14h16M4 10h10M4 6h16" }, children: [] }]
 }, te = {
   name: "align-right",
   key: "AlignRight",
@@ -899,7 +877,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M20 18H10m10-4H4m16-4H10m10-4H4", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M20 18H10m10-4H4m16-4H10m10-4H4" }, children: [] }]
 }, re = {
   name: "bold",
   key: "Bold",
@@ -907,7 +885,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M8 12h4.5M8 12V5h4.5a3.5 3.5 0 1 1 0 7M8 12v7h5.5a3.5 3.5 0 1 0 0-7h-1", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M8 12h4.5M8 12V5h4.5a3.5 3.5 0 1 1 0 7M8 12v7h5.5a3.5 3.5 0 1 0 0-7h-1" }, children: [] }]
 }, ne = {
   name: "heading-1",
   key: "Heading1",
@@ -915,7 +893,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "m16 10 3-1v10M3 5v7m0 0v7m0-7h8m0-7v7m0 0v7", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "m16 10 3-1v10M3 5v7m0 0v7m0-7h8m0-7v7m0 0v7" }, children: [] }]
 }, oe = {
   name: "heading-2",
   key: "Heading2",
@@ -923,7 +901,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M15 12.5V12a3 3 0 0 1 3-3h.17a2.83 2.83 0 0 1 2 4.83L15 19h6M3 5v7m0 0v7m0-7h8m0-7v7m0 0v7", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M15 12.5V12a3 3 0 0 1 3-3h.17a2.83 2.83 0 0 1 2 4.83L15 19h6M3 5v7m0 0v7m0-7h8m0-7v7m0 0v7" }, children: [] }]
 }, ie = {
   name: "heading-3",
   key: "Heading3",
@@ -931,7 +909,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M15 9h6l-4 4h1a3 3 0 1 1-2.83 4M3 5v7m0 0v7m0-7h8m0-7v7m0 0v7", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M15 9h6l-4 4h1a3 3 0 1 1-2.83 4M3 5v7m0 0v7m0-7h8m0-7v7m0 0v7" }, children: [] }]
 }, ae = {
   name: "italic",
   key: "Italic",
@@ -939,7 +917,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M8 19h2m0 0h2m-2 0 4-14m-2 0h2m0 0h2", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M8 19h2m0 0h2m-2 0 4-14m-2 0h2m0 0h2" }, children: [] }]
 }, le = {
   name: "link",
   key: "Link",
@@ -947,7 +925,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "m9.17 14.83 5.66-5.66m-7.78 2.12L5.64 12.7a4 4 0 1 0 5.66 5.66l1.41-1.41m-1.41-9.9 1.41-1.41a4 4 0 1 1 5.66 5.66l-1.41 1.41", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "m9.17 14.83 5.66-5.66m-7.78 2.12L5.64 12.7a4 4 0 1 0 5.66 5.66l1.41-1.41m-1.41-9.9 1.41-1.41a4 4 0 1 1 5.66 5.66l-1.41 1.41" }, children: [] }]
 }, se = {
   name: "list-bulleted",
   key: "ListBulleted",
@@ -971,7 +949,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M12 5v8m0-8h4m-4 0h-1a4 4 0 1 0 0 8h1m0 0v6m4-14v14m0-14h1", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M12 5v8m0-8h4m-4 0h-1a4 4 0 1 0 0 8h1m0 0v6m4-14v14m0-14h1" }, children: [] }]
 }, de = {
   name: "strikethrough",
   key: "Strikethrough",
@@ -979,7 +957,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M12 12c.9 0 1.78.19 2.55.56.35.17.67.36.96.59.35.27.65.59.88.93.43.63.64 1.34.62 2.05s-.3 1.41-.78 2.02-1.15 1.1-1.95 1.42a6.08 6.08 0 0 1-2.58.43 5.87 5.87 0 0 1-2.5-.69c-.74-.4-1.33-.96-1.71-1.61M12 12H4m8 0h8m-3.48-5.7c-.38-.65-.97-1.2-1.71-1.61a5.87 5.87 0 0 0-2.5-.68 6.08 6.08 0 0 0-2.58.43c-.8.33-1.47.82-1.95 1.42-.48.61-.75 1.3-.78 2.02-.01.21.01.42.04.63", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M12 12c.9 0 1.78.19 2.55.56.35.17.67.36.96.59.35.27.65.59.88.93.43.63.64 1.34.62 2.05s-.3 1.41-.78 2.02-1.15 1.1-1.95 1.42a6.08 6.08 0 0 1-2.58.43 5.87 5.87 0 0 1-2.5-.69c-.74-.4-1.33-.96-1.71-1.61M12 12H4m8 0h8m-3.48-5.7c-.38-.65-.97-1.2-1.71-1.61a5.87 5.87 0 0 0-2.5-.68 6.08 6.08 0 0 0-2.58.43c-.8.33-1.47.82-1.95 1.42-.48.61-.75 1.3-.78 2.02-.01.21.01.42.04.63" }, children: [] }]
 }, ue = {
   name: "underlined",
   key: "Underlined",
@@ -987,7 +965,7 @@ const e = {
   width: 24,
   height: 24,
   viewBox: "0 0 24 24",
-  svgPathData: [{ name: "path", attributes: { d: "M6 19h12M8 5v6a4 4 0 0 0 8 0V5", style: "fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" }, children: [] }]
+  svgPathData: [{ name: "path", attributes: { fill: "none", stroke: "currentColor", "stroke-linecap": "round", "stroke-linejoin": "round", "stroke-width": "2", d: "M6 19h12M8 5v6a4 4 0 0 0 8 0V5" }, children: [] }]
 };
 export {
   I as AccountingCoinsBillRegular,

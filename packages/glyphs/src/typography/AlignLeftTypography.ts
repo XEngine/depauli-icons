@@ -7,5 +7,5 @@ export const AlignLeftTypography: IconType = {
     width: 24,
     height: 24,
     viewBox: '0 0 24 24',
-    svgPathData: [{"name":"path","attributes":{"d":"M4 18h10M4 14h16M4 10h10M4 6h16","style":"fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"},"children":[]}],
+    svgPathData: [{"name":"path","attributes":{"fill":"none","stroke":"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M4 18h10M4 14h16M4 10h10M4 6h16"},"children":[]}],
 }

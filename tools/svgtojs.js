@@ -8,7 +8,8 @@ module.exports = async (name, componentName, content, iconPackage, iconPackageNa
     let test = await svgSlim(content, {
         "rules": {
             'apply-style': false,
-            'combine-path': [false]
+            'combine-path': [false],
+            'shorten-style-attr': false
         },
     })
 
