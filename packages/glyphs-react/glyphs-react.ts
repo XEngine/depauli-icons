@@ -2,14 +2,12 @@ import {createElement, FC, SVGProps} from "react";
 import {IGlyphProps} from "./iconType";
 
 const CSSstring = (string: string) => {
-    console.log(string)
     const css_json = `{"${string
         .replace(/"/g, "")
         .replace(/;/g, '", "')
         .replace(/:/g, '": "')
         .replace(";", "")}"}`;
 
-    console.log(css_json)
     const obj = JSON.parse(css_json);
 
     const keyValues = Object.keys(obj).map((key) => {
@@ -21,7 +19,7 @@ const CSSstring = (string: string) => {
 const reactifyAttributes = (attrs: any) => {
     if (!attrs) return {};
 
-    const res = Object.keys(attrs).reduce((acc, key) => {
+    return Object.keys(attrs).reduce((acc, key) => {
         const leKey = key.split('-')
             .map((x, index) => index !== 0
                 ? x.charAt(0).toUpperCase() + x.substring(1)
@@ -34,8 +32,6 @@ const reactifyAttributes = (attrs: any) => {
         acc[leKey] = attrs[key]
         return acc
     }, {} as any)
-    console.log(res)
-    return res
 }
 
 const remToPx = (val: string) => {
