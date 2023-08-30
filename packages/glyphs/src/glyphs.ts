@@ -5,6 +5,7 @@ export { BasketFillMisc } from "./misc/BasketFillMisc";
 export { BasketMisc } from "./misc/BasketMisc";
 export { BeltsMisc } from "./misc/BeltsMisc";
 export { CancelMisc } from "./misc/CancelMisc";
+export { ExclamationMisc } from "./misc/ExclamationMisc";
 export { FilterMisc } from "./misc/FilterMisc";
 export { GlovesMisc } from "./misc/GlovesMisc";
 export { HatsMisc } from "./misc/HatsMisc";

@@ -1,5 +1,11 @@
 # @depaulisystems/glyphs-react
 
+## 2.7.0
+
+### Minor Changes
+
+- a
+
 ## 2.6.0
 
 ### Minor Changes

@@ -1,5 +1,5 @@
 
-> @depaulisystems/glyphs-react@2.5.0 build
+> @depaulisystems/glyphs-react@2.6.0 build
 > vite build
 
 [36mvite v4.4.9 [32mbuilding for production...[36m[39m
@@ -9,8 +9,8 @@ rendering chunks...
 
 [vite:dts] Start generate declaration files...
 computing gzip size...
-[2mdist/[22m[36mglyphs-react.cjs.js  [39m[1m[2m1.08 kB[22m[1m[22m[2m │ gzip: 0.63 kB[22m
-[vite:dts] Declaration files built in 880ms.
+[2mdist/[22m[36mglyphs-react.cjs.js  [39m[1m[2m1.00 kB[22m[1m[22m[2m │ gzip: 0.60 kB[22m
+[vite:dts] Declaration files built in 865ms.
 
-[2mdist/[22m[36mglyphs-react.es.js  [39m[1m[2m1.40 kB[22m[1m[22m[2m │ gzip: 0.72 kB[22m
-[32m✓ built in 946ms[39m
+[2mdist/[22m[36mglyphs-react.es.js  [39m[1m[2m1.29 kB[22m[1m[22m[2m │ gzip: 0.68 kB[22m
+[32m✓ built in 942ms[39m
