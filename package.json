@@ -22,6 +22,7 @@
     "@changesets/cli": "^2.26.2",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.4",
     "cross-env": "^7.0.3",
     "css": "^3.0.0",
     "fast-glob": "^3.3.1",
@@ -38,8 +39,5 @@
     "vite": "^4.4.9",
     "vite-plugin-dts": "^3.5.2",
     "vue": "^3.3.4"
-  },
-  "dependencies": {
-    "@vitejs/plugin-react": "^4.0.4"
   }
 }

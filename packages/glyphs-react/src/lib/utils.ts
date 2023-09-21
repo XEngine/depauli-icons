@@ -1,4 +1,4 @@
-export const CSSstring = (string) => {
+export const CSSstring = (string: string) => {
     const css_json = `{"${string
         .replace(/"/g, "")
         .replace(/;/g, '", "')
@@ -13,7 +13,7 @@ export const CSSstring = (string) => {
     });
     return Object.assign({}, ...keyValues);
 }
-export const reactifyAttributes = (attrs) => {
+export const reactifyAttributes = (attrs: any) => {
     if (!attrs) return {};
 
     return Object.keys(attrs).reduce((acc, key) => {
@@ -28,11 +28,13 @@ export const reactifyAttributes = (attrs) => {
         }
         acc[leKey] = attrs[key]
         return acc
-    }, {})
+    }, {} as any)
 }
-export const remToPx = (val) => {
+export const remToPx = (val: string) => {
     return parseFloat(val) * (typeof getComputedStyle === 'function' ? parseFloat(getComputedStyle(document.documentElement).fontSize) : 16)
 }
-export const sizeCalculate = (value) => {
+export const sizeCalculate = (value: string | number) : string => {
+    if(typeof value === "number") return value + 'px'
+
     return (value.slice(-1) === 'x' ? remToPx(value.slice(0, value.length - 1)) : parseInt(value)) + 'px'
 }

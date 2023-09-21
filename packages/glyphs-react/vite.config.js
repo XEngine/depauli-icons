@@ -7,6 +7,9 @@ export default defineConfig({
         react(),
         dtsPlugin(
             {
+                insertTypesEntry: true,
+                rollupTypes: true,
+                strictOutput: true,
                 outDir: "dist/types",
             }
         )

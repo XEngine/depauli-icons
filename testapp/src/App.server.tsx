@@ -1,4 +1,6 @@
 import './App.css'
+import React from 'react'
+
 import {
     AlignCenterTypography,
     ArrowLightRightMisc,
@@ -11,17 +13,16 @@ import {
     ZoomInMisc
 } from '@depaulisystems/glyphs'
 
-//import {ShippingHerrenRegular} from '../../packages/glyphs/src/regular/ShippingHerrenRegular'
 import Glyph from "@depaulisystems/glyphs-react";
 
 function AppServer() {
 
-  return (
-    <div className="App">
-        <GlyphsReact icon={ArrowLightRightMisc} style={{color: 'red', fill: 'red'}} />
-        {/*  <Glyph icon={ArrowLightRightMisc} style={{color: 'red', fill: 'red'}} />*/}
-    </div>
-  )
+    return (
+        <div className="App">
+            <h1>Test</h1>
+            <Glyph icon={ArrowLightRightMisc}/>
+        </div>
+    )
 }
 
 export default AppServer

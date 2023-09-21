@@ -3,6 +3,7 @@
     "target": "ESNext",
     "useDefineForClassFields": true,
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "jsx": "react-jsx",
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": false,
@@ -14,7 +15,13 @@
     "isolatedModules": true,
     "noEmit": true,
     "declaration": false,
-    "strict": true
+    "strict": true,
+    "types": ["react", "vite/client"],
+    "baseUrl": "."
   },
-  "include": ["src"]
+  "include": ["src", ".d.ts"],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
 }

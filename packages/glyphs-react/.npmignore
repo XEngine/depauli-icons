@@ -1,5 +1,5 @@
 .turbo
 vite.config.js
 tsconfig.json
-iconType.ts
+src/iconType.ts
 src/lib/glyph.tsx
