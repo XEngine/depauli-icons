@@ -4,13 +4,14 @@
 
 [36mvite v4.4.9 [32mbuilding for production...[36m[39m
 transforming...
-[32m✓[39m 1 modules transformed.
+src/lib/glyph.tsx (1:0) Error when using sourcemap for reporting an error: Can't resolve original location of error.
+[32m✓[39m 3 modules transformed.
 rendering chunks...
 
 [vite:dts] Start generate declaration files...
 computing gzip size...
-[2mdist/[22m[36mglyphs-react.cjs.js  [39m[1m[2m1.00 kB[22m[1m[22m[2m │ gzip: 0.60 kB[22m
-[vite:dts] Declaration files built in 1381ms.
+[2mdist/[22m[36mglyphs-react.cjs.js  [39m[1m[2m1.47 kB[22m[1m[22m[2m │ gzip: 0.86 kB[22m
+[vite:dts] Declaration files built in 877ms.
 
-[2mdist/[22m[36mglyphs-react.es.js  [39m[1m[2m1.29 kB[22m[1m[22m[2m │ gzip: 0.68 kB[22m
-[32m✓ built in 1.45s[39m
+[2mdist/[22m[36mglyphs-react.es.js  [39m[1m[2m1.99 kB[22m[1m[22m[2m │ gzip: 1.01 kB[22m
+[32m✓ built in 934ms[39m

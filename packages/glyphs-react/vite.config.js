@@ -16,13 +16,13 @@ export default defineConfig({
     },
     build: {
         lib: {
-            entry: "./glyph.jsx",
+            entry: "./src/lib/glyph.tsx",
             name: "Glyphs",
             fileName: (format) => `glyphs-react.${format}.js`,
             formats: ["cjs", "es"],
         },
         rollupOptions: {
-            external: ['react', 'react-dom'],
+            external: ['react', 'react-dom', /^react\//],
             output: {
                 globals: {
                     react: 'React',

@@ -12,7 +12,6 @@ import {
 } from '@depaulisystems/glyphs'
 
 //import {ShippingHerrenRegular} from '../../packages/glyphs/src/regular/ShippingHerrenRegular'
-import GlyphsReact from "../../packages/glyphs-react/src/lib/glyph";
 import Glyph from "@depaulisystems/glyphs-react";
 
 function AppServer() {
