@@ -1,16 +1,22 @@
 import dtsPlugin from "vite-plugin-dts";
+import react from '@vitejs/plugin-react'
+import {defineConfig} from "vite";
 
-export default {
+export default defineConfig({
     plugins: [
+        react(),
         dtsPlugin(
             {
                 outDir: "dist/types",
             }
         )
     ],
+    resolve: {
+        extensions: ['.js', '.jsx', '.ts', '.tsx'],
+    },
     build: {
         lib: {
-            entry: "./glyphs-react.ts",
+            entry: "./glyph.jsx",
             name: "Glyphs",
             fileName: (format) => `glyphs-react.${format}.js`,
             formats: ["cjs", "es"],
@@ -25,4 +31,4 @@ export default {
             },
         },
     }
-}
+})

@@ -2,4 +2,4 @@
 vite.config.js
 tsconfig.json
 iconType.ts
-glyphs-react.ts
+src/lib/glyph.jsx
