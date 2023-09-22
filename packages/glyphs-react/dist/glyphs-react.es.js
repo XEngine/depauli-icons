@@ -1,3 +1,4 @@
+"use client";
 import { jsx as i, jsxs as b, Fragment as S } from "react/jsx-runtime";
 import { useRef as j, useState as C, useEffect as w, createElement as d } from "react";
 import { createPortal as x } from "react-dom";
@@ -16,12 +17,12 @@ const k = (e) => {
   stroke: l,
   ...a
 }) => {
-  const o = j(null), [p, g] = C(null);
+  const o = j(null), [u, g] = C(null);
   w(() => {
     o.current && !o.current.shadowRoot && g(o.current.attachShadow({ mode: "open" }));
   }, [o]);
-  const u = O(t);
-  return /* @__PURE__ */ i("span", { ref: o, className: a.className, "data-key": e.name, children: p && x(
+  const p = O(t);
+  return /* @__PURE__ */ i("span", { ref: o, className: a.className, "data-key": e.name, children: u && x(
     /* @__PURE__ */ b(S, { children: [
       /* @__PURE__ */ i(
         "style",
@@ -33,8 +34,8 @@ const k = (e) => {
         "svg",
         {
           viewBox: `0 0 ${e.width} ${e.height}`,
-          width: r ?? u,
-          height: s ?? u,
+          width: r ?? p,
+          height: s ?? p,
           ...a,
           children: e.svgPathData.map((c, h) => d(
             c.name,
@@ -50,7 +51,7 @@ const k = (e) => {
         }
       )
     ] }),
-    p
+    u
   ) });
 };
 export {

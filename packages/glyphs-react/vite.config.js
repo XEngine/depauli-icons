@@ -1,6 +1,8 @@
 import dtsPlugin from "vite-plugin-dts";
 import react from '@vitejs/plugin-react'
 import {defineConfig} from "vite";
+import preserveDirectives from "rollup-plugin-preserve-directives";
+import banner2 from 'rollup-plugin-banner2'
 
 export default defineConfig({
     plugins: [
@@ -12,7 +14,8 @@ export default defineConfig({
                 strictOutput: true,
                 outDir: "dist/types",
             }
-        )
+        ),
+        banner2(() => `'use client';`)
     ],
     resolve: {
         extensions: ['.js', '.jsx', '.ts', '.tsx'],

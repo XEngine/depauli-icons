@@ -1,5 +1,17 @@
 # @depaulisystems/glyphs
 
+## 3.1.0
+
+### Minor Changes
+
+- use client
+
+## 3.0.0
+
+### Major Changes
+
+- majo
+
 ## 2.12.0
 
 ### Minor Changes
